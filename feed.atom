@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T06:13:57.863Z</id>
+    <id>urn:2022-03-31T06:13:56.113Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-30T06:13:57.863Z</updated>
+    <updated>2022-03-31T06:13:56.113Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Augmented Reality for Everyone - Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=WzfDo2Wpxks</id>
+        <link href="https://www.youtube.com/watch?v=WzfDo2Wpxks"/>
+        <updated>2022-03-30T13:15:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Project Tutorial – Build a Portfolio Website w/ Advanced Animations]]></title>
         <id>https://www.youtube.com/watch?v=bmpI252DmiI</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Aj7HLsJenVg</id>
         <link href="https://www.youtube.com/watch?v=Aj7HLsJenVg"/>
         <updated>2022-03-04T14:37:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redux Tutorial - Beginner to Advanced]]></title>
-        <id>https://www.youtube.com/watch?v=zrs7u6bdbUw</id>
-        <link href="https://www.youtube.com/watch?v=zrs7u6bdbUw"/>
-        <updated>2022-03-03T14:28:31.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
