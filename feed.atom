@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T06:13:52.238Z</id>
+    <id>urn:2022-04-09T06:13:27.906Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T06:13:52.238Z</updated>
+    <updated>2022-04-09T06:13:27.906Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Let's Play Break The Code 2 – Code Cracking Game for Developers with Tom and Shaun]]></title>
+        <id>https://www.youtube.com/watch?v=sWMAsRqcoWc</id>
+        <link href="https://www.youtube.com/watch?v=sWMAsRqcoWc"/>
+        <updated>2022-04-08T13:37:39.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Figma Variants – Design a Scalable Mobile App [Full Course]]]></title>
         <id>https://www.youtube.com/watch?v=stQ1IZEB2xk</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=GZQkwx10p-8</id>
         <link href="https://www.youtube.com/watch?v=GZQkwx10p-8"/>
         <updated>2022-03-14T13:44:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=AplluksKvzI</id>
-        <link href="https://www.youtube.com/watch?v=AplluksKvzI"/>
-        <updated>2022-03-10T15:20:41.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
