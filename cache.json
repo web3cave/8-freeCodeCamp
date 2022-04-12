@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iRaai1IBlB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iRaai1IBlB0",
+          "publishedOn": "2022-04-11T15:29:40.000Z",
+          "wordCount": null,
+          "title": "Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sWMAsRqcoWc",
           "author": null,
           "description": "",
