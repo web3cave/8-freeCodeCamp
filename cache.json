@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "Python Tutorial for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GZQkwx10p-8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GZQkwx10p-8",
-          "publishedOn": "2022-03-14T13:44:04.000Z",
-          "wordCount": null,
-          "title": "Advanced OpenGL Tutorial – Skeletal Animations with Assimp",
-          "imageUrl": null
         }
       ]
     }
