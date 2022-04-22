@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "Microservices with FastAPI – Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l8HB14TBzs8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l8HB14TBzs8",
-          "publishedOn": "2022-03-23T13:51:22.000Z",
-          "wordCount": null,
-          "title": "Taxes for Freelance Developers – Full Course",
-          "imageUrl": null
         }
       ]
     }
