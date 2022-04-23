@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "React Project Tutorial – Build a Portfolio Website w/ Advanced Animations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cy9fAvsXGZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cy9fAvsXGZA",
-          "publishedOn": "2022-03-24T13:00:05.000Z",
-          "wordCount": null,
-          "title": "Microservices with FastAPI – Full Course",
-          "imageUrl": null
         }
       ]
     }
