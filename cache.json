@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L8ypSXwyBds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L8ypSXwyBds",
+          "publishedOn": "2022-04-25T14:05:41.000Z",
+          "wordCount": null,
+          "title": "Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bbkBuqC1rU4",
           "author": null,
           "description": "",
