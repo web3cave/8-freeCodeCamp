@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sHuuo9L3e5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sHuuo9L3e5c",
+          "publishedOn": "2022-04-28T13:14:19.000Z",
+          "wordCount": null,
+          "title": "Blazor WebAssembly & Web API on .NET 6 – Full Course (C#)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gfmRrPjnEw4",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-03-31T14:22:18.000Z",
           "wordCount": null,
           "title": "Firebase – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WzfDo2Wpxks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WzfDo2Wpxks",
-          "publishedOn": "2022-03-30T13:15:25.000Z",
-          "wordCount": null,
-          "title": "Augmented Reality for Everyone - Full Course",
           "imageUrl": null
         }
       ]
