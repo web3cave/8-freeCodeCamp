@@ -1,4 +1,122 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+          "publishedOn": "2022-05-05T14:55:56.000Z",
+          "wordCount": null,
+          "title": "Data Visualization with D3 – Full Course for Beginners [2022]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=59IXY5IDrBA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=59IXY5IDrBA",
+          "publishedOn": "2022-05-04T13:30:37.000Z",
+          "wordCount": null,
+          "title": "React Router 6 – Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jpno8FSqpc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jpno8FSqpc8",
+          "publishedOn": "2022-05-02T13:31:32.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Associate Cloud Engineer Course - Pass the Exam!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sHuuo9L3e5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sHuuo9L3e5c",
+          "publishedOn": "2022-04-28T13:14:19.000Z",
+          "wordCount": null,
+          "title": "Blazor WebAssembly & Web API on .NET 6 – Full Course (C#)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gfmRrPjnEw4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gfmRrPjnEw4",
+          "publishedOn": "2022-04-27T13:08:43.000Z",
+          "wordCount": null,
+          "title": "Assembly Language Programming with ARM – Full Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=L8ypSXwyBds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L8ypSXwyBds",
+          "publishedOn": "2022-04-25T14:05:41.000Z",
+          "wordCount": null,
+          "title": "Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bbkBuqC1rU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bbkBuqC1rU4",
+          "publishedOn": "2022-04-20T13:14:06.000Z",
+          "wordCount": null,
+          "title": "Redux Toolkit Tutorial – JavaScript State Management Library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OqbGRZx4xUc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OqbGRZx4xUc",
+          "publishedOn": "2022-04-18T13:44:13.000Z",
+          "wordCount": null,
+          "title": "Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hDzgO2FB_ms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hDzgO2FB_ms",
+          "publishedOn": "2022-04-13T15:41:54.000Z",
+          "wordCount": null,
+          "title": "Low-Code for Freelance Developers & Startups – Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iRaai1IBlB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iRaai1IBlB0",
+          "publishedOn": "2022-04-11T15:29:40.000Z",
+          "wordCount": null,
+          "title": "Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sWMAsRqcoWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sWMAsRqcoWc",
+          "publishedOn": "2022-04-08T13:37:39.000Z",
+          "wordCount": null,
+          "title": "Let's Play Break The Code 2 – Code Cracking Game for Developers with Tom and Shaun",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.14.4"
 }
