@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sWMAsRqcoWc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sWMAsRqcoWc",
-          "publishedOn": "2022-04-08T13:37:39.000Z",
-          "wordCount": null,
-          "title": "Let's Play Break The Code 2 – Code Cracking Game for Developers with Tom and Shaun",
-          "imageUrl": null
         }
       ]
     }
