@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T06:14:57.934Z</id>
+    <id>urn:2022-05-25T06:15:09.782Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-24T06:14:57.934Z</updated>
+    <updated>2022-05-25T06:15:09.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=gfmRrPjnEw4</id>
         <link href="https://www.youtube.com/watch?v=gfmRrPjnEw4"/>
         <updated>2022-04-27T13:08:43.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)]]></title>
-        <id>https://www.youtube.com/watch?v=L8ypSXwyBds</id>
-        <link href="https://www.youtube.com/watch?v=L8ypSXwyBds"/>
-        <updated>2022-04-25T14:05:41.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

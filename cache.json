@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "Assembly Language Programming with ARM – Full Tutorial for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L8ypSXwyBds",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L8ypSXwyBds",
-          "publishedOn": "2022-04-25T14:05:41.000Z",
-          "wordCount": null,
-          "title": "Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)",
-          "imageUrl": null
         }
       ]
     }
