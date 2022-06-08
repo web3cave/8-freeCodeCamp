@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xSUm6iMtREA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xSUm6iMtREA",
-          "publishedOn": "2022-05-09T17:14:40.000Z",
-          "wordCount": null,
-          "title": "Build a Social Media App with Django – Python Web Framework Tutorial",
-          "imageUrl": null
         }
       ]
     }
