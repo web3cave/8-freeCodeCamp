@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T06:14:01.936Z</id>
+    <id>urn:2022-06-11T06:13:11.666Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T06:14:01.936Z</updated>
+    <updated>2022-06-11T06:13:11.666Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=HvxmF0FUwrM</id>
         <link href="https://www.youtube.com/watch?v=HvxmF0FUwrM"/>
         <updated>2022-05-17T14:07:14.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning]]></title>
-        <id>https://www.youtube.com/watch?v=Rs_rAxEsAvI</id>
-        <link href="https://www.youtube.com/watch?v=Rs_rAxEsAvI"/>
-        <updated>2022-05-12T14:22:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
