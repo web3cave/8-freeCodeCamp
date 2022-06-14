@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HFWQdGn5DaU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HFWQdGn5DaU",
+          "publishedOn": "2022-06-13T13:19:12.000Z",
+          "wordCount": null,
+          "title": "Visual Basic (VB.NET) – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ylJz7N-dv1E",
           "author": null,
           "description": "",
