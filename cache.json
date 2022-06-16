@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VtRLrQ3Ev-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VtRLrQ3Ev-U",
+          "publishedOn": "2022-06-15T12:19:11.000Z",
+          "wordCount": null,
+          "title": "Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HFWQdGn5DaU",
           "author": null,
           "description": "",
@@ -93,16 +103,6 @@
           "publishedOn": "2022-05-19T12:54:14.000Z",
           "wordCount": null,
           "title": "Drum Machine with Python and Pygame – Full Project Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HvxmF0FUwrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HvxmF0FUwrM",
-          "publishedOn": "2022-05-17T14:07:14.000Z",
-          "wordCount": null,
-          "title": "SQL Server Performance Essentials – Full Course",
           "imageUrl": null
         }
       ]
