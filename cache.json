@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PXMJ6FS7llk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PXMJ6FS7llk",
+          "publishedOn": "2022-06-20T15:24:45.000Z",
+          "wordCount": null,
+          "title": "Automate with Python – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VtRLrQ3Ev-U",
           "author": null,
           "description": "",
