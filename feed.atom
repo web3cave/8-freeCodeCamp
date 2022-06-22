@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-21T06:13:38.405Z</id>
+    <id>urn:2022-06-22T06:13:49.397Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-21T06:13:38.405Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:13:49.397Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Automate with Python – Full Course for Beginners]]></title>
@@ -82,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=gyMwXuJrbJQ</id>
         <link href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"/>
         <updated>2022-05-26T18:59:22.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Testing Course for Beginners – Code and Test 3 Apps]]></title>
-        <id>https://www.youtube.com/watch?v=8vfQ6SWBZ-U</id>
-        <link href="https://www.youtube.com/watch?v=8vfQ6SWBZ-U"/>
-        <updated>2022-05-23T15:02:33.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

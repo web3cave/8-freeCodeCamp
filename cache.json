@@ -94,19 +94,9 @@
           "wordCount": null,
           "title": "Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8vfQ6SWBZ-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8vfQ6SWBZ-U",
-          "publishedOn": "2022-05-23T15:02:33.000Z",
-          "wordCount": null,
-          "title": "React Testing Course for Beginners – Code and Test 3 Apps",
-          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
