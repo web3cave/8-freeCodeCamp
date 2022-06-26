@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T06:13:20.879Z</id>
+    <id>urn:2022-06-26T06:12:46.692Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-25T06:13:20.879Z</updated>
+    <updated>2022-06-26T06:12:46.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,24 +73,6 @@
         <id>https://www.youtube.com/watch?v=cT_ZYrS3tKc</id>
         <link href="https://www.youtube.com/watch?v=cT_ZYrS3tKc"/>
         <updated>2022-05-31T12:53:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Chrome Extension – Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=0n809nd4Zu4</id>
-        <link href="https://www.youtube.com/watch?v=0n809nd4Zu4"/>
-        <updated>2022-05-27T13:21:56.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course]]></title>
-        <id>https://www.youtube.com/watch?v=gyMwXuJrbJQ</id>
-        <link href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"/>
-        <updated>2022-05-26T18:59:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
