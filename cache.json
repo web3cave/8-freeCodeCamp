@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bC7o8P_Ste4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bC7o8P_Ste4",
+          "publishedOn": "2022-06-27T16:43:45.000Z",
+          "wordCount": null,
+          "title": "Greedy Algorithms Tutorial – Solve Coding Challenges",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ccfpj4eD6YM",
           "author": null,
           "description": "",
