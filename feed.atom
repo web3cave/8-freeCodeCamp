@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T06:14:13.542Z</id>
+    <id>urn:2022-06-30T06:14:19.690Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-29T06:14:13.542Z</updated>
+    <updated>2022-06-30T06:14:19.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=V53AHWun17s</id>
+        <link href="https://www.youtube.com/watch?v=V53AHWun17s"/>
+        <updated>2022-06-29T14:32:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greedy Algorithms Tutorial – Solve Coding Challenges]]></title>
         <id>https://www.youtube.com/watch?v=bC7o8P_Ste4</id>
@@ -73,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=zhJLVFR3pE8</id>
         <link href="https://www.youtube.com/watch?v=zhJLVFR3pE8"/>
         <updated>2022-06-02T13:55:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Shopping Cart with JavaScript – Project Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=cT_ZYrS3tKc</id>
-        <link href="https://www.youtube.com/watch?v=cT_ZYrS3tKc"/>
-        <updated>2022-05-31T12:53:23.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
