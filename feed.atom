@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T06:15:40.541Z</id>
+    <id>urn:2022-07-09T06:13:18.098Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T06:15:40.541Z</updated>
+    <updated>2022-07-09T06:13:18.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – Build 2 Word Games!]]></title>
+        <title type="html"><![CDATA[JavaScript Tutorial – Code Your Own Jeopardy Game]]></title>
         <id>https://www.youtube.com/watch?v=vYEkEMfoi1c</id>
         <link href="https://www.youtube.com/watch?v=vYEkEMfoi1c"/>
         <updated>2022-07-05T13:31:36.000Z</updated>
@@ -73,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=HFWQdGn5DaU</id>
         <link href="https://www.youtube.com/watch?v=HFWQdGn5DaU"/>
         <updated>2022-06-13T13:19:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone [Full Course]]]></title>
-        <id>https://www.youtube.com/watch?v=ylJz7N-dv1E</id>
-        <link href="https://www.youtube.com/watch?v=ylJz7N-dv1E"/>
-        <updated>2022-06-09T14:00:18.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
