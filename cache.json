@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OIc7urJC0zY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OIc7urJC0zY",
+          "publishedOn": "2022-07-20T14:31:03.000Z",
+          "wordCount": null,
+          "title": "Think Like a Computer Science Professor",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ChTGbmR2NeM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=ChTGbmR2NeM",
           "publishedOn": "2022-07-19T13:32:32.000Z",
           "wordCount": null,
-          "title": "How to Build a Successful MVP for Your App – Full Course",
+          "title": "How to Build an MVP for Your App – Full Course on Minimum Viable Product Development",
           "imageUrl": null
         },
         {
