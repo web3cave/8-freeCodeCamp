@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J-cSy5MeMOA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J-cSy5MeMOA",
+          "publishedOn": "2022-07-21T13:06:38.000Z",
+          "wordCount": null,
+          "title": "Apache Cassandra Database – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OIc7urJC0zY",
           "author": null,
           "description": "",
