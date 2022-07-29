@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GFO_txvwK_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GFO_txvwK_c",
+          "publishedOn": "2022-07-28T13:44:43.000Z",
+          "wordCount": null,
+          "title": "JavaScript Game Development Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hQBwCWtXkK0",
           "author": null,
           "description": "",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-07-05T13:31:36.000Z",
           "wordCount": null,
           "title": "JavaScript Tutorial – Code Your Own Jeopardy Game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V53AHWun17s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V53AHWun17s",
-          "publishedOn": "2022-06-29T14:32:09.000Z",
-          "wordCount": null,
-          "title": "Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners",
           "imageUrl": null
         }
       ]
