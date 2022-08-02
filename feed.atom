@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T06:28:16.765Z</id>
+    <id>urn:2022-08-02T06:14:39.732Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T06:28:16.765Z</updated>
+    <updated>2022-08-02T06:14:39.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Industry Level REST API using .NET 6 – Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=PmDJIooZjBE</id>
+        <link href="https://www.youtube.com/watch?v=PmDJIooZjBE"/>
+        <updated>2022-08-01T13:39:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Game Development Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=GFO_txvwK_c</id>
