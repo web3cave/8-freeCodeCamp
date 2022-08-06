@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T06:14:30.633Z</id>
+    <id>urn:2022-08-06T06:13:36.512Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-05T06:14:30.633Z</updated>
+    <updated>2022-08-06T06:13:36.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=_gWfFEuert8</id>
         <link href="https://www.youtube.com/watch?v=_gWfFEuert8"/>
         <updated>2022-07-11T14:38:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript DOM Manipulation – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=5fb2aPlgoys</id>
-        <link href="https://www.youtube.com/watch?v=5fb2aPlgoys"/>
-        <updated>2022-07-07T13:04:56.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
