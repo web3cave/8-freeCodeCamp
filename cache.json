@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NVvIpqmf_Xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NVvIpqmf_Xc",
+          "publishedOn": "2022-08-11T13:17:17.000Z",
+          "wordCount": null,
+          "title": "Event-Driven Architecture with React and FastAPI – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SR5GxoFhIAU",
           "author": null,
           "description": "",
