@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T06:14:29.607Z</id>
+    <id>urn:2022-08-13T06:13:42.908Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T06:14:29.607Z</updated>
+    <updated>2022-08-13T06:13:42.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=ChTGbmR2NeM</id>
         <link href="https://www.youtube.com/watch?v=ChTGbmR2NeM"/>
         <updated>2022-07-19T13:32:32.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React JS Tutorial – Build a Weather App With Cities Autocomplete]]></title>
-        <id>https://www.youtube.com/watch?v=Reny0cTTv24</id>
-        <link href="https://www.youtube.com/watch?v=Reny0cTTv24"/>
-        <updated>2022-07-14T13:11:30.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
