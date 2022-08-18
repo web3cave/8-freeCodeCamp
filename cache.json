@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "Think Like a Computer Science Professor",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ChTGbmR2NeM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ChTGbmR2NeM",
-          "publishedOn": "2022-07-19T13:32:32.000Z",
-          "wordCount": null,
-          "title": "How to Build an MVP for Your App – Full Course on Minimum Viable Product Development",
-          "imageUrl": null
         }
       ]
     }
