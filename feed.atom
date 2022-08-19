@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T06:15:39.128Z</id>
+    <id>urn:2022-08-19T06:16:59.695Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T06:15:39.128Z</updated>
+    <updated>2022-08-19T06:16:59.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)]]></title>
+        <id>https://www.youtube.com/watch?v=j-_s8f5K30I</id>
+        <link href="https://www.youtube.com/watch?v=j-_s8f5K30I"/>
+        <updated>2022-08-18T14:22:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stardew Valley Game Clone with Python and Pygame – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=R9apl6B_ZgI</id>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Programming for Beginners – Full Course]]></title>
+        <title type="html"><![CDATA[Python for Beginners – Full Course [Programming Tutorial]]]></title>
         <id>https://www.youtube.com/watch?v=eWRfhZUzrAc</id>
         <link href="https://www.youtube.com/watch?v=eWRfhZUzrAc"/>
         <updated>2022-08-09T12:54:23.000Z</updated>
@@ -82,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=J-cSy5MeMOA</id>
         <link href="https://www.youtube.com/watch?v=J-cSy5MeMOA"/>
         <updated>2022-07-21T13:06:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think Like a Computer Science Professor]]></title>
-        <id>https://www.youtube.com/watch?v=OIc7urJC0zY</id>
-        <link href="https://www.youtube.com/watch?v=OIc7urJC0zY"/>
-        <updated>2022-07-20T14:31:03.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

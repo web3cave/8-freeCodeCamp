@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j-_s8f5K30I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j-_s8f5K30I",
+          "publishedOn": "2022-08-18T14:22:28.000Z",
+          "wordCount": null,
+          "title": "Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R9apl6B_ZgI",
           "author": null,
           "description": "",
@@ -42,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
           "publishedOn": "2022-08-09T12:54:23.000Z",
           "wordCount": null,
-          "title": "Python Programming for Beginners – Full Course",
+          "title": "Python for Beginners – Full Course [Programming Tutorial]",
           "imageUrl": null
         },
         {
@@ -93,16 +103,6 @@
           "publishedOn": "2022-07-21T13:06:38.000Z",
           "wordCount": null,
           "title": "Apache Cassandra Database – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OIc7urJC0zY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OIc7urJC0zY",
-          "publishedOn": "2022-07-20T14:31:03.000Z",
-          "wordCount": null,
-          "title": "Think Like a Computer Science Professor",
           "imageUrl": null
         }
       ]
