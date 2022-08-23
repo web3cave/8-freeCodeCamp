@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jZx8PMQjobk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jZx8PMQjobk",
+          "publishedOn": "2022-08-22T14:46:40.000Z",
+          "wordCount": null,
+          "title": "Azure Developer Associate (AZ-204) — Full Course Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j-_s8f5K30I",
           "author": null,
           "description": "",
