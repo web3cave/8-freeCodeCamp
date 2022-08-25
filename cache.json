@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
+          "publishedOn": "2022-08-24T13:07:36.000Z",
+          "wordCount": null,
+          "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jZx8PMQjobk",
           "author": null,
           "description": "",
