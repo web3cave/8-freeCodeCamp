@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pdy3nh1tn6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pdy3nh1tn6I",
+          "publishedOn": "2022-08-29T12:41:22.000Z",
+          "wordCount": null,
+          "title": "20 Beginner Python Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I549C6SmUnk",
           "author": null,
           "description": "",
