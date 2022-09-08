@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+          "publishedOn": "2022-09-07T13:15:25.000Z",
+          "wordCount": null,
+          "title": "Angular for Beginners Course [Full Front End Tutorial with TypeScript]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u6gSSpfsoOQ",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-08-10T14:08:40.000Z",
           "wordCount": null,
           "title": "HTML / CSS Tutorial – Create an Order Summary Component",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
-          "publishedOn": "2022-08-09T12:54:23.000Z",
-          "wordCount": null,
-          "title": "Python for Beginners – Full Course [Programming Tutorial]",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T06:52:23.732Z</id>
+    <id>urn:2022-09-08T06:39:55.241Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T06:52:23.732Z</updated>
+    <updated>2022-09-08T06:39:55.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Angular for Beginners Course [Full Front End Tutorial with TypeScript]]]></title>
+        <id>https://www.youtube.com/watch?v=3qBXWUpoPHo</id>
+        <link href="https://www.youtube.com/watch?v=3qBXWUpoPHo"/>
+        <updated>2022-09-07T13:15:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React JavaScript Framework for Beginners – Project-Based Course]]></title>
         <id>https://www.youtube.com/watch?v=u6gSSpfsoOQ</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=SR5GxoFhIAU</id>
         <link href="https://www.youtube.com/watch?v=SR5GxoFhIAU"/>
         <updated>2022-08-10T14:08:40.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Beginners – Full Course [Programming Tutorial]]]></title>
-        <id>https://www.youtube.com/watch?v=eWRfhZUzrAc</id>
-        <link href="https://www.youtube.com/watch?v=eWRfhZUzrAc"/>
-        <updated>2022-08-09T12:54:23.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
