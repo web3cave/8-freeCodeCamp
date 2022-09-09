@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "Event-Driven Architecture with React and FastAPI – Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SR5GxoFhIAU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SR5GxoFhIAU",
-          "publishedOn": "2022-08-10T14:08:40.000Z",
-          "wordCount": null,
-          "title": "HTML / CSS Tutorial – Create an Order Summary Component",
-          "imageUrl": null
         }
       ]
     }
