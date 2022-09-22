@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hDfkyF8U-pw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hDfkyF8U-pw",
+          "publishedOn": "2022-09-21T18:35:03.000Z",
+          "wordCount": null,
+          "title": "Web3 Course Walkthrough on freeCodeCamp.org (Rust, Blockchain Development, and Smart Contracts)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qpOZup_3P_A",
           "author": null,
           "description": "",
