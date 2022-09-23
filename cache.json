@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fW_OS3LGB9Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fW_OS3LGB9Q",
+          "publishedOn": "2022-09-22T14:24:06.000Z",
+          "wordCount": null,
+          "title": "Algorithms in Python – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hDfkyF8U-pw",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-08-25T13:14:41.000Z",
           "wordCount": null,
           "title": "Game Development with LÖVE 2D and Lua – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
-          "publishedOn": "2022-08-24T13:07:36.000Z",
-          "wordCount": null,
-          "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
           "imageUrl": null
         }
       ]
