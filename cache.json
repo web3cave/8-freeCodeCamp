@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "20 Beginner Python Projects",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I549C6SmUnk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I549C6SmUnk",
-          "publishedOn": "2022-08-25T13:14:41.000Z",
-          "wordCount": null,
-          "title": "Game Development with LÖVE 2D and Lua – Full Course",
-          "imageUrl": null
         }
       ]
     }
