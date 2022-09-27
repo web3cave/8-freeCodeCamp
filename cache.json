@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+          "publishedOn": "2022-09-26T16:00:28.000Z",
+          "wordCount": null,
+          "title": "Machine Learning for Everybody – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fW_OS3LGB9Q",
           "author": null,
           "description": "",
