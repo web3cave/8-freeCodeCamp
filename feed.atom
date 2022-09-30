@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-29T06:51:00.380Z</id>
+    <id>urn:2022-09-30T06:46:29.549Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-29T06:51:00.380Z</updated>
+    <updated>2022-09-30T06:46:29.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ecommerce Website Tutorial – Create a B2B App with Stripe + Postgres + REST API Backend]]></title>
+        <id>https://www.youtube.com/watch?v=WbMUHSL2xpY</id>
+        <link href="https://www.youtube.com/watch?v=WbMUHSL2xpY"/>
+        <updated>2022-09-29T13:43:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=7BHs1BzA4fs</id>
@@ -100,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=3qBXWUpoPHo</id>
         <link href="https://www.youtube.com/watch?v=3qBXWUpoPHo"/>
         <updated>2022-09-07T13:15:25.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React JavaScript Framework for Beginners – Project-Based Course]]></title>
-        <id>https://www.youtube.com/watch?v=u6gSSpfsoOQ</id>
-        <link href="https://www.youtube.com/watch?v=u6gSSpfsoOQ"/>
-        <updated>2022-08-31T14:16:33.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

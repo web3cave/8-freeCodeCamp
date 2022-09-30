@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WbMUHSL2xpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WbMUHSL2xpY",
+          "publishedOn": "2022-09-29T13:43:05.000Z",
+          "wordCount": null,
+          "title": "Ecommerce Website Tutorial – Create a B2B App with Stripe + Postgres + REST API Backend",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7BHs1BzA4fs",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-09-07T13:15:25.000Z",
           "wordCount": null,
           "title": "Angular for Beginners Course [Full Front End Tutorial with TypeScript]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u6gSSpfsoOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u6gSSpfsoOQ",
-          "publishedOn": "2022-08-31T14:16:33.000Z",
-          "wordCount": null,
-          "title": "React JavaScript Framework for Beginners – Project-Based Course",
           "imageUrl": null
         }
       ]
