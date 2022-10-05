@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jH85McHenvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jH85McHenvw",
+          "publishedOn": "2022-10-04T13:45:41.000Z",
+          "wordCount": null,
+          "title": "Learn Python by Thinking in Types - Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WbMUHSL2xpY",
           "author": null,
           "description": "",
