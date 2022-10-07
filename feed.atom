@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T06:21:45.581Z</id>
+    <id>urn:2022-10-07T06:24:24.170Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T06:21:45.581Z</updated>
+    <updated>2022-10-07T06:24:24.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PyTorch for Deep Learning & Machine Learning – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=V_xro1bcAuA</id>
+        <link href="https://www.youtube.com/watch?v=V_xro1bcAuA"/>
+        <updated>2022-10-06T14:13:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stack Data Structure Tutorial – Solve Coding Challenges]]></title>
         <id>https://www.youtube.com/watch?v=O1KeXo8lE8A</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=XBTJDpT2XaI</id>
         <link href="https://www.youtube.com/watch?v=XBTJDpT2XaI"/>
         <updated>2022-09-12T15:55:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular for Beginners Course [Full Front End Tutorial with TypeScript]]]></title>
-        <id>https://www.youtube.com/watch?v=3qBXWUpoPHo</id>
-        <link href="https://www.youtube.com/watch?v=3qBXWUpoPHo"/>
-        <updated>2022-09-07T13:15:25.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
