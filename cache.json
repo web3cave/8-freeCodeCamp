@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Kbauf9IgsC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kbauf9IgsC4",
+          "publishedOn": "2022-10-11T14:24:23.000Z",
+          "wordCount": null,
+          "title": "Build a Webshop – Angular, Node.js, TypeScript, Stripe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V_xro1bcAuA",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2022-09-13T15:55:14.000Z",
           "wordCount": null,
           "title": "NoSQL vs SQL – Which Type of Database Should You Use?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XBTJDpT2XaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XBTJDpT2XaI",
-          "publishedOn": "2022-09-12T15:55:09.000Z",
-          "wordCount": null,
-          "title": "React Coding Interview Prep – 30 Questions and Answers",
           "imageUrl": null
         }
       ]
