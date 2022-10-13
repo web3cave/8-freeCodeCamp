@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T06:27:02.873Z</id>
+    <id>urn:2022-10-13T06:38:15.825Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T06:27:02.873Z</updated>
+    <updated>2022-10-13T06:38:15.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Docker Containers and Kubernetes Fundamentals – Full Hands-On Course]]></title>
+        <id>https://www.youtube.com/watch?v=kTp5xUtcalw</id>
+        <link href="https://www.youtube.com/watch?v=kTp5xUtcalw"/>
+        <updated>2022-10-12T12:48:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Webshop – Angular, Node.js, TypeScript, Stripe]]></title>
         <id>https://www.youtube.com/watch?v=Kbauf9IgsC4</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=a_iQb1lnAEQ</id>
         <link href="https://www.youtube.com/watch?v=a_iQb1lnAEQ"/>
         <updated>2022-09-14T15:04:16.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoSQL vs SQL – Which Type of Database Should You Use?]]></title>
-        <id>https://www.youtube.com/watch?v=FzlpwoeSrE0</id>
-        <link href="https://www.youtube.com/watch?v=FzlpwoeSrE0"/>
-        <updated>2022-09-13T15:55:14.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
