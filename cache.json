@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UGBJHYpHPvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UGBJHYpHPvA",
+          "publishedOn": "2022-10-17T15:14:42.000Z",
+          "wordCount": null,
+          "title": "Learn Svelte – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_uSrE-gIdFc",
           "author": null,
           "description": "",
