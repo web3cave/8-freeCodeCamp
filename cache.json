@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8mAITcNt710",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8mAITcNt710",
+          "publishedOn": "2022-10-19T13:53:35.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50 – Full Computer Science University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UGBJHYpHPvA",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2022-09-21T18:35:03.000Z",
           "wordCount": null,
           "title": "Web3 Course Walkthrough on freeCodeCamp.org (Rust, Blockchain Development, and Smart Contracts)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qpOZup_3P_A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qpOZup_3P_A",
-          "publishedOn": "2022-09-20T13:36:01.000Z",
-          "wordCount": null,
-          "title": "Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial",
           "imageUrl": null
         }
       ]
