@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XwzcrhhyDkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XwzcrhhyDkc",
+          "publishedOn": "2022-10-24T15:37:57.000Z",
+          "wordCount": null,
+          "title": "Web Monetization API Tutorial – How to Add Microtransactions to a Website",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F6P0hve2clE",
           "author": null,
           "description": "",
