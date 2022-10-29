@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Learn Python by Thinking in Types - Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WbMUHSL2xpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WbMUHSL2xpY",
-          "publishedOn": "2022-09-29T13:43:05.000Z",
-          "wordCount": null,
-          "title": "Ecommerce Website Tutorial – Create a B2B App with Stripe + Postgres + REST API Backend",
-          "imageUrl": null
         }
       ]
     }
