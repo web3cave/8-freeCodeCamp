@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T06:15:33.727Z</id>
+    <id>urn:2022-11-05T06:14:39.495Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T06:15:33.727Z</updated>
+    <updated>2022-11-05T06:14:39.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full Stack Web Development for Beginners (HTML, CSS, JavaScript, Node.js, MongoDB)]]></title>
+        <title type="html"><![CDATA[Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)]]></title>
         <id>https://www.youtube.com/watch?v=nu_pCVPKzTk</id>
         <link href="https://www.youtube.com/watch?v=nu_pCVPKzTk"/>
         <updated>2022-11-01T16:39:15.000Z</updated>
@@ -100,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=Kbauf9IgsC4</id>
         <link href="https://www.youtube.com/watch?v=Kbauf9IgsC4"/>
         <updated>2022-10-11T14:24:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch for Deep Learning & Machine Learning – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=V_xro1bcAuA</id>
-        <link href="https://www.youtube.com/watch?v=V_xro1bcAuA"/>
-        <updated>2022-10-06T14:13:05.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

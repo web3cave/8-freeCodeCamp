@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=nu_pCVPKzTk",
           "publishedOn": "2022-11-01T16:39:15.000Z",
           "wordCount": null,
-          "title": "Full Stack Web Development for Beginners (HTML, CSS, JavaScript, Node.js, MongoDB)",
+          "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
           "imageUrl": null
         },
         {
@@ -113,16 +113,6 @@
           "publishedOn": "2022-10-11T14:24:23.000Z",
           "wordCount": null,
           "title": "Build a Webshop – Angular, Node.js, TypeScript, Stripe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V_xro1bcAuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V_xro1bcAuA",
-          "publishedOn": "2022-10-06T14:13:05.000Z",
-          "wordCount": null,
-          "title": "PyTorch for Deep Learning & Machine Learning – Full Course",
           "imageUrl": null
         }
       ]
