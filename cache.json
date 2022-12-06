@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
+          "publishedOn": "2022-12-05T15:42:34.000Z",
+          "wordCount": null,
+          "title": "Python GUI Development Using PySide6 and Qt – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7f50sQYjNRA",
           "author": null,
           "description": "",
