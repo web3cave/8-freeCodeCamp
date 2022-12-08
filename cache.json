@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
+          "publishedOn": "2022-12-07T16:01:04.000Z",
+          "wordCount": null,
+          "title": "Swift Programming Tutorial – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
           "publishedOn": "2022-12-05T15:42:34.000Z",
           "wordCount": null,
-          "title": "Python GUI Development Using PySide6 and Qt – Tutorial",
+          "title": "Learn Python GUI Development for Desktop – PySide6 and Qt Tutorial",
           "imageUrl": null
         },
         {
@@ -83,16 +93,6 @@
           "publishedOn": "2022-11-09T15:40:01.000Z",
           "wordCount": null,
           "title": "Command Line Hacking – Over The Wire Bandit Walkthrough (CTF Wargame)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hmkF77F9TLw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hmkF77F9TLw",
-          "publishedOn": "2022-11-08T14:53:48.000Z",
-          "wordCount": null,
-          "title": "Microservice Architecture and System Design with Python & Kubernetes – Full Course",
           "imageUrl": null
         }
       ]
