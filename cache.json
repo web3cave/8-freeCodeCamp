@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KjY94sAKLlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KjY94sAKLlw",
+          "publishedOn": "2022-12-12T14:48:57.000Z",
+          "wordCount": null,
+          "title": "Next.js React Framework Course – Build and Deploy a Full Stack App From scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
           "author": null,
           "description": "",
