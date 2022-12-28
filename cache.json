@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "MATLAB Crash Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tujhGdn1EMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tujhGdn1EMI",
-          "publishedOn": "2022-11-28T15:11:35.000Z",
-          "wordCount": null,
-          "title": "Django REST Framework Course – Build Web APIs with Python",
-          "imageUrl": null
         }
       ]
     }
