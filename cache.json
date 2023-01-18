@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ft30zcMlFao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ft30zcMlFao",
+          "publishedOn": "2023-01-17T16:56:57.000Z",
+          "wordCount": null,
+          "title": "Learn Tailwind CSS – Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m8Icp_Cid5o",
           "author": null,
           "description": "",
