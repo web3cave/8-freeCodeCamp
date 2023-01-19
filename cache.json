@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=98bGwOYoEGg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=98bGwOYoEGg",
+          "publishedOn": "2023-01-18T15:57:33.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Clone – OpenAI API and React Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ft30zcMlFao",
           "author": null,
           "description": "",
@@ -73,16 +83,6 @@
           "publishedOn": "2023-01-03T15:59:11.000Z",
           "wordCount": null,
           "title": "React with .NET Web API – Basic App Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4xuBT3BbsYU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4xuBT3BbsYU",
-          "publishedOn": "2022-12-20T13:47:21.000Z",
-          "wordCount": null,
-          "title": "Build Your Own SaaS - PagerDuty Clone. You'll Learn PostgreSQL + Stripe API + Twilio + SMTP",
           "imageUrl": null
         }
       ]
