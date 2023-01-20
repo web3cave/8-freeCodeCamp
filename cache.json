@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5PdEmeopJVQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5PdEmeopJVQ",
+          "publishedOn": "2023-01-19T17:07:22.000Z",
+          "wordCount": null,
+          "title": "Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=98bGwOYoEGg",
           "author": null,
           "description": "",
