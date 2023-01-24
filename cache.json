@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i7vOAcUo5iA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i7vOAcUo5iA",
+          "publishedOn": "2023-01-23T16:24:32.000Z",
+          "wordCount": null,
+          "title": "College Algebra – Full Course with Python Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GsYhWOC9-L8",
           "author": null,
           "description": "",

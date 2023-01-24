@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T06:12:19.074Z</id>
+    <id>urn:2023-01-24T06:12:28.005Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T06:12:19.074Z</updated>
+    <updated>2023-01-24T06:12:28.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[College Algebra – Full Course with Python Code]]></title>
+        <id>https://www.youtube.com/watch?v=i7vOAcUo5iA</id>
+        <link href="https://www.youtube.com/watch?v=i7vOAcUo5iA"/>
+        <updated>2023-01-23T16:24:32.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PagerDuty Clone #shorts]]></title>
         <id>https://www.youtube.com/watch?v=GsYhWOC9-L8</id>
