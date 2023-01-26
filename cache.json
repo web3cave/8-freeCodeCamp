@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rCm5RVYKWVg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rCm5RVYKWVg",
+          "publishedOn": "2023-01-25T15:07:30.000Z",
+          "wordCount": null,
+          "title": "Code a Reddit Clone with React, Next.js, Firebase v9, Chakra UI – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8IOHjh3VQMU",
           "author": null,
           "description": "",
