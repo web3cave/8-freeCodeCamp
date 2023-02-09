@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qkQr42DmaEE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qkQr42DmaEE",
+          "publishedOn": "2023-02-08T16:42:50.000Z",
+          "wordCount": null,
+          "title": "3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dw9YfaZR9Dc",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-01-19T17:07:22.000Z",
           "wordCount": null,
           "title": "Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=98bGwOYoEGg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=98bGwOYoEGg",
-          "publishedOn": "2023-01-18T15:57:33.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Clone – OpenAI API and React Tutorial",
           "imageUrl": null
         }
       ]
