@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T06:13:58.270Z</id>
+    <id>urn:2023-03-01T06:14:43.271Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T06:13:58.270Z</updated>
+    <updated>2023-03-01T06:14:43.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AlphaZero from Scratch – Machine Learning Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=wuSQpLinRB4</id>
+        <link href="https://www.youtube.com/watch?v=wuSQpLinRB4"/>
+        <updated>2023-02-28T16:03:47.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enjoy Your Hard Drives! – Computer Basics #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=OGHE5LlAmq0</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=8ubmqUL3KR8</id>
         <link href="https://www.youtube.com/watch?v=8ubmqUL3KR8"/>
         <updated>2023-01-31T16:22:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full HTTP Networking Course – Fetch and REST APIs in JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=2JYT5f2isg4</id>
-        <link href="https://www.youtube.com/watch?v=2JYT5f2isg4"/>
-        <updated>2023-01-30T15:11:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
