@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T06:14:43.271Z</id>
+    <id>urn:2023-03-02T06:13:54.681Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T06:14:43.271Z</updated>
+    <updated>2023-03-02T06:13:54.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Node and React?]]></title>
+        <id>https://www.youtube.com/watch?v=YY2ZhUQZyE4</id>
+        <link href="https://www.youtube.com/watch?v=YY2ZhUQZyE4"/>
+        <updated>2023-03-01T15:53:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AlphaZero from Scratch – Machine Learning Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=wuSQpLinRB4</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=ZxMB6Njs3ck</id>
         <link href="https://www.youtube.com/watch?v=ZxMB6Njs3ck"/>
         <updated>2023-02-01T15:15:57.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Fonts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=8ubmqUL3KR8</id>
-        <link href="https://www.youtube.com/watch?v=8ubmqUL3KR8"/>
-        <updated>2023-01-31T16:22:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
