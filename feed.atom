@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T06:14:24.314Z</id>
+    <id>urn:2023-03-10T06:14:19.037Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T06:14:24.314Z</updated>
+    <updated>2023-03-10T06:14:19.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=WYLjcXpxFOQ</id>
         <link href="https://www.youtube.com/watch?v=WYLjcXpxFOQ"/>
         <updated>2023-02-09T14:16:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)]]></title>
-        <id>https://www.youtube.com/watch?v=qkQr42DmaEE</id>
-        <link href="https://www.youtube.com/watch?v=qkQr42DmaEE"/>
-        <updated>2023-02-08T16:42:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

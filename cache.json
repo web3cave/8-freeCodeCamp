@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "How do loops work in Python?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qkQr42DmaEE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qkQr42DmaEE",
-          "publishedOn": "2023-02-08T16:42:50.000Z",
-          "wordCount": null,
-          "title": "3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)",
-          "imageUrl": null
         }
       ]
     }
