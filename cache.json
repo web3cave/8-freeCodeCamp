@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vufTSJbzKGU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vufTSJbzKGU",
+          "publishedOn": "2023-03-21T14:04:20.000Z",
+          "wordCount": null,
+          "title": "Python Reinforcement Learning using OpenAI Gymnasium – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6gLeplbqtqg",
           "author": null,
           "description": "",
