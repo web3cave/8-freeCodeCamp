@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T06:12:36.032Z</id>
+    <id>urn:2023-03-24T06:12:43.531Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T06:12:36.032Z</updated>
+    <updated>2023-03-24T06:12:43.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Vite – Frontend Build Tool Course]]></title>
+        <id>https://www.youtube.com/watch?v=VAeRhmpcWEQ</id>
+        <link href="https://www.youtube.com/watch?v=VAeRhmpcWEQ"/>
+        <updated>2023-03-23T13:06:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Django Project – Code a CRM App Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=t10QcFx7d5k</id>

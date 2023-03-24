@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VAeRhmpcWEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VAeRhmpcWEQ",
+          "publishedOn": "2023-03-23T13:06:12.000Z",
+          "wordCount": null,
+          "title": "Learn Vite – Frontend Build Tool Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=t10QcFx7d5k",
           "author": null,
           "description": "",
