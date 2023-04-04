@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lFo3Yy8Ro7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lFo3Yy8Ro7w",
+          "publishedOn": "2023-04-03T15:08:44.000Z",
+          "wordCount": null,
+          "title": "Learn Minimal APIs in .NET 7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D6Xj_W4leu8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-03-07T14:37:39.000Z",
           "wordCount": null,
           "title": "A Day in the Life of freeCodeCamp U.S. Staff (A rare in-person meeting)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ydOTMQC7np0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ydOTMQC7np0",
-          "publishedOn": "2023-03-06T14:51:27.000Z",
-          "wordCount": null,
-          "title": "LaTeX – Full Tutorial for Beginners",
           "imageUrl": null
         }
       ]
