@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T06:12:07.331Z</id>
+    <id>urn:2023-04-07T06:12:24.319Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T06:12:07.331Z</updated>
+    <updated>2023-04-07T06:12:24.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced C# – LINQ Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=5l2qA3Pc83M</id>
+        <link href="https://www.youtube.com/watch?v=5l2qA3Pc83M"/>
+        <updated>2023-04-06T14:26:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript]]></title>
         <id>https://www.youtube.com/watch?v=OcTPaUfay5I</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=VrSJhTGMM90</id>
         <link href="https://www.youtube.com/watch?v=VrSJhTGMM90"/>
         <updated>2023-03-14T16:33:52.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Job Interview – Full Mock Interview]]></title>
-        <id>https://www.youtube.com/watch?v=sD468LfeVdc</id>
-        <link href="https://www.youtube.com/watch?v=sD468LfeVdc"/>
-        <updated>2023-03-13T14:00:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
