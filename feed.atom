@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T06:12:27.388Z</id>
+    <id>urn:2023-04-12T06:12:34.422Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T06:12:27.388Z</updated>
+    <updated>2023-04-12T06:12:34.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bash Scripting Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=tK9Oc6AEnR4</id>
+        <link href="https://www.youtube.com/watch?v=tK9Oc6AEnR4"/>
+        <updated>2023-04-11T15:59:17.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native Course – Android and iOS App Development]]></title>
         <id>https://www.youtube.com/watch?v=obH0Po_RdWk</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=VX4wl7qIcbA</id>
         <link href="https://www.youtube.com/watch?v=VX4wl7qIcbA"/>
         <updated>2023-03-16T14:01:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React 18 with Redux Toolkit – Full Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=2-crBg6wpp0</id>
-        <link href="https://www.youtube.com/watch?v=2-crBg6wpp0"/>
-        <updated>2023-03-15T14:35:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
