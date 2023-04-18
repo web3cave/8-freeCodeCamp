@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vDDjtwQDw2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vDDjtwQDw2k",
+          "publishedOn": "2023-04-17T14:40:20.000Z",
+          "wordCount": null,
+          "title": "No Black Box Machine Learning Course – Learn Without Libraries",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HimR8Xtz17U",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-03-22T13:43:35.000Z",
           "wordCount": null,
           "title": "Django Project – Code a CRM App Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vufTSJbzKGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vufTSJbzKGU",
-          "publishedOn": "2023-03-21T14:04:20.000Z",
-          "wordCount": null,
-          "title": "Python Reinforcement Learning using Gymnasium – Full Course",
           "imageUrl": null
         }
       ]
