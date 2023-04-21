@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T06:12:43.462Z</id>
+    <id>urn:2023-04-21T06:12:51.062Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T06:12:43.462Z</updated>
+    <updated>2023-04-21T06:12:51.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep: Functions, Closures, Currying]]></title>
+        <id>https://www.youtube.com/watch?v=tbqVqP5ilzQ</id>
+        <link href="https://www.youtube.com/watch?v=tbqVqP5ilzQ"/>
+        <updated>2023-04-20T14:22:29.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Course – Use The OpenAI API to Code 5 Projects]]></title>
         <id>https://www.youtube.com/watch?v=uRQH2CFvedY</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=njLEDvoDjtk</id>
         <link href="https://www.youtube.com/watch?v=njLEDvoDjtk"/>
         <updated>2023-03-28T16:44:46.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 3D Animation Website Tutorial with ThreeJS (WebGi) & GSAP]]></title>
-        <id>https://www.youtube.com/watch?v=IyBhFma4H1A</id>
-        <link href="https://www.youtube.com/watch?v=IyBhFma4H1A"/>
-        <updated>2023-03-27T15:43:16.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
