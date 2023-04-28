@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mBoX_JCKZTE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mBoX_JCKZTE",
+          "publishedOn": "2023-04-27T14:38:08.000Z",
+          "wordCount": null,
+          "title": "Scrapy Course – Python Web Scraping for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=krfUjg0S2uI",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-04-04T16:05:02.000Z",
           "wordCount": null,
           "title": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lFo3Yy8Ro7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lFo3Yy8Ro7w",
-          "publishedOn": "2023-04-03T15:08:44.000Z",
-          "wordCount": null,
-          "title": "Learn Minimal APIs in .NET 7",
           "imageUrl": null
         }
       ]
