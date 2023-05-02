@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nLRL_NcnK-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nLRL_NcnK-4",
+          "publishedOn": "2023-05-01T13:55:40.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mBoX_JCKZTE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-04-05T14:01:59.000Z",
           "wordCount": null,
           "title": "Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MsnQ5uepIaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MsnQ5uepIaE",
-          "publishedOn": "2023-04-04T16:05:02.000Z",
-          "wordCount": null,
-          "title": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)",
           "imageUrl": null
         }
       ]
