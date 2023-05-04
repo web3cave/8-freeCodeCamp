@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T06:11:55.591Z</id>
+    <id>urn:2023-05-04T06:12:06.676Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T06:11:55.591Z</updated>
+    <updated>2023-05-04T06:12:06.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Foundations Course – Regression Analysis]]></title>
+        <id>https://www.youtube.com/watch?v=2IZKK3pJQjg</id>
+        <link href="https://www.youtube.com/watch?v=2IZKK3pJQjg"/>
+        <updated>2023-05-03T13:21:02.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harvard CS50’s Introduction to Programming with Python – Full University Course]]></title>
         <id>https://www.youtube.com/watch?v=nLRL_NcnK-4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=5l2qA3Pc83M</id>
         <link href="https://www.youtube.com/watch?v=5l2qA3Pc83M"/>
         <updated>2023-04-06T14:26:34.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript]]></title>
-        <id>https://www.youtube.com/watch?v=OcTPaUfay5I</id>
-        <link href="https://www.youtube.com/watch?v=OcTPaUfay5I"/>
-        <updated>2023-04-05T14:01:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
