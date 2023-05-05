@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T06:12:06.676Z</id>
+    <id>urn:2023-05-05T06:12:10.981Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T06:12:06.676Z</updated>
+    <updated>2023-05-05T06:12:10.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[.NET MAUI Course for Beginners – Create Cross-Platform Apps with C#]]></title>
+        <id>https://www.youtube.com/watch?v=n3tA3Ku65_8</id>
+        <link href="https://www.youtube.com/watch?v=n3tA3Ku65_8"/>
+        <updated>2023-05-04T14:59:22.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Foundations Course – Regression Analysis]]></title>
         <id>https://www.youtube.com/watch?v=2IZKK3pJQjg</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=obH0Po_RdWk</id>
         <link href="https://www.youtube.com/watch?v=obH0Po_RdWk"/>
         <updated>2023-04-10T14:29:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced C# – LINQ Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=5l2qA3Pc83M</id>
-        <link href="https://www.youtube.com/watch?v=5l2qA3Pc83M"/>
-        <updated>2023-04-06T14:26:34.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
