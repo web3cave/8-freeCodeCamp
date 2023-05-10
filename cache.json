@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-fW2X7fh7Yg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-fW2X7fh7Yg",
+          "publishedOn": "2023-05-09T14:22:57.000Z",
+          "wordCount": null,
+          "title": "SQL Tutorial for Beginners (and Technical Interview Questions Solved)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=n3tA3Ku65_8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-04-11T15:59:17.000Z",
           "wordCount": null,
           "title": "Bash Scripting Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=obH0Po_RdWk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=obH0Po_RdWk",
-          "publishedOn": "2023-04-10T14:29:03.000Z",
-          "wordCount": null,
-          "title": "React Native Course – Android and iOS App Development",
           "imageUrl": null
         }
       ]
