@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T06:12:05.477Z</id>
+    <id>urn:2023-05-11T06:11:53.088Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T06:12:05.477Z</updated>
+    <updated>2023-05-11T06:11:53.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Functional Programming with Elixir – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=IiIgm_yaoOA</id>
+        <link href="https://www.youtube.com/watch?v=IiIgm_yaoOA"/>
+        <updated>2023-05-10T14:07:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Tutorial for Beginners (and Technical Interview Questions Solved)]]></title>
         <id>https://www.youtube.com/watch?v=-fW2X7fh7Yg</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=UFD4SP91tSM</id>
         <link href="https://www.youtube.com/watch?v=UFD4SP91tSM"/>
         <updated>2023-04-12T13:53:46.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash Scripting Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=tK9Oc6AEnR4</id>
-        <link href="https://www.youtube.com/watch?v=tK9Oc6AEnR4"/>
-        <updated>2023-04-11T15:59:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

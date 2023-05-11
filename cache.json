@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IiIgm_yaoOA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IiIgm_yaoOA",
+          "publishedOn": "2023-05-10T14:07:21.000Z",
+          "wordCount": null,
+          "title": "Functional Programming with Elixir – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-fW2X7fh7Yg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-04-12T13:53:46.000Z",
           "wordCount": null,
           "title": "Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
-          "publishedOn": "2023-04-11T15:59:17.000Z",
-          "wordCount": null,
-          "title": "Bash Scripting Tutorial for Beginners",
           "imageUrl": null
         }
       ]
