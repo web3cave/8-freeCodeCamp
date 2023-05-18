@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "ChatGPT Course – Use The OpenAI API to Code 5 Projects",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S8lMTwSRoRg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S8lMTwSRoRg",
-          "publishedOn": "2023-04-18T15:39:09.000Z",
-          "wordCount": null,
-          "title": "Godot Game Development – Crash Course for Beginners",
-          "imageUrl": null
         }
       ]
     }

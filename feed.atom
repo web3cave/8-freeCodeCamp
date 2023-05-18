@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T06:11:46.180Z</id>
+    <id>urn:2023-05-18T06:12:25.180Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T06:11:46.180Z</updated>
+    <updated>2023-05-18T06:12:25.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=uRQH2CFvedY</id>
         <link href="https://www.youtube.com/watch?v=uRQH2CFvedY"/>
         <updated>2023-04-19T15:13:22.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot Game Development – Crash Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=S8lMTwSRoRg</id>
-        <link href="https://www.youtube.com/watch?v=S8lMTwSRoRg"/>
-        <updated>2023-04-18T15:39:09.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
