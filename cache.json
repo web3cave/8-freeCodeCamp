@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GizsSo-EevA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GizsSo-EevA",
+          "publishedOn": "2023-05-18T14:08:51.000Z",
+          "wordCount": null,
+          "title": "Use ChatGPT to Code a Full Stack App – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ypNKKYUJE5o",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2023-04-20T14:22:29.000Z",
           "wordCount": null,
           "title": "JavaScript Interview Prep: Functions, Closures, Currying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uRQH2CFvedY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uRQH2CFvedY",
-          "publishedOn": "2023-04-19T15:13:22.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Course – Use The OpenAI API to Code 5 Projects",
           "imageUrl": null
         }
       ]

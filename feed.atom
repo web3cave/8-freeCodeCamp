@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T06:12:25.180Z</id>
+    <id>urn:2023-05-19T06:11:50.534Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-18T06:12:25.180Z</updated>
+    <updated>2023-05-19T06:11:50.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Use ChatGPT to Code a Full Stack App – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=GizsSo-EevA</id>
+        <link href="https://www.youtube.com/watch?v=GizsSo-EevA"/>
+        <updated>2023-05-18T14:08:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Security Vulnerabilities Tutorial  – With Code Examples]]></title>
         <id>https://www.youtube.com/watch?v=ypNKKYUJE5o</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=tbqVqP5ilzQ</id>
         <link href="https://www.youtube.com/watch?v=tbqVqP5ilzQ"/>
         <updated>2023-04-20T14:22:29.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Course – Use The OpenAI API to Code 5 Projects]]></title>
-        <id>https://www.youtube.com/watch?v=uRQH2CFvedY</id>
-        <link href="https://www.youtube.com/watch?v=uRQH2CFvedY"/>
-        <updated>2023-04-19T15:13:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
