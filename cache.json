@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FRmCxj9K7II",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FRmCxj9K7II",
+          "publishedOn": "2023-05-22T15:08:54.000Z",
+          "wordCount": null,
+          "title": "Full-Stack Next.js, TypeScript, and AWS Course – Code a Quote Generator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GizsSo-EevA",
           "author": null,
           "description": "",
