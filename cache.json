@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mBoX_JCKZTE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mBoX_JCKZTE",
-          "publishedOn": "2023-04-27T14:38:08.000Z",
-          "wordCount": null,
-          "title": "Scrapy Course – Python Web Scraping for Beginners",
-          "imageUrl": null
         }
       ]
     }
