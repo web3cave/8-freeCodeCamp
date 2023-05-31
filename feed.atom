@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T06:11:50.781Z</id>
+    <id>urn:2023-05-31T06:12:29.109Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T06:11:50.781Z</updated>
+    <updated>2023-05-31T06:12:29.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build AI Apps with ChatGPT, DALL-E, and GPT-4 – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=jlogLBkPZ2A</id>
+        <link href="https://www.youtube.com/watch?v=jlogLBkPZ2A"/>
+        <updated>2023-05-30T15:14:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase]]></title>
         <id>https://www.youtube.com/watch?v=GnodscC2p-A</id>
@@ -100,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=2IZKK3pJQjg</id>
         <link href="https://www.youtube.com/watch?v=2IZKK3pJQjg"/>
         <updated>2023-05-03T13:21:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard CS50’s Introduction to Programming with Python – Full University Course]]></title>
-        <id>https://www.youtube.com/watch?v=nLRL_NcnK-4</id>
-        <link href="https://www.youtube.com/watch?v=nLRL_NcnK-4"/>
-        <updated>2023-05-01T13:55:40.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
