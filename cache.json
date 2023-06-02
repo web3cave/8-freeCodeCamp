@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_IgbB24scLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_IgbB24scLI",
+          "publishedOn": "2023-06-01T14:42:30.000Z",
+          "wordCount": null,
+          "title": "Neo4j Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jlogLBkPZ2A",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2023-05-04T14:59:22.000Z",
           "wordCount": null,
           "title": ".NET MAUI Course for Beginners – Create Cross-Platform Apps with C#",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2IZKK3pJQjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2IZKK3pJQjg",
-          "publishedOn": "2023-05-03T13:21:02.000Z",
-          "wordCount": null,
-          "title": "Machine Learning Foundations Course – Regression Analysis",
           "imageUrl": null
         }
       ]
