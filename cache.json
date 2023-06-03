@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "SQL Tutorial for Beginners (and Technical Interview Questions Solved)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n3tA3Ku65_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n3tA3Ku65_8",
-          "publishedOn": "2023-05-04T14:59:22.000Z",
-          "wordCount": null,
-          "title": ".NET MAUI Course for Beginners – Create Cross-Platform Apps with C#",
-          "imageUrl": null
         }
       ]
     }
