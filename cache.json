@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IA3WxTTPXqQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IA3WxTTPXqQ",
+          "publishedOn": "2023-06-06T14:04:19.000Z",
+          "wordCount": null,
+          "title": "Deep Learning for Computer Vision with TensorFlow – Complete Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_IgbB24scLI",
           "author": null,
           "description": "",
