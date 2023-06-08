@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=IA3WxTTPXqQ",
           "publishedOn": "2023-06-06T14:04:19.000Z",
           "wordCount": null,
-          "title": "Deep Learning for Computer Vision with TensorFlow – Complete Course",
+          "title": "Deep Learning for Computer Vision with Python and TensorFlow – Complete Course",
           "imageUrl": null
         },
         {
@@ -113,16 +113,6 @@
           "publishedOn": "2023-05-10T14:07:21.000Z",
           "wordCount": null,
           "title": "Functional Programming with Elixir – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-fW2X7fh7Yg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-fW2X7fh7Yg",
-          "publishedOn": "2023-05-09T14:22:57.000Z",
-          "wordCount": null,
-          "title": "SQL Tutorial for Beginners (and Technical Interview Questions Solved)",
           "imageUrl": null
         }
       ]
