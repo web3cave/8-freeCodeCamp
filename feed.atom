@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T06:12:03.717Z</id>
+    <id>urn:2023-06-09T06:12:02.421Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-08T06:12:03.717Z</updated>
+    <updated>2023-06-09T06:12:02.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Rust Programming - Complete Course 🦀]]></title>
+        <id>https://www.youtube.com/watch?v=BpPEoZW5IiY</id>
+        <link href="https://www.youtube.com/watch?v=BpPEoZW5IiY"/>
+        <updated>2023-06-08T12:43:32.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning for Computer Vision with Python and TensorFlow – Complete Course]]></title>
         <id>https://www.youtube.com/watch?v=IA3WxTTPXqQ</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=un6ZyFkqFKo</id>
         <link href="https://www.youtube.com/watch?v=un6ZyFkqFKo"/>
         <updated>2023-05-11T13:41:01.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional Programming with Elixir – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=IiIgm_yaoOA</id>
-        <link href="https://www.youtube.com/watch?v=IiIgm_yaoOA"/>
-        <updated>2023-05-10T14:07:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

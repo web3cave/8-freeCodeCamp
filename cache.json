@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BpPEoZW5IiY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BpPEoZW5IiY",
+          "publishedOn": "2023-06-08T12:43:32.000Z",
+          "wordCount": null,
+          "title": "Learn Rust Programming - Complete Course 🦀",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IA3WxTTPXqQ",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2023-05-11T13:41:01.000Z",
           "wordCount": null,
           "title": "Go Programming – Golang Course with Bonus Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IiIgm_yaoOA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IiIgm_yaoOA",
-          "publishedOn": "2023-05-10T14:07:21.000Z",
-          "wordCount": null,
-          "title": "Functional Programming with Elixir – Full Course",
           "imageUrl": null
         }
       ]
