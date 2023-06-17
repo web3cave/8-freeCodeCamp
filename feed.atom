@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T06:12:03.185Z</id>
+    <id>urn:2023-06-17T06:11:20.172Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-16T06:12:03.185Z</updated>
+    <updated>2023-06-17T06:11:20.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=FRmCxj9K7II</id>
         <link href="https://www.youtube.com/watch?v=FRmCxj9K7II"/>
         <updated>2023-05-22T15:08:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use ChatGPT to Code a Full Stack App – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=GizsSo-EevA</id>
-        <link href="https://www.youtube.com/watch?v=GizsSo-EevA"/>
-        <updated>2023-05-18T14:08:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

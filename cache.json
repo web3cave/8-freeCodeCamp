@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "Full-Stack Next.js, TypeScript, and AWS Course – Code a Quote Generator",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GizsSo-EevA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GizsSo-EevA",
-          "publishedOn": "2023-05-18T14:08:51.000Z",
-          "wordCount": null,
-          "title": "Use ChatGPT to Code a Full Stack App – Full Course",
-          "imageUrl": null
         }
       ]
     }
