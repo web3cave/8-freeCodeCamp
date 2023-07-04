@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nVhau51w6dM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nVhau51w6dM",
+          "publishedOn": "2023-07-03T14:51:42.000Z",
+          "wordCount": null,
+          "title": "Hot Dog or Not Hot Dog – Convolutional Neural Network Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F2TL525KkiM",
           "author": null,
           "description": "",
