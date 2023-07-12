@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VCayKl82Lt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VCayKl82Lt8",
+          "publishedOn": "2023-07-11T13:04:38.000Z",
+          "wordCount": null,
+          "title": "Learn Terraform with Google Cloud Platform – Infrastructure as Code Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1WpKsY9LBlY",
           "author": null,
           "description": "",
