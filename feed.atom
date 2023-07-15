@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T06:14:12.437Z</id>
+    <id>urn:2023-07-15T06:12:34.859Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-14T06:14:12.437Z</updated>
+    <updated>2023-07-15T06:12:34.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=dU7GwCOgvNY</id>
         <link href="https://www.youtube.com/watch?v=dU7GwCOgvNY"/>
         <updated>2023-06-20T12:46:46.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pointers in C for Absolute Beginners – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=MIL2BK02X8A</id>
-        <link href="https://www.youtube.com/watch?v=MIL2BK02X8A"/>
-        <updated>2023-06-15T15:06:14.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
