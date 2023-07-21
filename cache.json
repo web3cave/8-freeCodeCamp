@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QdxUZhLHZiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QdxUZhLHZiA",
+          "publishedOn": "2023-07-20T14:55:49.000Z",
+          "wordCount": null,
+          "title": "Full Stack Next.js & Supabase Twitter Clone – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0tM-l_ZsxjU",
           "author": null,
           "description": "",
@@ -73,16 +83,6 @@
           "publishedOn": "2023-06-27T13:29:30.000Z",
           "wordCount": null,
           "title": "Advanced C# Programming Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
-          "publishedOn": "2023-06-21T14:28:53.000Z",
-          "wordCount": null,
-          "title": "Pandas & Python for Data Analysis by Example – Full Course for Beginners",
           "imageUrl": null
         }
       ]
