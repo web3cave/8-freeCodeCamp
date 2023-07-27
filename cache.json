@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ETV17M4SauU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ETV17M4SauU",
+          "publishedOn": "2023-07-26T14:03:18.000Z",
+          "wordCount": null,
+          "title": "Next.js & Appwrite – Full Stack Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8M3YqhO3kVs",
           "author": null,
           "description": "",
@@ -83,16 +93,6 @@
           "publishedOn": "2023-06-29T13:43:08.000Z",
           "wordCount": null,
           "title": "Code a 3D RPG Action Game – Godot GameDev Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YT8s-90oDC0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YT8s-90oDC0",
-          "publishedOn": "2023-06-27T13:29:30.000Z",
-          "wordCount": null,
-          "title": "Advanced C# Programming Course",
           "imageUrl": null
         }
       ]
