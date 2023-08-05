@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kxyAk_K-wE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kxyAk_K-wE4",
+          "publishedOn": "2023-08-04T15:33:31.000Z",
+          "wordCount": null,
+          "title": "JavaScript Tutorial – Celsius to Fahrenheit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8m3LvPg8EuI",
           "author": null,
           "description": "",
@@ -22,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=agEPmYdbQLs",
           "publishedOn": "2023-08-02T12:08:26.000Z",
           "wordCount": null,
-          "title": "AI Safety – Full Course from Center for AI Safety on Machine Learning & Ethics",
+          "title": "AI Safety – Full Course by Safe.AI Founder on Machine Learning & Ethics (Center for AI Safety)",
           "imageUrl": null
         },
         {
@@ -93,16 +103,6 @@
           "publishedOn": "2023-07-11T13:04:38.000Z",
           "wordCount": null,
           "title": "Learn Terraform with Google Cloud Platform – Infrastructure as Code Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1WpKsY9LBlY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1WpKsY9LBlY",
-          "publishedOn": "2023-07-06T14:17:31.000Z",
-          "wordCount": null,
-          "title": "Create a Programming Language and Learn Advanced Python – Full Course",
           "imageUrl": null
         }
       ]
