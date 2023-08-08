@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u8vMu7viCm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u8vMu7viCm8",
+          "publishedOn": "2023-08-07T13:19:55.000Z",
+          "wordCount": null,
+          "title": "Testing JavaScript with Cypress – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kxyAk_K-wE4",
           "author": null,
           "description": "",
