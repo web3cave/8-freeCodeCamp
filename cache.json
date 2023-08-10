@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j1laALb8OVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j1laALb8OVM",
+          "publishedOn": "2023-08-09T13:34:30.000Z",
+          "wordCount": null,
+          "title": "JavaScript Functions Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ft-hs2a_zno",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2023-07-13T13:06:32.000Z",
           "wordCount": null,
           "title": "Postman API Test Automation for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VCayKl82Lt8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VCayKl82Lt8",
-          "publishedOn": "2023-07-11T13:04:38.000Z",
-          "wordCount": null,
-          "title": "Learn Terraform with Google Cloud Platform – Infrastructure as Code Course",
           "imageUrl": null
         }
       ]
