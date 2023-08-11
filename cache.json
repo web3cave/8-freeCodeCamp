@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5NgNicANyqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5NgNicANyqM",
+          "publishedOn": "2023-08-10T14:17:52.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50’s Artificial Intelligence with Python – Full University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j1laALb8OVM",
           "author": null,
           "description": "",
