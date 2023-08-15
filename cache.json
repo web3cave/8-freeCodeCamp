@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dMkiOex_cKU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dMkiOex_cKU",
+          "publishedOn": "2023-08-14T13:30:33.000Z",
+          "wordCount": null,
+          "title": "Stable Diffusion Crash Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cE3YzKsQvEM",
           "author": null,
           "description": "",
