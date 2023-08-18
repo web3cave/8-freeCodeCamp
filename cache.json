@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SPcwo0Gq9T8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SPcwo0Gq9T8",
+          "publishedOn": "2023-08-17T13:07:31.000Z",
+          "wordCount": null,
+          "title": "HashiCorp Terraform Associate Certification Course (003) - Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=enb5kTJwV_s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-07-21T17:03:56.000Z",
           "wordCount": null,
           "title": "Favicon in HTML",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QdxUZhLHZiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QdxUZhLHZiA",
-          "publishedOn": "2023-07-20T14:55:49.000Z",
-          "wordCount": null,
-          "title": "Full Stack Next.js & Supabase Twitter Clone – Full Course",
           "imageUrl": null
         }
       ]
