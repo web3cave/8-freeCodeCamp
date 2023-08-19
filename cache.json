@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xZDB1naRUlk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xZDB1naRUlk",
+          "publishedOn": "2023-08-18T13:47:56.000Z",
+          "wordCount": null,
+          "title": "Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SPcwo0Gq9T8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-07-26T14:03:18.000Z",
           "wordCount": null,
           "title": "Next.js & Appwrite – Full Stack Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8M3YqhO3kVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8M3YqhO3kVs",
-          "publishedOn": "2023-07-21T17:03:56.000Z",
-          "wordCount": null,
-          "title": "Favicon in HTML",
           "imageUrl": null
         }
       ]
