@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QKKvMx_7gdA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QKKvMx_7gdA",
+          "publishedOn": "2023-08-20T13:00:16.000Z",
+          "wordCount": null,
+          "title": "CSS to C Major 🎹 Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1m8NRrLLgkg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-02T12:08:26.000Z",
           "wordCount": null,
           "title": "AI Safety – Full Course by Safe.AI Founder on Machine Learning & Ethics (Center for AI Safety)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FJAO6jDYljs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FJAO6jDYljs",
-          "publishedOn": "2023-07-27T12:53:33.000Z",
-          "wordCount": null,
-          "title": "Project-Based Augmented Reality Course with Unity Engine and AR Foundation",
           "imageUrl": null
         }
       ]
