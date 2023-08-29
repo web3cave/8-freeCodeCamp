@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
+          "publishedOn": "2023-08-28T14:07:04.000Z",
+          "wordCount": null,
+          "title": "Free Foundational C# Certification from Microsoft – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-10T14:17:52.000Z",
           "wordCount": null,
           "title": "Harvard CS50’s Artificial Intelligence with Python – Full University Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j1laALb8OVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j1laALb8OVM",
-          "publishedOn": "2023-08-09T13:34:30.000Z",
-          "wordCount": null,
-          "title": "JavaScript Functions Crash Course",
           "imageUrl": null
         }
       ]
