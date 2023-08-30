@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3wwiOSxDAmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3wwiOSxDAmg",
+          "publishedOn": "2023-08-29T13:37:43.000Z",
+          "wordCount": null,
+          "title": "Machine Learning & Neural Networks without Libraries – No Black Box Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-11T13:55:57.000Z",
           "wordCount": null,
           "title": "Is College Worth It in 2023?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5NgNicANyqM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5NgNicANyqM",
-          "publishedOn": "2023-08-10T14:17:52.000Z",
-          "wordCount": null,
-          "title": "Harvard CS50’s Artificial Intelligence with Python – Full University Course",
           "imageUrl": null
         }
       ]
