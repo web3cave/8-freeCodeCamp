@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T06:12:08.884Z</id>
+    <id>urn:2023-09-02T06:10:33.789Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-01T06:12:08.884Z</updated>
+    <updated>2023-09-02T06:10:33.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=5199E50O7SI</id>
+        <link href="https://www.youtube.com/watch?v=5199E50O7SI"/>
+        <updated>2023-09-01T13:39:37.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MERN Stack Tutorial - Book Store Project]]></title>
         <id>https://www.youtube.com/watch?v=-42K44A1oMA</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=enb5kTJwV_s</id>
         <link href="https://www.youtube.com/watch?v=enb5kTJwV_s"/>
         <updated>2023-08-15T14:00:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion Crash Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=dMkiOex_cKU</id>
-        <link href="https://www.youtube.com/watch?v=dMkiOex_cKU"/>
-        <updated>2023-08-14T13:30:33.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
