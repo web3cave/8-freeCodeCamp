@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T06:12:32.340Z</id>
+    <id>urn:2023-09-05T06:11:42.967Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T06:12:32.340Z</updated>
+    <updated>2023-09-05T06:11:42.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=KeBxopnhizw</id>
+        <link href="https://www.youtube.com/watch?v=KeBxopnhizw"/>
+        <updated>2023-09-04T14:41:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=5199E50O7SI</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=SPcwo0Gq9T8</id>
         <link href="https://www.youtube.com/watch?v=SPcwo0Gq9T8"/>
         <updated>2023-08-17T13:07:31.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Performance Fundamentals for Visitor Experience – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=enb5kTJwV_s</id>
-        <link href="https://www.youtube.com/watch?v=enb5kTJwV_s"/>
-        <updated>2023-08-15T14:00:23.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
