@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_ZvnD73m40o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_ZvnD73m40o",
+          "publishedOn": "2023-09-05T14:36:07.000Z",
+          "wordCount": null,
+          "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KeBxopnhizw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-18T13:47:56.000Z",
           "wordCount": null,
           "title": "Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SPcwo0Gq9T8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SPcwo0Gq9T8",
-          "publishedOn": "2023-08-17T13:07:31.000Z",
-          "wordCount": null,
-          "title": "HashiCorp Terraform Associate Certification Course (003) - Pass the Exam!",
           "imageUrl": null
         }
       ]
