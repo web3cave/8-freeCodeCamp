@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T06:11:52.273Z</id>
+    <id>urn:2023-09-09T06:10:29.077Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-08T06:11:52.273Z</updated>
+    <updated>2023-09-09T06:10:29.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges]]></title>
+        <id>https://www.youtube.com/watch?v=oFkDldu3C_4</id>
+        <link href="https://www.youtube.com/watch?v=oFkDldu3C_4"/>
+        <updated>2023-09-08T14:00:04.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube Clone – T3 Stack Tutorial (Next.js, TypeScript, Tailwind CSS)]]></title>
         <id>https://www.youtube.com/watch?v=TV6tFPfz0go</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Wn3IPX_ax-0</id>
         <link href="https://www.youtube.com/watch?v=Wn3IPX_ax-0"/>
         <updated>2023-08-21T14:25:20.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS to C Major 🎹 Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=QKKvMx_7gdA</id>
-        <link href="https://www.youtube.com/watch?v=QKKvMx_7gdA"/>
-        <updated>2023-08-20T13:00:16.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
