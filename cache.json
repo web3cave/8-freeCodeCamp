@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yfHHvmaMkcA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yfHHvmaMkcA",
+          "publishedOn": "2023-09-13T13:01:27.000Z",
+          "wordCount": null,
+          "title": "Vector Embeddings Tutorial – Create an AI Assistant with GPT-4 & Natural Language Processing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EJHPltmAULA",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-24T13:43:59.000Z",
           "wordCount": null,
           "title": "SQL For Web Developers - Complete Database Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_DFa26ep-h4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_DFa26ep-h4",
-          "publishedOn": "2023-08-23T14:25:48.000Z",
-          "wordCount": null,
-          "title": "Perl Programming Course for Beginners",
           "imageUrl": null
         }
       ]
