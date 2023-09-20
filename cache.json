@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qwAFL1597eM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qwAFL1597eM",
+          "publishedOn": "2023-09-19T14:33:56.000Z",
+          "wordCount": null,
+          "title": "Python Tutorial for Beginners (with mini-projects)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r895rFUbGtE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-28T14:07:04.000Z",
           "wordCount": null,
           "title": "Free Foundational C# Certification from Microsoft – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
-          "publishedOn": "2023-08-25T15:09:55.000Z",
-          "wordCount": null,
-          "title": "Create a Large Language Model from Scratch with Python – Tutorial",
           "imageUrl": null
         }
       ]
