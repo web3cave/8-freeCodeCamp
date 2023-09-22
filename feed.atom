@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T06:12:12.534Z</id>
+    <id>urn:2023-09-22T06:12:30.245Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T06:12:12.534Z</updated>
+    <updated>2023-09-22T06:12:30.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mojo Programming Language – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=5Sm9IVMet9c</id>
+        <link href="https://www.youtube.com/watch?v=5Sm9IVMet9c"/>
+        <updated>2023-09-21T13:02:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build SEO Optimized Blog with Next.js, Tailwind CSS & Contentlayer – Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=nkGjob3q2GI</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=YYe0FdfdgDU</id>
         <link href="https://www.youtube.com/watch?v=YYe0FdfdgDU"/>
         <updated>2023-08-30T13:38:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning & Neural Networks without Libraries – No Black Box Course]]></title>
-        <id>https://www.youtube.com/watch?v=3wwiOSxDAmg</id>
-        <link href="https://www.youtube.com/watch?v=3wwiOSxDAmg"/>
-        <updated>2023-08-29T13:37:43.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
