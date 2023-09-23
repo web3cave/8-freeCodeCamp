@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6oMoHZZeyb0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6oMoHZZeyb0",
+          "publishedOn": "2023-09-22T14:46:05.000Z",
+          "wordCount": null,
+          "title": "Rust Project Tutorial – Authentication Server Using Warp + JWT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5Sm9IVMet9c",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-08-31T17:56:13.000Z",
           "wordCount": null,
           "title": "MERN Stack Tutorial - Book Store Project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YYe0FdfdgDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YYe0FdfdgDU",
-          "publishedOn": "2023-08-30T13:38:51.000Z",
-          "wordCount": null,
-          "title": "OWASP API Security Top 10 Course – Secure Your Web Apps",
           "imageUrl": null
         }
       ]
