@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GdzRzWymT4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GdzRzWymT4c",
+          "publishedOn": "2023-09-27T14:32:50.000Z",
+          "wordCount": null,
+          "title": "Java Basics – Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fTPCKnZZ2dk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-05T14:36:07.000Z",
           "wordCount": null,
           "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KeBxopnhizw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KeBxopnhizw",
-          "publishedOn": "2023-09-04T14:41:19.000Z",
-          "wordCount": null,
-          "title": "JavaScript Modules Crash Course",
           "imageUrl": null
         }
       ]
