@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-2UjwQzxvBQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-2UjwQzxvBQ",
+          "publishedOn": "2023-10-03T14:54:18.000Z",
+          "wordCount": null,
+          "title": "SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dlK7jec2rXo",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-11T14:43:15.000Z",
           "wordCount": null,
           "title": "2D Wave Defense Game – GDevelop GameDev Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oFkDldu3C_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oFkDldu3C_4",
-          "publishedOn": "2023-09-08T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges",
           "imageUrl": null
         }
       ]

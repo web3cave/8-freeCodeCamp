@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T06:12:26.870Z</id>
+    <id>urn:2023-10-04T06:12:32.908Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T06:12:26.870Z</updated>
+    <updated>2023-10-04T06:12:32.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio]]></title>
+        <id>https://www.youtube.com/watch?v=-2UjwQzxvBQ</id>
+        <link href="https://www.youtube.com/watch?v=-2UjwQzxvBQ"/>
+        <updated>2023-10-03T14:54:18.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Security for PCI Compliance (Data Security Standard)]]></title>
         <id>https://www.youtube.com/watch?v=dlK7jec2rXo</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Uh5LhXAIyCw</id>
         <link href="https://www.youtube.com/watch?v=Uh5LhXAIyCw"/>
         <updated>2023-09-11T14:43:15.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges]]></title>
-        <id>https://www.youtube.com/watch?v=oFkDldu3C_4</id>
-        <link href="https://www.youtube.com/watch?v=oFkDldu3C_4"/>
-        <updated>2023-09-08T14:00:04.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
