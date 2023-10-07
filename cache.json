@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qpp1G0iEL_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qpp1G0iEL_c",
+          "publishedOn": "2023-10-06T15:04:30.000Z",
+          "wordCount": null,
+          "title": "The Ethics of AI & Machine Learning [Full Course]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=K4ziF0MhbLc",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-18T14:48:50.000Z",
           "wordCount": null,
           "title": "Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yfHHvmaMkcA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yfHHvmaMkcA",
-          "publishedOn": "2023-09-13T13:01:27.000Z",
-          "wordCount": null,
-          "title": "Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP",
           "imageUrl": null
         }
       ]
