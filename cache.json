@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ScKCy2udln8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ScKCy2udln8",
+          "publishedOn": "2023-10-10T13:40:05.000Z",
+          "wordCount": null,
+          "title": "Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qpp1G0iEL_c",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-19T14:33:56.000Z",
           "wordCount": null,
           "title": "Python Tutorial for Beginners (with mini-projects)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r895rFUbGtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r895rFUbGtE",
-          "publishedOn": "2023-09-18T14:48:50.000Z",
-          "wordCount": null,
-          "title": "Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
           "imageUrl": null
         }
       ]
