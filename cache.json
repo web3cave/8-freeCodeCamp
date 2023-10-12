@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qDunJ0wVIec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qDunJ0wVIec",
+          "publishedOn": "2023-10-11T14:16:52.000Z",
+          "wordCount": null,
+          "title": "Build and Deploy Notion Clone – Full Stack Tutorial (NextJS 13, DALL•E, DrizzleORM, OpenAI, Vercel)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ScKCy2udln8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-20T12:55:56.000Z",
           "wordCount": null,
           "title": "Build SEO Optimized Blog with Next.js, Tailwind CSS & Contentlayer – Full Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qwAFL1597eM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qwAFL1597eM",
-          "publishedOn": "2023-09-19T14:33:56.000Z",
-          "wordCount": null,
-          "title": "Python Tutorial for Beginners (with mini-projects)",
           "imageUrl": null
         }
       ]
