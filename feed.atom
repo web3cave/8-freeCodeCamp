@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T06:12:48.151Z</id>
+    <id>urn:2023-10-13T06:13:10.995Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T06:12:48.151Z</updated>
+    <updated>2023-10-13T06:13:10.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]]]></title>
+        <id>https://www.youtube.com/watch?v=eTB0UCDnMQo</id>
+        <link href="https://www.youtube.com/watch?v=eTB0UCDnMQo"/>
+        <updated>2023-10-12T13:51:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Deploy Notion Clone – Full Stack Tutorial (NextJS 13, DALL•E, DrizzleORM, OpenAI, Vercel)]]></title>
         <id>https://www.youtube.com/watch?v=qDunJ0wVIec</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=5Sm9IVMet9c</id>
         <link href="https://www.youtube.com/watch?v=5Sm9IVMet9c"/>
         <updated>2023-09-21T13:02:21.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build SEO Optimized Blog with Next.js, Tailwind CSS & Contentlayer – Full Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=nkGjob3q2GI</id>
-        <link href="https://www.youtube.com/watch?v=nkGjob3q2GI"/>
-        <updated>2023-09-20T12:55:56.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

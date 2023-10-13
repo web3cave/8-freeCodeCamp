@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eTB0UCDnMQo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eTB0UCDnMQo",
+          "publishedOn": "2023-10-12T13:51:09.000Z",
+          "wordCount": null,
+          "title": "Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qDunJ0wVIec",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-21T13:02:21.000Z",
           "wordCount": null,
           "title": "Mojo Programming Language – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nkGjob3q2GI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nkGjob3q2GI",
-          "publishedOn": "2023-09-20T12:55:56.000Z",
-          "wordCount": null,
-          "title": "Build SEO Optimized Blog with Next.js, Tailwind CSS & Contentlayer – Full Tutorial",
           "imageUrl": null
         }
       ]
