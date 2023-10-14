@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T06:13:10.995Z</id>
+    <id>urn:2023-10-14T06:11:36.565Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T06:13:10.995Z</updated>
+    <updated>2023-10-14T06:11:36.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=SpfIwlAYaKk</id>
+        <link href="https://www.youtube.com/watch?v=SpfIwlAYaKk"/>
+        <updated>2023-10-13T13:48:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]]]></title>
         <id>https://www.youtube.com/watch?v=eTB0UCDnMQo</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=6oMoHZZeyb0</id>
         <link href="https://www.youtube.com/watch?v=6oMoHZZeyb0"/>
         <updated>2023-09-22T14:46:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mojo Programming Language – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=5Sm9IVMet9c</id>
-        <link href="https://www.youtube.com/watch?v=5Sm9IVMet9c"/>
-        <updated>2023-09-21T13:02:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SpfIwlAYaKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SpfIwlAYaKk",
+          "publishedOn": "2023-10-13T13:48:34.000Z",
+          "wordCount": null,
+          "title": "PostgreSQL Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eTB0UCDnMQo",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-22T14:46:05.000Z",
           "wordCount": null,
           "title": "Rust Project Tutorial – Authentication Server Using Warp + JWT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5Sm9IVMet9c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5Sm9IVMet9c",
-          "publishedOn": "2023-09-21T13:02:21.000Z",
-          "wordCount": null,
-          "title": "Mojo Programming Language – Full Course for Beginners",
           "imageUrl": null
         }
       ]
