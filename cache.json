@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H0vhkoXljq0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H0vhkoXljq0",
+          "publishedOn": "2023-10-20T15:31:54.000Z",
+          "wordCount": null,
+          "title": "Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9He4UBLyk8Y",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-09-28T13:46:37.000Z",
           "wordCount": null,
           "title": "LangChain Crash Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GdzRzWymT4c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GdzRzWymT4c",
-          "publishedOn": "2023-09-27T14:32:50.000Z",
-          "wordCount": null,
-          "title": "Java Basics – Crash Course",
           "imageUrl": null
         }
       ]
