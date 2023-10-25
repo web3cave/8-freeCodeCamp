@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LfaMVlDaQ24",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LfaMVlDaQ24",
+          "publishedOn": "2023-10-24T12:43:08.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50 (2023) – Full Computer Science University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cHYq1MRoyI0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-10-02T14:31:51.000Z",
           "wordCount": null,
           "title": "API Security for PCI Compliance (Data Security Standard)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e-hTm5VmofI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e-hTm5VmofI",
-          "publishedOn": "2023-09-29T14:10:43.000Z",
-          "wordCount": null,
-          "title": "Astro Web Framework Crash Course",
           "imageUrl": null
         }
       ]

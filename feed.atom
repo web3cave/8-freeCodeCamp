@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T06:12:21.362Z</id>
+    <id>urn:2023-10-25T06:12:39.102Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-24T06:12:21.362Z</updated>
+    <updated>2023-10-25T06:12:39.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 (2023) – Full Computer Science University Course]]></title>
+        <id>https://www.youtube.com/watch?v=LfaMVlDaQ24</id>
+        <link href="https://www.youtube.com/watch?v=LfaMVlDaQ24"/>
+        <updated>2023-10-24T12:43:08.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pytest Tutorial – How to Test Python Code]]></title>
         <id>https://www.youtube.com/watch?v=cHYq1MRoyI0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=dlK7jec2rXo</id>
         <link href="https://www.youtube.com/watch?v=dlK7jec2rXo"/>
         <updated>2023-10-02T14:31:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro Web Framework Crash Course]]></title>
-        <id>https://www.youtube.com/watch?v=e-hTm5VmofI</id>
-        <link href="https://www.youtube.com/watch?v=e-hTm5VmofI"/>
-        <updated>2023-09-29T14:10:43.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
