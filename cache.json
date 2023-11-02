@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ywLxbDV9TBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ywLxbDV9TBU",
+          "publishedOn": "2023-11-01T13:23:55.000Z",
+          "wordCount": null,
+          "title": "Create and Deploy Websites and IaC by Chatting with AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kNghEbknLs8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-10-06T15:04:30.000Z",
           "wordCount": null,
           "title": "The Ethics of AI & Machine Learning [Full Course]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K4ziF0MhbLc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K4ziF0MhbLc",
-          "publishedOn": "2023-10-05T15:26:35.000Z",
-          "wordCount": null,
-          "title": "Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI)",
           "imageUrl": null
         }
       ]
