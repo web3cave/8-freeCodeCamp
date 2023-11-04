@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KZnQ5R8Kd4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZnQ5R8Kd4I",
+          "publishedOn": "2023-11-03T14:26:34.000Z",
+          "wordCount": null,
+          "title": "Java Web App with Quarkus and JPAStreamer – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dX8396ZmSPk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-10-11T14:16:52.000Z",
           "wordCount": null,
           "title": "Build and Deploy Notion Clone – Full Stack Tutorial (NextJS 13, DALL•E, DrizzleORM, OpenAI, Vercel)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ScKCy2udln8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ScKCy2udln8",
-          "publishedOn": "2023-10-10T13:40:05.000Z",
-          "wordCount": null,
-          "title": "Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial",
           "imageUrl": null
         }
       ]
