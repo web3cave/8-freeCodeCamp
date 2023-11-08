@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T06:12:13.309Z</id>
+    <id>urn:2023-11-08T06:12:28.327Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T06:12:13.309Z</updated>
+    <updated>2023-11-08T06:12:28.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a Store with WordPress and AI Tutorial – Real AI-Generated Products]]></title>
+        <id>https://www.youtube.com/watch?v=16BWeTg7mA0</id>
+        <link href="https://www.youtube.com/watch?v=16BWeTg7mA0"/>
+        <updated>2023-11-07T15:32:16.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js Authentication - AuthJS / NextAuth for Role-Based Security]]></title>
         <id>https://www.youtube.com/watch?v=MNm1XhDjX1s</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=SpfIwlAYaKk</id>
         <link href="https://www.youtube.com/watch?v=SpfIwlAYaKk"/>
         <updated>2023-10-13T13:48:34.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]]]></title>
-        <id>https://www.youtube.com/watch?v=eTB0UCDnMQo</id>
-        <link href="https://www.youtube.com/watch?v=eTB0UCDnMQo"/>
-        <updated>2023-10-12T13:51:09.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=16BWeTg7mA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=16BWeTg7mA0",
+          "publishedOn": "2023-11-07T15:32:16.000Z",
+          "wordCount": null,
+          "title": "Create a Store with WordPress and AI Tutorial – Real AI-Generated Products",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MNm1XhDjX1s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-10-13T13:48:34.000Z",
           "wordCount": null,
           "title": "PostgreSQL Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eTB0UCDnMQo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eTB0UCDnMQo",
-          "publishedOn": "2023-10-12T13:51:09.000Z",
-          "wordCount": null,
-          "title": "Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]",
           "imageUrl": null
         }
       ]
