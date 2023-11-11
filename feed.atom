@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T06:12:27.616Z</id>
+    <id>urn:2023-11-11T06:11:11.841Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T06:12:27.616Z</updated>
+    <updated>2023-11-11T06:11:11.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Solutions Architect Expert Certification Course (AZ 305) – Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=i6NzKvGUsBs</id>
+        <link href="https://www.youtube.com/watch?v=i6NzKvGUsBs"/>
+        <updated>2023-11-10T15:02:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arduino Course for Everybody]]></title>
         <id>https://www.youtube.com/watch?v=DPqiIzK97K0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=wrHTcjSZQ1Y</id>
         <link href="https://www.youtube.com/watch?v=wrHTcjSZQ1Y"/>
         <updated>2023-10-18T13:12:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot Tutorial for Unity Developers (and other beginners)]]></title>
-        <id>https://www.youtube.com/watch?v=1EFKe24X8vI</id>
-        <link href="https://www.youtube.com/watch?v=1EFKe24X8vI"/>
-        <updated>2023-10-16T16:45:00.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
