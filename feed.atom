@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-14T06:12:25.151Z</id>
+    <id>urn:2023-11-15T06:12:52.131Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-14T06:12:25.151Z</updated>
+    <updated>2023-11-15T06:12:52.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Become a Great Engineering Manager – Course]]></title>
+        <id>https://www.youtube.com/watch?v=kZdFRXeuCuY</id>
+        <link href="https://www.youtube.com/watch?v=kZdFRXeuCuY"/>
+        <updated>2023-11-14T15:12:10.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Solutions Architect Expert Certification Course (AZ 305) – Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=i6NzKvGUsBs</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=9He4UBLyk8Y</id>
         <link href="https://www.youtube.com/watch?v=9He4UBLyk8Y"/>
         <updated>2023-10-19T14:18:42.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI SaaS Chat Bot using MERN Stack – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=wrHTcjSZQ1Y</id>
-        <link href="https://www.youtube.com/watch?v=wrHTcjSZQ1Y"/>
-        <updated>2023-10-18T13:12:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
