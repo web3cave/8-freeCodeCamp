@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-16T06:12:55.627Z</id>
+    <id>urn:2023-11-17T06:12:54.557Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-16T06:12:55.627Z</updated>
+    <updated>2023-11-17T06:12:54.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Master Technical Interviews – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=-LVmKNvflnY</id>
+        <link href="https://www.youtube.com/watch?v=-LVmKNvflnY"/>
+        <updated>2023-11-16T15:20:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PaLM 2 API Course – Build Generative AI Apps]]></title>
         <id>https://www.youtube.com/watch?v=LHbtSrkTsIE</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=cHYq1MRoyI0</id>
         <link href="https://www.youtube.com/watch?v=cHYq1MRoyI0"/>
         <updated>2023-10-23T12:50:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App]]></title>
-        <id>https://www.youtube.com/watch?v=H0vhkoXljq0</id>
-        <link href="https://www.youtube.com/watch?v=H0vhkoXljq0"/>
-        <updated>2023-10-20T15:31:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
