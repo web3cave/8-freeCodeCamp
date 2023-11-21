@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HSZ_uaif57o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HSZ_uaif57o",
+          "publishedOn": "2023-11-20T16:29:41.000Z",
+          "wordCount": null,
+          "title": "Learn LangChain.js - Build LLM apps with JavaScript and OpenAI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-LVmKNvflnY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-10-24T12:43:08.000Z",
           "wordCount": null,
           "title": "Harvard CS50 (2023) – Full Computer Science University Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cHYq1MRoyI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cHYq1MRoyI0",
-          "publishedOn": "2023-10-23T12:50:05.000Z",
-          "wordCount": null,
-          "title": "Pytest Tutorial – How to Test Python Code",
           "imageUrl": null
         }
       ]
