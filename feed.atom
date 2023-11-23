@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T06:13:27.871Z</id>
+    <id>urn:2023-11-23T06:12:42.146Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-22T06:13:27.871Z</updated>
+    <updated>2023-11-23T06:12:42.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning with Python and Scikit-Learn – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=hDKCxebp88A</id>
+        <link href="https://www.youtube.com/watch?v=hDKCxebp88A"/>
+        <updated>2023-11-22T14:04:54.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go Programming Tutorial – 3 Beginner Projects]]></title>
         <id>https://www.youtube.com/watch?v=k_V5VvYSlS4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=9Y3yaoi9rUQ</id>
         <link href="https://www.youtube.com/watch?v=9Y3yaoi9rUQ"/>
         <updated>2023-10-26T12:36:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=uWkcxasFWzQ</id>
-        <link href="https://www.youtube.com/watch?v=uWkcxasFWzQ"/>
-        <updated>2023-10-25T12:42:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
