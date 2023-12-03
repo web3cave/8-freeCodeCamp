@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "Next.js Authentication - AuthJS / NextAuth for Role-Based Security",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KZnQ5R8Kd4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KZnQ5R8Kd4I",
-          "publishedOn": "2023-11-03T14:26:34.000Z",
-          "wordCount": null,
-          "title": "Java Web App with Quarkus and JPAStreamer – Tutorial",
-          "imageUrl": null
         }
       ]
     }
