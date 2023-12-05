@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-dJPoLm_gtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-dJPoLm_gtE",
+          "publishedOn": "2023-12-04T15:24:42.000Z",
+          "wordCount": null,
+          "title": "MLOps Course – Build Machine Learning Production Grade Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RMScMwY2B6Q",
           "author": null,
           "description": "",
