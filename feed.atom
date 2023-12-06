@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T06:13:08.520Z</id>
+    <id>urn:2023-12-06T06:13:03.895Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-05T06:13:08.520Z</updated>
+    <updated>2023-12-06T06:13:03.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=NhDYbskXRgc</id>
+        <link href="https://www.youtube.com/watch?v=NhDYbskXRgc"/>
+        <updated>2023-12-05T16:15:03.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLOps Course – Build Machine Learning Production Grade Projects]]></title>
         <id>https://www.youtube.com/watch?v=-dJPoLm_gtE</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=16BWeTg7mA0</id>
         <link href="https://www.youtube.com/watch?v=16BWeTg7mA0"/>
         <updated>2023-11-07T15:32:16.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js Authentication - AuthJS / NextAuth for Role-Based Security]]></title>
-        <id>https://www.youtube.com/watch?v=MNm1XhDjX1s</id>
-        <link href="https://www.youtube.com/watch?v=MNm1XhDjX1s"/>
-        <updated>2023-11-06T16:02:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
