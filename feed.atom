@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T06:13:06.111Z</id>
+    <id>urn:2023-12-08T06:13:09.030Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-07T06:13:06.111Z</updated>
+    <updated>2023-12-08T06:13:09.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beginner JavaScript Project – Snake Game Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=uyhzCBEGaBY</id>
+        <link href="https://www.youtube.com/watch?v=uyhzCBEGaBY"/>
+        <updated>2023-12-07T15:42:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=NhDYbskXRgc</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=i6NzKvGUsBs</id>
         <link href="https://www.youtube.com/watch?v=i6NzKvGUsBs"/>
         <updated>2023-11-10T15:02:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arduino Course for Everybody]]></title>
-        <id>https://www.youtube.com/watch?v=DPqiIzK97K0</id>
-        <link href="https://www.youtube.com/watch?v=DPqiIzK97K0"/>
-        <updated>2023-11-08T13:54:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
