@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
+          "publishedOn": "2023-12-11T15:09:17.000Z",
+          "wordCount": null,
+          "title": "Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uyhzCBEGaBY",
           "author": null,
           "description": "",
