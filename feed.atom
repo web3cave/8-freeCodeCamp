@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T06:13:37.283Z</id>
+    <id>urn:2023-12-19T06:12:54.627Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-18T06:13:37.283Z</updated>
+    <updated>2023-12-19T06:12:54.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Remix and Strapi Crash Course – Full Stack Development]]></title>
+        <id>https://www.youtube.com/watch?v=5yIivwrvH6w</id>
+        <link href="https://www.youtube.com/watch?v=5yIivwrvH6w"/>
+        <updated>2023-12-18T15:59:50.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Azure Fundamentals Certification Course (AZ-900) UPDATED – Pass the exam in 8 hours!]]></title>
         <id>https://www.youtube.com/watch?v=5abffC-K40c</id>
