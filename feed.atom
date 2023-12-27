@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-26T06:12:34.285Z</id>
+    <id>urn:2023-12-27T06:12:43.575Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-26T06:12:34.286Z</updated>
+    <updated>2023-12-27T06:12:43.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=I_ShMaNw0Rc</id>
         <link href="https://www.youtube.com/watch?v=I_ShMaNw0Rc"/>
         <updated>2023-11-28T17:26:19.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cloud Complete Bootcamp Course]]></title>
-        <id>https://www.youtube.com/watch?v=zA8guDqfv40</id>
-        <link href="https://www.youtube.com/watch?v=zA8guDqfv40"/>
-        <updated>2023-11-27T16:25:03.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
