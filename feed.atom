@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T06:12:43.575Z</id>
+    <id>urn:2023-12-28T06:12:29.735Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-27T06:12:43.575Z</updated>
+    <updated>2023-12-28T06:12:29.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -118,15 +118,6 @@
         <id>https://www.youtube.com/watch?v=0CSyIBHQy9g</id>
         <link href="https://www.youtube.com/watch?v=0CSyIBHQy9g"/>
         <updated>2023-11-29T15:30:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Music Production with FL Studio – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=I_ShMaNw0Rc</id>
-        <link href="https://www.youtube.com/watch?v=I_ShMaNw0Rc"/>
-        <updated>2023-11-28T17:26:19.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
