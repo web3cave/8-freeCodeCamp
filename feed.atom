@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T06:12:44.663Z</id>
+    <id>urn:2023-12-30T06:11:34.442Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-29T06:12:44.663Z</updated>
+    <updated>2023-12-30T06:11:34.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=-dJPoLm_gtE</id>
         <link href="https://www.youtube.com/watch?v=-dJPoLm_gtE"/>
         <updated>2023-12-04T15:24:42.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy an Instagram Clone with React and Firebase – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=RMScMwY2B6Q</id>
-        <link href="https://www.youtube.com/watch?v=RMScMwY2B6Q"/>
-        <updated>2023-11-30T16:00:45.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

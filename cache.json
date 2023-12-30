@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "MLOps Course – Build Machine Learning Production Grade Projects",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RMScMwY2B6Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RMScMwY2B6Q",
-          "publishedOn": "2023-11-30T16:00:45.000Z",
-          "wordCount": null,
-          "title": "Build and Deploy an Instagram Clone with React and Firebase – Tutorial",
-          "imageUrl": null
         }
       ]
     }
