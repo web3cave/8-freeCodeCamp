@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T06:12:40.509Z</id>
+    <id>urn:2024-01-03T06:12:35.103Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-02T06:12:40.509Z</updated>
+    <updated>2024-01-03T06:12:35.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=NhDYbskXRgc</id>
         <link href="https://www.youtube.com/watch?v=NhDYbskXRgc"/>
         <updated>2023-12-05T16:15:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLOps Course – Build Machine Learning Production Grade Projects]]></title>
-        <id>https://www.youtube.com/watch?v=-dJPoLm_gtE</id>
-        <link href="https://www.youtube.com/watch?v=-dJPoLm_gtE"/>
-        <updated>2023-12-04T15:24:42.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
