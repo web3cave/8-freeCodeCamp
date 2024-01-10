@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+          "publishedOn": "2024-01-09T14:51:14.000Z",
+          "wordCount": null,
+          "title": "Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dJhlMn2otxA",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2023-12-12T16:04:41.000Z",
           "wordCount": null,
           "title": "Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
-          "publishedOn": "2023-12-11T15:09:17.000Z",
-          "wordCount": null,
-          "title": "Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search",
           "imageUrl": null
         }
       ]
