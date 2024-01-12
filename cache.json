@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h_mk2Uci9o0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h_mk2Uci9o0",
+          "publishedOn": "2024-01-11T15:32:55.000Z",
+          "wordCount": null,
+          "title": "How to Add Email to Your Apps – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
           "author": null,
           "description": "",
@@ -22,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=dJhlMn2otxA",
           "publishedOn": "2024-01-08T15:31:36.000Z",
           "wordCount": null,
-          "title": "Learn to Code with AI - ChatGPT Tutorial",
+          "title": "Learn to Code using AI - ChatGPT Programming Tutorial (Full Course)",
           "imageUrl": null
         },
         {
@@ -93,16 +103,6 @@
           "publishedOn": "2023-12-14T15:13:40.000Z",
           "wordCount": null,
           "title": "Microsoft Azure Fundamentals Certification Course (AZ-900) UPDATED – Pass the exam in 8 hours!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IPiUDhwnZxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IPiUDhwnZxA",
-          "publishedOn": "2023-12-13T15:09:28.000Z",
-          "wordCount": null,
-          "title": "JavaScript Testing with Jest – Crash Course",
           "imageUrl": null
         }
       ]
