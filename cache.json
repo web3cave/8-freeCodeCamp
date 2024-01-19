@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
+          "publishedOn": "2024-01-18T15:39:24.000Z",
+          "wordCount": null,
+          "title": "How to Get a Developer Job – Even in This Economy [Full Course]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DjutoyfCl2c",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=DjutoyfCl2c",
           "publishedOn": "2024-01-17T15:57:44.000Z",
           "wordCount": null,
-          "title": "UIs with Python – Use PyQt5 to Create a Music Player",
+          "title": "Python User Interface Project – Use PyQt5 to Code a Music Player",
           "imageUrl": null
         },
         {
@@ -93,16 +103,6 @@
           "publishedOn": "2023-12-21T15:33:32.000Z",
           "wordCount": null,
           "title": "Master Behavioral Interviews (for Software Engineers)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n8mNX2YqkUs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n8mNX2YqkUs",
-          "publishedOn": "2023-12-20T17:40:48.000Z",
-          "wordCount": null,
-          "title": "Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum",
           "imageUrl": null
         }
       ]
