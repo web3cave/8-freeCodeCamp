@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
+          "publishedOn": "2024-01-22T15:32:10.000Z",
+          "wordCount": null,
+          "title": "OpenAI Assistants API – Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=H9KefzbryEw",
           "author": null,
           "description": "",
