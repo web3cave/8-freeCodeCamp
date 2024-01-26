@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x0AnCE9SE4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x0AnCE9SE4A",
+          "publishedOn": "2024-01-25T15:54:04.000Z",
+          "wordCount": null,
+          "title": "LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lzelnAI914A",
           "author": null,
           "description": "",
