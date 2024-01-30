@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T06:12:27.163Z</id>
+    <id>urn:2024-01-30T06:12:46.042Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-29T06:12:27.163Z</updated>
+    <updated>2024-01-30T06:12:46.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript]]></title>
+        <id>https://www.youtube.com/watch?v=KkC_wYM_Co4</id>
+        <link href="https://www.youtube.com/watch?v=KkC_wYM_Co4"/>
+        <updated>2024-01-29T16:31:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beau Carnes: Running the Largest Tutorial Channel – freeCodeCamp.org Podcast]]></title>
         <id>https://www.youtube.com/watch?v=DNPF0oPcMDs</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=VhM2ByShhzE</id>
         <link href="https://www.youtube.com/watch?v=VhM2ByShhzE"/>
         <updated>2024-01-04T14:00:31.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack React Developer Course with Appwrite]]></title>
-        <id>https://www.youtube.com/watch?v=Bvwq_S0n2pk</id>
-        <link href="https://www.youtube.com/watch?v=Bvwq_S0n2pk"/>
-        <updated>2024-01-03T14:09:25.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
