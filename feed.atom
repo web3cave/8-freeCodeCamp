@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T06:12:09.943Z</id>
+    <id>urn:2024-02-01T06:12:34.481Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-31T06:12:09.943Z</updated>
+    <updated>2024-02-01T06:12:34.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Foundations Certification Course – Pass the exam in 10 hours!]]></title>
+        <id>https://www.youtube.com/watch?v=Jdc0i7RcBv8</id>
+        <link href="https://www.youtube.com/watch?v=Jdc0i7RcBv8"/>
+        <updated>2024-01-31T16:20:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning Interview Prep Course]]></title>
         <id>https://www.youtube.com/watch?v=BAregq0sdyY</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=PSNXoAs2FtQ</id>
         <link href="https://www.youtube.com/watch?v=PSNXoAs2FtQ"/>
         <updated>2024-01-09T14:51:14.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Code using AI - ChatGPT Programming Tutorial (Full Course)]]></title>
-        <id>https://www.youtube.com/watch?v=dJhlMn2otxA</id>
-        <link href="https://www.youtube.com/watch?v=dJhlMn2otxA"/>
-        <updated>2024-01-08T15:31:36.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
