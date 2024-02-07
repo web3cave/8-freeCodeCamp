@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
+          "publishedOn": "2024-02-06T15:25:40.000Z",
+          "wordCount": null,
+          "title": "Spring Boot & Spring Data JPA – Complete Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5ZdHfJVAY-s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-01-17T15:57:44.000Z",
           "wordCount": null,
           "title": "Python User Interface Project – Use PyQt5 to Code a Music Player",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PHsC_t0j1dU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PHsC_t0j1dU",
-          "publishedOn": "2024-01-16T15:22:46.000Z",
-          "wordCount": null,
-          "title": "Data Engineering Course for Beginners",
           "imageUrl": null
         }
       ]
