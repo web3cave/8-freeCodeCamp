@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T06:12:08.690Z</id>
+    <id>urn:2024-02-08T06:13:01.644Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-07T06:12:08.690Z</updated>
+    <updated>2024-02-08T06:13:01.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Career Change to Code - The Complete Guide [Full Course for Aspiring Developers]]]></title>
+        <id>https://www.youtube.com/watch?v=YdWkUdMxMvM</id>
+        <link href="https://www.youtube.com/watch?v=YdWkUdMxMvM"/>
+        <updated>2024-02-07T15:49:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spring Boot & Spring Data JPA – Complete Course]]></title>
         <id>https://www.youtube.com/watch?v=5rNk7m_zlAg</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=6nz8GXjxiHg</id>
         <link href="https://www.youtube.com/watch?v=6nz8GXjxiHg"/>
         <updated>2024-01-18T15:39:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python User Interface Project – Use PyQt5 to Code a Music Player]]></title>
-        <id>https://www.youtube.com/watch?v=DjutoyfCl2c</id>
-        <link href="https://www.youtube.com/watch?v=DjutoyfCl2c"/>
-        <updated>2024-01-17T15:57:44.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

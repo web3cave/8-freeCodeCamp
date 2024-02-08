@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YdWkUdMxMvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YdWkUdMxMvM",
+          "publishedOn": "2024-02-07T15:49:07.000Z",
+          "wordCount": null,
+          "title": "Career Change to Code - The Complete Guide [Full Course for Aspiring Developers]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-01-18T15:39:24.000Z",
           "wordCount": null,
           "title": "How to Get a Developer Job – Even in This Economy [Full Course]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DjutoyfCl2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DjutoyfCl2c",
-          "publishedOn": "2024-01-17T15:57:44.000Z",
-          "wordCount": null,
-          "title": "Python User Interface Project – Use PyQt5 to Code a Music Player",
           "imageUrl": null
         }
       ]
