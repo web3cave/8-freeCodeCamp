@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nKovSmd5DWY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nKovSmd5DWY",
+          "publishedOn": "2024-02-08T15:27:37.000Z",
+          "wordCount": null,
+          "title": "ASP.NET Core Tutorial – Full Auction App",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YdWkUdMxMvM",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-01-19T16:23:21.000Z",
           "wordCount": null,
           "title": "Python Data Analysis and Visualization Course – Astronomical Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
-          "publishedOn": "2024-01-18T15:39:24.000Z",
-          "wordCount": null,
-          "title": "How to Get a Developer Job – Even in This Economy [Full Course]",
           "imageUrl": null
         }
       ]
