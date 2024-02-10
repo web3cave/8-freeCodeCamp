@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vDJq3QavcaQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vDJq3QavcaQ",
+          "publishedOn": "2024-02-09T14:45:05.000Z",
+          "wordCount": null,
+          "title": "AI Engineering with Scrimba CEO Per Borgen – freeCodeCamp.org Podcast Interview",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nKovSmd5DWY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-01-22T15:32:10.000Z",
           "wordCount": null,
           "title": "OpenAI Assistants API – Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H9KefzbryEw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H9KefzbryEw",
-          "publishedOn": "2024-01-19T16:23:21.000Z",
-          "wordCount": null,
-          "title": "Python Data Analysis and Visualization Course – Astronomical Data",
           "imageUrl": null
         }
       ]
