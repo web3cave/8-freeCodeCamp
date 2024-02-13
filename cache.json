@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vb7CgDcA_6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vb7CgDcA_6U",
+          "publishedOn": "2024-02-12T15:21:46.000Z",
+          "wordCount": null,
+          "title": "Learn SvelteKit – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vDJq3QavcaQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-01-23T15:02:53.000Z",
           "wordCount": null,
           "title": "Event Driven Architecture on AWS – Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
-          "publishedOn": "2024-01-22T15:32:10.000Z",
-          "wordCount": null,
-          "title": "OpenAI Assistants API – Course for Beginners",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-12T06:12:17.732Z</id>
+    <id>urn:2024-02-13T06:13:37.947Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-12T06:12:17.732Z</updated>
+    <updated>2024-02-13T06:13:37.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn SvelteKit – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=vb7CgDcA_6U</id>
+        <link href="https://www.youtube.com/watch?v=vb7CgDcA_6U"/>
+        <updated>2024-02-12T15:21:46.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Engineering with Scrimba CEO Per Borgen – freeCodeCamp.org Podcast Interview]]></title>
         <id>https://www.youtube.com/watch?v=vDJq3QavcaQ</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Zr6fnhvJKlw</id>
         <link href="https://www.youtube.com/watch?v=Zr6fnhvJKlw"/>
         <updated>2024-01-23T15:02:53.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Assistants API – Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=qHPonmSX4Ms</id>
-        <link href="https://www.youtube.com/watch?v=qHPonmSX4Ms"/>
-        <updated>2024-01-22T15:32:10.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
