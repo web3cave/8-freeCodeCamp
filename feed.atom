@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T06:12:37.761Z</id>
+    <id>urn:2024-02-21T06:12:26.180Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-20T06:12:37.761Z</updated>
+    <updated>2024-02-21T06:12:26.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Resume Projects]]></title>
+        <id>https://www.youtube.com/watch?v=bjbVUuFi5Wk</id>
+        <link href="https://www.youtube.com/watch?v=bjbVUuFi5Wk"/>
+        <updated>2024-02-20T16:30:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structures and Algorithms with Visualizations – Full Course (Java)]]></title>
+        <id>https://www.youtube.com/watch?v=2ZLl8GAk1X4</id>
+        <link href="https://www.youtube.com/watch?v=2ZLl8GAk1X4"/>
+        <updated>2024-02-20T15:26:49.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet the Software Engineer Who Abandoned her Successful Music Career – freeCodeCamp Podcast]]></title>
         <id>https://www.youtube.com/watch?v=tM6OOJt0S2Y</id>
@@ -118,24 +136,6 @@
         <id>https://www.youtube.com/watch?v=Jdc0i7RcBv8</id>
         <link href="https://www.youtube.com/watch?v=Jdc0i7RcBv8"/>
         <updated>2024-01-31T16:20:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning Interview Prep Course]]></title>
-        <id>https://www.youtube.com/watch?v=BAregq0sdyY</id>
-        <link href="https://www.youtube.com/watch?v=BAregq0sdyY"/>
-        <updated>2024-01-30T16:12:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript]]></title>
-        <id>https://www.youtube.com/watch?v=KkC_wYM_Co4</id>
-        <link href="https://www.youtube.com/watch?v=KkC_wYM_Co4"/>
-        <updated>2024-01-29T16:31:19.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
