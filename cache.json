@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hHjmr_YOqnU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hHjmr_YOqnU",
+          "publishedOn": "2024-02-21T14:56:59.000Z",
+          "wordCount": null,
+          "title": "Azure AI Fundamentals Certification 2024 (AI-900) - Full Course to PASS the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bjbVUuFi5Wk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-02-01T15:38:37.000Z",
           "wordCount": null,
           "title": "Learn Accessibility - Full a11y Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jdc0i7RcBv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jdc0i7RcBv8",
-          "publishedOn": "2024-01-31T16:20:36.000Z",
-          "wordCount": null,
-          "title": "GitHub Foundations Certification Course – Pass the exam in 10 hours!",
           "imageUrl": null
         }
       ]
