@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-22T06:12:38.493Z</id>
+    <id>urn:2024-02-23T06:12:40.199Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-22T06:12:38.493Z</updated>
+    <updated>2024-02-23T06:12:40.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Logical And &&]]></title>
+        <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
+        <link href="https://www.youtube.com/watch?v=PFRzf5AR1Sw"/>
+        <updated>2024-02-22T20:50:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini AI Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=DJtX3S7qx2s</id>
+        <link href="https://www.youtube.com/watch?v=DJtX3S7qx2s"/>
+        <updated>2024-02-22T16:00:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure AI Fundamentals Certification 2024 (AI-900) - Full Course to PASS the Exam]]></title>
         <id>https://www.youtube.com/watch?v=hHjmr_YOqnU</id>
@@ -118,24 +136,6 @@
         <id>https://www.youtube.com/watch?v=5ZdHfJVAY-s</id>
         <link href="https://www.youtube.com/watch?v=5ZdHfJVAY-s"/>
         <updated>2024-02-05T15:30:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh My Zsh Creator Robby Russell – freeCodeCamp.org Podcast Interview]]></title>
-        <id>https://www.youtube.com/watch?v=OwjKN9_NqPI</id>
-        <link href="https://www.youtube.com/watch?v=OwjKN9_NqPI"/>
-        <updated>2024-02-02T15:26:29.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Accessibility - Full a11y Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=e2nkq3h1P68</id>
-        <link href="https://www.youtube.com/watch?v=e2nkq3h1P68"/>
-        <updated>2024-02-01T15:38:37.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

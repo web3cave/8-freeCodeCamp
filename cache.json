@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PFRzf5AR1Sw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PFRzf5AR1Sw",
+          "publishedOn": "2024-02-22T20:50:48.000Z",
+          "wordCount": null,
+          "title": "Logical And &&",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
+          "publishedOn": "2024-02-22T16:00:09.000Z",
+          "wordCount": null,
+          "title": "Google Gemini AI Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hHjmr_YOqnU",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-02-05T15:30:28.000Z",
           "wordCount": null,
           "title": "Build 25 React Projects – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OwjKN9_NqPI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OwjKN9_NqPI",
-          "publishedOn": "2024-02-02T15:26:29.000Z",
-          "wordCount": null,
-          "title": "Oh My Zsh Creator Robby Russell – freeCodeCamp.org Podcast Interview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e2nkq3h1P68",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e2nkq3h1P68",
-          "publishedOn": "2024-02-01T15:38:37.000Z",
-          "wordCount": null,
-          "title": "Learn Accessibility - Full a11y Tutorial",
           "imageUrl": null
         }
       ]
