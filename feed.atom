@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T06:12:40.199Z</id>
+    <id>urn:2024-02-24T06:11:18.884Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-23T06:12:40.199Z</updated>
+    <updated>2024-02-24T06:11:18.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast]]></title>
+        <id>https://www.youtube.com/watch?v=mCjRYS1Wr0Q</id>
+        <link href="https://www.youtube.com/watch?v=mCjRYS1Wr0Q"/>
+        <updated>2024-02-23T15:00:47.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logical And &&]]></title>
         <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=5rNk7m_zlAg</id>
         <link href="https://www.youtube.com/watch?v=5rNk7m_zlAg"/>
         <updated>2024-02-06T15:25:40.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build 25 React Projects – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=5ZdHfJVAY-s</id>
-        <link href="https://www.youtube.com/watch?v=5ZdHfJVAY-s"/>
-        <updated>2024-02-05T15:30:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
