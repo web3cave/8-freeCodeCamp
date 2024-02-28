@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T06:12:05.468Z</id>
+    <id>urn:2024-02-28T06:12:16.094Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-27T06:12:05.468Z</updated>
+    <updated>2024-02-28T06:12:16.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More]]></title>
+        <id>https://www.youtube.com/watch?v=mEsleV16qdo</id>
+        <link href="https://www.youtube.com/watch?v=mEsleV16qdo"/>
+        <updated>2024-02-27T14:07:37.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast]]></title>
         <id>https://www.youtube.com/watch?v=mCjRYS1Wr0Q</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=YdWkUdMxMvM</id>
         <link href="https://www.youtube.com/watch?v=YdWkUdMxMvM"/>
         <updated>2024-02-07T15:49:07.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot & Spring Data JPA – Complete Course]]></title>
-        <id>https://www.youtube.com/watch?v=5rNk7m_zlAg</id>
-        <link href="https://www.youtube.com/watch?v=5rNk7m_zlAg"/>
-        <updated>2024-02-06T15:25:40.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
