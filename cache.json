@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ixsr2RyZcv4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ixsr2RyZcv4",
+          "publishedOn": "2024-03-01T15:15:57.000Z",
+          "wordCount": null,
+          "title": "AI and the Future of Education with Seth Goldin – freeCodeCamp Podcast",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bmmQA8A-yUA",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-02-12T15:21:46.000Z",
           "wordCount": null,
           "title": "Learn SvelteKit – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vDJq3QavcaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vDJq3QavcaQ",
-          "publishedOn": "2024-02-09T14:45:05.000Z",
-          "wordCount": null,
-          "title": "AI Engineering with Scrimba CEO Per Borgen – freeCodeCamp.org Podcast Interview",
           "imageUrl": null
         }
       ]
