@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-04T06:57:08.500Z</id>
+    <id>urn:2024-03-05T06:12:08.034Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-04T06:57:08.500Z</updated>
+    <updated>2024-03-05T06:12:08.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn C# – Full Course with Mini-Projects]]></title>
+        <id>https://www.youtube.com/watch?v=YrtFtdTTfv0</id>
+        <link href="https://www.youtube.com/watch?v=YrtFtdTTfv0"/>
+        <updated>2024-03-04T15:33:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI and the Future of Education with Seth Goldin – freeCodeCamp Podcast]]></title>
         <id>https://www.youtube.com/watch?v=Ixsr2RyZcv4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=o5t7PxRJSXk</id>
         <link href="https://www.youtube.com/watch?v=o5t7PxRJSXk"/>
         <updated>2024-02-13T15:41:39.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SvelteKit – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=vb7CgDcA_6U</id>
-        <link href="https://www.youtube.com/watch?v=vb7CgDcA_6U"/>
-        <updated>2024-02-12T15:21:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
