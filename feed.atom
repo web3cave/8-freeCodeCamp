@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-08T06:11:55.422Z</id>
+    <id>urn:2024-03-09T06:13:44.405Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-08T06:11:55.422Z</updated>
+    <updated>2024-03-09T06:13:44.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo (Cassidy Williams)]]></title>
+        <id>https://www.youtube.com/watch?v=T-dzgrlgmm0</id>
+        <link href="https://www.youtube.com/watch?v=T-dzgrlgmm0"/>
+        <updated>2024-03-08T15:09:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code a Virtual 3D Art Gallery – Three.js JavaScript Tutorial / Code-a-Long]]></title>
         <id>https://www.youtube.com/watch?v=imqiYWidUIA</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=tM6OOJt0S2Y</id>
         <link href="https://www.youtube.com/watch?v=tM6OOJt0S2Y"/>
         <updated>2024-02-16T15:00:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100 Days of Code]]></title>
-        <id>https://www.youtube.com/watch?v=j3YM5eUjw0E</id>
-        <link href="https://www.youtube.com/watch?v=j3YM5eUjw0E"/>
-        <updated>2024-02-14T19:17:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
