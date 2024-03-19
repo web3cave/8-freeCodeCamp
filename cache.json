@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "publishedOn": "2024-03-18T14:11:22.000Z",
+          "wordCount": null,
+          "title": "Building web applications in Java with Spring Boot 3 – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WomQr-jRO1c",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-02-22T20:50:48.000Z",
           "wordCount": null,
           "title": "Logical And &&",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
-          "publishedOn": "2024-02-22T16:00:09.000Z",
-          "wordCount": null,
-          "title": "Google Gemini AI Course for Beginners",
           "imageUrl": null
         }
       ]
