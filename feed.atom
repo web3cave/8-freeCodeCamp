@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T06:12:16.157Z</id>
+    <id>urn:2024-03-20T06:12:16.970Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-19T06:12:16.157Z</updated>
+    <updated>2024-03-20T06:12:16.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to Stacks – Data Structure Explained]]></title>
+        <id>https://www.youtube.com/watch?v=k1IaYPGel3s</id>
+        <link href="https://www.youtube.com/watch?v=k1IaYPGel3s"/>
+        <updated>2024-03-19T14:19:29.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building web applications in Java with Spring Boot 3 – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=31KTdfRH6nY</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=mCjRYS1Wr0Q</id>
         <link href="https://www.youtube.com/watch?v=mCjRYS1Wr0Q"/>
         <updated>2024-02-23T15:00:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical And &&]]></title>
-        <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
-        <link href="https://www.youtube.com/watch?v=PFRzf5AR1Sw"/>
-        <updated>2024-02-22T20:50:48.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
