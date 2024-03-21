@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6SAFgcMie4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6SAFgcMie4U",
+          "publishedOn": "2024-03-20T14:40:17.000Z",
+          "wordCount": null,
+          "title": "ASP.NET Core Tutorial – Beginner to Advanced Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k1IaYPGel3s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-02-27T14:07:37.000Z",
           "wordCount": null,
           "title": "Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mCjRYS1Wr0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mCjRYS1Wr0Q",
-          "publishedOn": "2024-02-23T15:00:47.000Z",
-          "wordCount": null,
-          "title": "Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T06:12:16.970Z</id>
+    <id>urn:2024-03-21T06:12:13.448Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-20T06:12:16.970Z</updated>
+    <updated>2024-03-21T06:12:13.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ASP.NET Core Tutorial – Beginner to Advanced Projects]]></title>
+        <id>https://www.youtube.com/watch?v=6SAFgcMie4U</id>
+        <link href="https://www.youtube.com/watch?v=6SAFgcMie4U"/>
+        <updated>2024-03-20T14:40:17.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro to Stacks – Data Structure Explained]]></title>
         <id>https://www.youtube.com/watch?v=k1IaYPGel3s</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=mEsleV16qdo</id>
         <link href="https://www.youtube.com/watch?v=mEsleV16qdo"/>
         <updated>2024-02-27T14:07:37.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast]]></title>
-        <id>https://www.youtube.com/watch?v=mCjRYS1Wr0Q</id>
-        <link href="https://www.youtube.com/watch?v=mCjRYS1Wr0Q"/>
-        <updated>2024-02-23T15:00:47.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
