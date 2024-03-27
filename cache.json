@@ -1,4 +1,162 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
+          "publishedOn": "2024-03-26T14:25:14.000Z",
+          "wordCount": null,
+          "title": "Learn NestJS – Complete Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NnSIKA77pD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NnSIKA77pD8",
+          "publishedOn": "2024-03-25T14:49:13.000Z",
+          "wordCount": null,
+          "title": "Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lSxiMMs5y-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lSxiMMs5y-4",
+          "publishedOn": "2024-03-22T15:13:00.000Z",
+          "wordCount": null,
+          "title": "She wrote code you use every day [freeCodeCamp Podcast #116]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JHEB7RhJG1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JHEB7RhJG1Y",
+          "publishedOn": "2024-03-21T13:22:58.000Z",
+          "wordCount": null,
+          "title": "Practical TypeScript – Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6SAFgcMie4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6SAFgcMie4U",
+          "publishedOn": "2024-03-20T14:40:17.000Z",
+          "wordCount": null,
+          "title": "ASP.NET Core Tutorial – Beginner to Advanced Projects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k1IaYPGel3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k1IaYPGel3s",
+          "publishedOn": "2024-03-19T14:19:29.000Z",
+          "wordCount": null,
+          "title": "Intro to Stacks – Data Structure Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "publishedOn": "2024-03-18T14:11:22.000Z",
+          "wordCount": null,
+          "title": "Building web applications in Java with Spring Boot 3 – Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WomQr-jRO1c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WomQr-jRO1c",
+          "publishedOn": "2024-03-15T14:18:36.000Z",
+          "wordCount": null,
+          "title": "From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qTEag3J1ebY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qTEag3J1ebY",
+          "publishedOn": "2024-03-13T13:41:58.000Z",
+          "wordCount": null,
+          "title": "Localize Your Websites with Crowdin – Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ufBbWIyKY2E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ufBbWIyKY2E",
+          "publishedOn": "2024-03-12T15:10:05.000Z",
+          "wordCount": null,
+          "title": "Top 10 Javascript Algorithms to Prepare for Coding Interviews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tN6oJu2DqCM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tN6oJu2DqCM",
+          "publishedOn": "2024-03-11T14:16:38.000Z",
+          "wordCount": null,
+          "title": "Back End Developer Roadmap 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T-dzgrlgmm0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T-dzgrlgmm0",
+          "publishedOn": "2024-03-08T15:09:57.000Z",
+          "wordCount": null,
+          "title": "From Microsoft to Amazon to CTO with Cassidoo [freeCodeCamp Podcast #114 Cassidy Williams]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=imqiYWidUIA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=imqiYWidUIA",
+          "publishedOn": "2024-03-07T15:08:17.000Z",
+          "wordCount": null,
+          "title": "Code a Virtual 3D Art Gallery – Three.js JavaScript Tutorial / Code-a-Long",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OHvfgaDl-yY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OHvfgaDl-yY",
+          "publishedOn": "2024-03-05T15:47:57.000Z",
+          "wordCount": null,
+          "title": "Task Manager Coding Project Tutorial – Next.js, React, Prisma, MongoDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
+          "publishedOn": "2024-03-04T15:33:36.000Z",
+          "wordCount": null,
+          "title": "Learn C# Programming – Full Course with Mini-Projects",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
