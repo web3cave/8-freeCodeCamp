@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-01T06:12:59.250Z</id>
+    <id>urn:2024-04-02T06:12:45.722Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-01T06:12:59.251Z</updated>
+    <updated>2024-04-02T06:12:45.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automate Boring Tasks – No-Code Automation Course]]></title>
+        <title type="html"><![CDATA[Easily Automate Business Tasks – No-Code Automation Course]]></title>
         <id>https://www.youtube.com/watch?v=5kJv254sebQ</id>
         <link href="https://www.youtube.com/watch?v=5kJv254sebQ"/>
         <updated>2024-03-28T14:35:52.000Z</updated>
