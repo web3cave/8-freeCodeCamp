@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VgzHT9quo5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VgzHT9quo5c",
+          "publishedOn": "2024-04-02T13:25:52.000Z",
+          "wordCount": null,
+          "title": "Understanding AI from Scratch – Neural Networks Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KYAakLooVuE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-03-08T15:09:57.000Z",
           "wordCount": null,
           "title": "From Microsoft to Amazon to CTO with Cassidoo [freeCodeCamp Podcast #114 Cassidy Williams]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=imqiYWidUIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=imqiYWidUIA",
-          "publishedOn": "2024-03-07T15:08:17.000Z",
-          "wordCount": null,
-          "title": "Code a Virtual 3D Art Gallery – Three.js JavaScript Tutorial / Code-a-Long",
           "imageUrl": null
         }
       ]
