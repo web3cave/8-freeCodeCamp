@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
+          "publishedOn": "2024-04-11T14:02:16.000Z",
+          "wordCount": null,
+          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ftKiHCDVwfA",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=ftKiHCDVwfA",
           "publishedOn": "2024-04-10T14:23:10.000Z",
           "wordCount": null,
-          "title": "Backend Development Course - Build 3 Projects",
+          "title": "Learn Python Backend Development by Building 3 Projects [Full Course]",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-03-18T14:11:22.000Z",
           "wordCount": null,
           "title": "Building web applications in Java with Spring Boot 3 – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WomQr-jRO1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WomQr-jRO1c",
-          "publishedOn": "2024-03-15T14:18:36.000Z",
-          "wordCount": null,
-          "title": "From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]",
           "imageUrl": null
         }
       ]

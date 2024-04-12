@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-11T06:12:50.778Z</id>
+    <id>urn:2024-04-12T06:13:07.077Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-11T06:12:50.778Z</updated>
+    <updated>2024-04-12T06:13:07.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Backend Development Course - Build 3 Projects]]></title>
+        <title type="html"><![CDATA[One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI]]></title>
+        <id>https://www.youtube.com/watch?v=-kLs1NGt3ys</id>
+        <link href="https://www.youtube.com/watch?v=-kLs1NGt3ys"/>
+        <updated>2024-04-11T14:02:16.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Backend Development by Building 3 Projects [Full Course]]]></title>
         <id>https://www.youtube.com/watch?v=ftKiHCDVwfA</id>
         <link href="https://www.youtube.com/watch?v=ftKiHCDVwfA"/>
         <updated>2024-04-10T14:23:10.000Z</updated>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=31KTdfRH6nY</id>
         <link href="https://www.youtube.com/watch?v=31KTdfRH6nY"/>
         <updated>2024-03-18T14:11:22.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]]]></title>
-        <id>https://www.youtube.com/watch?v=WomQr-jRO1c</id>
-        <link href="https://www.youtube.com/watch?v=WomQr-jRO1c"/>
-        <updated>2024-03-15T14:18:36.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
