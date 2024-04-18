@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+          "publishedOn": "2024-04-17T13:54:43.000Z",
+          "wordCount": null,
+          "title": "RAG From Scratch – Tutorial from LangChain Engineer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KZe0C0Qq4p0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-03-22T15:13:00.000Z",
           "wordCount": null,
           "title": "She wrote code you use every day [freeCodeCamp Podcast #116]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JHEB7RhJG1Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JHEB7RhJG1Y",
-          "publishedOn": "2024-03-21T13:22:58.000Z",
-          "wordCount": null,
-          "title": "Practical TypeScript – Course for Beginners",
           "imageUrl": null
         }
       ]
