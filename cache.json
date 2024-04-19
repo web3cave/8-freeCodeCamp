@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CzcfeL7ymbU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CzcfeL7ymbU",
+          "publishedOn": "2024-04-18T15:01:11.000Z",
+          "wordCount": null,
+          "title": "WebSockets Beginners Tutorial with Socket.IO",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
           "publishedOn": "2024-04-17T13:54:43.000Z",
           "wordCount": null,
-          "title": "RAG From Scratch – Tutorial from LangChain Engineer",
+          "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-03-25T14:49:13.000Z",
           "wordCount": null,
           "title": "Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lSxiMMs5y-4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lSxiMMs5y-4",
-          "publishedOn": "2024-03-22T15:13:00.000Z",
-          "wordCount": null,
-          "title": "She wrote code you use every day [freeCodeCamp Podcast #116]",
           "imageUrl": null
         }
       ]
