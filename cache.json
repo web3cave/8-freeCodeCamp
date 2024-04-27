@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
+          "publishedOn": "2024-04-26T14:02:24.000Z",
+          "wordCount": null,
+          "title": "Ben Awad is a GameDev Who Sleeps 9 hours EVERY NIGHT to be Productive [Quincy Interviews him #121]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R6WvJOiX99s",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=R6WvJOiX99s",
           "publishedOn": "2024-04-25T14:35:42.000Z",
           "wordCount": null,
-          "title": "TypeScript Platformer Game Tutorial – Kirby Clone",
+          "title": "Code Kirby in a Browser – TypeScript GameDev Tutorial",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-04T13:00:33.000Z",
           "wordCount": null,
           "title": "Learn React Router v6 – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wy_fSStEgMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wy_fSStEgMs",
-          "publishedOn": "2024-04-03T15:15:48.000Z",
-          "wordCount": null,
-          "title": "Build a Dev Portfolio as a 2D Game – JavaScript Course",
           "imageUrl": null
         }
       ]
