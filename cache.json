@@ -1,4 +1,162 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
+          "publishedOn": "2024-04-26T14:02:24.000Z",
+          "wordCount": null,
+          "title": "Ben Awad is a GameDev Who Sleeps 9 hours EVERY NIGHT to be Productive [Quincy Interviews him #121]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=R6WvJOiX99s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R6WvJOiX99s",
+          "publishedOn": "2024-04-25T14:35:42.000Z",
+          "wordCount": null,
+          "title": "Code Kirby in a Browser – TypeScript GameDev Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dSykLAkmZ84",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dSykLAkmZ84",
+          "publishedOn": "2024-04-24T14:40:47.000Z",
+          "wordCount": null,
+          "title": "Webflow Tutorial for Beginners – No-Code Web Design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l71rTm_0260",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l71rTm_0260",
+          "publishedOn": "2024-04-23T14:07:11.000Z",
+          "wordCount": null,
+          "title": "Build a Google Photos Clone with Next.js and Cloudinary – Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mXW7JHJM34k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mXW7JHJM34k",
+          "publishedOn": "2024-04-22T15:35:31.000Z",
+          "wordCount": null,
+          "title": "Intuitive SQL For Data Analytics - Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
+          "publishedOn": "2024-04-19T14:33:52.000Z",
+          "wordCount": null,
+          "title": "CTO Andrew Brown on DevOps + Cloud Certification Exams [freeCodeCamp Podcast #120]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CzcfeL7ymbU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CzcfeL7ymbU",
+          "publishedOn": "2024-04-18T15:01:11.000Z",
+          "wordCount": null,
+          "title": "WebSockets Beginners Tutorial with Socket.IO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+          "publishedOn": "2024-04-17T13:54:43.000Z",
+          "wordCount": null,
+          "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KZe0C0Qq4p0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZe0C0Qq4p0",
+          "publishedOn": "2024-04-16T14:42:15.000Z",
+          "wordCount": null,
+          "title": "Data Science Essentials – Crash Course in A/B Testing with Case Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Td3lirXIeRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Td3lirXIeRI",
+          "publishedOn": "2024-04-15T14:48:13.000Z",
+          "wordCount": null,
+          "title": "Digital Ocean Tutorial – Deploy Django and Other Frameworks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZAkEpjDg26o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZAkEpjDg26o",
+          "publishedOn": "2024-04-12T14:36:34.000Z",
+          "wordCount": null,
+          "title": "CSS Artist Kass Moreno – freeCodeCamp Podcast #119",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
+          "publishedOn": "2024-04-11T14:02:16.000Z",
+          "wordCount": null,
+          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ftKiHCDVwfA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ftKiHCDVwfA",
+          "publishedOn": "2024-04-10T14:23:10.000Z",
+          "wordCount": null,
+          "title": "Learn Python Backend Development by Building 3 Projects [Full Course]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aWWF9kP70Tc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aWWF9kP70Tc",
+          "publishedOn": "2024-04-05T15:15:04.000Z",
+          "wordCount": null,
+          "title": "Indie Game Dev Jabrils talks AI & Anime [freeCodeCamp Podcast #118]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SMq1IQRweDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SMq1IQRweDc",
+          "publishedOn": "2024-04-04T13:00:33.000Z",
+          "wordCount": null,
+          "title": "Learn React Router v6 – Full Course",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
