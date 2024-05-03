@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fJIsqZmQVZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fJIsqZmQVZQ",
+          "publishedOn": "2024-05-02T14:25:51.000Z",
+          "wordCount": null,
+          "title": "Code a Chess Game with Stockfish API – JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s5YM1kH1ht8",
           "author": null,
           "description": "",
@@ -52,7 +62,7 @@
           "link": "https://www.youtube.com/watch?v=R6WvJOiX99s",
           "publishedOn": "2024-04-25T14:35:42.000Z",
           "wordCount": null,
-          "title": "Code Kirby in a Browser – TypeScript GameDev Tutorial",
+          "title": "Code Your Own Kirby Game in a Browser – TypeScript GameDev Tutorial",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-12T14:36:34.000Z",
           "wordCount": null,
           "title": "CSS Artist Kass Moreno – freeCodeCamp Podcast #119",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-kLs1NGt3ys",
-          "publishedOn": "2024-04-11T14:02:16.000Z",
-          "wordCount": null,
-          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI",
           "imageUrl": null
         }
       ]
