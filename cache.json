@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HJd1I3FdSnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HJd1I3FdSnY",
+          "publishedOn": "2024-05-06T13:34:38.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X9R7TpGxPG4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-16T14:42:15.000Z",
           "wordCount": null,
           "title": "Data Science Essentials – Crash Course in A/B Testing with Case Study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Td3lirXIeRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Td3lirXIeRI",
-          "publishedOn": "2024-04-15T14:48:13.000Z",
-          "wordCount": null,
-          "title": "Digital Ocean Tutorial – Deploy Django and Other Frameworks",
           "imageUrl": null
         }
       ]
