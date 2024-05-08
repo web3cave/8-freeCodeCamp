@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-07T06:13:46.029Z</id>
+    <id>urn:2024-05-08T06:12:08.069Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-07T06:13:46.029Z</updated>
+    <updated>2024-05-08T06:12:08.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions Certification – Full Course to PASS the Exam]]></title>
+        <id>https://www.youtube.com/watch?v=Tz7FsunBbfQ</id>
+        <link href="https://www.youtube.com/watch?v=Tz7FsunBbfQ"/>
+        <updated>2024-05-07T13:42:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=HJd1I3FdSnY</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=sVcwVQRHIc8</id>
         <link href="https://www.youtube.com/watch?v=sVcwVQRHIc8"/>
         <updated>2024-04-17T13:54:43.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Essentials – Crash Course in A/B Testing with Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=KZe0C0Qq4p0</id>
-        <link href="https://www.youtube.com/watch?v=KZe0C0Qq4p0"/>
-        <updated>2024-04-16T14:42:15.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
