@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h4puc1P2VMA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h4puc1P2VMA",
+          "publishedOn": "2024-05-10T14:54:28.000Z",
+          "wordCount": null,
+          "title": "Pro Designer Gary Simon Talks Freelance + Career Tips [Podcast #123]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pHQfw1W7V8s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-22T15:35:31.000Z",
           "wordCount": null,
           "title": "Intuitive SQL For Data Analytics - Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
-          "publishedOn": "2024-04-19T14:33:52.000Z",
-          "wordCount": null,
-          "title": "CTO Andrew Brown on DevOps + Cloud Certification Exams [freeCodeCamp Podcast #120]",
           "imageUrl": null
         }
       ]
