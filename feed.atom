@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T06:11:39.617Z</id>
+    <id>urn:2024-05-17T06:13:51.566Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T06:11:39.617Z</updated>
+    <updated>2024-05-17T06:13:51.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Quantum Computing Course]]></title>
+        <title type="html"><![CDATA[College Precalculus – Full Course with Python Code]]></title>
+        <id>https://www.youtube.com/watch?v=Y8oZtFYweTY</id>
+        <link href="https://www.youtube.com/watch?v=Y8oZtFYweTY"/>
+        <updated>2024-05-16T13:50:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computing Course – Math and Theory for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=tsbCSkvHhMo</id>
         <link href="https://www.youtube.com/watch?v=tsbCSkvHhMo"/>
         <updated>2024-05-15T14:29:27.000Z</updated>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=N1pYdEAU9mk</id>
         <link href="https://www.youtube.com/watch?v=N1pYdEAU9mk"/>
         <updated>2024-04-26T14:02:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Your Own Kirby Game in a Browser – TypeScript GameDev Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=R6WvJOiX99s</id>
-        <link href="https://www.youtube.com/watch?v=R6WvJOiX99s"/>
-        <updated>2024-04-25T14:35:42.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

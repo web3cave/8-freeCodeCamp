@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y8oZtFYweTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y8oZtFYweTY",
+          "publishedOn": "2024-05-16T13:50:12.000Z",
+          "wordCount": null,
+          "title": "College Precalculus – Full Course with Python Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tsbCSkvHhMo",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=tsbCSkvHhMo",
           "publishedOn": "2024-05-15T14:29:27.000Z",
           "wordCount": null,
-          "title": "Quantum Computing Course",
+          "title": "Quantum Computing Course – Math and Theory for Beginners",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-26T14:02:24.000Z",
           "wordCount": null,
           "title": "Ben Awad is a GameDev Who Sleeps 9 hours EVERY NIGHT to be Productive [Quincy Interviews him #121]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R6WvJOiX99s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R6WvJOiX99s",
-          "publishedOn": "2024-04-25T14:35:42.000Z",
-          "wordCount": null,
-          "title": "Code Your Own Kirby Game in a Browser – TypeScript GameDev Tutorial",
           "imageUrl": null
         }
       ]
