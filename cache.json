@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
+          "publishedOn": "2024-05-17T18:50:34.000Z",
+          "wordCount": null,
+          "title": "AI is Overrated – Why ThePrimeagen Ripped Out GitHub Copilot From His Code Editor [Podcast #124]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y8oZtFYweTY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-29T15:10:56.000Z",
           "wordCount": null,
           "title": "Intro to AI Engineering – OpenAI JavaScript Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
-          "publishedOn": "2024-04-26T14:02:24.000Z",
-          "wordCount": null,
-          "title": "Ben Awad is a GameDev Who Sleeps 9 hours EVERY NIGHT to be Productive [Quincy Interviews him #121]",
           "imageUrl": null
         }
       ]
