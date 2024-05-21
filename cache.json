@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dg7bZUFopUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dg7bZUFopUo",
+          "publishedOn": "2024-05-20T17:26:16.000Z",
+          "wordCount": null,
+          "title": "Angular and Supabase Course – Build a Realtime Chat Application",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-04-30T14:39:38.000Z",
           "wordCount": null,
           "title": "Next.js vs React – What's the difference?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yjy837dDvOY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yjy837dDvOY",
-          "publishedOn": "2024-04-29T15:10:56.000Z",
-          "wordCount": null,
-          "title": "Intro to AI Engineering – OpenAI JavaScript Tutorial",
           "imageUrl": null
         }
       ]
