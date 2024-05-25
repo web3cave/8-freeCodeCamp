@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vfcqsP99U90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vfcqsP99U90",
+          "publishedOn": "2024-05-24T14:13:50.000Z",
+          "wordCount": null,
+          "title": "Open Source is Changing. Quincy interviews Jerod Santo, host of The Changelog [Podcast #125]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-06T13:34:38.000Z",
           "wordCount": null,
           "title": "Deep Learning Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X9R7TpGxPG4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X9R7TpGxPG4",
-          "publishedOn": "2024-05-03T14:50:20.000Z",
-          "wordCount": null,
-          "title": "From Construction Worker to Teaching MILLIONS of Developers with John Smilga [Podcast #122]",
           "imageUrl": null
         }
       ]
