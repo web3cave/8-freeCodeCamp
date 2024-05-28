@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rSjt1E9WHaQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rSjt1E9WHaQ",
+          "publishedOn": "2024-05-27T18:12:09.000Z",
+          "wordCount": null,
+          "title": "Linear Algebra Course – Mathematics for Machine Learning and Generative AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vfcqsP99U90",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-07T13:42:11.000Z",
           "wordCount": null,
           "title": "GitHub Actions Certification – Full Course to PASS the Exam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HJd1I3FdSnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HJd1I3FdSnY",
-          "publishedOn": "2024-05-06T13:34:38.000Z",
-          "wordCount": null,
-          "title": "Deep Learning Course for Beginners",
           "imageUrl": null
         }
       ]
