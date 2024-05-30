@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
+          "publishedOn": "2024-05-29T14:37:58.000Z",
+          "wordCount": null,
+          "title": "Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rSjt1E9WHaQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-08T13:38:56.000Z",
           "wordCount": null,
           "title": "Learn Git – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Tz7FsunBbfQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tz7FsunBbfQ",
-          "publishedOn": "2024-05-07T13:42:11.000Z",
-          "wordCount": null,
-          "title": "GitHub Actions Certification – Full Course to PASS the Exam",
           "imageUrl": null
         }
       ]
