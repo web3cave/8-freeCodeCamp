@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T06:14:30.777Z</id>
+    <id>urn:2024-06-07T06:15:11.431Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-06T06:14:30.777Z</updated>
+    <updated>2024-06-07T06:15:11.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam]]></title>
+        <id>https://www.youtube.com/watch?v=11KT1hPNkY4</id>
+        <link href="https://www.youtube.com/watch?v=11KT1hPNkY4"/>
+        <updated>2024-06-06T14:07:50.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distributed File Storage In Go – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=IoY6bE--A54</id>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Software Engineer to Security Researcher with Suz Hinton [Podcast #126]]]></title>
+        <title type="html"><![CDATA[From Software Engineer to White Hat Hacker with Suz Hinton [Podcast #126]]]></title>
         <id>https://www.youtube.com/watch?v=07lfmzGHrSI</id>
         <link href="https://www.youtube.com/watch?v=07lfmzGHrSI"/>
         <updated>2024-05-31T14:17:12.000Z</updated>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Y8oZtFYweTY</id>
         <link href="https://www.youtube.com/watch?v=Y8oZtFYweTY"/>
         <updated>2024-05-16T13:50:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Computing Course – Math and Theory for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=tsbCSkvHhMo</id>
-        <link href="https://www.youtube.com/watch?v=tsbCSkvHhMo"/>
-        <updated>2024-05-15T14:29:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

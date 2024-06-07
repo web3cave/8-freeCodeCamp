@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=11KT1hPNkY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=11KT1hPNkY4",
+          "publishedOn": "2024-06-06T14:07:50.000Z",
+          "wordCount": null,
+          "title": "Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IoY6bE--A54",
           "author": null,
           "description": "",
@@ -42,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=07lfmzGHrSI",
           "publishedOn": "2024-05-31T14:17:12.000Z",
           "wordCount": null,
-          "title": "From Software Engineer to Security Researcher with Suz Hinton [Podcast #126]",
+          "title": "From Software Engineer to White Hat Hacker with Suz Hinton [Podcast #126]",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-16T13:50:12.000Z",
           "wordCount": null,
           "title": "College Precalculus – Full Course with Python Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tsbCSkvHhMo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tsbCSkvHhMo",
-          "publishedOn": "2024-05-15T14:29:27.000Z",
-          "wordCount": null,
-          "title": "Quantum Computing Course – Math and Theory for Beginners",
           "imageUrl": null
         }
       ]
