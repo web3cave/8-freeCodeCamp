@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T06:16:00.426Z</id>
+    <id>urn:2024-06-11T06:14:20.685Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-10T06:16:00.426Z</updated>
+    <updated>2024-06-11T06:14:20.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence]]></title>
+        <id>https://www.youtube.com/watch?v=FTpmwX94_Yo</id>
+        <link href="https://www.youtube.com/watch?v=FTpmwX94_Yo"/>
+        <updated>2024-06-10T13:46:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Outsmart AI as a Developer with Dr. Chuck [Podcast #127]]]></title>
         <id>https://www.youtube.com/watch?v=skg2XRUMcGQ</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Dg7bZUFopUo</id>
         <link href="https://www.youtube.com/watch?v=Dg7bZUFopUo"/>
         <updated>2024-05-20T17:26:16.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is Overrated – Why ThePrimeagen Ripped Out GitHub Copilot From His Code Editor [Podcast #124]]]></title>
-        <id>https://www.youtube.com/watch?v=SuWKCv3ewXw</id>
-        <link href="https://www.youtube.com/watch?v=SuWKCv3ewXw"/>
-        <updated>2024-05-17T18:50:34.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

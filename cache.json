@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
+          "publishedOn": "2024-06-10T13:46:48.000Z",
+          "wordCount": null,
+          "title": "Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=skg2XRUMcGQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-20T17:26:16.000Z",
           "wordCount": null,
           "title": "Angular and Supabase Course – Build a Realtime Chat Application",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
-          "publishedOn": "2024-05-17T18:50:34.000Z",
-          "wordCount": null,
-          "title": "AI is Overrated – Why ThePrimeagen Ripped Out GitHub Copilot From His Code Editor [Podcast #124]",
           "imageUrl": null
         }
       ]
