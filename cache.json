@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FiXOaYnW64w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FiXOaYnW64w",
+          "publishedOn": "2024-06-11T14:37:58.000Z",
+          "wordCount": null,
+          "title": "Learn High-Level System Design by Coding YouTube – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-21T14:18:24.000Z",
           "wordCount": null,
           "title": "Fine Tuning LLM Models – Generative AI Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dg7bZUFopUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dg7bZUFopUo",
-          "publishedOn": "2024-05-20T17:26:16.000Z",
-          "wordCount": null,
-          "title": "Angular and Supabase Course – Build a Realtime Chat Application",
           "imageUrl": null
         }
       ]

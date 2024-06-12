@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-11T06:14:20.685Z</id>
+    <id>urn:2024-06-12T06:14:26.678Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-11T06:14:20.685Z</updated>
+    <updated>2024-06-12T06:14:26.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn High-Level System Design by Coding YouTube – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=FiXOaYnW64w</id>
+        <link href="https://www.youtube.com/watch?v=FiXOaYnW64w"/>
+        <updated>2024-06-11T14:37:58.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence]]></title>
         <id>https://www.youtube.com/watch?v=FTpmwX94_Yo</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=iOdFUJiB0Zc</id>
         <link href="https://www.youtube.com/watch?v=iOdFUJiB0Zc"/>
         <updated>2024-05-21T14:18:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular and Supabase Course – Build a Realtime Chat Application]]></title>
-        <id>https://www.youtube.com/watch?v=Dg7bZUFopUo</id>
-        <link href="https://www.youtube.com/watch?v=Dg7bZUFopUo"/>
-        <updated>2024-05-20T17:26:16.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
