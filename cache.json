@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UMqNHi1GDAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UMqNHi1GDAE",
+          "publishedOn": "2024-06-12T13:26:28.000Z",
+          "wordCount": null,
+          "title": "Learn Three.js by Building 5 Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FiXOaYnW64w",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-22T15:13:22.000Z",
           "wordCount": null,
           "title": "React Hook Form Course for Beginners (inc. Zod + Material UI)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iOdFUJiB0Zc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iOdFUJiB0Zc",
-          "publishedOn": "2024-05-21T14:18:24.000Z",
-          "wordCount": null,
-          "title": "Fine Tuning LLM Models – Generative AI Course",
           "imageUrl": null
         }
       ]
