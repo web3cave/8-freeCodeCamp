@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T06:14:31.499Z</id>
+    <id>urn:2024-06-14T06:15:16.071Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-13T06:14:31.499Z</updated>
+    <updated>2024-06-14T06:15:16.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Crash Course for Beginners with Labs]]></title>
+        <id>https://www.youtube.com/watch?v=6WatcfENsOU</id>
+        <link href="https://www.youtube.com/watch?v=6WatcfENsOU"/>
+        <updated>2024-06-13T13:35:55.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Three.js by Building 5 Projects]]></title>
         <id>https://www.youtube.com/watch?v=UMqNHi1GDAE</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=c3Cn4xYfxJY</id>
         <link href="https://www.youtube.com/watch?v=c3Cn4xYfxJY"/>
         <updated>2024-05-23T19:04:40.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Hook Form Course for Beginners (inc. Zod + Material UI)]]></title>
-        <id>https://www.youtube.com/watch?v=JyeWoqWsQFo</id>
-        <link href="https://www.youtube.com/watch?v=JyeWoqWsQFo"/>
-        <updated>2024-05-22T15:13:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
