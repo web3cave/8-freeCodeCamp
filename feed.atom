@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T06:14:36.921Z</id>
+    <id>urn:2024-06-19T06:14:51.345Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-18T06:14:36.921Z</updated>
+    <updated>2024-06-19T06:14:51.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Mistral AI – JavaScript Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=mNMDd6D1om8</id>
+        <link href="https://www.youtube.com/watch?v=mNMDd6D1om8"/>
+        <updated>2024-06-18T14:03:15.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Technical Intro to Generative AI]]></title>
         <id>https://www.youtube.com/watch?v=y4SLh1cpap4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=PaPN51Mm5qQ</id>
         <link href="https://www.youtube.com/watch?v=PaPN51Mm5qQ"/>
         <updated>2024-05-29T14:37:58.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear Algebra Course – Mathematics for Machine Learning and Generative AI]]></title>
-        <id>https://www.youtube.com/watch?v=rSjt1E9WHaQ</id>
-        <link href="https://www.youtube.com/watch?v=rSjt1E9WHaQ"/>
-        <updated>2024-05-27T18:12:09.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
