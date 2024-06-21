@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
+          "publishedOn": "2024-06-20T14:17:39.000Z",
+          "wordCount": null,
+          "title": "Godot GameDev Tutorial – 3D RPG Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mNMDd6D1om8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-30T14:50:40.000Z",
           "wordCount": null,
           "title": "Go and React Full Stack App – Go Tutorial for Node Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
-          "publishedOn": "2024-05-29T14:37:58.000Z",
-          "wordCount": null,
-          "title": "Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie]",
           "imageUrl": null
         }
       ]
