@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2cVDw_Hmn0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2cVDw_Hmn0s",
+          "publishedOn": "2024-06-21T14:04:05.000Z",
+          "wordCount": null,
+          "title": "Why are senior developers learning low-code and AI tools? [Adrian Twarog Interview #129]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-05-31T14:17:12.000Z",
           "wordCount": null,
           "title": "From Software Engineer to White Hat Hacker with Suz Hinton [Podcast #126]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lNd7XlXwlho",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lNd7XlXwlho",
-          "publishedOn": "2024-05-30T14:50:40.000Z",
-          "wordCount": null,
-          "title": "Go and React Full Stack App – Go Tutorial for Node Developers",
           "imageUrl": null
         }
       ]
