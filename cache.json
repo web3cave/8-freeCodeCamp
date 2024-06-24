@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b1sIkncjueM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b1sIkncjueM",
+          "publishedOn": "2024-06-23T13:00:28.000Z",
+          "wordCount": null,
+          "title": "Remove Whitespace in JavaScript",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HAz4JDmkbso",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-06-04T14:04:55.000Z",
           "wordCount": null,
           "title": "Building REST APIs with Next.js 14 – Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NEYcKvwbW-w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NEYcKvwbW-w",
-          "publishedOn": "2024-06-03T15:12:07.000Z",
-          "wordCount": null,
-          "title": "Full Stack Flutter, Firebase and Riverpod – Build a YouTube Clone",
           "imageUrl": null
         }
       ]
