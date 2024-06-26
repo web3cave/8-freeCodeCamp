@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lcRwBle3qh8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lcRwBle3qh8",
+          "publishedOn": "2024-06-25T20:00:26.000Z",
+          "wordCount": null,
+          "title": "Lambda Functions in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=81uAxzeyL2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=81uAxzeyL2I",
+          "publishedOn": "2024-06-25T14:44:15.000Z",
+          "wordCount": null,
+          "title": "What’s New in React 19: Exploring Actions, use(), Compiler, and more",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=45zq0Xct-Oc",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-06-10T13:46:48.000Z",
           "wordCount": null,
           "title": "Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=skg2XRUMcGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=skg2XRUMcGQ",
-          "publishedOn": "2024-06-07T13:33:09.000Z",
-          "wordCount": null,
-          "title": "How to Outsmart AI as a Developer with Dr. Chuck [Podcast #127]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=11KT1hPNkY4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=11KT1hPNkY4",
-          "publishedOn": "2024-06-06T14:07:50.000Z",
-          "wordCount": null,
-          "title": "Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam",
           "imageUrl": null
         }
       ]
