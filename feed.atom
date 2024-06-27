@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-26T06:14:44.789Z</id>
+    <id>urn:2024-06-27T06:15:09.905Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-26T06:14:44.789Z</updated>
+    <updated>2024-06-27T06:15:09.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Tutorial – Margin vs Padding]]></title>
+        <id>https://www.youtube.com/watch?v=1NDdTAn5L9I</id>
+        <link href="https://www.youtube.com/watch?v=1NDdTAn5L9I"/>
+        <updated>2024-06-26T19:30:00.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadcn Component Library Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=oidnyW71W0A</id>
+        <link href="https://www.youtube.com/watch?v=oidnyW71W0A"/>
+        <updated>2024-06-26T14:30:32.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lambda Functions in Python]]></title>
         <id>https://www.youtube.com/watch?v=lcRwBle3qh8</id>
@@ -118,24 +136,6 @@
         <id>https://www.youtube.com/watch?v=UMqNHi1GDAE</id>
         <link href="https://www.youtube.com/watch?v=UMqNHi1GDAE"/>
         <updated>2024-06-12T13:26:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn High-Level System Design by Coding YouTube – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=FiXOaYnW64w</id>
-        <link href="https://www.youtube.com/watch?v=FiXOaYnW64w"/>
-        <updated>2024-06-11T14:37:58.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence]]></title>
-        <id>https://www.youtube.com/watch?v=FTpmwX94_Yo</id>
-        <link href="https://www.youtube.com/watch?v=FTpmwX94_Yo"/>
-        <updated>2024-06-10T13:46:48.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
