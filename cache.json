@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aPvkad_Eusg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aPvkad_Eusg",
+          "publishedOn": "2024-06-28T19:30:00.000Z",
+          "wordCount": null,
+          "title": "JavaScript Tutorial: Convert to Uppercase and Lowercase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DJyZtXwUjIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DJyZtXwUjIE",
+          "publishedOn": "2024-06-28T16:19:22.000Z",
+          "wordCount": null,
+          "title": "From Fashion to Software Engineer with Alison Yoon [Podcast #130]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6mTIWJgqqtk",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-06-18T14:03:15.000Z",
           "wordCount": null,
           "title": "Learn Mistral AI – JavaScript Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y4SLh1cpap4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y4SLh1cpap4",
-          "publishedOn": "2024-06-17T15:41:45.000Z",
-          "wordCount": null,
-          "title": "Non-Technical Intro to Generative AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DL5HvYyJjM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DL5HvYyJjM0",
-          "publishedOn": "2024-06-14T13:22:41.000Z",
-          "wordCount": null,
-          "title": "Quincy Interviews Dev & Prolific Programming Teacher Colby Fayock [Podcast #128]",
           "imageUrl": null
         }
       ]
