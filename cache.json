@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
+          "publishedOn": "2024-07-01T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Opacity in CSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=akosxcqJorU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=akosxcqJorU",
+          "publishedOn": "2024-07-01T14:25:14.000Z",
+          "wordCount": null,
+          "title": "Go for Absolute Beginners – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yo9uM5u7MaQ",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-06-23T13:00:28.000Z",
           "wordCount": null,
           "title": "Remove Whitespace in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HAz4JDmkbso",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HAz4JDmkbso",
-          "publishedOn": "2024-06-22T13:00:25.000Z",
-          "wordCount": null,
-          "title": "Easy Python String Formatting with f-strings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2cVDw_Hmn0s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2cVDw_Hmn0s",
-          "publishedOn": "2024-06-21T14:04:05.000Z",
-          "wordCount": null,
-          "title": "Why are senior developers learning low-code and AI tools? [Adrian Twarog Interview #129]",
           "imageUrl": null
         }
       ]
