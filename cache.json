@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=40etheqqBBg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=40etheqqBBg",
+          "publishedOn": "2024-07-02T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Type Checking in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9UKCv9T_rIo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9UKCv9T_rIo",
+          "publishedOn": "2024-07-02T14:30:12.000Z",
+          "wordCount": null,
+          "title": "React Native & Expo Router Course – Build a Meditation App",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-06-24T18:00:04.000Z",
           "wordCount": null,
           "title": "Secrets of freeCodeCamp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JYNA9j8SXs4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JYNA9j8SXs4",
-          "publishedOn": "2024-06-24T13:39:54.000Z",
-          "wordCount": null,
-          "title": "VIM Essentials Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b1sIkncjueM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b1sIkncjueM",
-          "publishedOn": "2024-06-23T13:00:28.000Z",
-          "wordCount": null,
-          "title": "Remove Whitespace in JavaScript",
           "imageUrl": null
         }
       ]

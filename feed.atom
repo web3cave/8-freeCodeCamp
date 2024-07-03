@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T06:16:10.946Z</id>
+    <id>urn:2024-07-03T06:16:40.288Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-02T06:16:10.946Z</updated>
+    <updated>2024-07-03T06:16:40.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Type Checking in Python]]></title>
+        <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
+        <link href="https://www.youtube.com/watch?v=40etheqqBBg"/>
+        <updated>2024-07-02T19:30:00.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Native & Expo Router Course – Build a Meditation App]]></title>
+        <id>https://www.youtube.com/watch?v=9UKCv9T_rIo</id>
+        <link href="https://www.youtube.com/watch?v=9UKCv9T_rIo"/>
+        <updated>2024-07-02T14:30:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opacity in CSS]]></title>
         <id>https://www.youtube.com/watch?v=k3FAUZnXUuc</id>
@@ -118,24 +136,6 @@
         <id>https://www.youtube.com/watch?v=45zq0Xct-Oc</id>
         <link href="https://www.youtube.com/watch?v=45zq0Xct-Oc"/>
         <updated>2024-06-24T18:00:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIM Essentials Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=JYNA9j8SXs4</id>
-        <link href="https://www.youtube.com/watch?v=JYNA9j8SXs4"/>
-        <updated>2024-06-24T13:39:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Whitespace in JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=b1sIkncjueM</id>
-        <link href="https://www.youtube.com/watch?v=b1sIkncjueM"/>
-        <updated>2024-06-23T13:00:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
