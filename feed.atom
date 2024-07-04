@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T06:16:40.288Z</id>
+    <id>urn:2024-07-04T06:15:18.281Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-03T06:16:40.288Z</updated>
+    <updated>2024-07-04T06:15:18.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Convert Strings to Numbers in JavaScript]]></title>
+        <id>https://www.youtube.com/watch?v=qCf8Et3wtLA</id>
+        <link href="https://www.youtube.com/watch?v=qCf8Et3wtLA"/>
+        <updated>2024-07-03T18:15:03.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API integration Course – Modern Python with FastAPI]]></title>
+        <id>https://www.youtube.com/watch?v=rkPIftzu1pQ</id>
+        <link href="https://www.youtube.com/watch?v=rkPIftzu1pQ"/>
+        <updated>2024-07-03T16:25:00.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Type Checking in Python]]></title>
         <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
@@ -118,24 +136,6 @@
         <id>https://www.youtube.com/watch?v=lcRwBle3qh8</id>
         <link href="https://www.youtube.com/watch?v=lcRwBle3qh8"/>
         <updated>2024-06-25T20:00:26.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in React 19: Exploring Actions, use(), Compiler, and more]]></title>
-        <id>https://www.youtube.com/watch?v=81uAxzeyL2I</id>
-        <link href="https://www.youtube.com/watch?v=81uAxzeyL2I"/>
-        <updated>2024-06-25T14:44:15.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secrets of freeCodeCamp]]></title>
-        <id>https://www.youtube.com/watch?v=45zq0Xct-Oc</id>
-        <link href="https://www.youtube.com/watch?v=45zq0Xct-Oc"/>
-        <updated>2024-06-24T18:00:04.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
