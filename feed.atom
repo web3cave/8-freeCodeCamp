@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T06:15:18.281Z</id>
+    <id>urn:2024-07-05T06:15:47.828Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-04T06:15:18.281Z</updated>
+    <updated>2024-07-05T06:15:47.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spread Operator in JavaScript]]></title>
+        <id>https://www.youtube.com/watch?v=zQxMX2ZZ-hI</id>
+        <link href="https://www.youtube.com/watch?v=zQxMX2ZZ-hI"/>
+        <updated>2024-07-04T19:00:26.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convert Strings to Numbers in JavaScript]]></title>
         <id>https://www.youtube.com/watch?v=qCf8Et3wtLA</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=oidnyW71W0A</id>
         <link href="https://www.youtube.com/watch?v=oidnyW71W0A"/>
         <updated>2024-06-26T14:30:32.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda Functions in Python]]></title>
-        <id>https://www.youtube.com/watch?v=lcRwBle3qh8</id>
-        <link href="https://www.youtube.com/watch?v=lcRwBle3qh8"/>
-        <updated>2024-06-25T20:00:26.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

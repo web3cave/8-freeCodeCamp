@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zQxMX2ZZ-hI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zQxMX2ZZ-hI",
+          "publishedOn": "2024-07-04T19:00:26.000Z",
+          "wordCount": null,
+          "title": "Spread Operator in JavaScript",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qCf8Et3wtLA",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-06-26T14:30:32.000Z",
           "wordCount": null,
           "title": "Shadcn Component Library Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lcRwBle3qh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lcRwBle3qh8",
-          "publishedOn": "2024-06-25T20:00:26.000Z",
-          "wordCount": null,
-          "title": "Lambda Functions in Python",
           "imageUrl": null
         }
       ]
