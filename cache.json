@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DZWNMjhj-VY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DZWNMjhj-VY",
+          "publishedOn": "2024-07-05T19:15:00.000Z",
+          "wordCount": null,
+          "title": "Waving Penguin in HTML and CSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7K6bCewZzJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7K6bCewZzJU",
+          "publishedOn": "2024-07-05T14:27:27.000Z",
+          "wordCount": null,
+          "title": "What Scott Hanselman learned from doing 900 podcast interviews with devs [Podcast #131]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zQxMX2ZZ-hI",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-06-27T14:10:42.000Z",
           "wordCount": null,
           "title": "GameDev with JavaScript and Kaboom.js – Metroidvania Game Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1NDdTAn5L9I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1NDdTAn5L9I",
-          "publishedOn": "2024-06-26T19:30:00.000Z",
-          "wordCount": null,
-          "title": "CSS Tutorial – Margin vs Padding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oidnyW71W0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oidnyW71W0A",
-          "publishedOn": "2024-06-26T14:30:32.000Z",
-          "wordCount": null,
-          "title": "Shadcn Component Library Course for Beginners",
           "imageUrl": null
         }
       ]
