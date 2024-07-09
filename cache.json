@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QN574SUEP2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QN574SUEP2I",
+          "publishedOn": "2024-07-08T16:09:01.000Z",
+          "wordCount": null,
+          "title": "Prepare for the AWS SysOps Administrator Associate (SOA-C02) – Full Course to PASS the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mFgS6cS2waY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-06-28T16:19:22.000Z",
           "wordCount": null,
           "title": "From Fashion to Software Engineer with Alison Yoon [Podcast #130]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6mTIWJgqqtk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6mTIWJgqqtk",
-          "publishedOn": "2024-06-27T19:30:02.000Z",
-          "wordCount": null,
-          "title": "Python List Comprehensions in Seconds",
           "imageUrl": null
         }
       ]
