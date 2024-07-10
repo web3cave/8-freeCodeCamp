@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+          "publishedOn": "2024-07-09T13:47:24.000Z",
+          "wordCount": null,
+          "title": "Learn TypeScript - Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QN574SUEP2I",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-06-28T19:30:00.000Z",
           "wordCount": null,
           "title": "JavaScript Tutorial: Convert to Uppercase and Lowercase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DJyZtXwUjIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DJyZtXwUjIE",
-          "publishedOn": "2024-06-28T16:19:22.000Z",
-          "wordCount": null,
-          "title": "From Fashion to Software Engineer with Alison Yoon [Podcast #130]",
           "imageUrl": null
         }
       ]
