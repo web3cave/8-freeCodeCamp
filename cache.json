@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TzuWIHGFKCQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TzuWIHGFKCQ",
+          "publishedOn": "2024-07-16T13:45:58.000Z",
+          "wordCount": null,
+          "title": "24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gvQGKRlgop4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-07-02T14:30:12.000Z",
           "wordCount": null,
           "title": "React Native & Expo Router Course – Build a Meditation App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
-          "publishedOn": "2024-07-01T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Opacity in CSS",
           "imageUrl": null
         }
       ]
