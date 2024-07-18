@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i740xlsqxEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i740xlsqxEM",
+          "publishedOn": "2024-07-17T14:43:07.000Z",
+          "wordCount": null,
+          "title": "GitHub Advanced Security Certification – Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TzuWIHGFKCQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-07-02T19:30:00.000Z",
           "wordCount": null,
           "title": "Type Checking in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9UKCv9T_rIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9UKCv9T_rIo",
-          "publishedOn": "2024-07-02T14:30:12.000Z",
-          "wordCount": null,
-          "title": "React Native & Expo Router Course – Build a Meditation App",
           "imageUrl": null
         }
       ]

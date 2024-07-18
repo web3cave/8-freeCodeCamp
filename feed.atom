@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T06:15:04.732Z</id>
+    <id>urn:2024-07-18T06:15:16.512Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T06:15:04.732Z</updated>
+    <updated>2024-07-18T06:15:16.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Advanced Security Certification – Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=i740xlsqxEM</id>
+        <link href="https://www.youtube.com/watch?v=i740xlsqxEM"/>
+        <updated>2024-07-17T14:43:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!]]></title>
         <id>https://www.youtube.com/watch?v=TzuWIHGFKCQ</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
         <link href="https://www.youtube.com/watch?v=40etheqqBBg"/>
         <updated>2024-07-02T19:30:00.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native & Expo Router Course – Build a Meditation App]]></title>
-        <id>https://www.youtube.com/watch?v=9UKCv9T_rIo</id>
-        <link href="https://www.youtube.com/watch?v=9UKCv9T_rIo"/>
-        <updated>2024-07-02T14:30:12.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
