@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T06:15:16.512Z</id>
+    <id>urn:2024-07-19T06:14:55.240Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-18T06:15:16.512Z</updated>
+    <updated>2024-07-19T06:14:55.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step]]></title>
+        <id>https://www.youtube.com/watch?v=CpbRAWgFBRQ</id>
+        <link href="https://www.youtube.com/watch?v=CpbRAWgFBRQ"/>
+        <updated>2024-07-18T13:42:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Advanced Security Certification – Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=i740xlsqxEM</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=rkPIftzu1pQ</id>
         <link href="https://www.youtube.com/watch?v=rkPIftzu1pQ"/>
         <updated>2024-07-03T16:25:00.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type Checking in Python]]></title>
-        <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
-        <link href="https://www.youtube.com/watch?v=40etheqqBBg"/>
-        <updated>2024-07-02T19:30:00.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

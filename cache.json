@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
+          "publishedOn": "2024-07-18T13:42:35.000Z",
+          "wordCount": null,
+          "title": "Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i740xlsqxEM",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-07-03T16:25:00.000Z",
           "wordCount": null,
           "title": "API integration Course – Modern Python with FastAPI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=40etheqqBBg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=40etheqqBBg",
-          "publishedOn": "2024-07-02T19:30:00.000Z",
-          "wordCount": null,
-          "title": "Type Checking in Python",
           "imageUrl": null
         }
       ]
