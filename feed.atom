@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T06:14:55.240Z</id>
+    <id>urn:2024-07-20T06:15:41.781Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T06:14:55.240Z</updated>
+    <updated>2024-07-20T06:15:41.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]]]></title>
+        <id>https://www.youtube.com/watch?v=EggrJhIdY3s</id>
+        <link href="https://www.youtube.com/watch?v=EggrJhIdY3s"/>
+        <updated>2024-07-19T14:04:32.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step]]></title>
         <id>https://www.youtube.com/watch?v=CpbRAWgFBRQ</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=qCf8Et3wtLA</id>
         <link href="https://www.youtube.com/watch?v=qCf8Et3wtLA"/>
         <updated>2024-07-03T18:15:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API integration Course – Modern Python with FastAPI]]></title>
-        <id>https://www.youtube.com/watch?v=rkPIftzu1pQ</id>
-        <link href="https://www.youtube.com/watch?v=rkPIftzu1pQ"/>
-        <updated>2024-07-03T16:25:00.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
