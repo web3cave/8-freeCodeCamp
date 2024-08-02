@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ea2W8IogX80",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ea2W8IogX80",
+          "publishedOn": "2024-08-01T14:32:49.000Z",
+          "wordCount": null,
+          "title": "RAG Fundamentals and Advanced Techniques – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fv2-A5e-KHA",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-07-08T16:09:01.000Z",
           "wordCount": null,
           "title": "Prepare for the AWS SysOps Administrator Associate (SOA-C02) – Full Course to PASS the Exam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mFgS6cS2waY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mFgS6cS2waY",
-          "publishedOn": "2024-07-06T11:00:47.000Z",
-          "wordCount": null,
-          "title": "Cafe Menu in HTML & CSS",
           "imageUrl": null
         }
       ]
