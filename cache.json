@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
+          "publishedOn": "2024-08-09T14:00:51.000Z",
+          "wordCount": null,
+          "title": "Developer and inventor with 27 software patents [Angie Jones Interview #136]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fyqRSaSJf0I",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-07-12T14:00:07.000Z",
           "wordCount": null,
           "title": "From doing data entry to becoming a developer with Jessica Chan AKA Coder Coder [Podcast #132]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OFpqvaJ3QYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OFpqvaJ3QYg",
-          "publishedOn": "2024-07-11T13:22:59.000Z",
-          "wordCount": null,
-          "title": "Asynchronous JavaScript Course – Async/Await , Promises, Callbacks, Fetch API",
           "imageUrl": null
         }
       ]
