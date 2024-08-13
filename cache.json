@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TTcyhhH2FWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TTcyhhH2FWE",
+          "publishedOn": "2024-08-12T14:08:11.000Z",
+          "wordCount": null,
+          "title": "AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
           "author": null,
           "description": "",
