@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T06:15:25.855Z</id>
+    <id>urn:2024-08-15T06:15:36.740Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-14T06:15:25.855Z</updated>
+    <updated>2024-08-15T06:15:36.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in JavaScript with ml5.js]]></title>
+        <id>https://www.youtube.com/watch?v=ECotpcPCTaU</id>
+        <link href="https://www.youtube.com/watch?v=ECotpcPCTaU"/>
+        <updated>2024-08-14T14:37:24.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam]]></title>
         <id>https://www.youtube.com/watch?v=TTcyhhH2FWE</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=i740xlsqxEM</id>
         <link href="https://www.youtube.com/watch?v=i740xlsqxEM"/>
         <updated>2024-07-17T14:43:07.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!]]></title>
-        <id>https://www.youtube.com/watch?v=TzuWIHGFKCQ</id>
-        <link href="https://www.youtube.com/watch?v=TzuWIHGFKCQ"/>
-        <updated>2024-07-16T13:45:58.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
