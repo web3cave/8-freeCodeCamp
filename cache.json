@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
+          "publishedOn": "2024-08-16T13:50:02.000Z",
+          "wordCount": null,
+          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #139]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ECotpcPCTaU",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2024-07-19T14:04:32.000Z",
           "wordCount": null,
           "title": "How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
-          "publishedOn": "2024-07-18T13:42:35.000Z",
-          "wordCount": null,
-          "title": "Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step",
           "imageUrl": null
         }
       ]
