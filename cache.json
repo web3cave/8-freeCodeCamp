@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mgCqndlTWFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mgCqndlTWFU",
+          "publishedOn": "2024-08-19T15:42:27.000Z",
+          "wordCount": null,
+          "title": "DaVinci Resolve Course - Video Editing for Beginners (2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
           "author": null,
           "description": "",
