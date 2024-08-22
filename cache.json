@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vXjOywyMBN8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vXjOywyMBN8",
+          "publishedOn": "2024-08-21T13:50:29.000Z",
+          "wordCount": null,
+          "title": "Gemini AI MultiModal Model Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mgCqndlTWFU",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2024-07-25T13:36:47.000Z",
           "wordCount": null,
           "title": "System Design Concepts Course and Interview Prep",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yBThHM2pBbE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yBThHM2pBbE",
-          "publishedOn": "2024-07-23T14:13:48.000Z",
-          "wordCount": null,
-          "title": "Fullstack Drag & Drop Notes App with React",
           "imageUrl": null
         }
       ]
