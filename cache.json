@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+          "publishedOn": "2024-08-27T14:17:51.000Z",
+          "wordCount": null,
+          "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QQliGCtqD2w",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2024-08-01T14:32:49.000Z",
           "wordCount": null,
           "title": "RAG Fundamentals and Advanced Techniques – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fv2-A5e-KHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fv2-A5e-KHA",
-          "publishedOn": "2024-07-29T14:44:05.000Z",
-          "wordCount": null,
-          "title": "MongoDB Provider for EF Core – C# Tutorial",
           "imageUrl": null
         }
       ]

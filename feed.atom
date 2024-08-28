@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T06:16:08.661Z</id>
+    <id>urn:2024-08-28T06:16:06.966Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T06:16:08.661Z</updated>
+    <updated>2024-08-28T06:16:06.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Data Visualization Course – Guide to Charts & Dashboards]]></title>
+        <id>https://www.youtube.com/watch?v=VV8iRJ-DS0A</id>
+        <link href="https://www.youtube.com/watch?v=VV8iRJ-DS0A"/>
+        <updated>2024-08-27T14:17:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Testing with Selenium Course]]></title>
         <id>https://www.youtube.com/watch?v=QQliGCtqD2w</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=ea2W8IogX80</id>
         <link href="https://www.youtube.com/watch?v=ea2W8IogX80"/>
         <updated>2024-08-01T14:32:49.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB Provider for EF Core – C# Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=fv2-A5e-KHA</id>
-        <link href="https://www.youtube.com/watch?v=fv2-A5e-KHA"/>
-        <updated>2024-07-29T14:44:05.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
