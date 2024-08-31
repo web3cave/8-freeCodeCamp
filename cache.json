@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sPLlG5EGw2g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sPLlG5EGw2g",
+          "publishedOn": "2024-08-30T14:30:48.000Z",
+          "wordCount": null,
+          "title": "Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture [Podcast #139]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oGhc5Z-WJSw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-02T14:00:53.000Z",
           "wordCount": null,
           "title": "Data Science and Sports Analytics Expert Ken Jee [Podcast #135]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ea2W8IogX80",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ea2W8IogX80",
-          "publishedOn": "2024-08-01T14:32:49.000Z",
-          "wordCount": null,
-          "title": "RAG Fundamentals and Advanced Techniques – Full Course",
           "imageUrl": null
         }
       ]
