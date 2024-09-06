@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-05T06:16:29.140Z</id>
+    <id>urn:2024-09-06T06:16:13.045Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-05T06:16:29.140Z</updated>
+    <updated>2024-09-06T06:16:13.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=rAbnVhhyIjE</id>
         <link href="https://www.youtube.com/watch?v=rAbnVhhyIjE"/>
         <updated>2024-08-09T14:00:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Downloadable Desktop Game in JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=fyqRSaSJf0I</id>
-        <link href="https://www.youtube.com/watch?v=fyqRSaSJf0I"/>
-        <updated>2024-08-07T13:00:43.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
