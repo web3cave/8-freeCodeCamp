@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZMoio54hPsc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZMoio54hPsc",
+          "publishedOn": "2024-09-06T14:54:51.000Z",
+          "wordCount": null,
+          "title": "Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O3BUHwfHf84",
           "author": null,
           "description": "",
