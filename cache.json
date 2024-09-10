@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=scJ4mobwjBQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=scJ4mobwjBQ",
+          "publishedOn": "2024-09-09T14:37:14.000Z",
+          "wordCount": null,
+          "title": "Azure AI Engineer Associate Certification (AI-102) – Full Course to PASS the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZMoio54hPsc",
           "author": null,
           "description": "",
