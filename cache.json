@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C_jQahOnGUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C_jQahOnGUU",
+          "publishedOn": "2024-09-12T14:38:14.000Z",
+          "wordCount": null,
+          "title": "Productivity as a Developer – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UnjKWSlwZWM",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-16T13:50:02.000Z",
           "wordCount": null,
           "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #139]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ECotpcPCTaU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ECotpcPCTaU",
-          "publishedOn": "2024-08-14T14:37:24.000Z",
-          "wordCount": null,
-          "title": "Machine Learning in JavaScript with ml5.js",
           "imageUrl": null
         }
       ]
