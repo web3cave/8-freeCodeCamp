@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
+          "publishedOn": "2024-09-13T14:05:43.000Z",
+          "wordCount": null,
+          "title": "Lessons from Freelancing for Dozens of Startups with Eddie Jaoude [Podcast #141]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C_jQahOnGUU",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-19T15:42:27.000Z",
           "wordCount": null,
           "title": "DaVinci Resolve Course - Video Editing for Beginners (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
-          "publishedOn": "2024-08-16T13:50:02.000Z",
-          "wordCount": null,
-          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #139]",
           "imageUrl": null
         }
       ]
