@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2-DmxENygRc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2-DmxENygRc",
+          "publishedOn": "2024-09-16T14:53:53.000Z",
+          "wordCount": null,
+          "title": "Securing API Servers Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-21T13:50:29.000Z",
           "wordCount": null,
           "title": "Gemini AI MultiModal Model Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mgCqndlTWFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mgCqndlTWFU",
-          "publishedOn": "2024-08-19T15:42:27.000Z",
-          "wordCount": null,
-          "title": "DaVinci Resolve Course - Video Editing for Beginners (2024)",
           "imageUrl": null
         }
       ]
