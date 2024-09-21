@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
+          "publishedOn": "2024-09-20T14:17:40.000Z",
+          "wordCount": null,
+          "title": "From PhD drop-out to Google Data Scientist with Meg Risdal [Podcast #142]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rylaiB2uH2A",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-26T15:42:27.000Z",
           "wordCount": null,
           "title": "Java Testing with Selenium Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vgdhty5gTmA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vgdhty5gTmA",
-          "publishedOn": "2024-08-23T14:03:35.000Z",
-          "wordCount": null,
-          "title": "Special Ed Teacher turned Sysadmin and AWS Hero Hiroko Nishimura [Podcast #140]",
           "imageUrl": null
         }
       ]
