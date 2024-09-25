@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=86FAWCzIe_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86FAWCzIe_4",
+          "publishedOn": "2024-09-24T14:05:13.000Z",
+          "wordCount": null,
+          "title": "CUDA Programming Course – High-Performance Computing with GPUs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
           "author": null,
           "description": "",
@@ -42,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=2-DmxENygRc",
           "publishedOn": "2024-09-16T14:53:53.000Z",
           "wordCount": null,
-          "title": "Securing API Servers Course",
+          "title": "How to Secure API Servers Tutorial – Crash Course on Server Security",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-27T14:17:51.000Z",
           "wordCount": null,
           "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QQliGCtqD2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QQliGCtqD2w",
-          "publishedOn": "2024-08-26T15:42:27.000Z",
-          "wordCount": null,
-          "title": "Java Testing with Selenium Course",
           "imageUrl": null
         }
       ]
