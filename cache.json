@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o6vbe5G7xNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6vbe5G7xNo",
+          "publishedOn": "2024-09-25T14:27:53.000Z",
+          "wordCount": null,
+          "title": "End-to-End Machine Learning Project – AI, MLOps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=86FAWCzIe_4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-08-28T16:07:10.000Z",
           "wordCount": null,
           "title": "Spring Boot, Spring Security, JWT Course – Shopping Cart Backend Java Project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
-          "publishedOn": "2024-08-27T14:17:51.000Z",
-          "wordCount": null,
-          "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
           "imageUrl": null
         }
       ]
