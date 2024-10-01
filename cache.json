@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BV03sQ0srcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BV03sQ0srcU",
+          "publishedOn": "2024-09-30T15:22:18.000Z",
+          "wordCount": null,
+          "title": "Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qL7kc2eS57A",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-04T13:46:38.000Z",
           "wordCount": null,
           "title": "MERN Stack Tutorial with Deployment – Beginner's Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3-4qAkFRpAk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3-4qAkFRpAk",
-          "publishedOn": "2024-09-03T16:06:23.000Z",
-          "wordCount": null,
-          "title": "Multimodal Data Analysis with LLMs and Python – Tutorial",
           "imageUrl": null
         }
       ]
