@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-02T06:17:12.257Z</id>
+    <id>urn:2024-10-03T06:17:22.887Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-02T06:17:12.257Z</updated>
+    <updated>2024-10-03T06:17:22.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Device Drivers Development Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=iSiyDHobXHA</id>
+        <link href="https://www.youtube.com/watch?v=iSiyDHobXHA"/>
+        <updated>2024-10-02T15:42:44.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASP.NET Core MVC Course for Beginners (.NET 9)]]></title>
         <id>https://www.youtube.com/watch?v=RWXKysImabs</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=scJ4mobwjBQ</id>
         <link href="https://www.youtube.com/watch?v=scJ4mobwjBQ"/>
         <updated>2024-09-09T14:37:14.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]]]></title>
-        <id>https://www.youtube.com/watch?v=ZMoio54hPsc</id>
-        <link href="https://www.youtube.com/watch?v=ZMoio54hPsc"/>
-        <updated>2024-09-06T14:54:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
