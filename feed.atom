@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-03T06:17:22.887Z</id>
+    <id>urn:2024-10-04T06:17:25.124Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-03T06:17:22.887Z</updated>
+    <updated>2024-10-04T06:17:25.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Front End Portfolio Website Tutorial – Next.js, Three.js, Tailwind CSS]]></title>
+        <id>https://www.youtube.com/watch?v=aZZrEE_UsIk</id>
+        <link href="https://www.youtube.com/watch?v=aZZrEE_UsIk"/>
+        <updated>2024-10-03T17:04:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Device Drivers Development Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=iSiyDHobXHA</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=UnjKWSlwZWM</id>
         <link href="https://www.youtube.com/watch?v=UnjKWSlwZWM"/>
         <updated>2024-09-10T17:39:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Engineer Associate Certification (AI-102) – Full Course to PASS the Exam]]></title>
-        <id>https://www.youtube.com/watch?v=scJ4mobwjBQ</id>
-        <link href="https://www.youtube.com/watch?v=scJ4mobwjBQ"/>
-        <updated>2024-09-09T14:37:14.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
