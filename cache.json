@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MIKZK8r7y-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MIKZK8r7y-M",
+          "publishedOn": "2024-10-04T16:01:04.000Z",
+          "wordCount": null,
+          "title": "How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [#144]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aZZrEE_UsIk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-12T14:38:14.000Z",
           "wordCount": null,
           "title": "Productivity as a Developer – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UnjKWSlwZWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UnjKWSlwZWM",
-          "publishedOn": "2024-09-10T17:39:50.000Z",
-          "wordCount": null,
-          "title": "Music Production for Beginners – FL Studio Course [2024]",
           "imageUrl": null
         }
       ]
