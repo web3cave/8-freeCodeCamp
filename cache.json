@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WZeZZ8_W-M4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WZeZZ8_W-M4",
+          "publishedOn": "2024-10-08T15:16:01.000Z",
+          "wordCount": null,
+          "title": "AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fP-371MN0Ck",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-16T14:53:53.000Z",
           "wordCount": null,
           "title": "How to Secure API Servers Tutorial – Crash Course on Server Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
-          "publishedOn": "2024-09-13T14:05:43.000Z",
-          "wordCount": null,
-          "title": "Lessons from Freelancing for Dozens of Startups with Eddie Jaoude [Podcast #141]",
           "imageUrl": null
         }
       ]
