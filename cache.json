@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2l-HYpPp7ng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2l-HYpPp7ng",
+          "publishedOn": "2024-10-09T21:29:00.000Z",
+          "wordCount": null,
+          "title": "Is AI coming for developer jobs? – YK Sugi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pPqazMTzNOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pPqazMTzNOM",
+          "publishedOn": "2024-10-09T14:15:39.000Z",
+          "wordCount": null,
+          "title": "Databases In-Depth – Complete Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WZeZZ8_W-M4",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2024-09-19T13:53:52.000Z",
           "wordCount": null,
           "title": "Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PWG7NlUDVaA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PWG7NlUDVaA",
-          "publishedOn": "2024-09-18T13:26:26.000Z",
-          "wordCount": null,
-          "title": "FARM Stack Course – Full Stack Development with FastAPI, React MongoDB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2-DmxENygRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2-DmxENygRc",
-          "publishedOn": "2024-09-16T14:53:53.000Z",
-          "wordCount": null,
-          "title": "How to Secure API Servers Tutorial – Crash Course on Server Security",
           "imageUrl": null
         }
       ]
