@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pi6cBAICoAI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pi6cBAICoAI",
+          "publishedOn": "2024-10-11T14:13:35.000Z",
+          "wordCount": null,
+          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cG2rf7hTvsw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-24T14:05:13.000Z",
           "wordCount": null,
           "title": "CUDA Programming Course – High-Performance Computing with GPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
-          "publishedOn": "2024-09-20T14:17:40.000Z",
-          "wordCount": null,
-          "title": "From PhD drop-out to Google Data Scientist with Meg Risdal [Podcast #142]",
           "imageUrl": null
         }
       ]
