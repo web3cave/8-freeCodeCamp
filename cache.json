@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pgw2KPfgK1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgw2KPfgK1E",
+          "publishedOn": "2024-10-14T15:37:49.000Z",
+          "wordCount": null,
+          "title": "Build a Full Stack Book Store App Using React, Node, MongoDB",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pi6cBAICoAI",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-25T14:27:53.000Z",
           "wordCount": null,
           "title": "End-to-End Machine Learning Project – AI, MLOps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=86FAWCzIe_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=86FAWCzIe_4",
-          "publishedOn": "2024-09-24T14:05:13.000Z",
-          "wordCount": null,
-          "title": "CUDA Programming Course – High-Performance Computing with GPUs",
           "imageUrl": null
         }
       ]
