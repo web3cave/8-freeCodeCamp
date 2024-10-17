@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-16T06:17:12.651Z</id>
+    <id>urn:2024-10-17T06:17:29.859Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-16T06:17:12.651Z</updated>
+    <updated>2024-10-17T06:17:29.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile App Development Course with React Native, Supabase, Next.js]]></title>
+        <id>https://www.youtube.com/watch?v=2esQdKzRUCw</id>
+        <link href="https://www.youtube.com/watch?v=2esQdKzRUCw"/>
+        <updated>2024-10-16T12:32:54.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
         <id>https://www.youtube.com/watch?v=pgw2KPfgK1E</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=1n4B5ewretY</id>
         <link href="https://www.youtube.com/watch?v=1n4B5ewretY"/>
         <updated>2024-09-26T14:57:37.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End-to-End Machine Learning Project – AI, MLOps]]></title>
-        <id>https://www.youtube.com/watch?v=o6vbe5G7xNo</id>
-        <link href="https://www.youtube.com/watch?v=o6vbe5G7xNo"/>
-        <updated>2024-09-25T14:27:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
