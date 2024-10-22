@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mv43iltQggI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mv43iltQggI",
+          "publishedOn": "2024-10-21T13:02:44.000Z",
+          "wordCount": null,
+          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #147]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EmMO0yQ7eeY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-09-30T15:22:18.000Z",
           "wordCount": null,
           "title": "Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qL7kc2eS57A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qL7kc2eS57A",
-          "publishedOn": "2024-09-27T14:00:52.000Z",
-          "wordCount": null,
-          "title": "The reality of the developer job market with ex-Googler YK Sugi [Podcast #143]",
           "imageUrl": null
         }
       ]
