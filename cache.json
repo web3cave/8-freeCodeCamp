@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QfJB9d0J3Iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QfJB9d0J3Iw",
+          "publishedOn": "2024-10-22T14:27:41.000Z",
+          "wordCount": null,
+          "title": "Learn Claude AI – Build Text Summarizers, Image Describers, and More with the Anthropic API",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mv43iltQggI",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-01T15:13:51.000Z",
           "wordCount": null,
           "title": "ASP.NET Core MVC Course for Beginners (.NET 9)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BV03sQ0srcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BV03sQ0srcU",
-          "publishedOn": "2024-09-30T15:22:18.000Z",
-          "wordCount": null,
-          "title": "Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step",
           "imageUrl": null
         }
       ]
