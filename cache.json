@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cbcd6-m8sHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cbcd6-m8sHg",
+          "publishedOn": "2024-10-23T17:01:22.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Digital Leader Certification Course 2024 - Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QfJB9d0J3Iw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-02T15:42:44.000Z",
           "wordCount": null,
           "title": "Linux Device Drivers Development Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RWXKysImabs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RWXKysImabs",
-          "publishedOn": "2024-10-01T15:13:51.000Z",
-          "wordCount": null,
-          "title": "ASP.NET Core MVC Course for Beginners (.NET 9)",
           "imageUrl": null
         }
       ]
