@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zMJSyzg63o0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zMJSyzg63o0",
+          "publishedOn": "2024-10-24T14:16:20.000Z",
+          "wordCount": null,
+          "title": "Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cbcd6-m8sHg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-03T17:04:57.000Z",
           "wordCount": null,
           "title": "Front End Portfolio Website Tutorial – Next.js, Three.js, Tailwind CSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iSiyDHobXHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iSiyDHobXHA",
-          "publishedOn": "2024-10-02T15:42:44.000Z",
-          "wordCount": null,
-          "title": "Linux Device Drivers Development Course for Beginners",
           "imageUrl": null
         }
       ]

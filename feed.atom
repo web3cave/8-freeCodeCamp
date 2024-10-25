@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-24T06:17:59.523Z</id>
+    <id>urn:2024-10-25T06:17:32.747Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-24T06:17:59.523Z</updated>
+    <updated>2024-10-25T06:17:32.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind]]></title>
+        <id>https://www.youtube.com/watch?v=zMJSyzg63o0</id>
+        <link href="https://www.youtube.com/watch?v=zMJSyzg63o0"/>
+        <updated>2024-10-24T14:16:20.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Digital Leader Certification Course 2024 - Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=cbcd6-m8sHg</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=aZZrEE_UsIk</id>
         <link href="https://www.youtube.com/watch?v=aZZrEE_UsIk"/>
         <updated>2024-10-03T17:04:57.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Device Drivers Development Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=iSiyDHobXHA</id>
-        <link href="https://www.youtube.com/watch?v=iSiyDHobXHA"/>
-        <updated>2024-10-02T15:42:44.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
