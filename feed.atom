@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-25T06:17:32.747Z</id>
+    <id>urn:2024-10-26T06:16:06.393Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-25T06:17:32.747Z</updated>
+    <updated>2024-10-26T06:16:06.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]]]></title>
+        <id>https://www.youtube.com/watch?v=q85XZnkaVpU</id>
+        <link href="https://www.youtube.com/watch?v=q85XZnkaVpU"/>
+        <updated>2024-10-25T14:39:52.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind]]></title>
         <id>https://www.youtube.com/watch?v=zMJSyzg63o0</id>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #147]]]></title>
+        <title type="html"><![CDATA[From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]]]></title>
         <id>https://www.youtube.com/watch?v=mv43iltQggI</id>
         <link href="https://www.youtube.com/watch?v=mv43iltQggI"/>
         <updated>2024-10-21T13:02:44.000Z</updated>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=MIKZK8r7y-M</id>
         <link href="https://www.youtube.com/watch?v=MIKZK8r7y-M"/>
         <updated>2024-10-04T16:01:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End Portfolio Website Tutorial – Next.js, Three.js, Tailwind CSS]]></title>
-        <id>https://www.youtube.com/watch?v=aZZrEE_UsIk</id>
-        <link href="https://www.youtube.com/watch?v=aZZrEE_UsIk"/>
-        <updated>2024-10-03T17:04:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
