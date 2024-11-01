@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F0GQ0l2NfHA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F0GQ0l2NfHA",
+          "publishedOn": "2024-10-31T13:56:09.000Z",
+          "wordCount": null,
+          "title": "Generative AI for Developers – Comprehensive Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1fZ0hTX-ut4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-08T15:16:01.000Z",
           "wordCount": null,
           "title": "AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fP-371MN0Ck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fP-371MN0Ck",
-          "publishedOn": "2024-10-07T15:56:15.000Z",
-          "wordCount": null,
-          "title": "Electron Course - Code Desktop Applications (inc. React and Typescript)",
           "imageUrl": null
         }
       ]
