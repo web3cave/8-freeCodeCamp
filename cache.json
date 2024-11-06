@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
+          "publishedOn": "2024-11-05T15:32:42.000Z",
+          "wordCount": null,
+          "title": "AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mklEhT_RLos",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-10T14:02:07.000Z",
           "wordCount": null,
           "title": "Learn Tailwind CSS: Build a Responsive Product Card",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2l-HYpPp7ng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2l-HYpPp7ng",
-          "publishedOn": "2024-10-09T21:29:00.000Z",
-          "wordCount": null,
-          "title": "Is AI coming for developer jobs? – YK Sugi",
           "imageUrl": null
         }
       ]
