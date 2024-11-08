@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
+          "publishedOn": "2024-11-07T16:12:53.000Z",
+          "wordCount": null,
+          "title": "Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-11T14:13:35.000Z",
           "wordCount": null,
           "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cG2rf7hTvsw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cG2rf7hTvsw",
-          "publishedOn": "2024-10-10T14:02:07.000Z",
-          "wordCount": null,
-          "title": "Learn Tailwind CSS: Build a Responsive Product Card",
           "imageUrl": null
         }
       ]

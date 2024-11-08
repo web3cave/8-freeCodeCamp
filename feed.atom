@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-07T06:16:41.596Z</id>
+    <id>urn:2024-11-08T06:16:46.510Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-07T06:16:41.596Z</updated>
+    <updated>2024-11-08T06:16:46.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI]]></title>
+        <id>https://www.youtube.com/watch?v=d-VKYF4Zow0</id>
+        <link href="https://www.youtube.com/watch?v=d-VKYF4Zow0"/>
+        <updated>2024-11-07T16:12:53.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science]]></title>
         <id>https://www.youtube.com/watch?v=0oyDqO8PjIg</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=pi6cBAICoAI</id>
         <link href="https://www.youtube.com/watch?v=pi6cBAICoAI"/>
         <updated>2024-10-11T14:13:35.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Tailwind CSS: Build a Responsive Product Card]]></title>
-        <id>https://www.youtube.com/watch?v=cG2rf7hTvsw</id>
-        <link href="https://www.youtube.com/watch?v=cG2rf7hTvsw"/>
-        <updated>2024-10-10T14:02:07.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
