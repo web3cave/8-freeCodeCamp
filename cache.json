@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dsx1oTPgLqE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dsx1oTPgLqE",
+          "publishedOn": "2024-11-08T22:52:05.000Z",
+          "wordCount": null,
+          "title": "The State of AI with Stanford Researcher Yifan Mai [Podcast #149]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-14T15:37:49.000Z",
           "wordCount": null,
           "title": "Build a Full Stack Book Store App Using React, Node, MongoDB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pi6cBAICoAI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pi6cBAICoAI",
-          "publishedOn": "2024-10-11T14:13:35.000Z",
-          "wordCount": null,
-          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
           "imageUrl": null
         }
       ]
