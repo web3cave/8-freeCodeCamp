@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-12T06:16:50.710Z</id>
+    <id>urn:2024-11-13T06:17:18.650Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-12T06:16:50.710Z</updated>
+    <updated>2024-11-13T06:17:18.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App]]></title>
+        <id>https://www.youtube.com/watch?v=JTNBJHba_sE</id>
+        <link href="https://www.youtube.com/watch?v=JTNBJHba_sE"/>
+        <updated>2024-11-12T15:24:22.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of AI with Stanford Researcher Yifan Mai [Podcast #149]]]></title>
         <id>https://www.youtube.com/watch?v=Dsx1oTPgLqE</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=2esQdKzRUCw</id>
         <link href="https://www.youtube.com/watch?v=2esQdKzRUCw"/>
         <updated>2024-10-16T12:32:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
-        <id>https://www.youtube.com/watch?v=pgw2KPfgK1E</id>
-        <link href="https://www.youtube.com/watch?v=pgw2KPfgK1E"/>
-        <updated>2024-10-14T15:37:49.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
