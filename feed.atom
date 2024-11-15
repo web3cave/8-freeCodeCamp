@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-14T06:17:59.640Z</id>
+    <id>urn:2024-11-15T06:20:26.938Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-14T06:17:59.640Z</updated>
+    <updated>2024-11-15T06:20:26.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod]]></title>
+        <id>https://www.youtube.com/watch?v=9gpAtzQhYkY</id>
+        <link href="https://www.youtube.com/watch?v=9gpAtzQhYkY"/>
+        <updated>2024-11-14T16:45:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App]]></title>
         <id>https://www.youtube.com/watch?v=JTNBJHba_sE</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=EmMO0yQ7eeY</id>
         <link href="https://www.youtube.com/watch?v=EmMO0yQ7eeY"/>
         <updated>2024-10-17T14:03:17.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile App Development Course with React Native, Supabase, Next.js]]></title>
-        <id>https://www.youtube.com/watch?v=2esQdKzRUCw</id>
-        <link href="https://www.youtube.com/watch?v=2esQdKzRUCw"/>
-        <updated>2024-10-16T12:32:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

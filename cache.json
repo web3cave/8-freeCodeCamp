@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9gpAtzQhYkY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9gpAtzQhYkY",
+          "publishedOn": "2024-11-14T16:45:25.000Z",
+          "wordCount": null,
+          "title": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JTNBJHba_sE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-17T14:03:17.000Z",
           "wordCount": null,
           "title": "JavaScript GameDev – Code a Sonic Runner Using Kaplay Library",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2esQdKzRUCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2esQdKzRUCw",
-          "publishedOn": "2024-10-16T12:32:54.000Z",
-          "wordCount": null,
-          "title": "Mobile App Development Course with React Native, Supabase, Next.js",
           "imageUrl": null
         }
       ]
