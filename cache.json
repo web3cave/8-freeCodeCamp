@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mgWOMu2yo_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mgWOMu2yo_U",
+          "publishedOn": "2024-11-15T19:03:37.000Z",
+          "wordCount": null,
+          "title": "To code is to struggle! I interview Tech with Tim [Podcast #150]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9gpAtzQhYkY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2024-10-21T13:02:44.000Z",
           "wordCount": null,
           "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EmMO0yQ7eeY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EmMO0yQ7eeY",
-          "publishedOn": "2024-10-17T14:03:17.000Z",
-          "wordCount": null,
-          "title": "JavaScript GameDev – Code a Sonic Runner Using Kaplay Library",
           "imageUrl": null
         }
       ]
