@@ -46,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JTNBJHba_sE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JTNBJHba_sE",
-          "publishedOn": "2024-11-12T15:24:22.000Z",
-          "wordCount": null,
-          "title": "Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Dsx1oTPgLqE",
           "author": null,
           "description": "",
@@ -143,16 +133,6 @@
           "publishedOn": "2024-10-24T14:16:20.000Z",
           "wordCount": null,
           "title": "Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cbcd6-m8sHg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cbcd6-m8sHg",
-          "publishedOn": "2024-10-23T17:01:22.000Z",
-          "wordCount": null,
-          "title": "Google Cloud Digital Leader Certification Course 2024 - Pass the Exam!",
           "imageUrl": null
         }
       ]
