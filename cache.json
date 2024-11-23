@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5MoZ1hJuvqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5MoZ1hJuvqM",
+          "publishedOn": "2024-11-22T15:00:13.000Z",
+          "wordCount": null,
+          "title": "Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=x4rFhThSX04",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2024-10-25T14:39:52.000Z",
           "wordCount": null,
           "title": "From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zMJSyzg63o0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zMJSyzg63o0",
-          "publishedOn": "2024-10-24T14:16:20.000Z",
-          "wordCount": null,
-          "title": "Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind",
           "imageUrl": null
         }
       ]
