@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cWGQncQxaHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cWGQncQxaHI",
+          "publishedOn": "2024-12-02T17:28:35.000Z",
+          "wordCount": null,
+          "title": "Learn Google Sheets – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TtvytXHLAsc",
           "author": null,
           "description": "",
