@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kG9l41Dtuyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kG9l41Dtuyo",
+          "publishedOn": "2024-12-04T14:44:17.000Z",
+          "wordCount": null,
+          "title": "Build a Stable Diffusion VAE From Scratch using Pytorch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cWGQncQxaHI",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-11-07T16:12:53.000Z",
           "wordCount": null,
           "title": "Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
-          "publishedOn": "2024-11-05T15:32:42.000Z",
-          "wordCount": null,
-          "title": "AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science",
           "imageUrl": null
         }
       ]
