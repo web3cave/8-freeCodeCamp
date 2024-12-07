@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TpNwIgwWVR0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TpNwIgwWVR0",
+          "publishedOn": "2024-12-06T17:24:53.000Z",
+          "wordCount": null,
+          "title": "How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kG9l41Dtuyo",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-11-08T22:52:05.000Z",
           "wordCount": null,
           "title": "The State of AI with Stanford Researcher Yifan Mai [Podcast #149]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
-          "publishedOn": "2024-11-07T16:12:53.000Z",
-          "wordCount": null,
-          "title": "Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI",
           "imageUrl": null
         }
       ]
