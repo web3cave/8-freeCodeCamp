@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dsx1oTPgLqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dsx1oTPgLqE",
-          "publishedOn": "2024-11-08T22:52:05.000Z",
-          "wordCount": null,
-          "title": "The State of AI with Stanford Researcher Yifan Mai [Podcast #149]",
-          "imageUrl": null
         }
       ]
     }
