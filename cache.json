@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
+          "publishedOn": "2024-12-13T20:55:46.000Z",
+          "wordCount": null,
+          "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a4HBKEda_F8",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2024-11-15T19:03:37.000Z",
           "wordCount": null,
           "title": "To code is to struggle! I interview Tech with Tim [Podcast #150]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9gpAtzQhYkY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9gpAtzQhYkY",
-          "publishedOn": "2024-11-14T16:45:25.000Z",
-          "wordCount": null,
-          "title": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod",
           "imageUrl": null
         }
       ]
