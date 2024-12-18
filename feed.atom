@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-17T06:19:09.285Z</id>
+    <id>urn:2024-12-18T06:18:08.733Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-17T06:19:09.285Z</updated>
+    <updated>2024-12-18T06:18:08.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spring AI Full Course with Projects – Build Smarter Spring Boot Applications]]></title>
+        <id>https://www.youtube.com/watch?v=9Crrhz0pm8s</id>
+        <link href="https://www.youtube.com/watch?v=9Crrhz0pm8s"/>
+        <updated>2024-12-17T16:58:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
         <id>https://www.youtube.com/watch?v=a0bzf4h4jjg</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=x4rFhThSX04</id>
         <link href="https://www.youtube.com/watch?v=x4rFhThSX04"/>
         <updated>2024-11-20T18:25:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redux and Modern Redux Toolkit with Asynchronous Operation – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=SlC8941Wwrk</id>
-        <link href="https://www.youtube.com/watch?v=SlC8941Wwrk"/>
-        <updated>2024-11-18T14:00:23.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

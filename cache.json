@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
+          "publishedOn": "2024-12-17T16:58:56.000Z",
+          "wordCount": null,
+          "title": "Spring AI Full Course with Projects – Build Smarter Spring Boot Applications",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-11-20T18:25:12.000Z",
           "wordCount": null,
           "title": "Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SlC8941Wwrk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SlC8941Wwrk",
-          "publishedOn": "2024-11-18T14:00:23.000Z",
-          "wordCount": null,
-          "title": "Redux and Modern Redux Toolkit with Asynchronous Operation – Full Course",
           "imageUrl": null
         }
       ]
