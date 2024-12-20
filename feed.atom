@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-19T06:18:21.982Z</id>
+    <id>urn:2024-12-20T06:17:22.147Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-19T06:18:21.982Z</updated>
+    <updated>2024-12-20T06:17:22.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=hyEw7dQ9-JE</id>
+        <link href="https://www.youtube.com/watch?v=hyEw7dQ9-JE"/>
+        <updated>2024-12-19T15:47:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn JavaScript to Make Games + Kaplay Library Course]]></title>
         <id>https://www.youtube.com/watch?v=KHxX0CgMGs4</id>

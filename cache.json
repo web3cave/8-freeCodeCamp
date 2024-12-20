@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hyEw7dQ9-JE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hyEw7dQ9-JE",
+          "publishedOn": "2024-12-19T15:47:35.000Z",
+          "wordCount": null,
+          "title": "AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KHxX0CgMGs4",
           "author": null,
           "description": "",
