@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=07vQARYrJgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=07vQARYrJgw",
+          "publishedOn": "2024-12-23T15:14:28.000Z",
+          "wordCount": null,
+          "title": "JavaScript Christmas Calendar Tutorial 🎄",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OaQO5gSpE4g",
           "author": null,
           "description": "",
