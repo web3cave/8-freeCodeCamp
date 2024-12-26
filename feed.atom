@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-25T06:17:31.386Z</id>
+    <id>urn:2024-12-26T06:17:30.908Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-25T06:17:31.386Z</updated>
+    <updated>2024-12-26T06:17:30.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=TtvytXHLAsc</id>
         <link href="https://www.youtube.com/watch?v=TtvytXHLAsc"/>
         <updated>2024-11-27T15:52:29.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama Course – Build AI Apps Locally]]></title>
-        <id>https://www.youtube.com/watch?v=GWB9ApTPTv4</id>
-        <link href="https://www.youtube.com/watch?v=GWB9ApTPTv4"/>
-        <updated>2024-11-26T15:29:04.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
