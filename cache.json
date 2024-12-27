@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "Learn Google Sheets – Full Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TtvytXHLAsc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TtvytXHLAsc",
-          "publishedOn": "2024-11-27T15:52:29.000Z",
-          "wordCount": null,
-          "title": "Event-Driven Architecture Course – NextJS, Clerk, Webhooks",
-          "imageUrl": null
         }
       ]
     }
