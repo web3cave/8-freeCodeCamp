@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-02T06:17:15.393Z</id>
+    <id>urn:2025-01-03T06:17:14.493Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-02T06:17:15.393Z</updated>
+    <updated>2025-01-03T06:17:14.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IoT Home Automation Project Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=eidD14dXW8s</id>
+        <link href="https://www.youtube.com/watch?v=eidD14dXW8s"/>
+        <updated>2025-01-02T15:18:15.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=sm5Y7Vtuihg</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=TpNwIgwWVR0</id>
         <link href="https://www.youtube.com/watch?v=TpNwIgwWVR0"/>
         <updated>2024-12-06T17:24:53.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
-        <id>https://www.youtube.com/watch?v=kG9l41Dtuyo</id>
-        <link href="https://www.youtube.com/watch?v=kG9l41Dtuyo"/>
-        <updated>2024-12-04T14:44:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
