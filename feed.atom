@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-04T06:15:43.344Z</id>
+    <id>urn:2025-01-05T06:16:05.395Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-04T06:15:43.344Z</updated>
+    <updated>2025-01-05T06:16:05.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=eX-ODcr3XJg</id>
         <link href="https://www.youtube.com/watch?v=eX-ODcr3XJg"/>
         <updated>2024-12-10T16:58:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
-        <id>https://www.youtube.com/watch?v=TpNwIgwWVR0</id>
-        <link href="https://www.youtube.com/watch?v=TpNwIgwWVR0"/>
-        <updated>2024-12-06T17:24:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
