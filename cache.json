@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+          "publishedOn": "2025-01-07T14:55:24.000Z",
+          "wordCount": null,
+          "title": "33 Spreadsheet Projects Course for Beginners – Excel and Google Sheets",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eidD14dXW8s",
           "author": null,
           "description": "",
