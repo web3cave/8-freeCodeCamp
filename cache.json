@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
+          "publishedOn": "2025-01-08T15:03:08.000Z",
+          "wordCount": null,
+          "title": "GenAI Essentials – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BBk3DXgodmI",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-12-11T20:31:45.000Z",
           "wordCount": null,
           "title": "Elasticsearch Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eX-ODcr3XJg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eX-ODcr3XJg",
-          "publishedOn": "2024-12-10T16:58:24.000Z",
-          "wordCount": null,
-          "title": "Polyrhythms JavaScript Project Tutorial – How Math Can Make Your Code Better",
           "imageUrl": null
         }
       ]
