@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=00K8Lw1hZYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=00K8Lw1hZYc",
+          "publishedOn": "2025-01-10T19:13:28.000Z",
+          "wordCount": null,
+          "title": "CUDA and GPU Programming with Elliot Arledge [Podcast #155]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-12-13T20:55:46.000Z",
           "wordCount": null,
           "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a4HBKEda_F8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a4HBKEda_F8",
-          "publishedOn": "2024-12-11T20:31:45.000Z",
-          "wordCount": null,
-          "title": "Elasticsearch Course for Beginners",
           "imageUrl": null
         }
       ]
