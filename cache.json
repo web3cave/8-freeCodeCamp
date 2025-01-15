@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
+          "publishedOn": "2025-01-14T16:03:17.000Z",
+          "wordCount": null,
+          "title": "Lisp Programming Language – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=00K8Lw1hZYc",
           "author": null,
           "description": "",
