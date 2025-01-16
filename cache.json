@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=onU5Hbb3qao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=onU5Hbb3qao",
+          "publishedOn": "2025-01-15T15:55:23.000Z",
+          "wordCount": null,
+          "title": "Understanding Deep Learning Research Tutorial - Theory, Code and Math",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-12-18T20:52:29.000Z",
           "wordCount": null,
           "title": "Learn JavaScript to Make Games + Kaplay Library Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
-          "publishedOn": "2024-12-17T16:58:56.000Z",
-          "wordCount": null,
-          "title": "Spring AI Full Course with Projects – Build Smarter Spring Boot Applications",
           "imageUrl": null
         }
       ]

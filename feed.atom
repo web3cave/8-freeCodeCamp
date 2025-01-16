@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-15T06:16:47.015Z</id>
+    <id>urn:2025-01-16T06:16:49.126Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-15T06:16:47.015Z</updated>
+    <updated>2025-01-16T06:16:49.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Deep Learning Research Tutorial - Theory, Code and Math]]></title>
+        <id>https://www.youtube.com/watch?v=onU5Hbb3qao</id>
+        <link href="https://www.youtube.com/watch?v=onU5Hbb3qao"/>
+        <updated>2025-01-15T15:55:23.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lisp Programming Language – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=cKK-Y1-jAHM</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=KHxX0CgMGs4</id>
         <link href="https://www.youtube.com/watch?v=KHxX0CgMGs4"/>
         <updated>2024-12-18T20:52:29.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring AI Full Course with Projects – Build Smarter Spring Boot Applications]]></title>
-        <id>https://www.youtube.com/watch?v=9Crrhz0pm8s</id>
-        <link href="https://www.youtube.com/watch?v=9Crrhz0pm8s"/>
-        <updated>2024-12-17T16:58:56.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
