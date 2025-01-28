@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
+          "publishedOn": "2025-01-27T16:11:06.000Z",
+          "wordCount": null,
+          "title": "LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wjj2gZbcoNw",
           "author": null,
           "description": "",
