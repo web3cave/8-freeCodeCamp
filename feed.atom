@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T06:16:46.146Z</id>
+    <id>urn:2025-01-30T06:16:49.288Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-29T06:16:46.146Z</updated>
+    <updated>2025-01-30T06:16:49.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Object Oriented Programming (OOP) - Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=iLRZi0Gu8Go</id>
+        <link href="https://www.youtube.com/watch?v=iLRZi0Gu8Go"/>
+        <updated>2025-01-29T15:19:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek-R1 Crash Course]]></title>
         <id>https://www.youtube.com/watch?v=_CXwZ5xyFno</id>
