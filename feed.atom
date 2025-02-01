@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-31T06:17:04.643Z</id>
+    <id>urn:2025-02-01T06:15:34.228Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-31T06:17:04.643Z</updated>
+    <updated>2025-02-01T06:15:34.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]]]></title>
+        <id>https://www.youtube.com/watch?v=8JLtPIhQduU</id>
+        <link href="https://www.youtube.com/watch?v=8JLtPIhQduU"/>
+        <updated>2025-01-31T15:00:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Security Fundamentals – Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=R-4_DbV1Su4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=BBk3DXgodmI</id>
         <link href="https://www.youtube.com/watch?v=BBk3DXgodmI"/>
         <updated>2025-01-07T14:55:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT Home Automation Project Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=eidD14dXW8s</id>
-        <link href="https://www.youtube.com/watch?v=eidD14dXW8s"/>
-        <updated>2025-01-02T15:18:15.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
