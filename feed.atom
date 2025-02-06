@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-05T06:17:00.671Z</id>
+    <id>urn:2025-02-06T06:17:41.266Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-05T06:17:00.671Z</updated>
+    <updated>2025-02-06T06:17:41.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strapi 5 and Next.js 15 Full Stack Project Course]]></title>
+        <id>https://www.youtube.com/watch?v=Q-cPtlYG1cY</id>
+        <link href="https://www.youtube.com/watch?v=Q-cPtlYG1cY"/>
+        <updated>2025-02-05T14:19:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vyper and Python Smart Contracts on Blockchain – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=nWsLw_1OpE0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=00K8Lw1hZYc</id>
         <link href="https://www.youtube.com/watch?v=00K8Lw1hZYc"/>
         <updated>2025-01-10T19:13:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenAI Essentials – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=nJ25yl34Uqw</id>
-        <link href="https://www.youtube.com/watch?v=nJ25yl34Uqw"/>
-        <updated>2025-01-08T15:03:08.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
