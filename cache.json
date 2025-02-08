@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4rALiJgQjHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4rALiJgQjHY",
+          "publishedOn": "2025-02-07T23:04:55.000Z",
+          "wordCount": null,
+          "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nYXVvK-Wmn0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-01-15T15:55:23.000Z",
           "wordCount": null,
           "title": "Understanding Deep Learning Research Tutorial - Theory, Code and Math",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
-          "publishedOn": "2025-01-14T16:03:17.000Z",
-          "wordCount": null,
-          "title": "Lisp Programming Language – Full Course for Beginners",
           "imageUrl": null
         }
       ]
