@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
+          "publishedOn": "2025-02-15T00:27:47.000Z",
+          "wordCount": null,
+          "title": "From Poker Dealer to Self-Taught Developer [Podcast #160]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VvKcxBBqQJ8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-01-21T14:58:09.000Z",
           "wordCount": null,
           "title": "How to Create a Website – WordPress Tutorial for Beginners 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T0u5nwSA0w0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T0u5nwSA0w0",
-          "publishedOn": "2025-01-20T16:04:14.000Z",
-          "wordCount": null,
-          "title": "Neetcode 150 Course - All Coding Interview Questions Solved",
           "imageUrl": null
         }
       ]
