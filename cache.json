@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TPobG2emAfk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TPobG2emAfk",
+          "publishedOn": "2025-02-24T04:15:02.000Z",
+          "wordCount": null,
+          "title": "How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hK8wf18SasY",
           "author": null,
           "description": "",
@@ -32,7 +42,7 @@
           "link": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
           "publishedOn": "2025-02-15T00:27:47.000Z",
           "wordCount": null,
-          "title": "From Poker Dealer to Self-Taught Developer [Podcast #160]",
+          "title": "She taught herself to code in her 30s for zero dollars [Podcast #160]",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2025-01-27T16:11:06.000Z",
           "wordCount": null,
           "title": "LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wjj2gZbcoNw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wjj2gZbcoNw",
-          "publishedOn": "2025-01-24T23:10:06.000Z",
-          "wordCount": null,
-          "title": "Getting a developer job in 2025 with Lane Wagner [Podcast #157]",
           "imageUrl": null
         }
       ]
