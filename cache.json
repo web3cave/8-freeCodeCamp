@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
+          "publishedOn": "2025-02-25T17:15:57.000Z",
+          "wordCount": null,
+          "title": "Vision Transformer from Scratch Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TPobG2emAfk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-01-28T15:52:11.000Z",
           "wordCount": null,
           "title": "DeepSeek-R1 Crash Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
-          "publishedOn": "2025-01-27T16:11:06.000Z",
-          "wordCount": null,
-          "title": "LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)",
           "imageUrl": null
         }
       ]
