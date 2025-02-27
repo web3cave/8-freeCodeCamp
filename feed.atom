@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T06:18:06.061Z</id>
+    <id>urn:2025-02-27T06:17:56.710Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T06:18:06.061Z</updated>
+    <updated>2025-02-27T06:17:56.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Full Stack AI-Powered Web App with ChatGPT API]]></title>
+        <id>https://www.youtube.com/watch?v=b-JFDTZ5e1U</id>
+        <link href="https://www.youtube.com/watch?v=b-JFDTZ5e1U"/>
+        <updated>2025-02-26T18:55:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vision Transformer from Scratch Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=4XgDdxpXHEQ</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=iLRZi0Gu8Go</id>
         <link href="https://www.youtube.com/watch?v=iLRZi0Gu8Go"/>
         <updated>2025-01-29T15:19:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-R1 Crash Course]]></title>
-        <id>https://www.youtube.com/watch?v=_CXwZ5xyFno</id>
-        <link href="https://www.youtube.com/watch?v=_CXwZ5xyFno"/>
-        <updated>2025-01-28T15:52:11.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

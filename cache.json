@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
+          "publishedOn": "2025-02-26T18:55:19.000Z",
+          "wordCount": null,
+          "title": "Build a Full Stack AI-Powered Web App with ChatGPT API",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-01-29T15:19:09.000Z",
           "wordCount": null,
           "title": "Python Object Oriented Programming (OOP) - Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_CXwZ5xyFno",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_CXwZ5xyFno",
-          "publishedOn": "2025-01-28T15:52:11.000Z",
-          "wordCount": null,
-          "title": "DeepSeek-R1 Crash Course",
           "imageUrl": null
         }
       ]
