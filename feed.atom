@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T06:18:00.083Z</id>
+    <id>urn:2025-03-06T06:17:56.413Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-05T06:18:00.083Z</updated>
+    <updated>2025-03-06T06:17:56.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to Machine Learning featuring Generative AI]]></title>
+        <id>https://www.youtube.com/watch?v=tmB5JIX3Lxk</id>
+        <link href="https://www.youtube.com/watch?v=tmB5JIX3Lxk"/>
+        <updated>2025-03-05T17:44:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity Tutorial – Massive Multiplayer Online (MMO) Game with SpacetimeDB]]></title>
         <id>https://www.youtube.com/watch?v=msVwc0IwYl0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Q-cPtlYG1cY</id>
         <link href="https://www.youtube.com/watch?v=Q-cPtlYG1cY"/>
         <updated>2025-02-05T14:19:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyper and Python Smart Contracts on Blockchain – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=nWsLw_1OpE0</id>
-        <link href="https://www.youtube.com/watch?v=nWsLw_1OpE0"/>
-        <updated>2025-02-04T14:56:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
