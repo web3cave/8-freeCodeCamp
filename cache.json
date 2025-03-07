@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
+          "publishedOn": "2025-03-06T16:45:41.000Z",
+          "wordCount": null,
+          "title": "Learn PyTorch in 5 Projects – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tmB5JIX3Lxk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-02-06T15:15:19.000Z",
           "wordCount": null,
           "title": "AI Engineer Roadmap – How to Learn AI in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q-cPtlYG1cY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q-cPtlYG1cY",
-          "publishedOn": "2025-02-05T14:19:05.000Z",
-          "wordCount": null,
-          "title": "Strapi 5 and Next.js 15 Full Stack Project Course",
           "imageUrl": null
         }
       ]
