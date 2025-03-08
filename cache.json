@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JKwbPZU-FV0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JKwbPZU-FV0",
+          "publishedOn": "2025-03-07T19:20:51.000Z",
+          "wordCount": null,
+          "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-02-07T23:04:55.000Z",
           "wordCount": null,
           "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nYXVvK-Wmn0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nYXVvK-Wmn0",
-          "publishedOn": "2025-02-06T15:15:19.000Z",
-          "wordCount": null,
-          "title": "AI Engineer Roadmap – How to Learn AI in 2025",
           "imageUrl": null
         }
       ]
