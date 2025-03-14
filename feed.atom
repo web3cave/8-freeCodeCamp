@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T06:17:57.185Z</id>
+    <id>urn:2025-03-14T06:18:03.199Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-13T06:17:57.185Z</updated>
+    <updated>2025-03-14T06:18:03.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Cognito Course – Authentication and Authorization]]></title>
+        <id>https://www.youtube.com/watch?v=ajExOgOCJXY</id>
+        <link href="https://www.youtube.com/watch?v=ajExOgOCJXY"/>
+        <updated>2025-03-13T14:37:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Essentials Course]]></title>
         <id>https://www.youtube.com/watch?v=876aSEUA_8c</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=L6Q8TkPA-ao</id>
         <link href="https://www.youtube.com/watch?v=L6Q8TkPA-ao"/>
         <updated>2025-02-15T00:27:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A-Level Computer Science – Programming Concepts for Beginners Course in Visual Basic VB.NET]]></title>
-        <id>https://www.youtube.com/watch?v=VvKcxBBqQJ8</id>
-        <link href="https://www.youtube.com/watch?v=VvKcxBBqQJ8"/>
-        <updated>2025-02-12T16:46:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
