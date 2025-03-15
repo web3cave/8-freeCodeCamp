@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=28c0QMQZ5yA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=28c0QMQZ5yA",
+          "publishedOn": "2025-03-14T22:04:40.000Z",
+          "wordCount": null,
+          "title": "How to become a self-taught developer while supporting a family [Podcast #164]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ajExOgOCJXY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-02-18T17:44:39.000Z",
           "wordCount": null,
           "title": "How to Build an ASP.NET Core MVC Web App – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
-          "publishedOn": "2025-02-15T00:27:47.000Z",
-          "wordCount": null,
-          "title": "She taught herself to code in her 30s for zero dollars [Podcast #160]",
           "imageUrl": null
         }
       ]
