@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T06:18:44.563Z</id>
+    <id>urn:2025-03-20T06:18:22.163Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-19T06:18:44.563Z</updated>
+    <updated>2025-03-20T06:18:22.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn ANY Language with AI (Learn English, Learn Spanish, Learn Mandarin Chinese, and more)]]></title>
+        <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
+        <link href="https://www.youtube.com/watch?v=wuVVclLcjuA"/>
+        <updated>2025-03-19T15:53:38.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Full Stack AI Note Taking App with Next.js and Supabase – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=6ChzCaljcaI</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=TPobG2emAfk</id>
         <link href="https://www.youtube.com/watch?v=TPobG2emAfk"/>
         <updated>2025-02-24T04:15:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes and EKS for Beginners – Crash Course with Pulumi]]></title>
-        <id>https://www.youtube.com/watch?v=hK8wf18SasY</id>
-        <link href="https://www.youtube.com/watch?v=hK8wf18SasY"/>
-        <updated>2025-02-20T14:54:31.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
