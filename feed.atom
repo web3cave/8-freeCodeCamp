@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T06:19:47.303Z</id>
+    <id>urn:2025-03-22T06:16:36.633Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-21T06:19:47.303Z</updated>
+    <updated>2025-03-22T06:16:36.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From hating coding to programming satellites at age 37 – Francesco Ciulla interview [Podcast #165]]]></title>
+        <id>https://www.youtube.com/watch?v=YDLDCm3bPfU</id>
+        <link href="https://www.youtube.com/watch?v=YDLDCm3bPfU"/>
+        <updated>2025-03-22T00:45:03.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn ANY Language with AI (Learn English, Learn Spanish, Learn Mandarin Chinese, and more)]]></title>
         <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=4XgDdxpXHEQ</id>
         <link href="https://www.youtube.com/watch?v=4XgDdxpXHEQ"/>
         <updated>2025-02-25T17:15:57.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]]]></title>
-        <id>https://www.youtube.com/watch?v=TPobG2emAfk</id>
-        <link href="https://www.youtube.com/watch?v=TPobG2emAfk"/>
-        <updated>2025-02-24T04:15:02.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
