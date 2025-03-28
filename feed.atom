@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-27T06:18:28.208Z</id>
+    <id>urn:2025-03-28T06:18:56.986Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-27T06:18:28.208Z</updated>
+    <updated>2025-03-28T06:18:56.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Formulas & Functions You Should Know [Full Course]]]></title>
+        <id>https://www.youtube.com/watch?v=O3m9m6Ie4gY</id>
+        <link href="https://www.youtube.com/watch?v=O3m9m6Ie4gY"/>
+        <updated>2025-03-27T14:02:10.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microservices in Nest.js – JavaScript Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=t76UMpwFNs0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=QCPJ0VdpM00</id>
         <link href="https://www.youtube.com/watch?v=QCPJ0VdpM00"/>
         <updated>2025-02-27T14:25:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack AI-Powered Web App with ChatGPT API]]></title>
-        <id>https://www.youtube.com/watch?v=b-JFDTZ5e1U</id>
-        <link href="https://www.youtube.com/watch?v=b-JFDTZ5e1U"/>
-        <updated>2025-02-26T18:55:19.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
