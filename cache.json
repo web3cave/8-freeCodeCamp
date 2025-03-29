@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PiWejwwj7Nk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PiWejwwj7Nk",
+          "publishedOn": "2025-03-28T18:55:15.000Z",
+          "wordCount": null,
+          "title": "From broke musician to working dev. How college drop-out Ryan Furrer learned to code [Podcast #166]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O3m9m6Ie4gY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-02-28T15:00:11.000Z",
           "wordCount": null,
           "title": "How to become a developer in your 30s with Anjana Vakil [Podcast #162]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QCPJ0VdpM00",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QCPJ0VdpM00",
-          "publishedOn": "2025-02-27T14:25:50.000Z",
-          "wordCount": null,
-          "title": "Linear Algebra for Machine Learning",
           "imageUrl": null
         }
       ]
