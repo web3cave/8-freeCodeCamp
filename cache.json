@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5avSMc79V-w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5avSMc79V-w",
+          "publishedOn": "2025-04-01T16:19:24.000Z",
+          "wordCount": null,
+          "title": "Code DeepSeek V3 From Scratch in Python - Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PiWejwwj7Nk",
           "author": null,
           "description": "",
