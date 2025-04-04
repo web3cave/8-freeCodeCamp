@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "Learn PyTorch in 5 Projects – Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tmB5JIX3Lxk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tmB5JIX3Lxk",
-          "publishedOn": "2025-03-05T17:44:48.000Z",
-          "wordCount": null,
-          "title": "Intro to Machine Learning featuring Generative AI",
-          "imageUrl": null
         }
       ]
     }
