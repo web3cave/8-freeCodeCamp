@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YCS3HsFTbTQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YCS3HsFTbTQ",
+          "publishedOn": "2025-04-04T20:00:42.000Z",
+          "wordCount": null,
+          "title": "From drop-out to software architect with Jason Lengstorf [Podcast #167]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VK-2j5CNsvM",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2025-03-07T19:20:51.000Z",
           "wordCount": null,
           "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
-          "publishedOn": "2025-03-06T16:45:41.000Z",
-          "wordCount": null,
-          "title": "Learn PyTorch in 5 Projects – Tutorial",
           "imageUrl": null
         }
       ]
