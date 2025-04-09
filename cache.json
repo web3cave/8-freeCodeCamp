@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0ffwhxW-uyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ffwhxW-uyw",
+          "publishedOn": "2025-04-08T14:55:10.000Z",
+          "wordCount": null,
+          "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YCS3HsFTbTQ",
           "author": null,
           "description": "",
