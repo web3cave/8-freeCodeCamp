@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oYMUKagK0n8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oYMUKagK0n8",
+          "publishedOn": "2025-04-15T15:14:48.000Z",
+          "wordCount": null,
+          "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9Ge0sMm65jo",
           "author": null,
           "description": "",
