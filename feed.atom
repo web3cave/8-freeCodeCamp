@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T06:19:34.769Z</id>
+    <id>urn:2025-04-17T06:19:19.484Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-16T06:19:34.769Z</updated>
+    <updated>2025-04-17T06:19:19.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Engineering with Python and AI/LLMs – Data Loading Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=T23Bs75F7ZQ</id>
+        <link href="https://www.youtube.com/watch?v=T23Bs75F7ZQ"/>
+        <updated>2025-04-16T17:39:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Accountant to Data Engineer with Alyson La [Podcast #168]]]></title>
         <id>https://www.youtube.com/watch?v=oYMUKagK0n8</id>
@@ -109,15 +118,6 @@
         <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
         <link href="https://www.youtube.com/watch?v=wuVVclLcjuA"/>
         <updated>2025-03-19T15:53:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack AI Note Taking App with Next.js and Supabase – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=6ChzCaljcaI</id>
-        <link href="https://www.youtube.com/watch?v=6ChzCaljcaI"/>
-        <updated>2025-03-18T15:12:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

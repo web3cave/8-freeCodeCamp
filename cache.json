@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
+          "publishedOn": "2025-04-16T17:39:21.000Z",
+          "wordCount": null,
+          "title": "Data Engineering with Python and AI/LLMs – Data Loading Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oYMUKagK0n8",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2025-03-19T15:53:38.000Z",
           "wordCount": null,
           "title": "Learn ANY Language with AI (Learn English, Learn Spanish, Learn Mandarin Chinese, and more)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6ChzCaljcaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6ChzCaljcaI",
-          "publishedOn": "2025-03-18T15:12:29.000Z",
-          "wordCount": null,
-          "title": "Build a Full Stack AI Note Taking App with Next.js and Supabase – Tutorial",
           "imageUrl": null
         }
       ]
