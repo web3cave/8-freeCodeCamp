@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-17T06:19:19.484Z</id>
+    <id>urn:2025-04-18T06:19:03.150Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-17T06:19:19.484Z</updated>
+    <updated>2025-04-18T06:19:03.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=MG1kt_wiIz0</id>
+        <link href="https://www.youtube.com/watch?v=MG1kt_wiIz0"/>
+        <updated>2025-04-17T13:41:38.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Engineering with Python and AI/LLMs – Data Loading Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=T23Bs75F7ZQ</id>
@@ -109,15 +118,6 @@
         <id>https://www.youtube.com/watch?v=YDLDCm3bPfU</id>
         <link href="https://www.youtube.com/watch?v=YDLDCm3bPfU"/>
         <updated>2025-03-22T00:45:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn ANY Language with AI (Learn English, Learn Spanish, Learn Mandarin Chinese, and more)]]></title>
-        <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
-        <link href="https://www.youtube.com/watch?v=wuVVclLcjuA"/>
-        <updated>2025-03-19T15:53:38.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
