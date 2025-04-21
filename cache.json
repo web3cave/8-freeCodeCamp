@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Microservices in Nest.js – JavaScript Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YDLDCm3bPfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YDLDCm3bPfU",
-          "publishedOn": "2025-03-22T00:45:03.000Z",
-          "wordCount": null,
-          "title": "From hating coding to programming satellites at age 37 – Francesco Ciulla interview [Podcast #165]",
-          "imageUrl": null
         }
       ]
     }
