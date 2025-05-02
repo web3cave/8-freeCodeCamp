@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T06:20:11.894Z</id>
+    <id>urn:2025-05-02T06:19:22.809Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-01T06:20:11.894Z</updated>
+    <updated>2025-05-02T06:19:22.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Django Crash Course – Python Web Framewrok]]></title>
+        <id>https://www.youtube.com/watch?v=0roB7wZMLqI</id>
+        <link href="https://www.youtube.com/watch?v=0roB7wZMLqI"/>
+        <updated>2025-05-01T16:08:14.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS Interview Questions and Answers (with Sample Code)]]></title>
         <id>https://www.youtube.com/watch?v=SLIlyAy-aZs</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=YCS3HsFTbTQ</id>
         <link href="https://www.youtube.com/watch?v=YCS3HsFTbTQ"/>
         <updated>2025-04-04T20:00:42.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Instagram Clone with Laravel and MongoDB – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=VK-2j5CNsvM</id>
-        <link href="https://www.youtube.com/watch?v=VK-2j5CNsvM"/>
-        <updated>2025-04-02T14:19:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
