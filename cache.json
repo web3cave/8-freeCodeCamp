@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6JnddhxL6vE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6JnddhxL6vE",
+          "publishedOn": "2025-05-02T16:17:10.000Z",
+          "wordCount": null,
+          "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0roB7wZMLqI",
           "author": null,
           "description": "",
