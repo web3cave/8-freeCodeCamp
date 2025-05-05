@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YCS3HsFTbTQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YCS3HsFTbTQ",
-          "publishedOn": "2025-04-04T20:00:42.000Z",
-          "wordCount": null,
-          "title": "From drop-out to software architect with Jason Lengstorf [Podcast #167]",
-          "imageUrl": null
         }
       ]
     }
