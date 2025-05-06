@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G4A5T3y5bJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G4A5T3y5bJM",
+          "publishedOn": "2025-05-05T15:53:27.000Z",
+          "wordCount": null,
+          "title": "C++ Course: Build an Audio Plugin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6JnddhxL6vE",
           "author": null,
           "description": "",
