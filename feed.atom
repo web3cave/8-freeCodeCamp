@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T06:20:25.144Z</id>
+    <id>urn:2025-05-09T06:20:11.379Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-08T06:20:25.144Z</updated>
+    <updated>2025-05-09T06:20:11.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Code a Dropbox Clone with NextJS – Tutorial]]></title>
+        <title type="html"><![CDATA[Generative AI Bootcamp – Complete 65-Hour Course]]></title>
+        <id>https://www.youtube.com/watch?v=DOXJ7s1D6iE</id>
+        <link href="https://www.youtube.com/watch?v=DOXJ7s1D6iE"/>
+        <updated>2025-05-08T14:52:44.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js by Coding Your Own Dropbox Clone – Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=IcOiX-jynfI</id>
         <link href="https://www.youtube.com/watch?v=IcOiX-jynfI"/>
         <updated>2025-05-07T15:12:21.000Z</updated>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=9Ge0sMm65jo</id>
         <link href="https://www.youtube.com/watch?v=9Ge0sMm65jo"/>
         <updated>2025-04-10T17:28:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lynx Tutorial – JS Framework for Cross Platform Development]]></title>
-        <id>https://www.youtube.com/watch?v=KCQsP91Wor0</id>
-        <link href="https://www.youtube.com/watch?v=KCQsP91Wor0"/>
-        <updated>2025-04-09T13:44:52.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
