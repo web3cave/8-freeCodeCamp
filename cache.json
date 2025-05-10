@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FHLmuNj20bA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FHLmuNj20bA",
+          "publishedOn": "2025-05-09T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Ditching My Microsoft Job for Startup Purgatory with Sam Crombie [Podcast #171]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DOXJ7s1D6iE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-04-15T15:14:48.000Z",
           "wordCount": null,
           "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9Ge0sMm65jo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9Ge0sMm65jo",
-          "publishedOn": "2025-04-10T17:28:36.000Z",
-          "wordCount": null,
-          "title": "Train Your Own LLM – Tutorial",
           "imageUrl": null
         }
       ]
