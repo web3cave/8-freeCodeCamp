@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=do62-z3z6FM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=do62-z3z6FM",
+          "publishedOn": "2025-05-14T13:01:22.000Z",
+          "wordCount": null,
+          "title": "Vite Crash Course – Frontend Build Tool",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=blKkRoZPxLc",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-04-17T13:41:38.000Z",
           "wordCount": null,
           "title": "Learn Laravel by Building a Medium Clone – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
-          "publishedOn": "2025-04-16T17:39:21.000Z",
-          "wordCount": null,
-          "title": "Data Engineering with Python and AI/LLMs – Data Loading Tutorial",
           "imageUrl": null
         }
       ]
