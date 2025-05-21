@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
+          "publishedOn": "2025-05-20T13:56:22.000Z",
+          "wordCount": null,
+          "title": "LangGraph Complete Course for Beginners – Complex AI Agents with Python",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yx1ri8X37S4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-04-23T13:55:36.000Z",
           "wordCount": null,
           "title": "Everything You Need to Know About JavaScript Arrays – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PcbuKRNtCUc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PcbuKRNtCUc",
-          "publishedOn": "2025-04-22T15:40:29.000Z",
-          "wordCount": null,
-          "title": "Essential Machine Learning and AI Concepts Animated",
           "imageUrl": null
         }
       ]
