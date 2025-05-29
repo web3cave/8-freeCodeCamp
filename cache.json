@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=38GNKtclDdE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=38GNKtclDdE",
+          "publishedOn": "2025-05-28T13:00:05.000Z",
+          "wordCount": null,
+          "title": "Build REST APIs in .NET 9 – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7o1jpvapaT0",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-05-02T16:17:10.000Z",
           "wordCount": null,
           "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0roB7wZMLqI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0roB7wZMLqI",
-          "publishedOn": "2025-05-01T16:08:14.000Z",
-          "wordCount": null,
-          "title": "Django Crash Course – Python Web Framewrok",
           "imageUrl": null
         }
       ]

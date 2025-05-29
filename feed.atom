@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T06:20:20.305Z</id>
+    <id>urn:2025-05-29T06:20:32.860Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-28T06:20:20.305Z</updated>
+    <updated>2025-05-29T06:20:32.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build REST APIs in .NET 9 – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=38GNKtclDdE</id>
+        <link href="https://www.youtube.com/watch?v=38GNKtclDdE"/>
+        <updated>2025-05-28T13:00:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Vision Transformer Model from Scratch with PyTorch]]></title>
         <id>https://www.youtube.com/watch?v=7o1jpvapaT0</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=6JnddhxL6vE</id>
         <link href="https://www.youtube.com/watch?v=6JnddhxL6vE"/>
         <updated>2025-05-02T16:17:10.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django Crash Course – Python Web Framewrok]]></title>
-        <id>https://www.youtube.com/watch?v=0roB7wZMLqI</id>
-        <link href="https://www.youtube.com/watch?v=0roB7wZMLqI"/>
-        <updated>2025-05-01T16:08:14.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
