@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
+          "publishedOn": "2025-05-29T13:44:02.000Z",
+          "wordCount": null,
+          "title": "Learn Python for Data Science – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=38GNKtclDdE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-05-05T15:53:27.000Z",
           "wordCount": null,
           "title": "C++ Course: Build an Audio Plugin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6JnddhxL6vE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6JnddhxL6vE",
-          "publishedOn": "2025-05-02T16:17:10.000Z",
-          "wordCount": null,
-          "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
           "imageUrl": null
         }
       ]
