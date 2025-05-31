@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=07NdHM6pE6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=07NdHM6pE6M",
+          "publishedOn": "2025-05-30T12:00:01.000Z",
+          "wordCount": null,
+          "title": "How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-05-07T15:12:21.000Z",
           "wordCount": null,
           "title": "Learn Next.js by Coding Your Own Dropbox Clone – Full Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G4A5T3y5bJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G4A5T3y5bJM",
-          "publishedOn": "2025-05-05T15:53:27.000Z",
-          "wordCount": null,
-          "title": "C++ Course: Build an Audio Plugin",
           "imageUrl": null
         }
       ]
