@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P7PMA3X1tf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P7PMA3X1tf8",
+          "publishedOn": "2025-06-04T13:09:35.000Z",
+          "wordCount": null,
+          "title": "C Programming with Raylib – Match3 Game Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6OV3tmt9uhs",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-05-09T09:00:32.000Z",
           "wordCount": null,
           "title": "Ditching My Microsoft Job for Startup Purgatory with Sam Crombie [Podcast #171]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DOXJ7s1D6iE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DOXJ7s1D6iE",
-          "publishedOn": "2025-05-08T14:52:44.000Z",
-          "wordCount": null,
-          "title": "Generative AI Bootcamp – Complete 65-Hour Course",
           "imageUrl": null
         }
       ]
