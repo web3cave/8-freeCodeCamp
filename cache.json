@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7bS52JVHEk0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7bS52JVHEk0",
+          "publishedOn": "2025-06-06T12:00:13.000Z",
+          "wordCount": null,
+          "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P7PMA3X1tf8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-05-12T13:22:06.000Z",
           "wordCount": null,
           "title": "Android & Kotlin Development Masterclass – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FHLmuNj20bA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FHLmuNj20bA",
-          "publishedOn": "2025-05-09T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Ditching My Microsoft Job for Startup Purgatory with Sam Crombie [Podcast #171]",
           "imageUrl": null
         }
       ]
