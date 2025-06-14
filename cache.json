@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gwNPV882tkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gwNPV882tkc",
+          "publishedOn": "2025-06-13T13:01:15.000Z",
+          "wordCount": null,
+          "title": "MLOps Pipeline with Python, AWS, Docker – YouTube Viewer Sentiment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NCvKYoTeJR0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NCvKYoTeJR0",
+          "publishedOn": "2025-06-13T12:30:19.000Z",
+          "wordCount": null,
+          "title": "From Therapist to six figure freelance dev [Podcast #176]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F9gB5b4jgOI",
           "author": null,
           "description": "",
@@ -133,16 +153,6 @@
           "publishedOn": "2025-05-16T11:01:50.000Z",
           "wordCount": null,
           "title": "Making Developer Friends Anywhere, with Iraqi Engineer Code;Life [Podcast #172]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bp9OZoQu3A0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bp9OZoQu3A0",
-          "publishedOn": "2025-05-15T13:37:04.000Z",
-          "wordCount": null,
-          "title": "Complete Spanish Language Beginners Course – Learn A1 Level Spanish",
           "imageUrl": null
         }
       ]
