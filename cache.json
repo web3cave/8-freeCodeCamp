@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GAdgTK2Esn4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GAdgTK2Esn4",
+          "publishedOn": "2025-06-17T12:41:28.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Data Analytics Certificate Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gwNPV882tkc",
           "author": null,
           "description": "",
