@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "Relational DBMS Course – Database Concepts, Design & Querying Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-          "publishedOn": "2025-05-20T13:56:22.000Z",
-          "wordCount": null,
-          "title": "LangGraph Complete Course for Beginners – Complex AI Agents with Python",
-          "imageUrl": null
         }
       ]
     }
