@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-19T06:21:00.041Z</id>
+    <id>urn:2025-06-20T06:21:02.621Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-19T06:21:00.041Z</updated>
+    <updated>2025-06-20T06:21:02.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Complete German Language Beginners Course – Learn A1 Level German]]></title>
+        <id>https://www.youtube.com/watch?v=0p4RCJ8P5ko</id>
+        <link href="https://www.youtube.com/watch?v=0p4RCJ8P5ko"/>
+        <updated>2025-06-19T12:56:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Data Analytics Certificate Course]]></title>
         <id>https://www.youtube.com/watch?v=GAdgTK2Esn4</id>
@@ -118,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=8pn9KEuXG28</id>
         <link href="https://www.youtube.com/watch?v=8pn9KEuXG28"/>
         <updated>2025-05-22T14:03:44.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relational DBMS Course – Database Concepts, Design & Querying Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=NdeeSEknp58</id>
-        <link href="https://www.youtube.com/watch?v=NdeeSEknp58"/>
-        <updated>2025-05-21T13:03:10.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
