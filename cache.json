@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
+          "publishedOn": "2025-06-24T13:12:29.000Z",
+          "wordCount": null,
+          "title": "Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0p4RCJ8P5ko",
           "author": null,
           "description": "",
