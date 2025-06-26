@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Build REST APIs in .NET 9 – Full Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7o1jpvapaT0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7o1jpvapaT0",
-          "publishedOn": "2025-05-27T13:39:47.000Z",
-          "wordCount": null,
-          "title": "Building a Vision Transformer Model from Scratch with PyTorch",
-          "imageUrl": null
         }
       ]
     }
