@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
+          "publishedOn": "2025-06-26T12:58:58.000Z",
+          "wordCount": null,
+          "title": "Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2025-05-29T13:44:02.000Z",
           "wordCount": null,
           "title": "Learn Python for Data Science – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=38GNKtclDdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=38GNKtclDdE",
-          "publishedOn": "2025-05-28T13:00:05.000Z",
-          "wordCount": null,
-          "title": "Build REST APIs in .NET 9 – Full Course for Beginners",
           "imageUrl": null
         }
       ]
