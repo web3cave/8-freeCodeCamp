@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yDhCweudqyY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yDhCweudqyY",
+          "publishedOn": "2025-06-27T12:01:56.000Z",
+          "wordCount": null,
+          "title": "Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2025-05-30T12:00:01.000Z",
           "wordCount": null,
           "title": "How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
-          "publishedOn": "2025-05-29T13:44:02.000Z",
-          "wordCount": null,
-          "title": "Learn Python for Data Science – Full Course for Beginners",
           "imageUrl": null
         }
       ]
