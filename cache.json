@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DrAZf4ZHqaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DrAZf4ZHqaM",
+          "publishedOn": "2025-07-01T15:14:53.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Cybersecurity Certificate Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yDhCweudqyY",
           "author": null,
           "description": "",
