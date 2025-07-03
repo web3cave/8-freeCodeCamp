@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-02T06:21:39.766Z</id>
+    <id>urn:2025-07-03T06:21:40.903Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-02T06:21:39.766Z</updated>
+    <updated>2025-07-03T06:21:40.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=P7PMA3X1tf8</id>
         <link href="https://www.youtube.com/watch?v=P7PMA3X1tf8"/>
         <updated>2025-06-04T13:09:35.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General Chemistry – Full University Course]]></title>
-        <id>https://www.youtube.com/watch?v=6OV3tmt9uhs</id>
-        <link href="https://www.youtube.com/watch?v=6OV3tmt9uhs"/>
-        <updated>2025-06-03T13:39:40.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
