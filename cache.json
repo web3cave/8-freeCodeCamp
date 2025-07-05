@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
+          "publishedOn": "2025-07-04T12:01:15.000Z",
+          "wordCount": null,
+          "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pHMtbdGoP_g",
           "author": null,
           "description": "",
