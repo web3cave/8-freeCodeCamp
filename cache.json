@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qDtVzumlb8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qDtVzumlb8M",
+          "publishedOn": "2025-07-08T14:04:11.000Z",
+          "wordCount": null,
+          "title": "Combine Vibe Coding & n8n to Build Real AI Apps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
           "author": null,
           "description": "",
