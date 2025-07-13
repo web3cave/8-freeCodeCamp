@@ -124,26 +124,6 @@
           "wordCount": null,
           "title": "Google Cloud Data Analytics Certificate Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gwNPV882tkc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gwNPV882tkc",
-          "publishedOn": "2025-06-13T13:01:15.000Z",
-          "wordCount": null,
-          "title": "MLOps Pipeline with Python, AWS, Docker – YouTube Viewer Sentiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NCvKYoTeJR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NCvKYoTeJR0",
-          "publishedOn": "2025-06-13T12:30:19.000Z",
-          "wordCount": null,
-          "title": "From Therapist to six figure freelance dev [Podcast #176]",
-          "imageUrl": null
         }
       ]
     }
