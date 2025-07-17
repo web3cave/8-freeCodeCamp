@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
+          "publishedOn": "2025-07-16T14:06:03.000Z",
+          "wordCount": null,
+          "title": "Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0xah5jMflcI",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2025-06-19T12:56:01.000Z",
           "wordCount": null,
           "title": "Complete German Language Beginners Course – Learn A1 Level German",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GAdgTK2Esn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GAdgTK2Esn4",
-          "publishedOn": "2025-06-17T12:41:28.000Z",
-          "wordCount": null,
-          "title": "Google Cloud Data Analytics Certificate Course",
           "imageUrl": null
         }
       ]
