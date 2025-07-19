@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=clTpnp0TlYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=clTpnp0TlYg",
+          "publishedOn": "2025-07-18T13:01:14.000Z",
+          "wordCount": null,
+          "title": "We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
           "author": null,
           "description": "",
@@ -123,16 +133,6 @@
           "publishedOn": "2025-06-24T13:12:29.000Z",
           "wordCount": null,
           "title": "Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0p4RCJ8P5ko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0p4RCJ8P5ko",
-          "publishedOn": "2025-06-19T12:56:01.000Z",
-          "wordCount": null,
-          "title": "Complete German Language Beginners Course – Learn A1 Level German",
           "imageUrl": null
         }
       ]
