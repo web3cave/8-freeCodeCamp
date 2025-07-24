@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
+          "publishedOn": "2025-07-23T12:34:25.000Z",
+          "wordCount": null,
+          "title": "Learn TypeScript – Crash Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2025-06-26T12:58:58.000Z",
           "wordCount": null,
           "title": "Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
-          "publishedOn": "2025-06-24T13:12:29.000Z",
-          "wordCount": null,
-          "title": "Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",
           "imageUrl": null
         }
       ]
