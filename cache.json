@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HaUe2AN210g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HaUe2AN210g",
+          "publishedOn": "2025-07-24T13:33:08.000Z",
+          "wordCount": null,
+          "title": "Enterprise AI Tutorial – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
           "author": null,
           "description": "",

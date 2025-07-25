@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-24T06:22:44.453Z</id>
+    <id>urn:2025-07-25T06:22:57.231Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-24T06:22:44.453Z</updated>
+    <updated>2025-07-25T06:22:57.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Enterprise AI Tutorial – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock]]></title>
+        <id>https://www.youtube.com/watch?v=HaUe2AN210g</id>
+        <link href="https://www.youtube.com/watch?v=HaUe2AN210g"/>
+        <updated>2025-07-24T13:33:08.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn TypeScript – Crash Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=ZvZ7gvcmPmI</id>
