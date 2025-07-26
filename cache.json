@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m7nkioXNiik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m7nkioXNiik",
+          "publishedOn": "2025-07-25T13:01:36.000Z",
+          "wordCount": null,
+          "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HaUe2AN210g",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-06-27T12:01:56.000Z",
           "wordCount": null,
           "title": "Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
-          "publishedOn": "2025-06-26T12:58:58.000Z",
-          "wordCount": null,
-          "title": "Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course",
           "imageUrl": null
         }
       ]
