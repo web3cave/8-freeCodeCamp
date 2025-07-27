@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "Google Cloud Cybersecurity Certificate Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yDhCweudqyY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yDhCweudqyY",
-          "publishedOn": "2025-06-27T12:01:56.000Z",
-          "wordCount": null,
-          "title": "Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]",
-          "imageUrl": null
         }
       ]
     }
