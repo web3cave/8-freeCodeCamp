@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-30T06:24:54.960Z</id>
+    <id>urn:2025-07-31T06:23:10.250Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-30T06:24:54.960Z</updated>
+    <updated>2025-07-31T06:23:10.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Algorithms Work – Algorithm Analysis Deep Dive Course]]></title>
+        <id>https://www.youtube.com/watch?v=ku6HZ_k9qgY</id>
+        <link href="https://www.youtube.com/watch?v=ku6HZ_k9qgY"/>
+        <updated>2025-07-30T14:33:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical Writing Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=vT5pcc30Ffw</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=pHMtbdGoP_g</id>
         <link href="https://www.youtube.com/watch?v=pHMtbdGoP_g"/>
         <updated>2025-07-03T12:45:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Cybersecurity Certificate Course]]></title>
-        <id>https://www.youtube.com/watch?v=DrAZf4ZHqaM</id>
-        <link href="https://www.youtube.com/watch?v=DrAZf4ZHqaM"/>
-        <updated>2025-07-01T15:14:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
