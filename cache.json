@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C7UI_4jIGSQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C7UI_4jIGSQ",
+          "publishedOn": "2025-08-01T13:30:09.000Z",
+          "wordCount": null,
+          "title": "Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ku6HZ_k9qgY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-04T12:01:15.000Z",
           "wordCount": null,
           "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pHMtbdGoP_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pHMtbdGoP_g",
-          "publishedOn": "2025-07-03T12:45:09.000Z",
-          "wordCount": null,
-          "title": "Google Calendar Clone Tutorial – PHP, MySQL, JavaScript, HTML, and CSS",
           "imageUrl": null
         }
       ]
