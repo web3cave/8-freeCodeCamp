@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OlAmyf8_4O4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OlAmyf8_4O4",
+          "publishedOn": "2025-08-05T14:16:26.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Associate Cloud Engineer Course [2025] - Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IJ85kCdqWao",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-09T13:53:06.000Z",
           "wordCount": null,
           "title": "VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qDtVzumlb8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qDtVzumlb8M",
-          "publishedOn": "2025-07-08T14:04:11.000Z",
-          "wordCount": null,
-          "title": "Combine Vibe Coding & n8n to Build Real AI Apps",
           "imageUrl": null
         }
       ]
