@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-07T06:24:18.549Z</id>
+    <id>urn:2025-08-08T06:24:16.040Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-07T06:24:18.549Z</updated>
+    <updated>2025-08-08T06:24:16.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Time Series Forecasting in Python – Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=fxx_E0ojKrc</id>
+        <link href="https://www.youtube.com/watch?v=fxx_E0ojKrc"/>
+        <updated>2025-08-07T14:14:44.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Associate Cloud Engineer Course [2025] - Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=OlAmyf8_4O4</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=ObiAWFqgpMg</id>
         <link href="https://www.youtube.com/watch?v=ObiAWFqgpMg"/>
         <updated>2025-07-10T13:00:56.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course)]]></title>
-        <id>https://www.youtube.com/watch?v=rhCiuu4AW_w</id>
-        <link href="https://www.youtube.com/watch?v=rhCiuu4AW_w"/>
-        <updated>2025-07-09T13:53:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
