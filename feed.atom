@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-12T06:22:20.878Z</id>
+    <id>urn:2025-08-13T06:22:26.386Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-12T06:22:20.878Z</updated>
+    <updated>2025-08-13T06:22:26.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Course for Beginners – API Security]]></title>
+        <id>https://www.youtube.com/watch?v=JfiWi8RjN-8</id>
+        <link href="https://www.youtube.com/watch?v=JfiWi8RjN-8"/>
+        <updated>2025-08-12T13:48:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]]]></title>
         <id>https://www.youtube.com/watch?v=N0K0m7dZBJI</id>

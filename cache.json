@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
+          "publishedOn": "2025-08-12T13:48:57.000Z",
+          "wordCount": null,
+          "title": "DevSecOps Course for Beginners – API Security",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
           "author": null,
           "description": "",
