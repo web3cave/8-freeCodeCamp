@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qYk_BqGHXEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qYk_BqGHXEg",
+          "publishedOn": "2025-08-13T15:53:12.000Z",
+          "wordCount": null,
+          "title": "Next.js Caching & Rendering Tutorial – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-16T14:06:03.000Z",
           "wordCount": null,
           "title": "Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0xah5jMflcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0xah5jMflcI",
-          "publishedOn": "2025-07-15T13:35:29.000Z",
-          "wordCount": null,
-          "title": "Building ‍Security into AI – Tutorial",
           "imageUrl": null
         }
       ]

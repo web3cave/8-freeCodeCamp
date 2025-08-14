@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T06:22:26.386Z</id>
+    <id>urn:2025-08-14T06:22:11.854Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-13T06:22:26.386Z</updated>
+    <updated>2025-08-14T06:22:11.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Next.js Caching & Rendering Tutorial – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=qYk_BqGHXEg</id>
+        <link href="https://www.youtube.com/watch?v=qYk_BqGHXEg"/>
+        <updated>2025-08-13T15:53:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevSecOps Course for Beginners – API Security]]></title>
         <id>https://www.youtube.com/watch?v=JfiWi8RjN-8</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=XSJD5ay1D_8</id>
         <link href="https://www.youtube.com/watch?v=XSJD5ay1D_8"/>
         <updated>2025-07-16T14:06:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building ‍Security into AI – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=0xah5jMflcI</id>
-        <link href="https://www.youtube.com/watch?v=0xah5jMflcI"/>
-        <updated>2025-07-15T13:35:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
