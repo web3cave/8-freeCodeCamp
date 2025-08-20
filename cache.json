@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
+          "publishedOn": "2025-08-19T13:58:10.000Z",
+          "wordCount": null,
+          "title": "LLM from Scratch Tutorial – Code & Train Qwen 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=16emGG-guIo",
           "author": null,
           "description": "",
