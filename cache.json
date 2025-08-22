@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1AX7_aPWmbE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1AX7_aPWmbE",
+          "publishedOn": "2025-08-21T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Checkmate Patterns for Beginners – Full Chess Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9tANiA0LKn4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-24T13:33:08.000Z",
           "wordCount": null,
           "title": "Enterprise AI Tutorial – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
-          "publishedOn": "2025-07-23T12:34:25.000Z",
-          "wordCount": null,
-          "title": "Learn TypeScript – Crash Course for Beginners",
           "imageUrl": null
         }
       ]
