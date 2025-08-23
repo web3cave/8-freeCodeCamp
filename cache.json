@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L6kMdLH1S8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L6kMdLH1S8w",
+          "publishedOn": "2025-08-22T13:15:07.000Z",
+          "wordCount": null,
+          "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1AX7_aPWmbE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-25T13:01:36.000Z",
           "wordCount": null,
           "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HaUe2AN210g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HaUe2AN210g",
-          "publishedOn": "2025-07-24T13:33:08.000Z",
-          "wordCount": null,
-          "title": "Enterprise AI Tutorial – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
           "imageUrl": null
         }
       ]
