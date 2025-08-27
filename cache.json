@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u43gJJrVa1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u43gJJrVa1I",
+          "publishedOn": "2025-08-26T13:42:34.000Z",
+          "wordCount": null,
+          "title": "Professional Cloud Architect Certification Course – Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q5U-b6gRTaY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-07-30T14:33:21.000Z",
           "wordCount": null,
           "title": "Why Algorithms Work – Algorithm Analysis Deep Dive Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vT5pcc30Ffw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vT5pcc30Ffw",
-          "publishedOn": "2025-07-29T14:49:00.000Z",
-          "wordCount": null,
-          "title": "Technical Writing Course for Beginners",
           "imageUrl": null
         }
       ]
