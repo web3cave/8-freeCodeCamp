@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
+          "publishedOn": "2025-09-04T23:27:39.000Z",
+          "wordCount": null,
+          "title": "How to Make Companies Beg You to Join with Ania Kubów [Podcast #187]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H-oCV5brtU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H-oCV5brtU4",
+          "publishedOn": "2025-09-04T14:09:42.000Z",
+          "wordCount": null,
+          "title": "Intro to Fine-Tuning Large Language Models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YtHdaXuOAks",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2025-08-12T13:48:57.000Z",
           "wordCount": null,
           "title": "DevSecOps Course for Beginners – API Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
-          "publishedOn": "2025-08-08T13:00:45.000Z",
-          "wordCount": null,
-          "title": "Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fxx_E0ojKrc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fxx_E0ojKrc",
-          "publishedOn": "2025-08-07T14:14:44.000Z",
-          "wordCount": null,
-          "title": "Time Series Forecasting in Python – Tutorial for Beginners",
           "imageUrl": null
         }
       ]
