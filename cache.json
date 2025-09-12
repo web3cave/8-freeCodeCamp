@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UuknxVdqzb4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UuknxVdqzb4",
+          "publishedOn": "2025-09-11T13:01:06.000Z",
+          "wordCount": null,
+          "title": "Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MiPkcTaRbfQ",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-08-19T13:58:10.000Z",
           "wordCount": null,
           "title": "LLM from Scratch Tutorial – Code & Train Qwen 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=16emGG-guIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=16emGG-guIo",
-          "publishedOn": "2025-08-15T13:00:06.000Z",
-          "wordCount": null,
-          "title": "From drop-out to backpacker to self-taught developer with Dominick Monaco [Podcast #183]",
           "imageUrl": null
         }
       ]
