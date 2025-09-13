@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
+          "publishedOn": "2025-09-12T14:00:17.000Z",
+          "wordCount": null,
+          "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UuknxVdqzb4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-08-20T13:19:46.000Z",
           "wordCount": null,
           "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
-          "publishedOn": "2025-08-19T13:58:10.000Z",
-          "wordCount": null,
-          "title": "LLM from Scratch Tutorial – Code & Train Qwen 3",
           "imageUrl": null
         }
       ]
