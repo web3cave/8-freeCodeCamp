@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Vs4hQsDpxww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vs4hQsDpxww",
+          "publishedOn": "2025-09-15T14:42:47.000Z",
+          "wordCount": null,
+          "title": "Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-08-21T13:30:00.000Z",
           "wordCount": null,
           "title": "Checkmate Patterns for Beginners – Full Chess Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9tANiA0LKn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9tANiA0LKn4",
-          "publishedOn": "2025-08-20T13:19:46.000Z",
-          "wordCount": null,
-          "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial",
           "imageUrl": null
         }
       ]
