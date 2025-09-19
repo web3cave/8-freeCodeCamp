@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
+          "publishedOn": "2025-09-19T01:09:07.000Z",
+          "wordCount": null,
+          "title": "Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QSFWSjBHIkw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QSFWSjBHIkw",
+          "publishedOn": "2025-09-18T14:47:49.000Z",
+          "wordCount": null,
+          "title": "ASP.NET Web API – Token Based Authentication Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
           "author": null,
           "description": "",
@@ -133,26 +153,6 @@
           "publishedOn": "2025-08-26T13:42:34.000Z",
           "wordCount": null,
           "title": "Professional Cloud Architect Certification Course – Pass the Exam!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q5U-b6gRTaY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q5U-b6gRTaY",
-          "publishedOn": "2025-08-25T13:59:45.000Z",
-          "wordCount": null,
-          "title": "Computer Vision with Arduino Tutorial – 2 Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L6kMdLH1S8w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L6kMdLH1S8w",
-          "publishedOn": "2025-08-22T13:15:07.000Z",
-          "wordCount": null,
-          "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
           "imageUrl": null
         }
       ]
