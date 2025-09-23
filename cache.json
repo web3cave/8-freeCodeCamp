@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=B0TJC4lmzEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B0TJC4lmzEM",
+          "publishedOn": "2025-09-22T14:35:42.000Z",
+          "wordCount": null,
+          "title": "How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-08-27T12:50:36.000Z",
           "wordCount": null,
           "title": "JavaScript Tutorial with Three.js – 5 Projects for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u43gJJrVa1I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u43gJJrVa1I",
-          "publishedOn": "2025-08-26T13:42:34.000Z",
-          "wordCount": null,
-          "title": "Professional Cloud Architect Certification Course – Pass the Exam!",
           "imageUrl": null
         }
       ]
