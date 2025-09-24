@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p3sij8QzONQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p3sij8QzONQ",
+          "publishedOn": "2025-09-23T12:32:33.000Z",
+          "wordCount": null,
+          "title": "LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B0TJC4lmzEM",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-08-29T14:00:06.000Z",
           "wordCount": null,
           "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
-          "publishedOn": "2025-08-27T12:50:36.000Z",
-          "wordCount": null,
-          "title": "JavaScript Tutorial with Three.js – 5 Projects for Beginners",
           "imageUrl": null
         }
       ]
