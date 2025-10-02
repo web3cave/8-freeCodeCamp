@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
+          "publishedOn": "2025-10-01T15:57:12.000Z",
+          "wordCount": null,
+          "title": "Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jBf7of9JTV8",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-09-08T14:50:28.000Z",
           "wordCount": null,
           "title": "iOS App Store Submission Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
-          "publishedOn": "2025-09-05T14:00:06.000Z",
-          "wordCount": null,
-          "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
           "imageUrl": null
         }
       ]
