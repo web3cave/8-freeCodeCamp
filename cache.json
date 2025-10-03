@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jaDi29eRYps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jaDi29eRYps",
+          "publishedOn": "2025-10-02T23:51:12.000Z",
+          "wordCount": null,
+          "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
           "author": null,
           "description": "",
@@ -22,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=jBf7of9JTV8",
           "publishedOn": "2025-09-30T12:28:36.000Z",
           "wordCount": null,
-          "title": "Build a Full Stack Movie Streaming App – Go, React, MongoDB, OpenAI",
+          "title": "Build a Full Stack Movie Streaming App in Go – Golang, React, MongoDB, OpenAI API Project Course",
           "imageUrl": null
         },
         {
@@ -143,16 +153,6 @@
           "publishedOn": "2025-09-10T13:00:48.000Z",
           "wordCount": null,
           "title": "Godot Game Development for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9vkkJ4tC4SQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9vkkJ4tC4SQ",
-          "publishedOn": "2025-09-08T14:50:28.000Z",
-          "wordCount": null,
-          "title": "iOS App Store Submission Tutorial",
           "imageUrl": null
         }
       ]
