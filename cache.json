@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tfpGS_doPvY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tfpGS_doPvY",
+          "publishedOn": "2025-10-07T16:17:24.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Vision Architectures Explained – CNNs from LeNet to Vision Transformers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jaDi29eRYps",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-09-11T13:01:06.000Z",
           "wordCount": null,
           "title": "Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MiPkcTaRbfQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MiPkcTaRbfQ",
-          "publishedOn": "2025-09-10T13:00:48.000Z",
-          "wordCount": null,
-          "title": "Godot Game Development for Beginners",
           "imageUrl": null
         }
       ]
