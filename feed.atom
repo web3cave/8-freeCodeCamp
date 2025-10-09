@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-08T06:20:32.348Z</id>
+    <id>urn:2025-10-09T06:20:56.246Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-08T06:20:32.348Z</updated>
+    <updated>2025-10-09T06:20:56.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React 19 Project Tutorial – AI Code Explainer]]></title>
+        <id>https://www.youtube.com/watch?v=W4M-g9wsEC4</id>
+        <link href="https://www.youtube.com/watch?v=W4M-g9wsEC4"/>
+        <updated>2025-10-08T13:30:49.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning Vision Architectures Explained – CNNs from LeNet to Vision Transformers]]></title>
         <id>https://www.youtube.com/watch?v=tfpGS_doPvY</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=6_qwLx8jwBY</id>
         <link href="https://www.youtube.com/watch?v=6_qwLx8jwBY"/>
         <updated>2025-09-12T14:00:17.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=UuknxVdqzb4</id>
-        <link href="https://www.youtube.com/watch?v=UuknxVdqzb4"/>
-        <updated>2025-09-11T13:01:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
