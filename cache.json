@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=30diF8dKpAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=30diF8dKpAY",
+          "publishedOn": "2025-10-13T13:49:05.000Z",
+          "wordCount": null,
+          "title": "Google Generative AI Leader Certification Course – Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xH9ZKsTY73Y",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2025-09-18T14:47:49.000Z",
           "wordCount": null,
           "title": "ASP.NET Web API – Token Based Authentication Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
-          "publishedOn": "2025-09-17T13:52:14.000Z",
-          "wordCount": null,
-          "title": "Databricks Data Engineer Associate Certification Course – Pass the Exam!",
           "imageUrl": null
         }
       ]
