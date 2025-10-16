@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Y9m_Chx1joE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
+          "publishedOn": "2025-10-15T22:52:59.000Z",
+          "wordCount": 2062,
+          "title": "Why you should surround yourself with the smartest, most driven people",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DosHnyq78xY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DosHnyq78xY",
+          "publishedOn": "2025-10-15T12:55:53.000Z",
+          "wordCount": null,
+          "title": "Intro to MCP Servers – Model Context Protocol with Python Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1937,
+          "wordCount": 2004,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-09-23T12:32:33.000Z",
           "wordCount": null,
           "title": "LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B0TJC4lmzEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B0TJC4lmzEM",
-          "publishedOn": "2025-09-22T14:35:42.000Z",
-          "wordCount": null,
-          "title": "How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
-          "publishedOn": "2025-09-19T14:00:05.000Z",
-          "wordCount": null,
-          "title": "Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]",
           "imageUrl": null
         }
       ]
