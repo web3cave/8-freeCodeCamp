@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/BRksIg2jkbo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
+          "publishedOn": "2025-10-19T23:17:28.000Z",
+          "wordCount": 2067,
+          "title": "How Ania Kubów uses time blocking to make the most of her day",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 1992,
+          "wordCount": 1959,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
           "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2020,
+          "wordCount": 2053,
           "title": "Audit the advice you're getting - it's not all gonna be good",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
           "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 1988,
+          "wordCount": 1964,
           "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 1980,
+          "wordCount": 2401,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1956,
+          "wordCount": 1996,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2025-10-03T14:00:06.000Z",
           "wordCount": null,
           "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
-          "publishedOn": "2025-10-01T15:57:12.000Z",
-          "wordCount": null,
-          "title": "Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial",
           "imageUrl": null
         }
       ]
