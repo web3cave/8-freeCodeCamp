@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/xTg_pBgr_vA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
+          "publishedOn": "2025-10-22T22:52:29.000Z",
+          "wordCount": 1999,
+          "title": "Danny Thompson's \"Why hire me\" experiment",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2016,
+          "wordCount": 2036,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 2002,
+          "wordCount": 2015,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2100,
+          "wordCount": 2158,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 2010,
+          "wordCount": 2304,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
           "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2036,
+          "wordCount": 2145,
           "title": "Audit the advice you're getting - it's not all gonna be good",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
           "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 3049,
+          "wordCount": 2060,
           "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 2118,
+          "wordCount": 2046,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1984,
+          "wordCount": 2030,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2025-10-13T13:49:05.000Z",
           "wordCount": null,
           "title": "Google Generative AI Leader Certification Course – Pass the Exam!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xH9ZKsTY73Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xH9ZKsTY73Y",
-          "publishedOn": "2025-10-10T14:00:06.000Z",
-          "wordCount": null,
-          "title": "Evan You – From Art School Kid to Open Source Legend [Podcast #192]",
           "imageUrl": null
         }
       ]
