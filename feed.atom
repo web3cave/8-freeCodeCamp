@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T06:21:06.627Z</id>
+    <id>urn:2025-10-24T06:20:17.412Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-23T06:21:06.627Z</updated>
+    <updated>2025-10-24T06:20:17.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Break Down Software Problems (First Principles & JavaScript)]]></title>
+        <id>https://www.youtube.com/watch?v=xJjxQjZTryI</id>
+        <link href="https://www.youtube.com/watch?v=xJjxQjZTryI"/>
+        <updated>2025-10-23T14:45:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Danny Thompson's "Why hire me" experiment]]></title>
         <id>https://www.youtube.com/shorts/xTg_pBgr_vA</id>
@@ -136,15 +145,6 @@
         <link href="https://www.youtube.com/shorts/EzyJpHz2awM"/>
         <updated>2025-10-14T23:29:14.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Generative AI Leader Certification Course – Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=30diF8dKpAY</id>
-        <link href="https://www.youtube.com/watch?v=30diF8dKpAY"/>
-        <updated>2025-10-13T13:49:05.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
