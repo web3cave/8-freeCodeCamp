@@ -6,13 +6,33 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/baYjd4pFjlw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
+          "publishedOn": "2025-10-24T23:32:22.000Z",
+          "wordCount": 1980,
+          "title": "Learn how to make any div resizable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EO8QoyRSVaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EO8QoyRSVaw",
+          "publishedOn": "2025-10-24T14:00:20.000Z",
+          "wordCount": null,
+          "title": "First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xJjxQjZTryI",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=xJjxQjZTryI",
           "publishedOn": "2025-10-23T14:45:11.000Z",
           "wordCount": null,
-          "title": "How to Break Down Software Problems (First Principles & JavaScript)",
+          "title": "Problem Solving for Beginners: Build Algorithms from Scratch with First Principles and JavaScript",
           "imageUrl": null
         },
         {
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 1984,
+          "wordCount": 1990,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2001,
+          "wordCount": 2021,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 1968,
+          "wordCount": 1976,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2012,
+          "wordCount": 2091,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 2035,
+          "wordCount": 2053,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
           "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2029,
+          "wordCount": 2054,
           "title": "Audit the advice you're getting - it's not all gonna be good",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
           "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 1979,
+          "wordCount": 2009,
           "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 1985,
+          "wordCount": 2026,
           "title": "Why you should surround yourself with the smartest, most driven people",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DosHnyq78xY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DosHnyq78xY",
-          "publishedOn": "2025-10-15T12:55:53.000Z",
-          "wordCount": null,
-          "title": "Intro to MCP Servers – Model Context Protocol with Python Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/EzyJpHz2awM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
-          "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1982,
-          "title": "How to make heart shapes in HTML",
           "imageUrl": null
         }
       ]
