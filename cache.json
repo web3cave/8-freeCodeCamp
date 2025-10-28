@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/r6jVezXnBMQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
+          "publishedOn": "2025-10-27T23:05:26.000Z",
+          "wordCount": 2036,
+          "title": "How to package yourself as a problem solver companies want to hire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xHUwGx-ZlTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xHUwGx-ZlTM",
+          "publishedOn": "2025-10-27T14:53:15.000Z",
+          "wordCount": null,
+          "title": "Serverless and Microservices with C# – Scalable Cloud Applications with Azure and .NET Aspire",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/utxq6LY1ero",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 1982,
+          "wordCount": 2018,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
           "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 2185,
+          "wordCount": 1983,
           "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 1984,
+          "wordCount": 2086,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 1993,
+          "wordCount": 2009,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2030,
+          "wordCount": 2007,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 2077,
+          "wordCount": 1943,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2260,
+          "wordCount": 2139,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 2116,
+          "wordCount": 1983,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
           "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2029,
+          "wordCount": 2047,
           "title": "Audit the advice you're getting - it's not all gonna be good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hM2T45qbIPI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hM2T45qbIPI",
-          "publishedOn": "2025-10-17T14:00:06.000Z",
-          "wordCount": null,
-          "title": "From injured athlete to software engineer with Kaleb Garner [Podcast #193]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/_dCn4WrWnBw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
-          "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 1971,
-          "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         }
       ]
