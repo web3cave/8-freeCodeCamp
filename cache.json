@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/RwDvIaoJeAs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
+          "publishedOn": "2025-10-28T23:29:27.000Z",
+          "wordCount": 2011,
+          "title": "Why you should always negotiate - in the job search and in life",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2036,
+          "wordCount": 2022,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 2018,
+          "wordCount": 2005,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 2086,
+          "wordCount": 2023,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 2009,
+          "wordCount": 2016,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2007,
+          "wordCount": 2016,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 1943,
+          "wordCount": 1951,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2139,
+          "wordCount": 2030,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 1983,
+          "wordCount": 2056,
           "title": "How to style your input cursor in CSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
-          "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2047,
-          "title": "Audit the advice you're getting - it's not all gonna be good",
           "imageUrl": null
         }
       ]
