@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/ykvHQwgCjro",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
+          "publishedOn": "2025-10-29T22:52:24.000Z",
+          "wordCount": 1978,
+          "title": "Perfect image cropping every time...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fr9GqFwl6NM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fr9GqFwl6NM",
+          "publishedOn": "2025-10-29T15:53:38.000Z",
+          "wordCount": null,
+          "title": "Kubernetes Course – Certified Kubernetes Administrator Exam Preparation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2011,
+          "wordCount": 2044,
           "title": "Why you should always negotiate - in the job search and in life",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2022,
+          "wordCount": 2015,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 2005,
+          "wordCount": 2031,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
           "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 1983,
+          "wordCount": 2031,
           "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 2023,
+          "wordCount": 2311,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 2016,
+          "wordCount": 1974,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2016,
+          "wordCount": 2109,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 1951,
+          "wordCount": 2010,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-10-20T14:12:03.000Z",
           "wordCount": null,
           "title": "SwiftUI Course for Beginners – Create an iOS App from Scratch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/BRksIg2jkbo",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
-          "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2030,
-          "title": "How Ania Kubów uses time blocking to make the most of her day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-KRTTe__qy8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
-          "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 2056,
-          "title": "How to style your input cursor in CSS",
           "imageUrl": null
         }
       ]
