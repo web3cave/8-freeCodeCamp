@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-30T06:20:58.983Z</id>
+    <id>urn:2025-10-31T06:21:12.061Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-30T06:20:58.983Z</updated>
+    <updated>2025-10-31T06:21:12.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Playing chess is a lot like software development]]></title>
+        <id>https://www.youtube.com/shorts/vc5T3VmCar0</id>
+        <link href="https://www.youtube.com/shorts/vc5T3VmCar0"/>
+        <updated>2025-10-30T23:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50’s Intro to Cybersecurity – Full University Course]]></title>
+        <id>https://www.youtube.com/watch?v=9HOpanT0GRs</id>
+        <link href="https://www.youtube.com/watch?v=9HOpanT0GRs"/>
+        <updated>2025-10-30T14:34:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?]]></title>
+        <id>https://www.youtube.com/shorts/svOjqXjMvGI</id>
+        <link href="https://www.youtube.com/shorts/svOjqXjMvGI"/>
+        <updated>2025-10-30T11:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perfect image cropping every time...]]></title>
         <id>https://www.youtube.com/shorts/ykvHQwgCjro</id>
@@ -117,34 +146,6 @@
         <link href="https://www.youtube.com/shorts/83Kgx-Xe_DI"/>
         <updated>2025-10-21T23:29:23.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours]]></title>
-        <id>https://www.youtube.com/watch?v=xwI5OBEnsZU</id>
-        <link href="https://www.youtube.com/watch?v=xwI5OBEnsZU"/>
-        <updated>2025-10-21T13:06:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox spacing made easy]]></title>
-        <id>https://www.youtube.com/shorts/Hfo5uvbmDaY</id>
-        <link href="https://www.youtube.com/shorts/Hfo5uvbmDaY"/>
-        <updated>2025-10-20T23:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftUI Course for Beginners – Create an iOS App from Scratch]]></title>
-        <id>https://www.youtube.com/watch?v=-VC3hIEL7eQ</id>
-        <link href="https://www.youtube.com/watch?v=-VC3hIEL7eQ"/>
-        <updated>2025-10-20T14:12:03.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
