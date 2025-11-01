@@ -6,12 +6,42 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/lYhi86Zaetg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lYhi86Zaetg",
+          "publishedOn": "2025-10-31T23:32:22.000Z",
+          "wordCount": 2341,
+          "title": "The world's first website is still live...so retro.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cfOI7PBhkWk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cfOI7PBhkWk",
+          "publishedOn": "2025-10-31T14:01:15.000Z",
+          "wordCount": null,
+          "title": "How to Compete Against the Global Dev Talent Pool with Patrick Hartley [Podcast #195]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/fQ51cM44o7I",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
+          "publishedOn": "2025-10-31T12:18:20.000Z",
+          "wordCount": 2030,
+          "title": "What does a double !! do in code?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2013,
+          "wordCount": 1985,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -31,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2064,
+          "wordCount": 2027,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
           "imageUrl": null
         },
@@ -41,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
           "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 1979,
+          "wordCount": 1947,
           "title": "Perfect image cropping every time...",
           "imageUrl": null
         },
@@ -61,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2032,
+          "wordCount": 2102,
           "title": "Why you should always negotiate - in the job search and in life",
           "imageUrl": null
         },
@@ -71,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2059,
+          "wordCount": 2031,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -91,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 2058,
+          "wordCount": 1983,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -101,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
           "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 2018,
+          "wordCount": 2007,
           "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         },
@@ -111,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 2515,
+          "wordCount": 2072,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -123,36 +153,6 @@
           "publishedOn": "2025-10-24T14:00:20.000Z",
           "wordCount": null,
           "title": "First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xJjxQjZTryI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xJjxQjZTryI",
-          "publishedOn": "2025-10-23T14:45:11.000Z",
-          "wordCount": null,
-          "title": "Problem Solving for Beginners: Build Algorithms from Scratch with First Principles and JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/xTg_pBgr_vA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
-          "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 1983,
-          "title": "Danny Thompson's \"Why hire me\" experiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
-          "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2010,
-          "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         }
       ]
