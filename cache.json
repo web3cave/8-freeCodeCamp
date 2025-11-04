@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yhtdkuw9mbM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yhtdkuw9mbM",
+          "publishedOn": "2025-11-03T16:22:59.000Z",
+          "wordCount": null,
+          "title": "Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/siMP-22x5Ck",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/siMP-22x5Ck",
+          "publishedOn": "2025-11-03T13:17:25.000Z",
+          "wordCount": 2069,
+          "title": "How to brand your form controls",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "publishedOn": "2025-11-02T13:43:24.000Z",
-          "wordCount": 2046,
+          "wordCount": 2011,
           "title": "The inventor of HTML gave away the web for free...",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nHqeMW0iLBU",
           "publishedOn": "2025-11-01T12:32:25.000Z",
-          "wordCount": 2057,
+          "wordCount": 2522,
           "title": "What was it like growing up in Dubai?",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lYhi86Zaetg",
           "publishedOn": "2025-10-31T23:32:22.000Z",
-          "wordCount": 2039,
+          "wordCount": 1997,
           "title": "The world's first website is still live...so retro.",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
           "publishedOn": "2025-10-31T12:18:20.000Z",
-          "wordCount": 2112,
+          "wordCount": 2044,
           "title": "What does a double !! do in code?",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2137,
+          "wordCount": 2068,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2075,
+          "wordCount": 2144,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
           "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 2045,
+          "wordCount": 2292,
           "title": "Perfect image cropping every time...",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2124,
+          "wordCount": 2029,
           "title": "Why you should always negotiate - in the job search and in life",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2045,
+          "wordCount": 2075,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-10-27T14:53:15.000Z",
           "wordCount": null,
           "title": "Serverless and Microservices with C# – Scalable Cloud Applications with Azure and .NET Aspire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/utxq6LY1ero",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/utxq6LY1ero",
-          "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 2083,
-          "title": "Stop using padding hacks to make squares",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
-          "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 2015,
-          "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         }
       ]

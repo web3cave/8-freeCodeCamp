@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-03T06:22:38.345Z</id>
+    <id>urn:2025-11-04T06:22:01.367Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-03T06:22:38.345Z</updated>
+    <updated>2025-11-04T06:22:01.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=yhtdkuw9mbM</id>
+        <link href="https://www.youtube.com/watch?v=yhtdkuw9mbM"/>
+        <updated>2025-11-03T16:22:59.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to brand your form controls]]></title>
+        <id>https://www.youtube.com/shorts/siMP-22x5Ck</id>
+        <link href="https://www.youtube.com/shorts/siMP-22x5Ck"/>
+        <updated>2025-11-03T13:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The inventor of HTML gave away the web for free...]]></title>
         <id>https://www.youtube.com/shorts/et7u_tnlS0Q</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/watch?v=xHUwGx-ZlTM</id>
         <link href="https://www.youtube.com/watch?v=xHUwGx-ZlTM"/>
         <updated>2025-10-27T14:53:15.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop using padding hacks to make squares]]></title>
-        <id>https://www.youtube.com/shorts/utxq6LY1ero</id>
-        <link href="https://www.youtube.com/shorts/utxq6LY1ero"/>
-        <updated>2025-10-26T23:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How contributing to Open Source can lead to tech jobs]]></title>
-        <id>https://www.youtube.com/shorts/FHBBaSUQk1Y</id>
-        <link href="https://www.youtube.com/shorts/FHBBaSUQk1Y"/>
-        <updated>2025-10-25T23:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
