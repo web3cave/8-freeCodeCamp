@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kb_scuDUHls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kb_scuDUHls",
+          "publishedOn": "2025-11-04T15:35:10.000Z",
+          "wordCount": null,
+          "title": "Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7lEWtEG3vd0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7lEWtEG3vd0",
+          "publishedOn": "2025-11-04T13:05:31.000Z",
+          "wordCount": 2020,
+          "title": "Why you should support your favorite open source projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yhtdkuw9mbM",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/siMP-22x5Ck",
           "publishedOn": "2025-11-03T13:17:25.000Z",
-          "wordCount": 2069,
+          "wordCount": 2029,
           "title": "How to brand your form controls",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "publishedOn": "2025-11-02T13:43:24.000Z",
-          "wordCount": 2011,
+          "wordCount": 2038,
           "title": "The inventor of HTML gave away the web for free...",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nHqeMW0iLBU",
           "publishedOn": "2025-11-01T12:32:25.000Z",
-          "wordCount": 2522,
+          "wordCount": 2046,
           "title": "What was it like growing up in Dubai?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lYhi86Zaetg",
           "publishedOn": "2025-10-31T23:32:22.000Z",
-          "wordCount": 1997,
+          "wordCount": 2049,
           "title": "The world's first website is still live...so retro.",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
           "publishedOn": "2025-10-31T12:18:20.000Z",
-          "wordCount": 2044,
+          "wordCount": 2002,
           "title": "What does a double !! do in code?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2068,
+          "wordCount": 2155,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2144,
+          "wordCount": 2041,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
           "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 2292,
+          "wordCount": 2374,
           "title": "Perfect image cropping every time...",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2029,
+          "wordCount": 2121,
           "title": "Why you should always negotiate - in the job search and in life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/r6jVezXnBMQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
-          "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2075,
-          "title": "How to package yourself as a problem solver companies want to hire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xHUwGx-ZlTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xHUwGx-ZlTM",
-          "publishedOn": "2025-10-27T14:53:15.000Z",
-          "wordCount": null,
-          "title": "Serverless and Microservices with C# – Scalable Cloud Applications with Azure and .NET Aspire",
           "imageUrl": null
         }
       ]
