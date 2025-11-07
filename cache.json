@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mjXLt97_Cr8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mjXLt97_Cr8",
+          "publishedOn": "2025-11-06T16:13:41.000Z",
+          "wordCount": null,
+          "title": "Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/vK30T6wKauA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/vK30T6wKauA",
+          "publishedOn": "2025-11-06T12:52:32.000Z",
+          "wordCount": 2084,
+          "title": "How to focus your efforts in the right directions when job hunting",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/FqJuiLbgqNA",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FqJuiLbgqNA",
           "publishedOn": "2025-11-05T13:29:30.000Z",
-          "wordCount": 1966,
+          "wordCount": 2104,
           "title": "Have you ever wondered why we call it a bug?",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7lEWtEG3vd0",
           "publishedOn": "2025-11-04T13:05:31.000Z",
-          "wordCount": 2068,
+          "wordCount": 2007,
           "title": "Why you should support your favorite open source projects",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/siMP-22x5Ck",
           "publishedOn": "2025-11-03T13:17:25.000Z",
-          "wordCount": 2057,
+          "wordCount": 1954,
           "title": "How to brand your form controls",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "publishedOn": "2025-11-02T13:43:24.000Z",
-          "wordCount": 2371,
+          "wordCount": 2013,
           "title": "The inventor of HTML gave away the web for free...",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nHqeMW0iLBU",
           "publishedOn": "2025-11-01T12:32:25.000Z",
-          "wordCount": 2035,
+          "wordCount": 2057,
           "title": "What was it like growing up in Dubai?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lYhi86Zaetg",
           "publishedOn": "2025-10-31T23:32:22.000Z",
-          "wordCount": 2045,
+          "wordCount": 2272,
           "title": "The world's first website is still live...so retro.",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
           "publishedOn": "2025-10-31T12:18:20.000Z",
-          "wordCount": 2700,
+          "wordCount": 1990,
           "title": "What does a double !! do in code?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2037,
+          "wordCount": 2154,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2352,
+          "wordCount": 2112,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ykvHQwgCjro",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
-          "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 1946,
-          "title": "Perfect image cropping every time...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fr9GqFwl6NM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fr9GqFwl6NM",
-          "publishedOn": "2025-10-29T15:53:38.000Z",
-          "wordCount": null,
-          "title": "Kubernetes Course – Certified Kubernetes Administrator Exam Preparation",
           "imageUrl": null
         }
       ]
