@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-08T06:18:55.113Z</id>
+    <id>urn:2025-11-09T06:19:33.001Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-08T06:18:55.113Z</updated>
+    <updated>2025-11-09T06:19:33.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Z-index not working right? Here's how to fix your layering nightmares]]></title>
+        <id>https://www.youtube.com/shorts/f3UIwEZx47w</id>
+        <link href="https://www.youtube.com/shorts/f3UIwEZx47w"/>
+        <updated>2025-11-08T13:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to fix janky legacy codebases with Abbey Perini [Podcast #196]]]></title>
         <id>https://www.youtube.com/watch?v=rgt5GPFgryI</id>
@@ -135,16 +145,6 @@
         <id>https://www.youtube.com/shorts/fQ51cM44o7I</id>
         <link href="https://www.youtube.com/shorts/fQ51cM44o7I"/>
         <updated>2025-10-31T12:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing chess is a lot like software development]]></title>
-        <id>https://www.youtube.com/shorts/vc5T3VmCar0</id>
-        <link href="https://www.youtube.com/shorts/vc5T3VmCar0"/>
-        <updated>2025-10-30T23:18:27.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
