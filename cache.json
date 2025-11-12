@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/a7B-JvPgTQs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
+          "publishedOn": "2025-11-11T13:05:37.000Z",
+          "wordCount": 2097,
+          "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Kt2E8nblvXU",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/YXmDMqw7dYU",
           "publishedOn": "2025-11-10T13:17:19.000Z",
-          "wordCount": 2005,
+          "wordCount": 2017,
           "title": "The HTML blink tag was SO annoying it got binned. The more you know...",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/suuDVhYXe5Y",
           "publishedOn": "2025-11-09T13:43:25.000Z",
-          "wordCount": 2532,
+          "wordCount": 2199,
           "title": "How Ania built a course that teaches devs to code their own AI agents",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f3UIwEZx47w",
           "publishedOn": "2025-11-08T13:32:32.000Z",
-          "wordCount": 2036,
+          "wordCount": 2022,
           "title": "Z-index not working right? Here's how to fix your layering nightmares",
           "imageUrl": null
         },
@@ -52,7 +62,7 @@
           "link": "https://www.youtube.com/watch?v=rgt5GPFgryI",
           "publishedOn": "2025-11-07T15:01:43.000Z",
           "wordCount": null,
-          "title": "How to fix janky legacy codebases with Abbey Perini [Podcast #196]",
+          "title": "Perfectionism holds new developers back with Abbey Perini [Podcast #196]",
           "imageUrl": null
         },
         {
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ealPKU_orJg",
           "publishedOn": "2025-11-07T13:18:23.000Z",
-          "wordCount": 2262,
+          "wordCount": 2135,
           "title": "How to control underline spacing",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vK30T6wKauA",
           "publishedOn": "2025-11-06T12:52:32.000Z",
-          "wordCount": 2095,
+          "wordCount": 2060,
           "title": "How to focus your efforts in the right directions when job hunting",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FqJuiLbgqNA",
           "publishedOn": "2025-11-05T13:29:30.000Z",
-          "wordCount": 2090,
+          "wordCount": 2049,
           "title": "Have you ever wondered why we call it a bug?",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7lEWtEG3vd0",
           "publishedOn": "2025-11-04T13:05:31.000Z",
-          "wordCount": 2062,
+          "wordCount": 2025,
           "title": "Why you should support your favorite open source projects",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/siMP-22x5Ck",
           "publishedOn": "2025-11-03T13:17:25.000Z",
-          "wordCount": 2262,
+          "wordCount": 1990,
           "title": "How to brand your form controls",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "publishedOn": "2025-11-02T13:43:24.000Z",
-          "wordCount": 2030,
+          "wordCount": 2018,
           "title": "The inventor of HTML gave away the web for free...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/nHqeMW0iLBU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/nHqeMW0iLBU",
-          "publishedOn": "2025-11-01T12:32:25.000Z",
-          "wordCount": 2002,
-          "title": "What was it like growing up in Dubai?",
           "imageUrl": null
         }
       ]
