@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G9JxuWk7BDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G9JxuWk7BDA",
+          "publishedOn": "2025-11-13T14:14:28.000Z",
+          "wordCount": null,
+          "title": "Discrete Mathematics Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
+          "publishedOn": "2025-11-13T12:52:30.000Z",
+          "wordCount": 2056,
+          "title": "If you're struggling, don't isolate yourself - find someone you can talk to.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GIZzRGYpCbM",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oeWLnnjFmf8",
           "publishedOn": "2025-11-12T13:29:31.000Z",
-          "wordCount": 2019,
+          "wordCount": 2096,
           "title": "Guess how many bugs NASA's space shuttle software had?",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
           "publishedOn": "2025-11-11T13:05:37.000Z",
-          "wordCount": 2033,
+          "wordCount": 2010,
           "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/YXmDMqw7dYU",
           "publishedOn": "2025-11-10T13:17:19.000Z",
-          "wordCount": 2074,
+          "wordCount": 2008,
           "title": "The HTML blink tag was SO annoying it got binned. The more you know...",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/suuDVhYXe5Y",
           "publishedOn": "2025-11-09T13:43:25.000Z",
-          "wordCount": 2030,
+          "wordCount": 2122,
           "title": "How Ania built a course that teaches devs to code their own AI agents",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f3UIwEZx47w",
           "publishedOn": "2025-11-08T13:32:32.000Z",
-          "wordCount": 2075,
+          "wordCount": 2180,
           "title": "Z-index not working right? Here's how to fix your layering nightmares",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ealPKU_orJg",
           "publishedOn": "2025-11-07T13:18:23.000Z",
-          "wordCount": 1977,
+          "wordCount": 2005,
           "title": "How to control underline spacing",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vK30T6wKauA",
           "publishedOn": "2025-11-06T12:52:32.000Z",
-          "wordCount": 2369,
+          "wordCount": 2169,
           "title": "How to focus your efforts in the right directions when job hunting",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FqJuiLbgqNA",
           "publishedOn": "2025-11-05T13:29:30.000Z",
-          "wordCount": 2335,
+          "wordCount": 2266,
           "title": "Have you ever wondered why we call it a bug?",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-11-04T15:35:10.000Z",
           "wordCount": null,
           "title": "Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/7lEWtEG3vd0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/7lEWtEG3vd0",
-          "publishedOn": "2025-11-04T13:05:31.000Z",
-          "wordCount": 2032,
-          "title": "Why you should support your favorite open source projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yhtdkuw9mbM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yhtdkuw9mbM",
-          "publishedOn": "2025-11-03T16:22:59.000Z",
-          "wordCount": null,
-          "title": "Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners",
           "imageUrl": null
         }
       ]
