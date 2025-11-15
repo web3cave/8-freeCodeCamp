@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZK6XWSCCgPQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZK6XWSCCgPQ",
+          "publishedOn": "2025-11-14T15:01:11.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/MkeawaniGts",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MkeawaniGts",
+          "publishedOn": "2025-11-14T13:18:21.000Z",
+          "wordCount": 2014,
+          "title": "Don't settle for boring text underlines...make them more fun!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G9JxuWk7BDA",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
           "publishedOn": "2025-11-13T12:52:30.000Z",
-          "wordCount": 2056,
+          "wordCount": 2087,
           "title": "If you're struggling, don't isolate yourself - find someone you can talk to.",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oeWLnnjFmf8",
           "publishedOn": "2025-11-12T13:29:31.000Z",
-          "wordCount": 2096,
+          "wordCount": 2039,
           "title": "Guess how many bugs NASA's space shuttle software had?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
           "publishedOn": "2025-11-11T13:05:37.000Z",
-          "wordCount": 2010,
+          "wordCount": 2047,
           "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/YXmDMqw7dYU",
           "publishedOn": "2025-11-10T13:17:19.000Z",
-          "wordCount": 2008,
+          "wordCount": 2182,
           "title": "The HTML blink tag was SO annoying it got binned. The more you know...",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/suuDVhYXe5Y",
           "publishedOn": "2025-11-09T13:43:25.000Z",
-          "wordCount": 2122,
+          "wordCount": 2050,
           "title": "How Ania built a course that teaches devs to code their own AI agents",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f3UIwEZx47w",
           "publishedOn": "2025-11-08T13:32:32.000Z",
-          "wordCount": 2180,
+          "wordCount": 2022,
           "title": "Z-index not working right? Here's how to fix your layering nightmares",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ealPKU_orJg",
           "publishedOn": "2025-11-07T13:18:23.000Z",
-          "wordCount": 2005,
+          "wordCount": 2076,
           "title": "How to control underline spacing",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vK30T6wKauA",
           "publishedOn": "2025-11-06T12:52:32.000Z",
-          "wordCount": 2169,
+          "wordCount": 2123,
           "title": "How to focus your efforts in the right directions when job hunting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/FqJuiLbgqNA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FqJuiLbgqNA",
-          "publishedOn": "2025-11-05T13:29:30.000Z",
-          "wordCount": 2266,
-          "title": "Have you ever wondered why we call it a bug?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kb_scuDUHls",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kb_scuDUHls",
-          "publishedOn": "2025-11-04T15:35:10.000Z",
-          "wordCount": null,
-          "title": "Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",
           "imageUrl": null
         }
       ]
