@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=626BcUO84og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=626BcUO84og",
+          "publishedOn": "2025-11-18T14:00:11.000Z",
+          "wordCount": null,
+          "title": "JavaScript Clean Code Course – Fix Code Smells & Refactor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zwzjaNmh-r4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
+          "publishedOn": "2025-11-18T13:05:24.000Z",
+          "wordCount": 2194,
+          "title": "Did you know that you can buy a domain name that's an emoji?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KOutPbKc9UM",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H6gHXV6OgFU",
           "publishedOn": "2025-11-17T13:17:35.000Z",
-          "wordCount": 2112,
+          "wordCount": 2530,
           "title": "How to get back into coding after years away",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VplSjvnwG_Y",
           "publishedOn": "2025-11-16T13:43:23.000Z",
-          "wordCount": 1958,
+          "wordCount": 2263,
           "title": "Boost your app's performance with CSS containment",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/I2LoiJWCKxc",
           "publishedOn": "2025-11-15T13:32:35.000Z",
-          "wordCount": 2112,
+          "wordCount": 2109,
           "title": "Vue.js grew organically thanks in large part to the community - which Evan You discusses here.",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MkeawaniGts",
           "publishedOn": "2025-11-14T13:18:21.000Z",
-          "wordCount": 2015,
+          "wordCount": 2512,
           "title": "Don't settle for boring text underlines...make them more fun!",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
           "publishedOn": "2025-11-13T12:52:30.000Z",
-          "wordCount": 2086,
+          "wordCount": 2087,
           "title": "If you're struggling, don't isolate yourself - find someone you can talk to.",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oeWLnnjFmf8",
           "publishedOn": "2025-11-12T13:29:31.000Z",
-          "wordCount": 2082,
+          "wordCount": 2030,
           "title": "Guess how many bugs NASA's space shuttle software had?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
           "publishedOn": "2025-11-11T13:05:37.000Z",
-          "wordCount": 2043,
+          "wordCount": 2003,
           "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/YXmDMqw7dYU",
           "publishedOn": "2025-11-10T13:17:19.000Z",
-          "wordCount": 2074,
+          "wordCount": 2302,
           "title": "The HTML blink tag was SO annoying it got binned. The more you know...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/suuDVhYXe5Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/suuDVhYXe5Y",
-          "publishedOn": "2025-11-09T13:43:25.000Z",
-          "wordCount": 2028,
-          "title": "How Ania built a course that teaches devs to code their own AI agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/f3UIwEZx47w",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/f3UIwEZx47w",
-          "publishedOn": "2025-11-08T13:32:32.000Z",
-          "wordCount": 2059,
-          "title": "Z-index not working right? Here's how to fix your layering nightmares",
           "imageUrl": null
         }
       ]

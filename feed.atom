@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T06:21:30.659Z</id>
+    <id>urn:2025-11-19T06:21:19.394Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-18T06:21:30.659Z</updated>
+    <updated>2025-11-19T06:21:19.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Clean Code Course – Fix Code Smells & Refactor]]></title>
+        <id>https://www.youtube.com/watch?v=626BcUO84og</id>
+        <link href="https://www.youtube.com/watch?v=626BcUO84og"/>
+        <updated>2025-11-18T14:00:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know that you can buy a domain name that's an emoji?]]></title>
+        <id>https://www.youtube.com/shorts/zwzjaNmh-r4</id>
+        <link href="https://www.youtube.com/shorts/zwzjaNmh-r4"/>
+        <updated>2025-11-18T13:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro to Backend Web Development – Node.js & Express Tutorial for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=KOutPbKc9UM</id>
@@ -125,26 +144,6 @@
         <id>https://www.youtube.com/shorts/YXmDMqw7dYU</id>
         <link href="https://www.youtube.com/shorts/YXmDMqw7dYU"/>
         <updated>2025-11-10T13:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Ania built a course that teaches devs to code their own AI agents]]></title>
-        <id>https://www.youtube.com/shorts/suuDVhYXe5Y</id>
-        <link href="https://www.youtube.com/shorts/suuDVhYXe5Y"/>
-        <updated>2025-11-09T13:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z-index not working right? Here's how to fix your layering nightmares]]></title>
-        <id>https://www.youtube.com/shorts/f3UIwEZx47w</id>
-        <link href="https://www.youtube.com/shorts/f3UIwEZx47w"/>
-        <updated>2025-11-08T13:32:32.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
