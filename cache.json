@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/LsY7U2Muau8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
+          "publishedOn": "2025-11-20T12:52:30.000Z",
+          "wordCount": 2049,
+          "title": "Do you know who the first computer programmer was?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "publishedOn": "2025-11-19T13:29:26.000Z",
-          "wordCount": 2021,
+          "wordCount": 2047,
           "title": "From laser-etching microchips to rediscovering a love of coding",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
           "publishedOn": "2025-11-18T13:05:24.000Z",
-          "wordCount": 2026,
+          "wordCount": 2046,
           "title": "Did you know that you can buy a domain name that's an emoji?",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H6gHXV6OgFU",
           "publishedOn": "2025-11-17T13:17:35.000Z",
-          "wordCount": 2041,
+          "wordCount": 2072,
           "title": "How to get back into coding after years away",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VplSjvnwG_Y",
           "publishedOn": "2025-11-16T13:43:23.000Z",
-          "wordCount": 2155,
+          "wordCount": 2006,
           "title": "Boost your app's performance with CSS containment",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/I2LoiJWCKxc",
           "publishedOn": "2025-11-15T13:32:35.000Z",
-          "wordCount": 2059,
+          "wordCount": 2077,
           "title": "Vue.js grew organically thanks in large part to the community - which Evan You discusses here.",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MkeawaniGts",
           "publishedOn": "2025-11-14T13:18:21.000Z",
-          "wordCount": 2233,
+          "wordCount": 2039,
           "title": "Don't settle for boring text underlines...make them more fun!",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
           "publishedOn": "2025-11-13T12:52:30.000Z",
-          "wordCount": 2057,
+          "wordCount": 2117,
           "title": "If you're struggling, don't isolate yourself - find someone you can talk to.",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oeWLnnjFmf8",
           "publishedOn": "2025-11-12T13:29:31.000Z",
-          "wordCount": 2061,
+          "wordCount": 2086,
           "title": "Guess how many bugs NASA's space shuttle software had?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/a7B-JvPgTQs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
-          "publishedOn": "2025-11-11T13:05:37.000Z",
-          "wordCount": 2038,
-          "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
           "imageUrl": null
         }
       ]

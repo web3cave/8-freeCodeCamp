@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T06:20:56.277Z</id>
+    <id>urn:2025-11-21T06:22:24.546Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-20T06:20:56.277Z</updated>
+    <updated>2025-11-21T06:22:24.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do you know who the first computer programmer was?]]></title>
+        <id>https://www.youtube.com/shorts/LsY7U2Muau8</id>
+        <link href="https://www.youtube.com/shorts/LsY7U2Muau8"/>
+        <updated>2025-11-20T12:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From laser-etching microchips to rediscovering a love of coding]]></title>
         <id>https://www.youtube.com/shorts/9q24hqwm4QM</id>
@@ -134,16 +144,6 @@
         <id>https://www.youtube.com/shorts/oeWLnnjFmf8</id>
         <link href="https://www.youtube.com/shorts/oeWLnnjFmf8"/>
         <updated>2025-11-12T13:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This hackathon team built a tool to help blind and visually impaired people learn Braille]]></title>
-        <id>https://www.youtube.com/shorts/a7B-JvPgTQs</id>
-        <link href="https://www.youtube.com/shorts/a7B-JvPgTQs"/>
-        <updated>2025-11-11T13:05:37.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
