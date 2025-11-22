@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-21T06:22:24.546Z</id>
+    <id>urn:2025-11-22T06:19:38.136Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-21T06:22:24.546Z</updated>
+    <updated>2025-11-22T06:19:38.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]]]></title>
+        <id>https://www.youtube.com/watch?v=GpxFF82I8Nk</id>
+        <link href="https://www.youtube.com/watch?v=GpxFF82I8Nk"/>
+        <updated>2025-11-21T14:45:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn programming fundamentals first. Then you can use AI to help you become more efficient.]]></title>
+        <id>https://www.youtube.com/shorts/MZVyASCY8sQ</id>
+        <link href="https://www.youtube.com/shorts/MZVyASCY8sQ"/>
+        <updated>2025-11-21T13:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you know who the first computer programmer was?]]></title>
         <id>https://www.youtube.com/shorts/LsY7U2Muau8</id>
@@ -125,25 +144,6 @@
         <id>https://www.youtube.com/shorts/f0Yq_wF_cIQ</id>
         <link href="https://www.youtube.com/shorts/f0Yq_wF_cIQ"/>
         <updated>2025-11-13T12:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Course for Beginners – Build Complex Workflows & Master AI Integration]]></title>
-        <id>https://www.youtube.com/watch?v=GIZzRGYpCbM</id>
-        <link href="https://www.youtube.com/watch?v=GIZzRGYpCbM"/>
-        <updated>2025-11-12T14:00:26.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess how many bugs NASA's space shuttle software had?]]></title>
-        <id>https://www.youtube.com/shorts/oeWLnnjFmf8</id>
-        <link href="https://www.youtube.com/shorts/oeWLnnjFmf8"/>
-        <updated>2025-11-12T13:29:31.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
