@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-23T06:20:09.816Z</id>
+    <id>urn:2025-11-24T06:22:53.885Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-23T06:20:09.816Z</updated>
+    <updated>2025-11-24T06:22:53.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What it's like living with daily migraines - and how Thomas manages them]]></title>
+        <id>https://www.youtube.com/shorts/P6fLZFJsH7Y</id>
+        <link href="https://www.youtube.com/shorts/P6fLZFJsH7Y"/>
+        <updated>2025-11-23T13:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remember floppy disks?]]></title>
         <id>https://www.youtube.com/shorts/EWHWX1yJsS0</id>
@@ -136,15 +146,6 @@
         <link href="https://www.youtube.com/shorts/MkeawaniGts"/>
         <updated>2025-11-14T13:18:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discrete Mathematics Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=G9JxuWk7BDA</id>
-        <link href="https://www.youtube.com/watch?v=G9JxuWk7BDA"/>
-        <updated>2025-11-13T14:14:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
