@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T06:22:53.885Z</id>
+    <id>urn:2025-11-25T06:22:36.786Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-24T06:22:53.885Z</updated>
+    <updated>2025-11-25T06:22:36.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Flexbox Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=nbsz6muQRT4</id>
+        <link href="https://www.youtube.com/watch?v=nbsz6muQRT4"/>
+        <updated>2025-11-24T14:44:43.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you guess what this code logs?]]></title>
+        <id>https://www.youtube.com/shorts/iMLGy2wEE_g</id>
+        <link href="https://www.youtube.com/shorts/iMLGy2wEE_g"/>
+        <updated>2025-11-24T13:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What it's like living with daily migraines - and how Thomas manages them]]></title>
         <id>https://www.youtube.com/shorts/P6fLZFJsH7Y</id>
@@ -126,25 +145,6 @@
         <id>https://www.youtube.com/shorts/I2LoiJWCKxc</id>
         <link href="https://www.youtube.com/shorts/I2LoiJWCKxc"/>
         <updated>2025-11-15T13:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
-        <id>https://www.youtube.com/watch?v=ZK6XWSCCgPQ</id>
-        <link href="https://www.youtube.com/watch?v=ZK6XWSCCgPQ"/>
-        <updated>2025-11-14T15:01:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't settle for boring text underlines...make them more fun!]]></title>
-        <id>https://www.youtube.com/shorts/MkeawaniGts</id>
-        <link href="https://www.youtube.com/shorts/MkeawaniGts"/>
-        <updated>2025-11-14T13:18:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
