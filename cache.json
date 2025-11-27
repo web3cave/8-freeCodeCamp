@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_coTZxZ-H5Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_coTZxZ-H5Q",
+          "publishedOn": "2025-11-26T14:11:45.000Z",
+          "wordCount": null,
+          "title": "Complete French Language Beginners Course – Learn A1 Level French",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/j-Mc04RlGXc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
+          "publishedOn": "2025-11-26T13:29:18.000Z",
+          "wordCount": 1980,
+          "title": "Pop quiz: does '5' equal 5 in code?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2038,
+          "wordCount": 2169,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2056,
+          "wordCount": 2002,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
           "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 2049,
+          "wordCount": 1989,
           "title": "What it's like living with daily migraines - and how Thomas manages them",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
           "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 1989,
+          "wordCount": 1987,
           "title": "Remember floppy disks?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MZVyASCY8sQ",
           "publishedOn": "2025-11-21T13:18:21.000Z",
-          "wordCount": 2104,
+          "wordCount": 2089,
           "title": "Learn programming fundamentals first. Then you can use AI to help you become more efficient.",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
           "publishedOn": "2025-11-20T12:52:30.000Z",
-          "wordCount": 1989,
+          "wordCount": 1992,
           "title": "Do you know who the first computer programmer was?",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "publishedOn": "2025-11-19T13:29:26.000Z",
-          "wordCount": 2466,
+          "wordCount": 1982,
           "title": "From laser-etching microchips to rediscovering a love of coding",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
           "publishedOn": "2025-11-18T13:05:24.000Z",
-          "wordCount": 2067,
+          "wordCount": 2039,
           "title": "Did you know that you can buy a domain name that's an emoji?",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-11-17T14:00:36.000Z",
           "wordCount": null,
           "title": "Intro to Backend Web Development – Node.js & Express Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/H6gHXV6OgFU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/H6gHXV6OgFU",
-          "publishedOn": "2025-11-17T13:17:35.000Z",
-          "wordCount": 2008,
-          "title": "How to get back into coding after years away",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/VplSjvnwG_Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/VplSjvnwG_Y",
-          "publishedOn": "2025-11-16T13:43:23.000Z",
-          "wordCount": 2014,
-          "title": "Boost your app's performance with CSS containment",
           "imageUrl": null
         }
       ]
