@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/_fGRKMQMl68",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
+          "publishedOn": "2025-11-27T12:52:21.000Z",
+          "wordCount": 1975,
+          "title": "Code a turkey timer!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_coTZxZ-H5Q",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 1980,
+          "wordCount": 1946,
           "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2169,
+          "wordCount": 2074,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2002,
+          "wordCount": 2014,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
           "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 1989,
+          "wordCount": 2061,
           "title": "What it's like living with daily migraines - and how Thomas manages them",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
           "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 1987,
+          "wordCount": 2073,
           "title": "Remember floppy disks?",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MZVyASCY8sQ",
           "publishedOn": "2025-11-21T13:18:21.000Z",
-          "wordCount": 2089,
+          "wordCount": 2064,
           "title": "Learn programming fundamentals first. Then you can use AI to help you become more efficient.",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
           "publishedOn": "2025-11-20T12:52:30.000Z",
-          "wordCount": 1992,
+          "wordCount": 2035,
           "title": "Do you know who the first computer programmer was?",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "publishedOn": "2025-11-19T13:29:26.000Z",
-          "wordCount": 1982,
+          "wordCount": 2135,
           "title": "From laser-etching microchips to rediscovering a love of coding",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
           "publishedOn": "2025-11-18T13:05:24.000Z",
-          "wordCount": 2039,
+          "wordCount": 2044,
           "title": "Did you know that you can buy a domain name that's an emoji?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KOutPbKc9UM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KOutPbKc9UM",
-          "publishedOn": "2025-11-17T14:00:36.000Z",
-          "wordCount": null,
-          "title": "Intro to Backend Web Development – Node.js & Express Tutorial for Beginners",
           "imageUrl": null
         }
       ]
