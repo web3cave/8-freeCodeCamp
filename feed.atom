@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T06:23:07.483Z</id>
+    <id>urn:2025-11-29T06:20:05.959Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-28T06:23:07.483Z</updated>
+    <updated>2025-11-29T06:20:05.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advice from a serial career changer with GitHub's Andrea Griffiths [Podcast #199]]]></title>
+        <id>https://www.youtube.com/watch?v=voPcxCFMbbM</id>
+        <link href="https://www.youtube.com/watch?v=voPcxCFMbbM"/>
+        <updated>2025-11-28T15:01:40.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.]]></title>
+        <id>https://www.youtube.com/shorts/08jTzcEMv_E</id>
+        <link href="https://www.youtube.com/shorts/08jTzcEMv_E"/>
+        <updated>2025-11-28T13:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code a turkey timer!]]></title>
         <id>https://www.youtube.com/shorts/_fGRKMQMl68</id>
@@ -127,25 +146,6 @@
         <id>https://www.youtube.com/watch?v=tdsQwuyS6DQ</id>
         <link href="https://www.youtube.com/watch?v=tdsQwuyS6DQ"/>
         <updated>2025-11-19T12:11:33.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Clean Code Course – Fix Code Smells & Refactor]]></title>
-        <id>https://www.youtube.com/watch?v=626BcUO84og</id>
-        <link href="https://www.youtube.com/watch?v=626BcUO84og"/>
-        <updated>2025-11-18T14:00:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know that you can buy a domain name that's an emoji?]]></title>
-        <id>https://www.youtube.com/shorts/zwzjaNmh-r4</id>
-        <link href="https://www.youtube.com/shorts/zwzjaNmh-r4"/>
-        <updated>2025-11-18T13:05:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
