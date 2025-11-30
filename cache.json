@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
+          "publishedOn": "2025-11-29T13:32:19.000Z",
+          "wordCount": 2065,
+          "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=voPcxCFMbbM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=voPcxCFMbbM",
           "publishedOn": "2025-11-28T15:01:40.000Z",
           "wordCount": null,
-          "title": "Advice from a serial career changer with GitHub's Andrea Griffiths [Podcast #199]",
+          "title": "How to teach yourself programming with GitHub's Andrea Griffiths [Podcast #199]",
           "imageUrl": null
         },
         {
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/08jTzcEMv_E",
           "publishedOn": "2025-11-28T13:18:21.000Z",
-          "wordCount": 2164,
+          "wordCount": 2079,
           "title": "Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 2039,
+          "wordCount": 1982,
           "title": "Code a turkey timer!",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 2005,
+          "wordCount": 2043,
           "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2096,
+          "wordCount": 2075,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 1948,
+          "wordCount": 2007,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
           "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 2068,
+          "wordCount": 2110,
           "title": "What it's like living with daily migraines - and how Thomas manages them",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
           "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 2005,
+          "wordCount": 2053,
           "title": "Remember floppy disks?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MZVyASCY8sQ",
           "publishedOn": "2025-11-21T13:18:21.000Z",
-          "wordCount": 2260,
+          "wordCount": 2102,
           "title": "Learn programming fundamentals first. Then you can use AI to help you become more efficient.",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
           "publishedOn": "2025-11-20T12:52:30.000Z",
-          "wordCount": 2001,
+          "wordCount": 2201,
           "title": "Do you know who the first computer programmer was?",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "publishedOn": "2025-11-19T13:29:26.000Z",
-          "wordCount": 2010,
+          "wordCount": 2045,
           "title": "From laser-etching microchips to rediscovering a love of coding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tdsQwuyS6DQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tdsQwuyS6DQ",
-          "publishedOn": "2025-11-19T12:11:33.000Z",
-          "wordCount": null,
-          "title": "Create a Cute Room Portfolio with Blender, Three.js, JavaScript – Beginner Course",
           "imageUrl": null
         }
       ]
