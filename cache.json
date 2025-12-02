@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g_3IKHG-rfA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g_3IKHG-rfA",
+          "publishedOn": "2025-12-01T15:25:39.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50’s Intro to R Programming – Full University Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/OarYObjva0E",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/OarYObjva0E",
+          "publishedOn": "2025-12-01T13:17:33.000Z",
+          "wordCount": 1996,
+          "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2082,
+          "wordCount": 2567,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2048,
+          "wordCount": 2100,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/08jTzcEMv_E",
           "publishedOn": "2025-11-28T13:18:21.000Z",
-          "wordCount": 2104,
+          "wordCount": 2072,
           "title": "Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 1995,
+          "wordCount": 1970,
           "title": "Code a turkey timer!",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 1987,
+          "wordCount": 2039,
           "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2194,
+          "wordCount": 2082,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2005,
+          "wordCount": 2374,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
           "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 2004,
+          "wordCount": 2102,
           "title": "What it's like living with daily migraines - and how Thomas manages them",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
           "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 2285,
+          "wordCount": 2054,
           "title": "Remember floppy disks?",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-11-21T14:45:05.000Z",
           "wordCount": null,
           "title": "When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/MZVyASCY8sQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/MZVyASCY8sQ",
-          "publishedOn": "2025-11-21T13:18:21.000Z",
-          "wordCount": 2086,
-          "title": "Learn programming fundamentals first. Then you can use AI to help you become more efficient.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/LsY7U2Muau8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
-          "publishedOn": "2025-11-20T12:52:30.000Z",
-          "wordCount": 2037,
-          "title": "Do you know who the first computer programmer was?",
           "imageUrl": null
         }
       ]

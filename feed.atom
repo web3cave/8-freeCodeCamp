@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-01T06:24:40.053Z</id>
+    <id>urn:2025-12-02T06:24:04.739Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-01T06:24:40.053Z</updated>
+    <updated>2025-12-02T06:24:04.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50’s Intro to R Programming – Full University Course]]></title>
+        <id>https://www.youtube.com/watch?v=g_3IKHG-rfA</id>
+        <link href="https://www.youtube.com/watch?v=g_3IKHG-rfA"/>
+        <updated>2025-12-01T15:25:39.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only 6 values are falsey in JavaScript. Do you know what they are?]]></title>
+        <id>https://www.youtube.com/shorts/OarYObjva0E</id>
+        <link href="https://www.youtube.com/shorts/OarYObjva0E"/>
+        <updated>2025-12-01T13:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.]]></title>
         <id>https://www.youtube.com/shorts/zfUP1tIC64o</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/watch?v=GpxFF82I8Nk</id>
         <link href="https://www.youtube.com/watch?v=GpxFF82I8Nk"/>
         <updated>2025-11-21T14:45:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn programming fundamentals first. Then you can use AI to help you become more efficient.]]></title>
-        <id>https://www.youtube.com/shorts/MZVyASCY8sQ</id>
-        <link href="https://www.youtube.com/shorts/MZVyASCY8sQ"/>
-        <updated>2025-11-21T13:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you know who the first computer programmer was?]]></title>
-        <id>https://www.youtube.com/shorts/LsY7U2Muau8</id>
-        <link href="https://www.youtube.com/shorts/LsY7U2Muau8"/>
-        <updated>2025-11-20T12:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
