@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=21_I-12f5JE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=21_I-12f5JE",
+          "publishedOn": "2025-12-02T15:33:24.000Z",
+          "wordCount": null,
+          "title": "NestJS Course for Beginners - Build Server-Side Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zkJt9y7ixiY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
+          "publishedOn": "2025-12-02T13:05:26.000Z",
+          "wordCount": 2141,
+          "title": "AI tools can be super helpful - but they're not the answer to everything",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g_3IKHG-rfA",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 1996,
+          "wordCount": 2035,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2567,
+          "wordCount": 2050,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2100,
+          "wordCount": 2191,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 1970,
+          "wordCount": 1992,
           "title": "Code a turkey timer!",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 2039,
+          "wordCount": 2005,
           "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2082,
+          "wordCount": 2085,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2374,
+          "wordCount": 2500,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
           "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 2102,
+          "wordCount": 2047,
           "title": "What it's like living with daily migraines - and how Thomas manages them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/EWHWX1yJsS0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
-          "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 2054,
-          "title": "Remember floppy disks?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GpxFF82I8Nk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GpxFF82I8Nk",
-          "publishedOn": "2025-11-21T14:45:05.000Z",
-          "wordCount": null,
-          "title": "When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]",
           "imageUrl": null
         }
       ]
