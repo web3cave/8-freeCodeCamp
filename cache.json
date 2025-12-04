@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wu8npoU37cI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wu8npoU37cI",
+          "publishedOn": "2025-12-03T14:28:01.000Z",
+          "wordCount": null,
+          "title": "Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ikXDYsdg15c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
+          "publishedOn": "2025-12-03T13:29:23.000Z",
+          "wordCount": 2041,
+          "title": "Function declaration vs expression - what's the difference?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=21_I-12f5JE",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
           "publishedOn": "2025-12-02T13:05:26.000Z",
-          "wordCount": 2141,
+          "wordCount": 2067,
           "title": "AI tools can be super helpful - but they're not the answer to everything",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 2035,
+          "wordCount": 2109,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2050,
+          "wordCount": 2051,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2191,
+          "wordCount": 2100,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/08jTzcEMv_E",
           "publishedOn": "2025-11-28T13:18:21.000Z",
-          "wordCount": 2072,
+          "wordCount": 2096,
           "title": "Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 1992,
+          "wordCount": 1986,
           "title": "Code a turkey timer!",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 2005,
+          "wordCount": 2004,
           "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2085,
+          "wordCount": 2240,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2025-11-24T14:44:43.000Z",
           "wordCount": null,
           "title": "Learn CSS Flexbox in 2 Hours – Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/iMLGy2wEE_g",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
-          "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2500,
-          "title": "Can you guess what this code logs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
-          "publishedOn": "2025-11-23T13:43:27.000Z",
-          "wordCount": 2047,
-          "title": "What it's like living with daily migraines - and how Thomas manages them",
           "imageUrl": null
         }
       ]

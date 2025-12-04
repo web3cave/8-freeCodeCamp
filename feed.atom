@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T06:23:32.750Z</id>
+    <id>urn:2025-12-04T06:23:14.792Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T06:23:32.750Z</updated>
+    <updated>2025-12-04T06:23:14.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers]]></title>
+        <id>https://www.youtube.com/watch?v=wu8npoU37cI</id>
+        <link href="https://www.youtube.com/watch?v=wu8npoU37cI"/>
+        <updated>2025-12-03T14:28:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function declaration vs expression - what's the difference?]]></title>
+        <id>https://www.youtube.com/shorts/ikXDYsdg15c</id>
+        <link href="https://www.youtube.com/shorts/ikXDYsdg15c"/>
+        <updated>2025-12-03T13:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NestJS Course for Beginners - Build Server-Side Applications]]></title>
         <id>https://www.youtube.com/watch?v=21_I-12f5JE</id>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/watch?v=nbsz6muQRT4</id>
         <link href="https://www.youtube.com/watch?v=nbsz6muQRT4"/>
         <updated>2025-11-24T14:44:43.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you guess what this code logs?]]></title>
-        <id>https://www.youtube.com/shorts/iMLGy2wEE_g</id>
-        <link href="https://www.youtube.com/shorts/iMLGy2wEE_g"/>
-        <updated>2025-11-24T13:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it's like living with daily migraines - and how Thomas manages them]]></title>
-        <id>https://www.youtube.com/shorts/P6fLZFJsH7Y</id>
-        <link href="https://www.youtube.com/shorts/P6fLZFJsH7Y"/>
-        <updated>2025-11-23T13:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
