@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+          "publishedOn": "2025-12-04T16:19:42.000Z",
+          "wordCount": null,
+          "title": "Git & GitHub Crash Course for Beginners [2026]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/QpGTmAoEINA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/QpGTmAoEINA",
+          "publishedOn": "2025-12-04T12:52:33.000Z",
+          "wordCount": 2383,
+          "title": "Learning to code on the job - right in the browser",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wu8npoU37cI",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
           "publishedOn": "2025-12-03T13:29:23.000Z",
-          "wordCount": 2041,
+          "wordCount": 2036,
           "title": "Function declaration vs expression - what's the difference?",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
           "publishedOn": "2025-12-02T13:05:26.000Z",
-          "wordCount": 2067,
+          "wordCount": 2052,
           "title": "AI tools can be super helpful - but they're not the answer to everything",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 2109,
+          "wordCount": 2026,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2051,
+          "wordCount": 2376,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2100,
+          "wordCount": 2076,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/08jTzcEMv_E",
           "publishedOn": "2025-11-28T13:18:21.000Z",
-          "wordCount": 2096,
+          "wordCount": 2083,
           "title": "Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 1986,
+          "wordCount": 2036,
           "title": "Code a turkey timer!",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
           "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 2004,
+          "wordCount": 2413,
           "title": "Pop quiz: does '5' equal 5 in code?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
-          "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2240,
-          "title": "Do something toward learning programming every day - even if it's just 10 minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nbsz6muQRT4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nbsz6muQRT4",
-          "publishedOn": "2025-11-24T14:44:43.000Z",
-          "wordCount": null,
-          "title": "Learn CSS Flexbox in 2 Hours – Tutorial for Beginners",
           "imageUrl": null
         }
       ]
