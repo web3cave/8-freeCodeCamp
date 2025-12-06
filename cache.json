@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VgBQ0yBSjfM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VgBQ0yBSjfM",
+          "publishedOn": "2025-12-05T13:45:05.000Z",
+          "wordCount": null,
+          "title": "How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/9UxVhurASxU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9UxVhurASxU",
+          "publishedOn": "2025-12-05T13:18:28.000Z",
+          "wordCount": 2052,
+          "title": "The \"this\" keyword can be tricky. Ania helps you sort out one of its quirks here.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mAFoROnOfHs",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QpGTmAoEINA",
           "publishedOn": "2025-12-04T12:52:33.000Z",
-          "wordCount": 2383,
+          "wordCount": 2021,
           "title": "Learning to code on the job - right in the browser",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
           "publishedOn": "2025-12-03T13:29:23.000Z",
-          "wordCount": 2036,
+          "wordCount": 2390,
           "title": "Function declaration vs expression - what's the difference?",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
           "publishedOn": "2025-12-02T13:05:26.000Z",
-          "wordCount": 2052,
+          "wordCount": 2068,
           "title": "AI tools can be super helpful - but they're not the answer to everything",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 2026,
+          "wordCount": 2028,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2376,
+          "wordCount": 2054,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2076,
+          "wordCount": 2051,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/08jTzcEMv_E",
           "publishedOn": "2025-11-28T13:18:21.000Z",
-          "wordCount": 2083,
+          "wordCount": 2084,
           "title": "Move out of your parents' house ASAP? or stay if you can? Thomas discusses this with Quincy here.",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_fGRKMQMl68",
           "publishedOn": "2025-11-27T12:52:21.000Z",
-          "wordCount": 2036,
+          "wordCount": 2400,
           "title": "Code a turkey timer!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_coTZxZ-H5Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_coTZxZ-H5Q",
-          "publishedOn": "2025-11-26T14:11:45.000Z",
-          "wordCount": null,
-          "title": "Complete French Language Beginners Course – Learn A1 Level French",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/j-Mc04RlGXc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
-          "publishedOn": "2025-11-26T13:29:18.000Z",
-          "wordCount": 2413,
-          "title": "Pop quiz: does '5' equal 5 in code?",
           "imageUrl": null
         }
       ]
