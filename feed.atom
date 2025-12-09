@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-08T06:25:49.281Z</id>
+    <id>urn:2025-12-09T06:23:41.438Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-08T06:25:49.281Z</updated>
+    <updated>2025-12-09T06:23:41.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build Serverless AI Agents with Langbase]]></title>
+        <id>https://www.youtube.com/watch?v=BMt-qvrEcFY</id>
+        <link href="https://www.youtube.com/watch?v=BMt-qvrEcFY"/>
+        <updated>2025-12-08T14:25:10.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The life of a software developer after work hours]]></title>
+        <id>https://www.youtube.com/shorts/gpm1hRv6WL8</id>
+        <link href="https://www.youtube.com/shorts/gpm1hRv6WL8"/>
+        <updated>2025-12-08T13:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Type coercion in JavaScript can get a little wild...]]></title>
         <id>https://www.youtube.com/shorts/ja4OAzPLuM8</id>
@@ -126,25 +145,6 @@
         <link href="https://www.youtube.com/shorts/zfUP1tIC64o"/>
         <updated>2025-11-30T13:43:26.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?]]></title>
-        <id>https://www.youtube.com/shorts/URJBQ3b9n6Y</id>
-        <link href="https://www.youtube.com/shorts/URJBQ3b9n6Y"/>
-        <updated>2025-11-29T13:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to teach yourself programming with GitHub's Andrea Griffiths [Podcast #199]]]></title>
-        <id>https://www.youtube.com/watch?v=voPcxCFMbbM</id>
-        <link href="https://www.youtube.com/watch?v=voPcxCFMbbM"/>
-        <updated>2025-11-28T15:01:40.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
