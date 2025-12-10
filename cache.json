@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/9kKNFP9srjc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9kKNFP9srjc",
+          "publishedOn": "2025-12-09T13:05:16.000Z",
+          "wordCount": 2002,
+          "title": "So how do closures work again...?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BMt-qvrEcFY",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "publishedOn": "2025-12-08T13:17:27.000Z",
-          "wordCount": 2055,
+          "wordCount": 2038,
           "title": "The life of a software developer after work hours",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "publishedOn": "2025-12-07T13:43:22.000Z",
-          "wordCount": 2008,
+          "wordCount": 2076,
           "title": "Type coercion in JavaScript can get a little wild...",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/O3Q7WA38JXc",
           "publishedOn": "2025-12-06T13:32:27.000Z",
-          "wordCount": 2038,
+          "wordCount": 2035,
           "title": "How to negotiate your salary like a pro using anchoring",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9UxVhurASxU",
           "publishedOn": "2025-12-05T13:18:28.000Z",
-          "wordCount": 2061,
+          "wordCount": 2087,
           "title": "The \"this\" keyword can be tricky. Ania helps you sort out one of its quirks here.",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QpGTmAoEINA",
           "publishedOn": "2025-12-04T12:52:33.000Z",
-          "wordCount": 3026,
+          "wordCount": 2014,
           "title": "Learning to code on the job - right in the browser",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
           "publishedOn": "2025-12-03T13:29:23.000Z",
-          "wordCount": 2582,
+          "wordCount": 2044,
           "title": "Function declaration vs expression - what's the difference?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
           "publishedOn": "2025-12-02T13:05:26.000Z",
-          "wordCount": 2053,
+          "wordCount": 2154,
           "title": "AI tools can be super helpful - but they're not the answer to everything",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 2018,
+          "wordCount": 2101,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/zfUP1tIC64o",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
-          "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2028,
-          "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         }
       ]

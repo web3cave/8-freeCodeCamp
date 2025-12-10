@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-09T06:23:41.438Z</id>
+    <id>urn:2025-12-10T06:24:08.036Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-09T06:23:41.438Z</updated>
+    <updated>2025-12-10T06:24:08.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[So how do closures work again...?]]></title>
+        <id>https://www.youtube.com/shorts/9kKNFP9srjc</id>
+        <link href="https://www.youtube.com/shorts/9kKNFP9srjc"/>
+        <updated>2025-12-09T13:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Serverless AI Agents with Langbase]]></title>
         <id>https://www.youtube.com/watch?v=BMt-qvrEcFY</id>
@@ -134,16 +144,6 @@
         <id>https://www.youtube.com/shorts/OarYObjva0E</id>
         <link href="https://www.youtube.com/shorts/OarYObjva0E"/>
         <updated>2025-12-01T13:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.]]></title>
-        <id>https://www.youtube.com/shorts/zfUP1tIC64o</id>
-        <link href="https://www.youtube.com/shorts/zfUP1tIC64o"/>
-        <updated>2025-11-30T13:43:26.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
