@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T06:24:53.142Z</id>
+    <id>urn:2025-12-12T06:24:12.178Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T06:24:53.142Z</updated>
+    <updated>2025-12-12T06:24:12.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Code 7 Landmark NLP Papers in PyTorch (Full NMT Course)]]></title>
+        <title type="html"><![CDATA[n8n Tutorial – Zero to Hero Course]]></title>
+        <id>https://www.youtube.com/watch?v=UIf-SlmMays</id>
+        <link href="https://www.youtube.com/watch?v=UIf-SlmMays"/>
+        <updated>2025-12-11T15:34:06.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun fact about JavaScript]]></title>
+        <id>https://www.youtube.com/shorts/yhTipwdwe9w</id>
+        <link href="https://www.youtube.com/shorts/yhTipwdwe9w"/>
+        <updated>2025-12-11T12:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From RNNs to Transformers: The Complete Neural Machine Translation Journey]]></title>
         <id>https://www.youtube.com/watch?v=kRv2ElPNAdY</id>
         <link href="https://www.youtube.com/watch?v=kRv2ElPNAdY"/>
         <updated>2025-12-10T14:42:03.000Z</updated>
@@ -125,25 +144,6 @@
         <id>https://www.youtube.com/shorts/ikXDYsdg15c</id>
         <link href="https://www.youtube.com/shorts/ikXDYsdg15c"/>
         <updated>2025-12-03T13:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NestJS Course for Beginners - Build Server-Side Applications]]></title>
-        <id>https://www.youtube.com/watch?v=21_I-12f5JE</id>
-        <link href="https://www.youtube.com/watch?v=21_I-12f5JE"/>
-        <updated>2025-12-02T15:33:24.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI tools can be super helpful - but they're not the answer to everything]]></title>
-        <id>https://www.youtube.com/shorts/zkJt9y7ixiY</id>
-        <link href="https://www.youtube.com/shorts/zkJt9y7ixiY"/>
-        <updated>2025-12-02T13:05:26.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
