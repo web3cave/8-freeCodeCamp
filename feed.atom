@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T06:26:43.480Z</id>
+    <id>urn:2025-12-16T06:24:32.225Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-15T06:26:43.480Z</updated>
+    <updated>2025-12-16T06:24:32.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use the .title() method in Python]]></title>
+        <id>https://www.youtube.com/shorts/N2nbig3WjAI</id>
+        <link href="https://www.youtube.com/shorts/N2nbig3WjAI"/>
+        <updated>2025-12-15T13:17:30.000Z</updated>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Array vs object gotcha in JavaScript]]></title>
         <id>https://www.youtube.com/shorts/QgZoz4xFfLE</id>
         <link href="https://www.youtube.com/shorts/QgZoz4xFfLE"/>
         <updated>2025-12-14T13:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -20,7 +30,7 @@
         <id>https://www.youtube.com/shorts/slfaeQLn1cY</id>
         <link href="https://www.youtube.com/shorts/slfaeQLn1cY"/>
         <updated>2025-12-13T13:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -39,7 +49,7 @@
         <id>https://www.youtube.com/shorts/jF2FnVVc4AU</id>
         <link href="https://www.youtube.com/shorts/jF2FnVVc4AU"/>
         <updated>2025-12-12T13:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -58,7 +68,7 @@
         <id>https://www.youtube.com/shorts/yhTipwdwe9w</id>
         <link href="https://www.youtube.com/shorts/yhTipwdwe9w"/>
         <updated>2025-12-11T12:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -77,7 +87,7 @@
         <id>https://www.youtube.com/shorts/fLnkVdDPgso</id>
         <link href="https://www.youtube.com/shorts/fLnkVdDPgso"/>
         <updated>2025-12-10T13:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -87,7 +97,7 @@
         <id>https://www.youtube.com/shorts/9kKNFP9srjc</id>
         <link href="https://www.youtube.com/shorts/9kKNFP9srjc"/>
         <updated>2025-12-09T13:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -106,7 +116,7 @@
         <id>https://www.youtube.com/shorts/gpm1hRv6WL8</id>
         <link href="https://www.youtube.com/shorts/gpm1hRv6WL8"/>
         <updated>2025-12-08T13:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -116,7 +126,7 @@
         <id>https://www.youtube.com/shorts/ja4OAzPLuM8</id>
         <link href="https://www.youtube.com/shorts/ja4OAzPLuM8"/>
         <updated>2025-12-07T13:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -126,7 +136,7 @@
         <id>https://www.youtube.com/shorts/O3Q7WA38JXc</id>
         <link href="https://www.youtube.com/shorts/O3Q7WA38JXc"/>
         <updated>2025-12-06T13:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -136,16 +146,6 @@
         <id>https://www.youtube.com/watch?v=VgBQ0yBSjfM</id>
         <link href="https://www.youtube.com/watch?v=VgBQ0yBSjfM"/>
         <updated>2025-12-05T13:45:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "this" keyword can be tricky. Ania helps you sort out one of its quirks here.]]></title>
-        <id>https://www.youtube.com/shorts/9UxVhurASxU</id>
-        <link href="https://www.youtube.com/shorts/9UxVhurASxU"/>
-        <updated>2025-12-05T13:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
