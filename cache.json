@@ -6,32 +6,52 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q7P20fHJlm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q7P20fHJlm4",
+          "publishedOn": "2025-12-16T14:43:47.000Z",
+          "wordCount": null,
+          "title": "Intro to Supabase – Full Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
+          "publishedOn": "2025-12-16T13:05:26.000Z",
+          "wordCount": 2047,
+          "title": "Event loop race: which one logs first?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "publishedOn": "2025-12-15T13:17:30.000Z",
-          "wordCount": 2131,
+          "wordCount": 2063,
           "title": "How to use the .title() method in Python",
           "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "publishedOn": "2025-12-14T13:43:24.000Z",
-          "wordCount": 2114,
+          "wordCount": 2016,
           "title": "Array vs object gotcha in JavaScript",
           "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "publishedOn": "2025-12-13T13:32:23.000Z",
-          "wordCount": 2568,
+          "wordCount": 3113,
           "title": "It's both really hard and really easy to make money. How can this be?",
           "imageUrl": null
         },
@@ -48,10 +68,10 @@
         {
           "id": "https://www.youtube.com/shorts/jF2FnVVc4AU",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
           "publishedOn": "2025-12-12T13:18:29.000Z",
-          "wordCount": 2167,
+          "wordCount": 2376,
           "title": "How to use the .swapcase() method in Python",
           "imageUrl": null
         },
@@ -68,10 +88,10 @@
         {
           "id": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "publishedOn": "2025-12-11T12:52:21.000Z",
-          "wordCount": 2130,
+          "wordCount": 1993,
           "title": "Fun fact about JavaScript",
           "imageUrl": null
         },
@@ -88,20 +108,20 @@
         {
           "id": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "publishedOn": "2025-12-10T13:29:24.000Z",
-          "wordCount": 2111,
+          "wordCount": 2090,
           "title": "How to split a string in Python",
           "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/shorts/9kKNFP9srjc",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9kKNFP9srjc",
           "publishedOn": "2025-12-09T13:05:16.000Z",
-          "wordCount": 2123,
+          "wordCount": 1891,
           "title": "So how do closures work again...?",
           "imageUrl": null
         },
@@ -118,41 +138,21 @@
         {
           "id": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "publishedOn": "2025-12-08T13:17:27.000Z",
-          "wordCount": 2236,
+          "wordCount": 2073,
           "title": "The life of a software developer after work hours",
           "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "publishedOn": "2025-12-07T13:43:22.000Z",
-          "wordCount": 2126,
+          "wordCount": 2035,
           "title": "Type coercion in JavaScript can get a little wild...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O3Q7WA38JXc",
-          "author": null,
-          "description": "ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.",
-          "link": "https://www.youtube.com/shorts/O3Q7WA38JXc",
-          "publishedOn": "2025-12-06T13:32:27.000Z",
-          "wordCount": 2201,
-          "title": "How to negotiate your salary like a pro using anchoring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VgBQ0yBSjfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VgBQ0yBSjfM",
-          "publishedOn": "2025-12-05T13:45:05.000Z",
-          "wordCount": null,
-          "title": "How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]",
           "imageUrl": null
         }
       ]
