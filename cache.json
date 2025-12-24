@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WKIjkxxNH0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WKIjkxxNH0c",
+          "publishedOn": "2025-12-23T16:11:53.000Z",
+          "wordCount": null,
+          "title": "Build a Support Agent with Vercel AI SDK – Full Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/_fvW2bruZ2M",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_fvW2bruZ2M",
+          "publishedOn": "2025-12-23T13:05:27.000Z",
+          "wordCount": 2228,
+          "title": "Take ownership. Advocate for yourself. Get to know the support team.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/QCSKhLuGR5c",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QCSKhLuGR5c",
           "publishedOn": "2025-12-22T13:17:20.000Z",
-          "wordCount": 2821,
+          "wordCount": 2038,
           "title": "How to remove trailing characters from a Python string using the .rstrip() method",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/taSwtU-sldo",
           "publishedOn": "2025-12-21T13:43:34.000Z",
-          "wordCount": 2012,
+          "wordCount": 2018,
           "title": "What happens when you spread a string in JavaScript?",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FAKgFhWX8pQ",
           "publishedOn": "2025-12-20T13:32:25.000Z",
-          "wordCount": 2005,
+          "wordCount": 2006,
           "title": "This looks simple, but can you predict the output?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f9-Vf_WNvT0",
           "publishedOn": "2025-12-19T13:18:33.000Z",
-          "wordCount": 2079,
+          "wordCount": 2097,
           "title": "How to check if a string only contains whitespace in Python",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uNS75JWOmBI",
           "publishedOn": "2025-12-18T12:52:39.000Z",
-          "wordCount": 2125,
+          "wordCount": 2285,
           "title": "Don't chase a path that looks good just because you feel like you're supposed to",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vZHhmzT9TL8",
           "publishedOn": "2025-12-17T13:29:40.000Z",
-          "wordCount": 2057,
+          "wordCount": 2027,
           "title": "How to use the .append() method in Python",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
           "publishedOn": "2025-12-16T13:05:26.000Z",
-          "wordCount": 2797,
+          "wordCount": 2030,
           "title": "Event loop race: which one logs first?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "publishedOn": "2025-12-15T13:17:30.000Z",
-          "wordCount": 2027,
+          "wordCount": 2015,
           "title": "How to use the .title() method in Python",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "publishedOn": "2025-12-14T13:43:24.000Z",
-          "wordCount": 1996,
+          "wordCount": 2003,
           "title": "Array vs object gotcha in JavaScript",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "publishedOn": "2025-12-13T13:32:23.000Z",
-          "wordCount": 2967,
+          "wordCount": 2133,
           "title": "It's both really hard and really easy to make money. How can this be?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lIghF_OewYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lIghF_OewYg",
-          "publishedOn": "2025-12-12T14:01:21.000Z",
-          "wordCount": null,
-          "title": "The \"AI is going to replace devs\" hype is over – 22-year dev veteran Jason Lengstorf [Podcast #201]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/jF2FnVVc4AU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
-          "publishedOn": "2025-12-12T13:18:29.000Z",
-          "wordCount": 1959,
-          "title": "How to use the .swapcase() method in Python",
           "imageUrl": null
         }
       ]
