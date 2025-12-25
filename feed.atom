@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T06:25:06.574Z</id>
+    <id>urn:2025-12-25T06:24:09.716Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-24T06:25:06.574Z</updated>
+    <updated>2025-12-25T06:24:09.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Which elf gets the candy cane?]]></title>
+        <id>https://www.youtube.com/shorts/QZTOm8YVAW8</id>
+        <link href="https://www.youtube.com/shorts/QZTOm8YVAW8"/>
+        <updated>2025-12-24T13:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Support Agent with Vercel AI SDK – Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=WKIjkxxNH0c</id>
@@ -136,16 +146,6 @@
         <id>https://www.youtube.com/shorts/QgZoz4xFfLE</id>
         <link href="https://www.youtube.com/shorts/QgZoz4xFfLE"/>
         <updated>2025-12-14T13:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's both really hard and really easy to make money. How can this be?]]></title>
-        <id>https://www.youtube.com/shorts/slfaeQLn1cY</id>
-        <link href="https://www.youtube.com/shorts/slfaeQLn1cY"/>
-        <updated>2025-12-13T13:32:23.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
