@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T06:23:53.990Z</id>
+    <id>urn:2025-12-27T06:22:23.469Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T06:23:53.990Z</updated>
+    <updated>2025-12-27T06:22:23.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What's CS50's 72-hour Regret Clause? Dr. David J. Malan explains here.]]></title>
+        <id>https://www.youtube.com/shorts/Zo8AxO6sTQA</id>
+        <link href="https://www.youtube.com/shorts/Zo8AxO6sTQA"/>
+        <updated>2025-12-26T13:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Candy cane conditional: everyone gets a candy cane only once the tree is decorated...]]></title>
         <id>https://www.youtube.com/shorts/Iapgr6t6Nv0</id>
@@ -136,16 +146,6 @@
         <id>https://www.youtube.com/shorts/qG2g1iv6ZbY</id>
         <link href="https://www.youtube.com/shorts/qG2g1iv6ZbY"/>
         <updated>2025-12-16T13:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the .title() method in Python]]></title>
-        <id>https://www.youtube.com/shorts/N2nbig3WjAI</id>
-        <link href="https://www.youtube.com/shorts/N2nbig3WjAI"/>
-        <updated>2025-12-15T13:17:30.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
