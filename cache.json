@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tr5Fapv80Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tr5Fapv80Cw",
+          "publishedOn": "2026-01-06T15:08:17.000Z",
+          "wordCount": null,
+          "title": "Building Agentic AI Workloads – Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/DIRnYM2dOs0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/DIRnYM2dOs0",
+          "publishedOn": "2026-01-06T13:08:42.000Z",
+          "wordCount": 2057,
+          "title": "Have you ever tried rubber duck debugging?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WSsOXo07LeE",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y5aKEyPfLKs",
           "publishedOn": "2026-01-05T13:24:09.000Z",
-          "wordCount": 2235,
+          "wordCount": 2137,
           "title": "The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
           "publishedOn": "2026-01-04T13:55:51.000Z",
-          "wordCount": 2002,
+          "wordCount": 2001,
           "title": "JavaScript coercion chaos at its finest",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
           "publishedOn": "2026-01-03T13:32:21.000Z",
-          "wordCount": 2484,
+          "wordCount": 2862,
           "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HwFw1abJkUs",
           "publishedOn": "2026-01-02T13:18:24.000Z",
-          "wordCount": 2023,
+          "wordCount": 2017,
           "title": "Here's a little array method mystery for you...",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/912L9KmzSLE",
           "publishedOn": "2026-01-01T12:52:41.000Z",
-          "wordCount": 2062,
+          "wordCount": 2014,
           "title": "The advantages of being bilingual in tech",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jHInoiWHe0Q",
           "publishedOn": "2025-12-31T13:29:32.000Z",
-          "wordCount": 2000,
+          "wordCount": 2056,
           "title": "The RACECAR challenge - Ready: GO!",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
           "publishedOn": "2025-12-30T13:05:47.000Z",
-          "wordCount": 2105,
+          "wordCount": 2101,
           "title": "So why should you still learn C programming in 2025 and beyond? Dr. David J. Malan has an answer.",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8Si7eCfEpB0",
           "publishedOn": "2025-12-29T13:17:22.000Z",
-          "wordCount": 2081,
+          "wordCount": 2075,
           "title": "Browsers fight over who renders HTML the best. Which one do you think usually wins?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lw1vTtFyfgg",
           "publishedOn": "2025-12-28T13:43:24.000Z",
-          "wordCount": 2259,
+          "wordCount": 2068,
           "title": "All you need to start learning to code with freeCodeCamp is the will to do so.",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/w_BIYb6WbtU",
           "publishedOn": "2025-12-27T13:32:31.000Z",
-          "wordCount": 2036,
+          "wordCount": 2020,
           "title": "Did you know that HTML doesn't care about mistakes?",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Zo8AxO6sTQA",
           "publishedOn": "2025-12-26T13:18:26.000Z",
-          "wordCount": 2081,
+          "wordCount": 2054,
           "title": "What's CS50's 72-hour Regret Clause? Dr. David J. Malan explains here.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Iapgr6t6Nv0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Iapgr6t6Nv0",
-          "publishedOn": "2025-12-25T12:52:30.000Z",
-          "wordCount": 2720,
-          "title": "Candy cane conditional: everyone gets a candy cane only once the tree is decorated...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/QZTOm8YVAW8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/QZTOm8YVAW8",
-          "publishedOn": "2025-12-24T13:29:30.000Z",
-          "wordCount": 2027,
-          "title": "Which elf gets the candy cane?",
           "imageUrl": null
         }
       ]

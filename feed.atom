@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-06T06:25:32.676Z</id>
+    <id>urn:2026-01-07T06:25:16.323Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-06T06:25:32.676Z</updated>
+    <updated>2026-01-07T06:25:16.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Agentic AI Workloads – Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=tr5Fapv80Cw</id>
+        <link href="https://www.youtube.com/watch?v=tr5Fapv80Cw"/>
+        <updated>2026-01-06T15:08:17.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever tried rubber duck debugging?]]></title>
+        <id>https://www.youtube.com/shorts/DIRnYM2dOs0</id>
+        <link href="https://www.youtube.com/shorts/DIRnYM2dOs0"/>
+        <updated>2026-01-06T13:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 2.0 Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=WSsOXo07LeE</id>
@@ -128,26 +147,6 @@
         <id>https://www.youtube.com/shorts/Zo8AxO6sTQA</id>
         <link href="https://www.youtube.com/shorts/Zo8AxO6sTQA"/>
         <updated>2025-12-26T13:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy cane conditional: everyone gets a candy cane only once the tree is decorated...]]></title>
-        <id>https://www.youtube.com/shorts/Iapgr6t6Nv0</id>
-        <link href="https://www.youtube.com/shorts/Iapgr6t6Nv0"/>
-        <updated>2025-12-25T12:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which elf gets the candy cane?]]></title>
-        <id>https://www.youtube.com/shorts/QZTOm8YVAW8</id>
-        <link href="https://www.youtube.com/shorts/QZTOm8YVAW8"/>
-        <updated>2025-12-24T13:29:30.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
