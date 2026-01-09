@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T06:25:38.487Z</id>
+    <id>urn:2026-01-09T06:25:19.618Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-08T06:25:38.487Z</updated>
+    <updated>2026-01-09T06:25:19.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React Performance Optimization Patterns Course]]></title>
+        <id>https://www.youtube.com/watch?v=keTcXT145CI</id>
+        <link href="https://www.youtube.com/watch?v=keTcXT145CI"/>
+        <updated>2026-01-08T15:08:41.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know - Harvard's CS50 isn't just a coding course. There are many variants...]]></title>
+        <id>https://www.youtube.com/shorts/tPeyD3ELDHw</id>
+        <link href="https://www.youtube.com/shorts/tPeyD3ELDHw"/>
+        <updated>2026-01-08T12:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Need some coding experience? Contribute to Open Source.]]></title>
         <id>https://www.youtube.com/shorts/HihwnUepmdg</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/shorts/8Si7eCfEpB0</id>
         <link href="https://www.youtube.com/shorts/8Si7eCfEpB0"/>
         <updated>2025-12-29T13:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All you need to start learning to code with freeCodeCamp is the will to do so.]]></title>
-        <id>https://www.youtube.com/shorts/lw1vTtFyfgg</id>
-        <link href="https://www.youtube.com/shorts/lw1vTtFyfgg"/>
-        <updated>2025-12-28T13:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know that HTML doesn't care about mistakes?]]></title>
-        <id>https://www.youtube.com/shorts/w_BIYb6WbtU</id>
-        <link href="https://www.youtube.com/shorts/w_BIYb6WbtU"/>
-        <updated>2025-12-27T13:32:31.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
