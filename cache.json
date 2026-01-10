@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DzVm161M4Kk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DzVm161M4Kk",
+          "publishedOn": "2026-01-09T14:30:11.000Z",
+          "wordCount": null,
+          "title": "First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ry_mcAPVTOc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
+          "publishedOn": "2026-01-09T13:18:42.000Z",
+          "wordCount": 2007,
+          "title": "What's the difference between call vs apply in JavaScript?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=keTcXT145CI",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2082,
+          "wordCount": 2137,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HihwnUepmdg",
           "publishedOn": "2026-01-07T13:29:25.000Z",
-          "wordCount": 2071,
+          "wordCount": 2049,
           "title": "Need some coding experience? Contribute to Open Source.",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DIRnYM2dOs0",
           "publishedOn": "2026-01-06T13:08:42.000Z",
-          "wordCount": 2070,
+          "wordCount": 2005,
           "title": "Have you ever tried rubber duck debugging?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y5aKEyPfLKs",
           "publishedOn": "2026-01-05T13:24:09.000Z",
-          "wordCount": 2108,
+          "wordCount": 2243,
           "title": "The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
           "publishedOn": "2026-01-04T13:55:51.000Z",
-          "wordCount": 2130,
+          "wordCount": 2022,
           "title": "JavaScript coercion chaos at its finest",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
           "publishedOn": "2026-01-03T13:32:21.000Z",
-          "wordCount": 2101,
+          "wordCount": 2118,
           "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HwFw1abJkUs",
           "publishedOn": "2026-01-02T13:18:24.000Z",
-          "wordCount": 2030,
+          "wordCount": 2035,
           "title": "Here's a little array method mystery for you...",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/912L9KmzSLE",
           "publishedOn": "2026-01-01T12:52:41.000Z",
-          "wordCount": 2043,
+          "wordCount": 2058,
           "title": "The advantages of being bilingual in tech",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jHInoiWHe0Q",
           "publishedOn": "2025-12-31T13:29:32.000Z",
-          "wordCount": 2025,
+          "wordCount": 2042,
           "title": "The RACECAR challenge - Ready: GO!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
-          "publishedOn": "2025-12-30T13:05:47.000Z",
-          "wordCount": 2096,
-          "title": "So why should you still learn C programming in 2025 and beyond? Dr. David J. Malan has an answer.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/8Si7eCfEpB0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/8Si7eCfEpB0",
-          "publishedOn": "2025-12-29T13:17:22.000Z",
-          "wordCount": 2060,
-          "title": "Browsers fight over who renders HTML the best. Which one do you think usually wins?",
           "imageUrl": null
         }
       ]
