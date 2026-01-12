@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/RI8ELvtbUmU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
+          "publishedOn": "2026-01-11T13:43:40.000Z",
+          "wordCount": 2201,
+          "title": "When you're learning or doing something new, get comfortable being uncomfortable",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "publishedOn": "2026-01-10T13:43:34.000Z",
-          "wordCount": 2025,
+          "wordCount": 2069,
           "title": "How to insert list items at a specific index in Python",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
           "publishedOn": "2026-01-09T13:18:42.000Z",
-          "wordCount": 2032,
+          "wordCount": 2051,
           "title": "What's the difference between call vs apply in JavaScript?",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2059,
+          "wordCount": 2093,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HihwnUepmdg",
           "publishedOn": "2026-01-07T13:29:25.000Z",
-          "wordCount": 2230,
+          "wordCount": 2024,
           "title": "Need some coding experience? Contribute to Open Source.",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DIRnYM2dOs0",
           "publishedOn": "2026-01-06T13:08:42.000Z",
-          "wordCount": 2043,
+          "wordCount": 2027,
           "title": "Have you ever tried rubber duck debugging?",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y5aKEyPfLKs",
           "publishedOn": "2026-01-05T13:24:09.000Z",
-          "wordCount": 2163,
+          "wordCount": 2117,
           "title": "The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
           "publishedOn": "2026-01-04T13:55:51.000Z",
-          "wordCount": 2004,
+          "wordCount": 1995,
           "title": "JavaScript coercion chaos at its finest",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
           "publishedOn": "2026-01-03T13:32:21.000Z",
-          "wordCount": 2184,
+          "wordCount": 2558,
           "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HwFw1abJkUs",
           "publishedOn": "2026-01-02T13:18:24.000Z",
-          "wordCount": 2056,
+          "wordCount": 2191,
           "title": "Here's a little array method mystery for you...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/912L9KmzSLE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/912L9KmzSLE",
-          "publishedOn": "2026-01-01T12:52:41.000Z",
-          "wordCount": 2097,
-          "title": "The advantages of being bilingual in tech",
           "imageUrl": null
         }
       ]
