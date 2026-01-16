@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T06:25:02.020Z</id>
+    <id>urn:2026-01-16T06:25:48.706Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T06:25:02.020Z</updated>
+    <updated>2026-01-16T06:25:48.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The World's Biggest Hackathon – Full Documentary on Cal Hacks 2025]]></title>
+        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=odP153inZUo</id>
+        <link href="https://www.youtube.com/watch?v=odP153inZUo"/>
+        <updated>2026-01-15T17:41:46.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you should prioritize networking if you're in tech]]></title>
+        <id>https://www.youtube.com/shorts/9tyZL5KIiGU</id>
+        <link href="https://www.youtube.com/shorts/9tyZL5KIiGU"/>
+        <updated>2026-01-15T12:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside The World's Biggest Hackathon – Full Documentary on UC Berkeley's Cal Hacks]]></title>
         <id>https://www.youtube.com/watch?v=3PD-vQbpwA8</id>
         <link href="https://www.youtube.com/watch?v=3PD-vQbpwA8"/>
         <updated>2026-01-14T17:28:53.000Z</updated>
@@ -126,25 +145,6 @@
         <id>https://www.youtube.com/watch?v=tr5Fapv80Cw</id>
         <link href="https://www.youtube.com/watch?v=tr5Fapv80Cw"/>
         <updated>2026-01-06T15:08:17.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you ever tried rubber duck debugging?]]></title>
-        <id>https://www.youtube.com/shorts/DIRnYM2dOs0</id>
-        <link href="https://www.youtube.com/shorts/DIRnYM2dOs0"/>
-        <updated>2026-01-06T13:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAuth 2.0 Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=WSsOXo07LeE</id>
-        <link href="https://www.youtube.com/watch?v=WSsOXo07LeE"/>
-        <updated>2026-01-05T16:03:15.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

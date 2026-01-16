@@ -6,13 +6,33 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=odP153inZUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=odP153inZUo",
+          "publishedOn": "2026-01-15T17:41:46.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/9tyZL5KIiGU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
+          "publishedOn": "2026-01-15T12:52:35.000Z",
+          "wordCount": 2052,
+          "title": "Why you should prioritize networking if you're in tech",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
           "publishedOn": "2026-01-14T17:28:53.000Z",
           "wordCount": null,
-          "title": "The World's Biggest Hackathon – Full Documentary on Cal Hacks 2025",
+          "title": "Inside The World's Biggest Hackathon – Full Documentary on UC Berkeley's Cal Hacks",
           "imageUrl": null
         },
         {
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
           "publishedOn": "2026-01-14T13:29:37.000Z",
-          "wordCount": 2027,
+          "wordCount": 2058,
           "title": "How to remove a list item by its value in Python",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
           "publishedOn": "2026-01-13T13:05:25.000Z",
-          "wordCount": 2074,
+          "wordCount": 2031,
           "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
           "publishedOn": "2026-01-12T13:17:21.000Z",
-          "wordCount": 2005,
+          "wordCount": 2010,
           "title": "Can you guess the output here?",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
           "publishedOn": "2026-01-11T13:43:40.000Z",
-          "wordCount": 2044,
+          "wordCount": 2199,
           "title": "When you're learning or doing something new, get comfortable being uncomfortable",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "publishedOn": "2026-01-10T13:43:34.000Z",
-          "wordCount": 2058,
+          "wordCount": 2083,
           "title": "How to insert list items at a specific index in Python",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
           "publishedOn": "2026-01-09T13:18:42.000Z",
-          "wordCount": 2007,
+          "wordCount": 2004,
           "title": "What's the difference between call vs apply in JavaScript?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2134,
+          "wordCount": 2054,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HihwnUepmdg",
           "publishedOn": "2026-01-07T13:29:25.000Z",
-          "wordCount": 2033,
+          "wordCount": 2064,
           "title": "Need some coding experience? Contribute to Open Source.",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2026-01-06T15:08:17.000Z",
           "wordCount": null,
           "title": "Building Agentic AI Workloads – Crash Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/DIRnYM2dOs0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/DIRnYM2dOs0",
-          "publishedOn": "2026-01-06T13:08:42.000Z",
-          "wordCount": 2040,
-          "title": "Have you ever tried rubber duck debugging?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WSsOXo07LeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WSsOXo07LeE",
-          "publishedOn": "2026-01-05T16:03:15.000Z",
-          "wordCount": null,
-          "title": "OAuth 2.0 Course for Beginners",
           "imageUrl": null
         }
       ]
