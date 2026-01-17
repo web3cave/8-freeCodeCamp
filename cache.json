@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=58Tn2xB8kIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=58Tn2xB8kIE",
+          "publishedOn": "2026-01-16T14:30:05.000Z",
+          "wordCount": null,
+          "title": "The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/UtV8MfnuIEg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
+          "publishedOn": "2026-01-16T13:18:25.000Z",
+          "wordCount": 2075,
+          "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=odP153inZUo",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
           "publishedOn": "2026-01-15T12:52:35.000Z",
-          "wordCount": 2052,
+          "wordCount": 2062,
           "title": "Why you should prioritize networking if you're in tech",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
           "publishedOn": "2026-01-14T13:29:37.000Z",
-          "wordCount": 2058,
+          "wordCount": 2033,
           "title": "How to remove a list item by its value in Python",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
           "publishedOn": "2026-01-13T13:05:25.000Z",
-          "wordCount": 2031,
+          "wordCount": 2097,
           "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
           "publishedOn": "2026-01-12T13:17:21.000Z",
-          "wordCount": 2010,
+          "wordCount": 2030,
           "title": "Can you guess the output here?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
           "publishedOn": "2026-01-11T13:43:40.000Z",
-          "wordCount": 2199,
+          "wordCount": 2031,
           "title": "When you're learning or doing something new, get comfortable being uncomfortable",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "publishedOn": "2026-01-10T13:43:34.000Z",
-          "wordCount": 2083,
+          "wordCount": 2029,
           "title": "How to insert list items at a specific index in Python",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
           "publishedOn": "2026-01-09T13:18:42.000Z",
-          "wordCount": 2004,
+          "wordCount": 2027,
           "title": "What's the difference between call vs apply in JavaScript?",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2054,
+          "wordCount": 2057,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HihwnUepmdg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HihwnUepmdg",
-          "publishedOn": "2026-01-07T13:29:25.000Z",
-          "wordCount": 2064,
-          "title": "Need some coding experience? Contribute to Open Source.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tr5Fapv80Cw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tr5Fapv80Cw",
-          "publishedOn": "2026-01-06T15:08:17.000Z",
-          "wordCount": null,
-          "title": "Building Agentic AI Workloads – Crash Course",
           "imageUrl": null
         }
       ]
