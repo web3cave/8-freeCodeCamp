@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/ekXUXu7Eejs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ekXUXu7Eejs",
+          "publishedOn": "2026-01-19T13:17:32.000Z",
+          "wordCount": 2085,
+          "title": "These days, you need more than just coding skills to get a good internship or job",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "publishedOn": "2026-01-18T13:43:26.000Z",
-          "wordCount": 2279,
+          "wordCount": 2102,
           "title": "Why you don't necessarily need to go to a big-name school to get into tech",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
           "publishedOn": "2026-01-17T13:32:23.000Z",
-          "wordCount": 2069,
+          "wordCount": 2068,
           "title": "You never know where career inspiration will come from",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
           "publishedOn": "2026-01-15T12:52:35.000Z",
-          "wordCount": 2064,
+          "wordCount": 2046,
           "title": "Why you should prioritize networking if you're in tech",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
           "publishedOn": "2026-01-14T13:29:37.000Z",
-          "wordCount": 2064,
+          "wordCount": 2095,
           "title": "How to remove a list item by its value in Python",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
           "publishedOn": "2026-01-13T13:05:25.000Z",
-          "wordCount": 2116,
+          "wordCount": 2074,
           "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
           "publishedOn": "2026-01-12T13:17:21.000Z",
-          "wordCount": 2051,
+          "wordCount": 2011,
           "title": "Can you guess the output here?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
           "publishedOn": "2026-01-11T13:43:40.000Z",
-          "wordCount": 2103,
+          "wordCount": 2160,
           "title": "When you're learning or doing something new, get comfortable being uncomfortable",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "publishedOn": "2026-01-10T13:43:34.000Z",
-          "wordCount": 2237,
+          "wordCount": 2046,
           "title": "How to insert list items at a specific index in Python",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-01-09T14:30:11.000Z",
           "wordCount": null,
           "title": "First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ry_mcAPVTOc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
-          "publishedOn": "2026-01-09T13:18:42.000Z",
-          "wordCount": 2041,
-          "title": "What's the difference between call vs apply in JavaScript?",
           "imageUrl": null
         }
       ]
