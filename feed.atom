@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T06:27:25.559Z</id>
+    <id>urn:2026-01-21T06:27:26.279Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-20T06:27:25.559Z</updated>
+    <updated>2026-01-21T06:27:26.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build your own The Backrooms horror game with Unreal Engine 5 & Blueprints – Full GameDev Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=2Kw3e-1vbBQ</id>
+        <link href="https://www.youtube.com/watch?v=2Kw3e-1vbBQ"/>
+        <updated>2026-01-20T17:39:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be transparent about your career goals - it makes it easier for people to help you advance]]></title>
+        <id>https://www.youtube.com/shorts/tVf_5pvz5ck</id>
+        <link href="https://www.youtube.com/shorts/tVf_5pvz5ck"/>
+        <updated>2026-01-20T13:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These days, you need more than just coding skills to get a good internship or job]]></title>
         <id>https://www.youtube.com/shorts/ekXUXu7Eejs</id>
@@ -127,25 +146,6 @@
         <link href="https://www.youtube.com/shorts/RI8ELvtbUmU"/>
         <updated>2026-01-11T13:43:40.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to insert list items at a specific index in Python]]></title>
-        <id>https://www.youtube.com/shorts/TFhGTw4RXI4</id>
-        <link href="https://www.youtube.com/shorts/TFhGTw4RXI4"/>
-        <updated>2026-01-10T13:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]]]></title>
-        <id>https://www.youtube.com/watch?v=DzVm161M4Kk</id>
-        <link href="https://www.youtube.com/watch?v=DzVm161M4Kk"/>
-        <updated>2026-01-09T14:30:11.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
