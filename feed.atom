@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T06:27:26.279Z</id>
+    <id>urn:2026-01-22T06:26:07.083Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T06:27:26.279Z</updated>
+    <updated>2026-01-22T06:26:07.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lean Dynamic Programming with Animations – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=66hDgWottdA</id>
+        <link href="https://www.youtube.com/watch?v=66hDgWottdA"/>
+        <updated>2026-01-21T15:31:14.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build your own The Backrooms horror game with Unreal Engine 5 & Blueprints – Full GameDev Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=2Kw3e-1vbBQ</id>
@@ -135,16 +144,6 @@
         <id>https://www.youtube.com/shorts/davl7UFG-Ls</id>
         <link href="https://www.youtube.com/shorts/davl7UFG-Ls"/>
         <updated>2026-01-12T13:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When you're learning or doing something new, get comfortable being uncomfortable]]></title>
-        <id>https://www.youtube.com/shorts/RI8ELvtbUmU</id>
-        <link href="https://www.youtube.com/shorts/RI8ELvtbUmU"/>
-        <updated>2026-01-11T13:43:40.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
