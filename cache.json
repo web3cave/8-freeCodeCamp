@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I7_WXKhyGms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I7_WXKhyGms",
+          "publishedOn": "2026-01-22T14:27:46.000Z",
+          "wordCount": null,
+          "title": "RAG & MCP Fundamentals – A Hands-On Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ojkbIKjRLIM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
+          "publishedOn": "2026-01-22T12:52:23.000Z",
+          "wordCount": 2162,
+          "title": "The challenges of turning a powerful braille learning prototype into real hardware",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=66hDgWottdA",
           "author": null,
           "description": "",
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
           "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2097,
+          "wordCount": 2113,
           "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ekXUXu7Eejs",
           "publishedOn": "2026-01-19T13:17:32.000Z",
-          "wordCount": 2107,
+          "wordCount": 2184,
           "title": "These days, you need more than just coding skills to get a good internship or job",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "publishedOn": "2026-01-18T13:43:26.000Z",
-          "wordCount": 2110,
+          "wordCount": 2127,
           "title": "Why you don't necessarily need to go to a big-name school to get into tech",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
           "publishedOn": "2026-01-17T13:32:23.000Z",
-          "wordCount": 2051,
+          "wordCount": 2038,
           "title": "You never know where career inspiration will come from",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
           "publishedOn": "2026-01-16T13:18:25.000Z",
-          "wordCount": 2076,
+          "wordCount": 2026,
           "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
           "publishedOn": "2026-01-15T12:52:35.000Z",
-          "wordCount": 2026,
+          "wordCount": 2024,
           "title": "Why you should prioritize networking if you're in tech",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
           "publishedOn": "2026-01-14T13:29:37.000Z",
-          "wordCount": 2064,
+          "wordCount": 2043,
           "title": "How to remove a list item by its value in Python",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
           "publishedOn": "2026-01-13T13:05:25.000Z",
-          "wordCount": 2074,
+          "wordCount": 2109,
           "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7G9q_5q82hY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7G9q_5q82hY",
-          "publishedOn": "2026-01-12T16:38:04.000Z",
-          "wordCount": null,
-          "title": "How to Benchmark Embedding Models On Your Own Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/davl7UFG-Ls",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
-          "publishedOn": "2026-01-12T13:17:21.000Z",
-          "wordCount": 1990,
-          "title": "Can you guess the output here?",
           "imageUrl": null
         }
       ]

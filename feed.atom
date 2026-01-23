@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T06:26:07.083Z</id>
+    <id>urn:2026-01-23T06:25:37.437Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T06:26:07.083Z</updated>
+    <updated>2026-01-23T06:25:37.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RAG & MCP Fundamentals – A Hands-On Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=I7_WXKhyGms</id>
+        <link href="https://www.youtube.com/watch?v=I7_WXKhyGms"/>
+        <updated>2026-01-22T14:27:46.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The challenges of turning a powerful braille learning prototype into real hardware]]></title>
+        <id>https://www.youtube.com/shorts/ojkbIKjRLIM</id>
+        <link href="https://www.youtube.com/shorts/ojkbIKjRLIM"/>
+        <updated>2026-01-22T12:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lean Dynamic Programming with Animations – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=66hDgWottdA</id>
@@ -125,25 +144,6 @@
         <id>https://www.youtube.com/shorts/wck2LmaMaB4</id>
         <link href="https://www.youtube.com/shorts/wck2LmaMaB4"/>
         <updated>2026-01-13T13:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Benchmark Embedding Models On Your Own Data]]></title>
-        <id>https://www.youtube.com/watch?v=7G9q_5q82hY</id>
-        <link href="https://www.youtube.com/watch?v=7G9q_5q82hY"/>
-        <updated>2026-01-12T16:38:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you guess the output here?]]></title>
-        <id>https://www.youtube.com/shorts/davl7UFG-Ls</id>
-        <link href="https://www.youtube.com/shorts/davl7UFG-Ls"/>
-        <updated>2026-01-12T13:17:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
