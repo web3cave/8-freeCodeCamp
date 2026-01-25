@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Y6JJgOqroAI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Y6JJgOqroAI",
+          "publishedOn": "2026-01-24T13:32:27.000Z",
+          "wordCount": 2137,
+          "title": "Sure, grades matter in school - but on the job market, hands-on experience is more meaningful",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4T3YlTSWa5s",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3GqiUg3Ree4",
           "publishedOn": "2026-01-23T13:18:28.000Z",
-          "wordCount": 2073,
+          "wordCount": 2088,
           "title": "From not growing up with computers to senior engineer - thanks to Prince of Persia",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
           "publishedOn": "2026-01-22T12:52:23.000Z",
-          "wordCount": 2223,
+          "wordCount": 2082,
           "title": "The challenges of turning a powerful braille learning prototype into real hardware",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
           "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2564,
+          "wordCount": 2054,
           "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ekXUXu7Eejs",
           "publishedOn": "2026-01-19T13:17:32.000Z",
-          "wordCount": 2195,
+          "wordCount": 2205,
           "title": "These days, you need more than just coding skills to get a good internship or job",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "publishedOn": "2026-01-18T13:43:26.000Z",
-          "wordCount": 2109,
+          "wordCount": 2087,
           "title": "Why you don't necessarily need to go to a big-name school to get into tech",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
           "publishedOn": "2026-01-17T13:32:23.000Z",
-          "wordCount": 2070,
+          "wordCount": 2065,
           "title": "You never know where career inspiration will come from",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
           "publishedOn": "2026-01-16T13:18:25.000Z",
-          "wordCount": 2043,
+          "wordCount": 2081,
           "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
           "publishedOn": "2026-01-15T12:52:35.000Z",
-          "wordCount": 2031,
+          "wordCount": 2068,
           "title": "Why you should prioritize networking if you're in tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
-          "publishedOn": "2026-01-14T17:28:53.000Z",
-          "wordCount": null,
-          "title": "Inside The World's Biggest Hackathon – Full Documentary on UC Berkeley's Cal Hacks",
           "imageUrl": null
         }
       ]
