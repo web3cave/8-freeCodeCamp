@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-26T06:28:37.674Z</id>
+    <id>urn:2026-01-27T06:26:39.177Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-26T06:28:37.674Z</updated>
+    <updated>2026-01-27T06:26:39.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Let's Build Pipeline Parallelism from Scratch – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=D5F8kp_azzw</id>
+        <link href="https://www.youtube.com/watch?v=D5F8kp_azzw"/>
+        <updated>2026-01-26T17:35:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.]]></title>
+        <id>https://www.youtube.com/shorts/0aKV-JGtDMA</id>
+        <link href="https://www.youtube.com/shorts/0aKV-JGtDMA"/>
+        <updated>2026-01-26T13:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why debugging vibe-coded projects is hard - and what to do instead]]></title>
         <id>https://www.youtube.com/shorts/ll1mpTJ4qBU</id>
@@ -64,7 +83,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lean Dynamic Programming with Animations – Full Course for Beginners]]></title>
+        <title type="html"><![CDATA[Learn Dynamic Programming with Animations – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=66hDgWottdA</id>
         <link href="https://www.youtube.com/watch?v=66hDgWottdA"/>
         <updated>2026-01-21T15:31:14.000Z</updated>
@@ -126,25 +145,6 @@
         <id>https://www.youtube.com/watch?v=58Tn2xB8kIE</id>
         <link href="https://www.youtube.com/watch?v=58Tn2xB8kIE"/>
         <updated>2026-01-16T14:30:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "this" keyword can be confusing in JavaScript. Do you understand how this works?]]></title>
-        <id>https://www.youtube.com/shorts/UtV8MfnuIEg</id>
-        <link href="https://www.youtube.com/shorts/UtV8MfnuIEg"/>
-        <updated>2026-01-16T13:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=odP153inZUo</id>
-        <link href="https://www.youtube.com/watch?v=odP153inZUo"/>
-        <updated>2026-01-15T17:41:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

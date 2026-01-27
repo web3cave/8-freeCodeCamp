@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D5F8kp_azzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D5F8kp_azzw",
+          "publishedOn": "2026-01-26T17:35:28.000Z",
+          "wordCount": null,
+          "title": "Let's Build Pipeline Parallelism from Scratch – Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0aKV-JGtDMA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0aKV-JGtDMA",
+          "publishedOn": "2026-01-26T13:17:20.000Z",
+          "wordCount": 2113,
+          "title": "It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/ll1mpTJ4qBU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ll1mpTJ4qBU",
           "publishedOn": "2026-01-25T13:43:36.000Z",
-          "wordCount": 2188,
+          "wordCount": 2176,
           "title": "Why debugging vibe-coded projects is hard - and what to do instead",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y6JJgOqroAI",
           "publishedOn": "2026-01-24T13:32:27.000Z",
-          "wordCount": 2093,
+          "wordCount": 2182,
           "title": "Sure, grades matter in school - but on the job market, hands-on experience is more meaningful",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3GqiUg3Ree4",
           "publishedOn": "2026-01-23T13:18:28.000Z",
-          "wordCount": 2100,
+          "wordCount": 2193,
           "title": "From not growing up with computers to senior engineer - thanks to Prince of Persia",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
           "publishedOn": "2026-01-22T12:52:23.000Z",
-          "wordCount": 2122,
+          "wordCount": 2184,
           "title": "The challenges of turning a powerful braille learning prototype into real hardware",
           "imageUrl": null
         },
@@ -72,7 +92,7 @@
           "link": "https://www.youtube.com/watch?v=66hDgWottdA",
           "publishedOn": "2026-01-21T15:31:14.000Z",
           "wordCount": null,
-          "title": "Lean Dynamic Programming with Animations – Full Course for Beginners",
+          "title": "Learn Dynamic Programming with Animations – Full Course for Beginners",
           "imageUrl": null
         },
         {
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
           "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2062,
+          "wordCount": 2191,
           "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ekXUXu7Eejs",
           "publishedOn": "2026-01-19T13:17:32.000Z",
-          "wordCount": 2066,
+          "wordCount": 2199,
           "title": "These days, you need more than just coding skills to get a good internship or job",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "publishedOn": "2026-01-18T13:43:26.000Z",
-          "wordCount": 2121,
+          "wordCount": 2206,
           "title": "Why you don't necessarily need to go to a big-name school to get into tech",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
           "publishedOn": "2026-01-17T13:32:23.000Z",
-          "wordCount": 2028,
+          "wordCount": 2038,
           "title": "You never know where career inspiration will come from",
           "imageUrl": null
         },
@@ -133,26 +153,6 @@
           "publishedOn": "2026-01-16T14:30:05.000Z",
           "wordCount": null,
           "title": "The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/UtV8MfnuIEg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
-          "publishedOn": "2026-01-16T13:18:25.000Z",
-          "wordCount": 2060,
-          "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=odP153inZUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=odP153inZUo",
-          "publishedOn": "2026-01-15T17:41:46.000Z",
-          "wordCount": null,
-          "title": "Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course",
           "imageUrl": null
         }
       ]
