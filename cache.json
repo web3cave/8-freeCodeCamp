@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/xMrOFhk6Rng",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xMrOFhk6Rng",
+          "publishedOn": "2026-01-30T13:18:23.000Z",
+          "wordCount": 2217,
+          "title": "Getting into computer science thanks to a supportive teacher and skipping a favorite class",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/MdEexYakkHw",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MdEexYakkHw",
           "publishedOn": "2026-01-29T12:52:39.000Z",
-          "wordCount": 2051,
+          "wordCount": 2074,
           "title": "How can you, as a dev, get the most out of AI tools?",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5y9nVwPwX_o",
           "publishedOn": "2026-01-28T13:29:32.000Z",
-          "wordCount": 2072,
+          "wordCount": 2121,
           "title": "Raise your hand if you've been through these or other adjustments when starting remote work...",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/boH7_Ate4LM",
           "publishedOn": "2026-01-27T13:05:26.000Z",
-          "wordCount": 2502,
+          "wordCount": 2060,
           "title": "Remember your first hackathon? While it was probably scary, you probably learned a ton.",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0aKV-JGtDMA",
           "publishedOn": "2026-01-26T13:17:20.000Z",
-          "wordCount": 2107,
+          "wordCount": 2103,
           "title": "It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ll1mpTJ4qBU",
           "publishedOn": "2026-01-25T13:43:36.000Z",
-          "wordCount": 2079,
+          "wordCount": 2178,
           "title": "Why debugging vibe-coded projects is hard - and what to do instead",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y6JJgOqroAI",
           "publishedOn": "2026-01-24T13:32:27.000Z",
-          "wordCount": 2097,
+          "wordCount": 2091,
           "title": "Sure, grades matter in school - but on the job market, hands-on experience is more meaningful",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3GqiUg3Ree4",
           "publishedOn": "2026-01-23T13:18:28.000Z",
-          "wordCount": 2104,
+          "wordCount": 2095,
           "title": "From not growing up with computers to senior engineer - thanks to Prince of Persia",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
           "publishedOn": "2026-01-22T12:52:23.000Z",
-          "wordCount": 2051,
+          "wordCount": 2075,
           "title": "The challenges of turning a powerful braille learning prototype into real hardware",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-01-20T17:39:36.000Z",
           "wordCount": null,
           "title": "Build your own The Backrooms horror game with Unreal Engine 5 & Blueprints – Full GameDev Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/tVf_5pvz5ck",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
-          "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2089,
-          "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         }
       ]

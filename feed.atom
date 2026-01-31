@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-30T06:39:46.845Z</id>
+    <id>urn:2026-01-31T06:30:10.888Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-30T06:39:46.845Z</updated>
+    <updated>2026-01-31T06:30:10.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getting into computer science thanks to a supportive teacher and skipping a favorite class]]></title>
+        <id>https://www.youtube.com/shorts/xMrOFhk6Rng</id>
+        <link href="https://www.youtube.com/shorts/xMrOFhk6Rng"/>
+        <updated>2026-01-30T13:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How can you, as a dev, get the most out of AI tools?]]></title>
         <id>https://www.youtube.com/shorts/MdEexYakkHw</id>
@@ -135,16 +145,6 @@
         <id>https://www.youtube.com/watch?v=2Kw3e-1vbBQ</id>
         <link href="https://www.youtube.com/watch?v=2Kw3e-1vbBQ"/>
         <updated>2026-01-20T17:39:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be transparent about your career goals - it makes it easier for people to help you advance]]></title>
-        <id>https://www.youtube.com/shorts/tVf_5pvz5ck</id>
-        <link href="https://www.youtube.com/shorts/tVf_5pvz5ck"/>
-        <updated>2026-01-20T13:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
