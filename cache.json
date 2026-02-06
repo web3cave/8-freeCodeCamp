@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gmuTjeQUbTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gmuTjeQUbTM",
+          "publishedOn": "2026-02-05T13:45:14.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50 (2026) – Full Computer Science University Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/b_6KoSdgHiA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/b_6KoSdgHiA",
+          "publishedOn": "2026-02-05T12:52:24.000Z",
+          "wordCount": 2078,
+          "title": "How much is a little loading spinner costing your website? It's worth thinking about...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Sk72ZCDAEsk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Sk72ZCDAEsk",
           "publishedOn": "2026-02-04T13:29:22.000Z",
-          "wordCount": 2158,
+          "wordCount": 2166,
           "title": "How a colleague helped Santosh realize he was performing at a higher level at work than his title",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/aokdrllzkFQ",
           "publishedOn": "2026-02-03T13:05:34.000Z",
-          "wordCount": 2096,
+          "wordCount": 2208,
           "title": "To understand what AI can do, we have to first understand what it CAN'T do.",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/h3nn7MsCmsQ",
           "publishedOn": "2026-02-02T13:17:28.000Z",
-          "wordCount": 2024,
+          "wordCount": 2021,
           "title": "Being a manager isn't for everyone...",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PBx-e7yyk5M",
           "publishedOn": "2026-02-01T13:43:21.000Z",
-          "wordCount": 2198,
+          "wordCount": 2208,
           "title": "Why a good pitch matters as much as (or sometimes more than) the product itself",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CcQwCGUdRmw",
           "publishedOn": "2026-01-31T13:32:22.000Z",
-          "wordCount": 2103,
+          "wordCount": 2075,
           "title": "How presenting a project to industry partners got Alison and Cindy invited to GitHub Universe",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xMrOFhk6Rng",
           "publishedOn": "2026-01-30T13:18:23.000Z",
-          "wordCount": 2062,
+          "wordCount": 2077,
           "title": "Getting into computer science thanks to a supportive teacher and skipping a favorite class",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MdEexYakkHw",
           "publishedOn": "2026-01-29T12:52:39.000Z",
-          "wordCount": 2054,
+          "wordCount": 2139,
           "title": "How can you, as a dev, get the most out of AI tools?",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5y9nVwPwX_o",
           "publishedOn": "2026-01-28T13:29:32.000Z",
-          "wordCount": 2462,
+          "wordCount": 2111,
           "title": "Raise your hand if you've been through these or other adjustments when starting remote work...",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/boH7_Ate4LM",
           "publishedOn": "2026-01-27T13:05:26.000Z",
-          "wordCount": 2085,
+          "wordCount": 2059,
           "title": "Remember your first hackathon? While it was probably scary, you probably learned a ton.",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0aKV-JGtDMA",
           "publishedOn": "2026-01-26T13:17:20.000Z",
-          "wordCount": 2132,
+          "wordCount": 2114,
           "title": "It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ll1mpTJ4qBU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ll1mpTJ4qBU",
-          "publishedOn": "2026-01-25T13:43:36.000Z",
-          "wordCount": 2062,
-          "title": "Why debugging vibe-coded projects is hard - and what to do instead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Y6JJgOqroAI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Y6JJgOqroAI",
-          "publishedOn": "2026-01-24T13:32:27.000Z",
-          "wordCount": 2145,
-          "title": "Sure, grades matter in school - but on the job market, hands-on experience is more meaningful",
           "imageUrl": null
         }
       ]
