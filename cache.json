@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/WbZDt-ubm48",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/WbZDt-ubm48",
+          "publishedOn": "2026-02-06T13:18:26.000Z",
+          "wordCount": 2109,
+          "title": "\"This is what people mean by focus, ok!\" - Abbey, after being diagnosed with ADHD at 28",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GAZkxw6DJJE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GAZkxw6DJJE",
+          "publishedOn": "2026-02-06T11:00:27.000Z",
+          "wordCount": null,
+          "title": "Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary [Podcast #206]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gmuTjeQUbTM",
           "author": null,
           "description": "",
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/b_6KoSdgHiA",
           "publishedOn": "2026-02-05T12:52:24.000Z",
-          "wordCount": 2078,
+          "wordCount": 2063,
           "title": "How much is a little loading spinner costing your website? It's worth thinking about...",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Sk72ZCDAEsk",
           "publishedOn": "2026-02-04T13:29:22.000Z",
-          "wordCount": 2166,
+          "wordCount": 2102,
           "title": "How a colleague helped Santosh realize he was performing at a higher level at work than his title",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/aokdrllzkFQ",
           "publishedOn": "2026-02-03T13:05:34.000Z",
-          "wordCount": 2208,
+          "wordCount": 2125,
           "title": "To understand what AI can do, we have to first understand what it CAN'T do.",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/h3nn7MsCmsQ",
           "publishedOn": "2026-02-02T13:17:28.000Z",
-          "wordCount": 2021,
+          "wordCount": 2879,
           "title": "Being a manager isn't for everyone...",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PBx-e7yyk5M",
           "publishedOn": "2026-02-01T13:43:21.000Z",
-          "wordCount": 2208,
+          "wordCount": 2072,
           "title": "Why a good pitch matters as much as (or sometimes more than) the product itself",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CcQwCGUdRmw",
           "publishedOn": "2026-01-31T13:32:22.000Z",
-          "wordCount": 2075,
+          "wordCount": 2214,
           "title": "How presenting a project to industry partners got Alison and Cindy invited to GitHub Universe",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xMrOFhk6Rng",
           "publishedOn": "2026-01-30T13:18:23.000Z",
-          "wordCount": 2077,
+          "wordCount": 2064,
           "title": "Getting into computer science thanks to a supportive teacher and skipping a favorite class",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MdEexYakkHw",
           "publishedOn": "2026-01-29T12:52:39.000Z",
-          "wordCount": 2139,
+          "wordCount": 2206,
           "title": "How can you, as a dev, get the most out of AI tools?",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5y9nVwPwX_o",
           "publishedOn": "2026-01-28T13:29:32.000Z",
-          "wordCount": 2111,
+          "wordCount": 2085,
           "title": "Raise your hand if you've been through these or other adjustments when starting remote work...",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/boH7_Ate4LM",
           "publishedOn": "2026-01-27T13:05:26.000Z",
-          "wordCount": 2059,
+          "wordCount": 2218,
           "title": "Remember your first hackathon? While it was probably scary, you probably learned a ton.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D5F8kp_azzw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D5F8kp_azzw",
-          "publishedOn": "2026-01-26T17:35:28.000Z",
-          "wordCount": null,
-          "title": "Let's Build Pipeline Parallelism from Scratch – Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/0aKV-JGtDMA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/0aKV-JGtDMA",
-          "publishedOn": "2026-01-26T13:17:20.000Z",
-          "wordCount": 2114,
-          "title": "It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.",
           "imageUrl": null
         }
       ]
