@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/U6-RekkuORI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/U6-RekkuORI",
+          "publishedOn": "2026-02-24T13:05:28.000Z",
+          "wordCount": 2057,
+          "title": "Closures in JavaScript explained with a simple backpack analogy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bB5eA7vU9W8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bB5eA7vU9W8",
+          "publishedOn": "2026-02-24T11:00:57.000Z",
+          "wordCount": null,
+          "title": "Learn Notion – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Ai00MsNabaE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ai00MsNabaE",
           "publishedOn": "2026-02-23T13:17:29.000Z",
-          "wordCount": 2049,
+          "wordCount": 2038,
           "title": "True or false: computers only understand 1s and 0s...?",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QMgIovzpYVw",
           "publishedOn": "2026-02-22T13:43:36.000Z",
-          "wordCount": 2077,
+          "wordCount": 2209,
           "title": "When you're working, work hard. And when you relax, relax hard.",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Tbqmz0ZP8q8",
           "publishedOn": "2026-02-21T13:32:20.000Z",
-          "wordCount": 2074,
+          "wordCount": 2077,
           "title": "Coding and chess are similar - they're both require deep thinking, patience, and creativity",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uJAUeXLXHrY",
           "publishedOn": "2026-02-20T13:18:30.000Z",
-          "wordCount": 2133,
+          "wordCount": 2034,
           "title": "Learn Regex basics in 60 seconds from Beau Carnes",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BrBMM2gIQN8",
           "publishedOn": "2026-02-19T12:52:33.000Z",
-          "wordCount": 2055,
+          "wordCount": 2170,
           "title": "Prepping for interviews? Here are some practical tips to help you out.",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HEGrkgpe7-Y",
           "publishedOn": "2026-02-18T13:29:33.000Z",
-          "wordCount": 2096,
+          "wordCount": 2065,
           "title": "JavaScript was famously designed in 10 days - so how'd it evolve to handle complex apps?",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oRZouQxC5Gw",
           "publishedOn": "2026-02-17T13:10:39.000Z",
-          "wordCount": 2141,
+          "wordCount": 2105,
           "title": "When you're learning a new skill, you've gotta be consistent for long enough to make a difference",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/u1T8yyEEKWY",
           "publishedOn": "2026-02-16T13:17:29.000Z",
-          "wordCount": 2169,
+          "wordCount": 2036,
           "title": "Learn SQL basics in 60 seconds from Beau Carnes",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pdleuy5lljY",
           "publishedOn": "2026-02-15T13:43:20.000Z",
-          "wordCount": 2065,
+          "wordCount": 2206,
           "title": "Knitting and coding may not seem related - but they are",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wP8SiwiExBk",
           "publishedOn": "2026-02-14T13:32:23.000Z",
-          "wordCount": 2076,
+          "wordCount": 2086,
           "title": "What is Homebrew? It's not coffee, it's not beer, it's...a package manager!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/UJjKVceWmdM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/UJjKVceWmdM",
-          "publishedOn": "2026-02-13T13:18:29.000Z",
-          "wordCount": 2087,
-          "title": "Knowing how to ask the right question is a valuable skill to cultivate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cjam-BWAaL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cjam-BWAaL8",
-          "publishedOn": "2026-02-13T11:01:10.000Z",
-          "wordCount": null,
-          "title": "Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]",
           "imageUrl": null
         }
       ]
