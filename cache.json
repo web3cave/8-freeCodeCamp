@@ -1,4 +1,162 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CcrC5zSv1iA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CcrC5zSv1iA",
+          "publishedOn": "2026-03-10T13:09:40.000Z",
+          "wordCount": null,
+          "title": "LLM Fine-Tuning Course – From Supervised FT to RLHF, LoRA, and Multimodal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/E2oyLZVBcQw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/E2oyLZVBcQw",
+          "publishedOn": "2026-03-10T12:06:05.000Z",
+          "wordCount": 2146,
+          "title": "Why JavaScript is a \"glue\" language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0XMdbWy2j1w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0XMdbWy2j1w",
+          "publishedOn": "2026-03-09T12:17:22.000Z",
+          "wordCount": 2041,
+          "title": "Can you guess what this is? Wrong answers only!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ldkfMvE36FI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ldkfMvE36FI",
+          "publishedOn": "2026-03-08T12:43:26.000Z",
+          "wordCount": 2103,
+          "title": "How to handle being thrown into an existing codebase and being expected to figure it out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jie_039IekA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jie_039IekA",
+          "publishedOn": "2026-03-07T13:32:30.000Z",
+          "wordCount": 2116,
+          "title": "Why you shouldn't chase people to get what you need from them - info, payment, etc.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/mrRfPVm9nAY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mrRfPVm9nAY",
+          "publishedOn": "2026-03-06T13:18:50.000Z",
+          "wordCount": 2049,
+          "title": "Learn the basics of Data Structures in 60 seconds with Beau Carnes.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hP931079TMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hP931079TMw",
+          "publishedOn": "2026-03-06T11:01:15.000Z",
+          "wordCount": null,
+          "title": "There are 2 kinds of devs. One of them is screwed. Justin Searls interview [Podcast #210]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tVskbekONlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tVskbekONlw",
+          "publishedOn": "2026-03-05T14:21:18.000Z",
+          "wordCount": null,
+          "title": "Learn MLOps with MLflow and Databricks – Full Course for Machine Learning Engineers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/OGRyln02De4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/OGRyln02De4",
+          "publishedOn": "2026-03-05T12:52:31.000Z",
+          "wordCount": 2142,
+          "title": "Sometimes breaking your code and figuring out how to fix it is the best way to understand it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/cw02dMpWStI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/cw02dMpWStI",
+          "publishedOn": "2026-03-04T13:29:25.000Z",
+          "wordCount": 2088,
+          "title": "How to find good open source projects to contribute to - from Tapas Adhikary",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0WjfKQdfeMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0WjfKQdfeMU",
+          "publishedOn": "2026-03-04T11:00:02.000Z",
+          "wordCount": null,
+          "title": "NVIDIA-Certified Associate AI Infrastructure and Operations (NCA AIIO) Free Study Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ZldNCx4AvEM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ZldNCx4AvEM",
+          "publishedOn": "2026-03-03T13:05:25.000Z",
+          "wordCount": 2078,
+          "title": "Learn the basics of Git in 60 seconds with Beau Carnes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/E7o_WdfKszU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/E7o_WdfKszU",
+          "publishedOn": "2026-03-02T13:17:28.000Z",
+          "wordCount": 2239,
+          "title": "There's so much to learn - so how do you focus to get you closer to your goals?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IBTx5aGj-6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IBTx5aGj-6U",
+          "publishedOn": "2026-03-02T11:00:33.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Video Sharing App – Loom Clone with Next.js and Mux JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/c1Op7YSTwhg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/c1Op7YSTwhg",
+          "publishedOn": "2026-03-01T13:43:25.000Z",
+          "wordCount": 2082,
+          "title": "How do you monetize open source? Evan You shares his tips.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
