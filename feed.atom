@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T07:08:24.944Z</id>
+    <id>urn:2026-03-17T06:56:36.880Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T07:08:24.944Z</updated>
+    <updated>2026-03-17T06:56:36.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use the .rotateY() method in Three.js to make your 3D objects spin]]></title>
+        <id>https://www.youtube.com/shorts/NWONA48L6_w</id>
+        <link href="https://www.youtube.com/shorts/NWONA48L6_w"/>
+        <updated>2026-03-16T12:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As a freelance dev, treat every email or phone call as if it could become 10 more]]></title>
         <id>https://www.youtube.com/shorts/NCfxtLZQSzA</id>
@@ -137,15 +147,6 @@
         <id>https://www.youtube.com/watch?v=hP931079TMw</id>
         <link href="https://www.youtube.com/watch?v=hP931079TMw"/>
         <updated>2026-03-06T11:01:15.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MLOps with MLflow and Databricks – Full Course for Machine Learning Engineers]]></title>
-        <id>https://www.youtube.com/watch?v=tVskbekONlw</id>
-        <link href="https://www.youtube.com/watch?v=tVskbekONlw"/>
-        <updated>2026-03-05T14:21:18.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
