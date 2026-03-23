@@ -1,4 +1,162 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/TnBI8_6tmKg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TnBI8_6tmKg",
+          "publishedOn": "2026-03-22T12:43:37.000Z",
+          "wordCount": 2496,
+          "title": "Learn how to set a scene in Three.js",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/xtGThMTO9rI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xtGThMTO9rI",
+          "publishedOn": "2026-03-21T12:32:21.000Z",
+          "wordCount": 2126,
+          "title": "Learning a new skill in your native language can be so powerful - and Sumit explains why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uJrh9GHrC38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uJrh9GHrC38",
+          "publishedOn": "2026-03-20T14:36:33.000Z",
+          "wordCount": null,
+          "title": "The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
+          "publishedOn": "2026-03-20T12:18:21.000Z",
+          "wordCount": 2083,
+          "title": "How do you find the balance between too much and too little in code and process reviews?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/v7Butot2fHY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/v7Butot2fHY",
+          "publishedOn": "2026-03-19T11:52:35.000Z",
+          "wordCount": 2030,
+          "title": "How to get started using Three.js",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jydYq7oAtD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jydYq7oAtD8",
+          "publishedOn": "2026-03-19T10:01:20.000Z",
+          "wordCount": null,
+          "title": "Software Testing Course – Playwright, E2E, and AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BiA08jfr4RU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BiA08jfr4RU",
+          "publishedOn": "2026-03-18T13:26:39.000Z",
+          "wordCount": null,
+          "title": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/VWcCVKaN2vA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/VWcCVKaN2vA",
+          "publishedOn": "2026-03-18T12:29:43.000Z",
+          "wordCount": 2027,
+          "title": "Learn the basics of LLMs in 60 seconds with Beau Carnes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WTw6NZDZ5mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WTw6NZDZ5mQ",
+          "publishedOn": "2026-03-17T16:00:12.000Z",
+          "wordCount": null,
+          "title": "Build an E-Commerce Web App with Paystack, NextJS, Supabase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "publishedOn": "2026-03-17T14:57:07.000Z",
+          "wordCount": 2099,
+          "title": "How JavaScript evolved to be able to handle more complexity, explained by Evan You",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NWONA48L6_w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NWONA48L6_w",
+          "publishedOn": "2026-03-16T12:17:27.000Z",
+          "wordCount": 2092,
+          "title": "How to use the .rotateY() method in Three.js to make your 3D objects spin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NCfxtLZQSzA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
+          "publishedOn": "2026-03-15T12:43:21.000Z",
+          "wordCount": 2417,
+          "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zDVWehHdkHE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zDVWehHdkHE",
+          "publishedOn": "2026-03-14T12:32:34.000Z",
+          "wordCount": 2099,
+          "title": "How to use the .position() method in Three.js for perfect object placement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7yruIW4NvEQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7yruIW4NvEQ",
+          "publishedOn": "2026-03-13T12:18:41.000Z",
+          "wordCount": 2127,
+          "title": "Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IRcL5as-RaE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IRcL5as-RaE",
+          "publishedOn": "2026-03-13T10:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Land Freelance Clients with Small Business Whisperer Luke Ciciliano [Podcast #211]",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
