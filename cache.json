@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/H_3sWUR9v7A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/H_3sWUR9v7A",
+          "publishedOn": "2026-03-23T12:17:34.000Z",
+          "wordCount": 2128,
+          "title": "LLMs haven't really gotten \"smarter\" - but the tools we use with them have",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=brLhhkUqcn4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=brLhhkUqcn4",
+          "publishedOn": "2026-03-23T10:30:24.000Z",
+          "wordCount": null,
+          "title": "Claude Code Essentials",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/TnBI8_6tmKg",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TnBI8_6tmKg",
           "publishedOn": "2026-03-22T12:43:37.000Z",
-          "wordCount": 2496,
+          "wordCount": 2030,
           "title": "Learn how to set a scene in Three.js",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xtGThMTO9rI",
           "publishedOn": "2026-03-21T12:32:21.000Z",
-          "wordCount": 2126,
+          "wordCount": 2178,
           "title": "Learning a new skill in your native language can be so powerful - and Sumit explains why",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
           "publishedOn": "2026-03-20T12:18:21.000Z",
-          "wordCount": 2083,
+          "wordCount": 2525,
           "title": "How do you find the balance between too much and too little in code and process reviews?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/v7Butot2fHY",
           "publishedOn": "2026-03-19T11:52:35.000Z",
-          "wordCount": 2030,
+          "wordCount": 2016,
           "title": "How to get started using Three.js",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VWcCVKaN2vA",
           "publishedOn": "2026-03-18T12:29:43.000Z",
-          "wordCount": 2027,
+          "wordCount": 2096,
           "title": "Learn the basics of LLMs in 60 seconds with Beau Carnes",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
           "publishedOn": "2026-03-17T14:57:07.000Z",
-          "wordCount": 2099,
+          "wordCount": 2037,
           "title": "How JavaScript evolved to be able to handle more complexity, explained by Evan You",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/NWONA48L6_w",
           "publishedOn": "2026-03-16T12:17:27.000Z",
-          "wordCount": 2092,
+          "wordCount": 2111,
           "title": "How to use the .rotateY() method in Three.js to make your 3D objects spin",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
           "publishedOn": "2026-03-15T12:43:21.000Z",
-          "wordCount": 2417,
+          "wordCount": 2177,
           "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zDVWehHdkHE",
           "publishedOn": "2026-03-14T12:32:34.000Z",
-          "wordCount": 2099,
+          "wordCount": 2589,
           "title": "How to use the .position() method in Three.js for perfect object placement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/7yruIW4NvEQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/7yruIW4NvEQ",
-          "publishedOn": "2026-03-13T12:18:41.000Z",
-          "wordCount": 2127,
-          "title": "Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IRcL5as-RaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IRcL5as-RaE",
-          "publishedOn": "2026-03-13T10:00:27.000Z",
-          "wordCount": null,
-          "title": "How to Land Freelance Clients with Small Business Whisperer Luke Ciciliano [Podcast #211]",
           "imageUrl": null
         }
       ]
