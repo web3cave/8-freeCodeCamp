@@ -1,8 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-29T06:55:55.000Z</id>
+    <id>urn:2026-03-30T07:18:51.685Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-29T06:55:55.000Z</updated>
+    <updated>2026-03-30T07:18:51.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's a cool and easy way to work with colors in your Three.js projects]]></title>
+        <id>https://www.youtube.com/shorts/ehkDsePv3W8</id>
+        <link href="https://www.youtube.com/shorts/ehkDsePv3W8"/>
+        <updated>2026-03-29T12:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...]]></title>
+        <id>https://www.youtube.com/shorts/uWRdzJTpcpI</id>
+        <link href="https://www.youtube.com/shorts/uWRdzJTpcpI"/>
+        <updated>2026-03-28T12:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When things are new and a little scary, embracing a beginner's mindset can help]]></title>
+        <id>https://www.youtube.com/shorts/GC5CLCgnvm0</id>
+        <link href="https://www.youtube.com/shorts/GC5CLCgnvm0"/>
+        <updated>2026-03-27T12:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens when the model CAN'T fix it? Interview w/ software engineer Landon Gray [Podcast #213]]]></title>
+        <id>https://www.youtube.com/watch?v=tZef2ZzbyuQ</id>
+        <link href="https://www.youtube.com/watch?v=tZef2ZzbyuQ"/>
+        <updated>2026-03-27T10:00:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn a bit about camera position in Three.js]]></title>
+        <id>https://www.youtube.com/shorts/GMytb7LNGOI</id>
+        <link href="https://www.youtube.com/shorts/GMytb7LNGOI"/>
+        <updated>2026-03-26T11:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Foundations for Absolute Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=tchN4xa4pfg</id>
+        <link href="https://www.youtube.com/watch?v=tchN4xa4pfg"/>
+        <updated>2026-03-26T10:01:27.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A great novel can be written in any language - just like great programs.]]></title>
+        <id>https://www.youtube.com/shorts/x9oi7CG_i7E</id>
+        <link href="https://www.youtube.com/shorts/x9oi7CG_i7E"/>
+        <updated>2026-03-25T12:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying AI Models with Hugging Face – Hands-On Course]]></title>
+        <id>https://www.youtube.com/watch?v=R8h_gpSpEVU</id>
+        <link href="https://www.youtube.com/watch?v=R8h_gpSpEVU"/>
+        <updated>2026-03-25T10:00:41.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever heard of G-Code? Here's a quick explainer of what it is.]]></title>
+        <id>https://www.youtube.com/shorts/CkbIIjplUvs</id>
+        <link href="https://www.youtube.com/shorts/CkbIIjplUvs"/>
+        <updated>2026-03-24T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMs haven't really gotten "smarter" - but the tools we use with them have]]></title>
+        <id>https://www.youtube.com/shorts/H_3sWUR9v7A</id>
+        <link href="https://www.youtube.com/shorts/H_3sWUR9v7A"/>
+        <updated>2026-03-23T12:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Essentials]]></title>
+        <id>https://www.youtube.com/watch?v=brLhhkUqcn4</id>
+        <link href="https://www.youtube.com/watch?v=brLhhkUqcn4"/>
+        <updated>2026-03-23T10:30:24.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to set a scene in Three.js]]></title>
+        <id>https://www.youtube.com/shorts/TnBI8_6tmKg</id>
+        <link href="https://www.youtube.com/shorts/TnBI8_6tmKg"/>
+        <updated>2026-03-22T12:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning a new skill in your native language can be so powerful - and Sumit explains why]]></title>
+        <id>https://www.youtube.com/shorts/xtGThMTO9rI</id>
+        <link href="https://www.youtube.com/shorts/xtGThMTO9rI"/>
+        <updated>2026-03-21T12:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]]]></title>
+        <id>https://www.youtube.com/watch?v=uJrh9GHrC38</id>
+        <link href="https://www.youtube.com/watch?v=uJrh9GHrC38"/>
+        <updated>2026-03-20T14:36:33.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you find the balance between too much and too little in code and process reviews?]]></title>
+        <id>https://www.youtube.com/shorts/H3i9DGnMxWQ</id>
+        <link href="https://www.youtube.com/shorts/H3i9DGnMxWQ"/>
+        <updated>2026-03-20T12:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
 </feed>
