@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
+          "publishedOn": "2026-03-30T12:17:27.000Z",
+          "wordCount": 2135,
+          "title": "Kids and young people: stay curious and be willing to engage with others",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/ehkDsePv3W8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ehkDsePv3W8",
           "publishedOn": "2026-03-29T12:43:24.000Z",
-          "wordCount": 2040,
+          "wordCount": 2078,
           "title": "Here's a cool and easy way to work with colors in your Three.js projects",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uWRdzJTpcpI",
           "publishedOn": "2026-03-28T12:32:40.000Z",
-          "wordCount": 2043,
+          "wordCount": 2062,
           "title": "Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GC5CLCgnvm0",
           "publishedOn": "2026-03-27T12:18:22.000Z",
-          "wordCount": 2056,
+          "wordCount": 2096,
           "title": "When things are new and a little scary, embracing a beginner's mindset can help",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GMytb7LNGOI",
           "publishedOn": "2026-03-26T11:52:29.000Z",
-          "wordCount": 2014,
+          "wordCount": 2067,
           "title": "Learn a bit about camera position in Three.js",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/x9oi7CG_i7E",
           "publishedOn": "2026-03-25T12:29:28.000Z",
-          "wordCount": 2050,
+          "wordCount": 2133,
           "title": "A great novel can be written in any language - just like great programs.",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CkbIIjplUvs",
           "publishedOn": "2026-03-24T12:05:23.000Z",
-          "wordCount": 2049,
+          "wordCount": 2099,
           "title": "Have you ever heard of G-Code? Here's a quick explainer of what it is.",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H_3sWUR9v7A",
           "publishedOn": "2026-03-23T12:17:34.000Z",
-          "wordCount": 2098,
+          "wordCount": 2154,
           "title": "LLMs haven't really gotten \"smarter\" - but the tools we use with them have",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TnBI8_6tmKg",
           "publishedOn": "2026-03-22T12:43:37.000Z",
-          "wordCount": 2071,
+          "wordCount": 2160,
           "title": "Learn how to set a scene in Three.js",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xtGThMTO9rI",
           "publishedOn": "2026-03-21T12:32:21.000Z",
-          "wordCount": 2124,
+          "wordCount": 2084,
           "title": "Learning a new skill in your native language can be so powerful - and Sumit explains why",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-03-20T14:36:33.000Z",
           "wordCount": null,
           "title": "The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
-          "publishedOn": "2026-03-20T12:18:21.000Z",
-          "wordCount": 2120,
-          "title": "How do you find the balance between too much and too little in code and process reviews?",
           "imageUrl": null
         }
       ]
