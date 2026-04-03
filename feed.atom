@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T07:04:34.149Z</id>
+    <id>urn:2026-04-03T07:00:18.427Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-02T07:04:34.149Z</updated>
+    <updated>2026-04-03T07:00:18.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert]]></title>
+        <id>https://www.youtube.com/shorts/zJHXDuUzFkc</id>
+        <link href="https://www.youtube.com/shorts/zJHXDuUzFkc"/>
+        <updated>2026-04-02T20:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How streaming works in Next.js, explained with a simple example]]></title>
+        <id>https://www.youtube.com/shorts/Q4reYv2-t4g</id>
+        <link href="https://www.youtube.com/shorts/Q4reYv2-t4g"/>
+        <updated>2026-04-02T11:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS Marketing for Developers – Automate Sales Tasks with AI]]></title>
+        <id>https://www.youtube.com/watch?v=wYx9Q6dcJCw</id>
+        <link href="https://www.youtube.com/watch?v=wYx9Q6dcJCw"/>
+        <updated>2026-04-02T10:01:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joke of the day: Why do programmers prefer dark mode?]]></title>
         <id>https://www.youtube.com/shorts/ADAtpF-0gTw</id>
@@ -117,35 +146,6 @@
         <id>https://www.youtube.com/watch?v=R8h_gpSpEVU</id>
         <link href="https://www.youtube.com/watch?v=R8h_gpSpEVU"/>
         <updated>2026-03-25T10:00:41.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you ever heard of G-Code? Here's a quick explainer of what it is.]]></title>
-        <id>https://www.youtube.com/shorts/CkbIIjplUvs</id>
-        <link href="https://www.youtube.com/shorts/CkbIIjplUvs"/>
-        <updated>2026-03-24T12:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs haven't really gotten "smarter" - but the tools we use with them have]]></title>
-        <id>https://www.youtube.com/shorts/H_3sWUR9v7A</id>
-        <link href="https://www.youtube.com/shorts/H_3sWUR9v7A"/>
-        <updated>2026-03-23T12:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Essentials]]></title>
-        <id>https://www.youtube.com/watch?v=brLhhkUqcn4</id>
-        <link href="https://www.youtube.com/watch?v=brLhhkUqcn4"/>
-        <updated>2026-03-23T10:30:24.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
