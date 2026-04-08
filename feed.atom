@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T07:07:39.497Z</id>
+    <id>urn:2026-04-08T07:09:40.860Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-07T07:07:39.497Z</updated>
+    <updated>2026-04-08T07:09:40.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Drone Programming with Python – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=k-yDYgc8AmU</id>
+        <link href="https://www.youtube.com/watch?v=k-yDYgc8AmU"/>
+        <updated>2026-04-07T12:19:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to render elements into your scenes in Three.js]]></title>
+        <id>https://www.youtube.com/shorts/cmLlI2XqsVs</id>
+        <link href="https://www.youtube.com/shorts/cmLlI2XqsVs"/>
+        <updated>2026-04-07T12:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you want to make social media work for you, focus on building true connections]]></title>
         <id>https://www.youtube.com/shorts/pRcITcZ4laM</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/shorts/ehkDsePv3W8</id>
         <link href="https://www.youtube.com/shorts/ehkDsePv3W8"/>
         <updated>2026-03-29T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...]]></title>
-        <id>https://www.youtube.com/shorts/uWRdzJTpcpI</id>
-        <link href="https://www.youtube.com/shorts/uWRdzJTpcpI"/>
-        <updated>2026-03-28T12:32:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When things are new and a little scary, embracing a beginner's mindset can help]]></title>
-        <id>https://www.youtube.com/shorts/GC5CLCgnvm0</id>
-        <link href="https://www.youtube.com/shorts/GC5CLCgnvm0"/>
-        <updated>2026-03-27T12:18:22.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
