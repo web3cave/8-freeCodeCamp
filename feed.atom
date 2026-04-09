@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T07:09:40.860Z</id>
+    <id>urn:2026-04-09T07:13:45.162Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T07:09:40.860Z</updated>
+    <updated>2026-04-09T07:13:45.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The magic of web dev: continuously and quickly improving your project. No waiting required.]]></title>
+        <id>https://www.youtube.com/shorts/Dg5KwM2ndMg</id>
+        <link href="https://www.youtube.com/shorts/Dg5KwM2ndMg"/>
+        <updated>2026-04-08T12:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Drone Programming with Python – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=k-yDYgc8AmU</id>
@@ -136,16 +146,6 @@
         <id>https://www.youtube.com/shorts/1Z-8HxlLAHk</id>
         <link href="https://www.youtube.com/shorts/1Z-8HxlLAHk"/>
         <updated>2026-03-30T12:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a cool and easy way to work with colors in your Three.js projects]]></title>
-        <id>https://www.youtube.com/shorts/ehkDsePv3W8</id>
-        <link href="https://www.youtube.com/shorts/ehkDsePv3W8"/>
-        <updated>2026-03-29T12:43:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>

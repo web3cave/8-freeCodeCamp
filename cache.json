@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
+          "publishedOn": "2026-04-08T12:29:25.000Z",
+          "wordCount": 2216,
+          "title": "The magic of web dev: continuously and quickly improving your project. No waiting required.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k-yDYgc8AmU",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cmLlI2XqsVs",
           "publishedOn": "2026-04-07T12:05:30.000Z",
-          "wordCount": 2105,
+          "wordCount": 2096,
           "title": "Learn how to render elements into your scenes in Three.js",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pRcITcZ4laM",
           "publishedOn": "2026-04-06T12:17:21.000Z",
-          "wordCount": 2196,
+          "wordCount": 2118,
           "title": "If you want to make social media work for you, focus on building true connections",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/T8PMKaNP_UA",
           "publishedOn": "2026-04-05T12:43:28.000Z",
-          "wordCount": 2099,
+          "wordCount": 2205,
           "title": "To keep clients: Do what you promise, communicate clearly, listen closely, and show you really care",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gM2Ra8GpGuU",
           "publishedOn": "2026-04-04T12:32:15.000Z",
-          "wordCount": 2024,
+          "wordCount": 2103,
           "title": "Why was the developer unhappy at their job...?",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gLm8i6ryFmA",
           "publishedOn": "2026-04-03T12:18:34.000Z",
-          "wordCount": 2113,
+          "wordCount": 2085,
           "title": "When you're trying to learn a new deep skill, a structured approach is everything.",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zJHXDuUzFkc",
           "publishedOn": "2026-04-02T20:01:46.000Z",
-          "wordCount": 2160,
+          "wordCount": 2205,
           "title": "The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Q4reYv2-t4g",
           "publishedOn": "2026-04-02T11:52:24.000Z",
-          "wordCount": 2067,
+          "wordCount": 2208,
           "title": "How streaming works in Next.js, explained with a simple example",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ADAtpF-0gTw",
           "publishedOn": "2026-04-01T12:29:21.000Z",
-          "wordCount": 2075,
+          "wordCount": 2089,
           "title": "Joke of the day: Why do programmers prefer dark mode?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5e9J47H9EFE",
           "publishedOn": "2026-03-31T12:05:20.000Z",
-          "wordCount": 2293,
+          "wordCount": 2279,
           "title": "If you can contribute to an open source project and collaborate with others, you can work anywhere",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
           "publishedOn": "2026-03-30T12:17:27.000Z",
-          "wordCount": 2187,
+          "wordCount": 2098,
           "title": "Kids and young people: stay curious and be willing to engage with others",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ehkDsePv3W8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ehkDsePv3W8",
-          "publishedOn": "2026-03-29T12:43:24.000Z",
-          "wordCount": 2100,
-          "title": "Here's a cool and easy way to work with colors in your Three.js projects",
           "imageUrl": null
         }
       ]
