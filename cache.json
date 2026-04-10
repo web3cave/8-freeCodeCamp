@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/TDUrGO9O_ro",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TDUrGO9O_ro",
+          "publishedOn": "2026-04-09T11:52:20.000Z",
+          "wordCount": 2017,
+          "title": "Git push -f? Uh huh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SqQUQHdYWyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SqQUQHdYWyc",
+          "publishedOn": "2026-04-09T10:00:48.000Z",
+          "wordCount": null,
+          "title": "CUDA Programming for NVIDIA H100s – Comprehensive Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
           "publishedOn": "2026-04-08T12:29:25.000Z",
-          "wordCount": 2216,
+          "wordCount": 2096,
           "title": "The magic of web dev: continuously and quickly improving your project. No waiting required.",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pRcITcZ4laM",
           "publishedOn": "2026-04-06T12:17:21.000Z",
-          "wordCount": 2118,
+          "wordCount": 2145,
           "title": "If you want to make social media work for you, focus on building true connections",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/T8PMKaNP_UA",
           "publishedOn": "2026-04-05T12:43:28.000Z",
-          "wordCount": 2205,
+          "wordCount": 2134,
           "title": "To keep clients: Do what you promise, communicate clearly, listen closely, and show you really care",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gM2Ra8GpGuU",
           "publishedOn": "2026-04-04T12:32:15.000Z",
-          "wordCount": 2103,
+          "wordCount": 2077,
           "title": "Why was the developer unhappy at their job...?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gLm8i6ryFmA",
           "publishedOn": "2026-04-03T12:18:34.000Z",
-          "wordCount": 2085,
+          "wordCount": 2077,
           "title": "When you're trying to learn a new deep skill, a structured approach is everything.",
           "imageUrl": null
         },
@@ -91,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zJHXDuUzFkc",
           "publishedOn": "2026-04-02T20:01:46.000Z",
-          "wordCount": 2205,
+          "wordCount": 2227,
           "title": "The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Q4reYv2-t4g",
           "publishedOn": "2026-04-02T11:52:24.000Z",
-          "wordCount": 2208,
+          "wordCount": 2277,
           "title": "How streaming works in Next.js, explained with a simple example",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ADAtpF-0gTw",
           "publishedOn": "2026-04-01T12:29:21.000Z",
-          "wordCount": 2089,
+          "wordCount": 2050,
           "title": "Joke of the day: Why do programmers prefer dark mode?",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5e9J47H9EFE",
           "publishedOn": "2026-03-31T12:05:20.000Z",
-          "wordCount": 2279,
+          "wordCount": 2117,
           "title": "If you can contribute to an open source project and collaborate with others, you can work anywhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wlpBCazAY9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wlpBCazAY9Q",
-          "publishedOn": "2026-03-31T10:01:00.000Z",
-          "wordCount": null,
-          "title": "AI-Assisted Coding Tutorial – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
-          "publishedOn": "2026-03-30T12:17:27.000Z",
-          "wordCount": 2098,
-          "title": "Kids and young people: stay curious and be willing to engage with others",
           "imageUrl": null
         }
       ]
