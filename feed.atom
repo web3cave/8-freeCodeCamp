@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-11T06:53:51.083Z</id>
+    <id>urn:2026-04-12T07:05:58.371Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-11T06:53:51.083Z</updated>
+    <updated>2026-04-12T07:05:58.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What has learning to code taught you...?]]></title>
+        <id>https://www.youtube.com/shorts/hmA8gOvH4AY</id>
+        <link href="https://www.youtube.com/shorts/hmA8gOvH4AY"/>
+        <updated>2026-04-11T12:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning]]></title>
         <id>https://www.youtube.com/shorts/XSxRY1666nA</id>
@@ -137,15 +147,6 @@
         <link href="https://www.youtube.com/shorts/Q4reYv2-t4g"/>
         <updated>2026-04-02T11:52:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS Marketing for Developers – Automate Sales Tasks with AI]]></title>
-        <id>https://www.youtube.com/watch?v=wYx9Q6dcJCw</id>
-        <link href="https://www.youtube.com/watch?v=wYx9Q6dcJCw"/>
-        <updated>2026-04-02T10:01:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
