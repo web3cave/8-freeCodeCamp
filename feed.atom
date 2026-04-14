@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T07:52:55.584Z</id>
+    <id>urn:2026-04-14T07:21:30.494Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-13T07:52:55.584Z</updated>
+    <updated>2026-04-14T07:21:30.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Recursion is a key concept in coding. Gavin explains it simply here.]]></title>
+        <id>https://www.youtube.com/shorts/-jTrzdO-6i4</id>
+        <link href="https://www.youtube.com/shorts/-jTrzdO-6i4"/>
+        <updated>2026-04-13T12:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Oh, so this is what people mean by 'focus'!"]]></title>
         <id>https://www.youtube.com/shorts/8tkXb5Wj4s0</id>
@@ -137,16 +147,6 @@
         <id>https://www.youtube.com/watch?v=ajIss2t5FxM</id>
         <link href="https://www.youtube.com/watch?v=ajIss2t5FxM"/>
         <updated>2026-04-03T10:00:06.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert]]></title>
-        <id>https://www.youtube.com/shorts/zJHXDuUzFkc</id>
-        <link href="https://www.youtube.com/shorts/zJHXDuUzFkc"/>
-        <updated>2026-04-02T20:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
