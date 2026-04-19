@@ -1,4 +1,162 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/04LPpj7lQlA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
+          "publishedOn": "2026-04-18T12:32:26.000Z",
+          "wordCount": 2092,
+          "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/xGW-g1KIU9M",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
+          "publishedOn": "2026-04-17T12:18:39.000Z",
+          "wordCount": 2149,
+          "title": "If you're job hunting, build software that removes friction from your own work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pxMUG3gcoik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pxMUG3gcoik",
+          "publishedOn": "2026-04-17T10:01:30.000Z",
+          "wordCount": null,
+          "title": "How to friction-max your learning with software engineer Jessica Rose [Podcast #216]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-S4uCYU47LA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
+          "publishedOn": "2026-04-16T11:52:22.000Z",
+          "wordCount": 2023,
+          "title": "Joke of the day. Do you get it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=C842vFY5kRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C842vFY5kRo",
+          "publishedOn": "2026-04-16T10:00:28.000Z",
+          "wordCount": null,
+          "title": "System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/A84bznMx89A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/A84bznMx89A",
+          "publishedOn": "2026-04-15T12:29:23.000Z",
+          "wordCount": 2090,
+          "title": "Why repeat business is so important for freelancers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
+          "publishedOn": "2026-04-14T12:05:39.000Z",
+          "wordCount": 2135,
+          "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
+          "publishedOn": "2026-04-14T10:01:34.000Z",
+          "wordCount": null,
+          "title": "OpenAI Codex Essentials – AI Assisted Agentic Development Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-jTrzdO-6i4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
+          "publishedOn": "2026-04-13T12:17:26.000Z",
+          "wordCount": 2185,
+          "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
+          "publishedOn": "2026-04-12T12:43:56.000Z",
+          "wordCount": 2079,
+          "title": "\"Oh, so this is what people mean by 'focus'!\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hmA8gOvH4AY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hmA8gOvH4AY",
+          "publishedOn": "2026-04-11T12:32:21.000Z",
+          "wordCount": 2028,
+          "title": "What has learning to code taught you...?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/XSxRY1666nA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/XSxRY1666nA",
+          "publishedOn": "2026-04-10T12:18:28.000Z",
+          "wordCount": 2093,
+          "title": "Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tb6oaEkxtp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tb6oaEkxtp8",
+          "publishedOn": "2026-04-10T11:35:45.000Z",
+          "wordCount": null,
+          "title": "How to learn programming and CS in the AI hype era – interview with prof Mark Mahoney [Podcast #215]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/TDUrGO9O_ro",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TDUrGO9O_ro",
+          "publishedOn": "2026-04-09T11:52:20.000Z",
+          "wordCount": 2068,
+          "title": "Git push -f? Uh huh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SqQUQHdYWyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SqQUQHdYWyc",
+          "publishedOn": "2026-04-09T10:00:48.000Z",
+          "wordCount": null,
+          "title": "CUDA Programming for NVIDIA H100s – Comprehensive Course",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
