@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T07:56:41.012Z</id>
+    <id>urn:2026-04-21T07:25:34.749Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T07:56:41.012Z</updated>
+    <updated>2026-04-21T07:25:34.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's a little Monday Motivation for you.]]></title>
+        <id>https://www.youtube.com/shorts/6XORL8Bsm9w</id>
+        <link href="https://www.youtube.com/shorts/6XORL8Bsm9w"/>
+        <updated>2026-04-20T12:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What motivates people to keep contributing to open source projects?]]></title>
         <id>https://www.youtube.com/shorts/F-d5DyFo3Cg</id>
@@ -84,7 +94,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Codex Essentials – AI Assisted Agentic Development Course]]></title>
+        <title type="html"><![CDATA[Codex Essentials – AI Assisted Agentic Development Course]]></title>
         <id>https://www.youtube.com/watch?v=u-Jl7bzab8A</id>
         <link href="https://www.youtube.com/watch?v=u-Jl7bzab8A"/>
         <updated>2026-04-14T10:01:34.000Z</updated>
@@ -137,16 +147,6 @@
         <id>https://www.youtube.com/watch?v=Tb6oaEkxtp8</id>
         <link href="https://www.youtube.com/watch?v=Tb6oaEkxtp8"/>
         <updated>2026-04-10T11:35:45.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git push -f? Uh huh...]]></title>
-        <id>https://www.youtube.com/shorts/TDUrGO9O_ro</id>
-        <link href="https://www.youtube.com/shorts/TDUrGO9O_ro"/>
-        <updated>2026-04-09T11:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

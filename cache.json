@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/6XORL8Bsm9w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
+          "publishedOn": "2026-04-20T12:17:24.000Z",
+          "wordCount": 2131,
+          "title": "Here's a little Monday Motivation for you.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2165,
+          "wordCount": 2109,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2126,
+          "wordCount": 2108,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2204,
+          "wordCount": 2321,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
           "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2031,
+          "wordCount": 2035,
           "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/A84bznMx89A",
           "publishedOn": "2026-04-15T12:29:23.000Z",
-          "wordCount": 2109,
+          "wordCount": 2041,
           "title": "Why repeat business is so important for freelancers",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
           "publishedOn": "2026-04-14T12:05:39.000Z",
-          "wordCount": 2113,
+          "wordCount": 2140,
           "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
           "imageUrl": null
         },
@@ -92,7 +102,7 @@
           "link": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
           "publishedOn": "2026-04-14T10:01:34.000Z",
           "wordCount": null,
-          "title": "OpenAI Codex Essentials – AI Assisted Agentic Development Course",
+          "title": "Codex Essentials – AI Assisted Agentic Development Course",
           "imageUrl": null
         },
         {
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
           "publishedOn": "2026-04-13T12:17:26.000Z",
-          "wordCount": 2070,
+          "wordCount": 2481,
           "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
           "publishedOn": "2026-04-12T12:43:56.000Z",
-          "wordCount": 2096,
+          "wordCount": 2071,
           "title": "\"Oh, so this is what people mean by 'focus'!\"",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/hmA8gOvH4AY",
           "publishedOn": "2026-04-11T12:32:21.000Z",
-          "wordCount": 2107,
+          "wordCount": 2032,
           "title": "What has learning to code taught you...?",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XSxRY1666nA",
           "publishedOn": "2026-04-10T12:18:28.000Z",
-          "wordCount": 2272,
+          "wordCount": 2085,
           "title": "Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-04-10T11:35:45.000Z",
           "wordCount": null,
           "title": "How to learn programming and CS in the AI hype era – interview with prof Mark Mahoney [Podcast #215]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/TDUrGO9O_ro",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/TDUrGO9O_ro",
-          "publishedOn": "2026-04-09T11:52:20.000Z",
-          "wordCount": 2043,
-          "title": "Git push -f? Uh huh...",
           "imageUrl": null
         }
       ]
