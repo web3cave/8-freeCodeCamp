@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T07:25:34.749Z</id>
+    <id>urn:2026-04-22T07:23:10.647Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T07:25:34.749Z</updated>
+    <updated>2026-04-22T07:23:10.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.]]></title>
+        <id>https://www.youtube.com/shorts/8j6C-3FooN8</id>
+        <link href="https://www.youtube.com/shorts/8j6C-3FooN8"/>
+        <updated>2026-04-21T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Your Life in 4 hours – Agent and Automation Zapier Course]]></title>
+        <id>https://www.youtube.com/watch?v=-leIp449qXA</id>
+        <link href="https://www.youtube.com/watch?v=-leIp449qXA"/>
+        <updated>2026-04-21T10:00:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's a little Monday Motivation for you.]]></title>
         <id>https://www.youtube.com/shorts/6XORL8Bsm9w</id>
@@ -128,25 +147,6 @@
         <link href="https://www.youtube.com/shorts/hmA8gOvH4AY"/>
         <updated>2026-04-11T12:32:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning]]></title>
-        <id>https://www.youtube.com/shorts/XSxRY1666nA</id>
-        <link href="https://www.youtube.com/shorts/XSxRY1666nA"/>
-        <updated>2026-04-10T12:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to learn programming and CS in the AI hype era – interview with prof Mark Mahoney [Podcast #215]]]></title>
-        <id>https://www.youtube.com/watch?v=Tb6oaEkxtp8</id>
-        <link href="https://www.youtube.com/watch?v=Tb6oaEkxtp8"/>
-        <updated>2026-04-10T11:35:45.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
