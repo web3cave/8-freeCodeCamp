@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T07:23:10.647Z</id>
+    <id>urn:2026-04-23T07:26:53.828Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T07:23:10.647Z</updated>
+    <updated>2026-04-23T07:26:53.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tired of switching between C# for the back end and JS for the front end?]]></title>
+        <id>https://www.youtube.com/shorts/KaKcLgj5GCc</id>
+        <link href="https://www.youtube.com/shorts/KaKcLgj5GCc"/>
+        <updated>2026-04-22T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Web Development with Blender and Three.js – Create a Cozy Café Portfolio]]></title>
+        <id>https://www.youtube.com/watch?v=ozWrlHQGuvI</id>
+        <link href="https://www.youtube.com/watch?v=ozWrlHQGuvI"/>
+        <updated>2026-04-22T10:01:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.]]></title>
         <id>https://www.youtube.com/shorts/8j6C-3FooN8</id>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/shorts/-jTrzdO-6i4</id>
         <link href="https://www.youtube.com/shorts/-jTrzdO-6i4"/>
         <updated>2026-04-13T12:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Oh, so this is what people mean by 'focus'!"]]></title>
-        <id>https://www.youtube.com/shorts/8tkXb5Wj4s0</id>
-        <link href="https://www.youtube.com/shorts/8tkXb5Wj4s0"/>
-        <updated>2026-04-12T12:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What has learning to code taught you...?]]></title>
-        <id>https://www.youtube.com/shorts/hmA8gOvH4AY</id>
-        <link href="https://www.youtube.com/shorts/hmA8gOvH4AY"/>
-        <updated>2026-04-11T12:32:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
