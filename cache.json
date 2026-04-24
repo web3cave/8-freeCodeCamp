@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tLsoelNl3To",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tLsoelNl3To",
+          "publishedOn": "2026-04-23T12:50:32.000Z",
+          "wordCount": null,
+          "title": "Sliding Window Algorithm for Tech Interviews - Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8wGw-7yHPl0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8wGw-7yHPl0",
+          "publishedOn": "2026-04-23T11:52:23.000Z",
+          "wordCount": 2125,
+          "title": "If you're a junior developer, Swyx explains how you need to step up",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "publishedOn": "2026-04-22T12:29:27.000Z",
-          "wordCount": 2110,
+          "wordCount": 2125,
           "title": "Tired of switching between C# for the back end and JS for the front end?",
           "imageUrl": null
         },
@@ -31,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8j6C-3FooN8",
           "publishedOn": "2026-04-21T12:05:23.000Z",
-          "wordCount": 2174,
+          "wordCount": 2132,
           "title": "In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
           "publishedOn": "2026-04-20T12:17:24.000Z",
-          "wordCount": 2051,
+          "wordCount": 2098,
           "title": "Here's a little Monday Motivation for you.",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2115,
+          "wordCount": 2097,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2181,
+          "wordCount": 2098,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2223,
+          "wordCount": 2244,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
           "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2076,
+          "wordCount": 2030,
           "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/A84bznMx89A",
           "publishedOn": "2026-04-15T12:29:23.000Z",
-          "wordCount": 2599,
+          "wordCount": 2104,
           "title": "Why repeat business is so important for freelancers",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
           "publishedOn": "2026-04-14T12:05:39.000Z",
-          "wordCount": 2172,
+          "wordCount": 2142,
           "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
-          "publishedOn": "2026-04-14T10:01:34.000Z",
-          "wordCount": null,
-          "title": "Codex Essentials – AI Assisted Agentic Development Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-jTrzdO-6i4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
-          "publishedOn": "2026-04-13T12:17:26.000Z",
-          "wordCount": 2120,
-          "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
           "imageUrl": null
         }
       ]
