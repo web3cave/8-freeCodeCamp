@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-24T07:52:42.046Z</id>
+    <id>urn:2026-04-25T07:05:44.337Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-24T07:52:42.046Z</updated>
+    <updated>2026-04-25T07:05:44.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI Essentials – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=XKOR4h3CrwE</id>
+        <link href="https://www.youtube.com/watch?v=XKOR4h3CrwE"/>
+        <updated>2026-04-24T13:47:49.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does an API work? Ania explains it simply here.]]></title>
+        <id>https://www.youtube.com/shorts/SuJOQ_WeGEA</id>
+        <link href="https://www.youtube.com/shorts/SuJOQ_WeGEA"/>
+        <updated>2026-04-24T12:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sliding Window Algorithm for Tech Interviews - Full Course]]></title>
         <id>https://www.youtube.com/watch?v=tLsoelNl3To</id>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/watch?v=C842vFY5kRo</id>
         <link href="https://www.youtube.com/watch?v=C842vFY5kRo"/>
         <updated>2026-04-16T10:00:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why repeat business is so important for freelancers]]></title>
-        <id>https://www.youtube.com/shorts/A84bznMx89A</id>
-        <link href="https://www.youtube.com/shorts/A84bznMx89A"/>
-        <updated>2026-04-15T12:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When it comes to vibe coding, Chris asks: is it for a program or a product?]]></title>
-        <id>https://www.youtube.com/shorts/6gKAC9cWNZQ</id>
-        <link href="https://www.youtube.com/shorts/6gKAC9cWNZQ"/>
-        <updated>2026-04-14T12:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
