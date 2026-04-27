@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/OnLdZrMcgGU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/OnLdZrMcgGU",
+          "publishedOn": "2026-04-26T12:43:12.000Z",
+          "wordCount": 2080,
+          "title": "Ah, the age-old question. Who can relate?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/udA06kmorT0",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/udA06kmorT0",
           "publishedOn": "2026-04-25T12:32:23.000Z",
-          "wordCount": 2145,
+          "wordCount": 2079,
           "title": "Test-driven development is helpful, but it misses the mark in certain key areas",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SuJOQ_WeGEA",
           "publishedOn": "2026-04-24T12:18:31.000Z",
-          "wordCount": 2119,
+          "wordCount": 2137,
           "title": "How does an API work? Ania explains it simply here.",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8wGw-7yHPl0",
           "publishedOn": "2026-04-23T11:52:23.000Z",
-          "wordCount": 2297,
+          "wordCount": 2087,
           "title": "If you're a junior developer, Swyx explains how you need to step up",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "publishedOn": "2026-04-22T12:29:27.000Z",
-          "wordCount": 2088,
+          "wordCount": 2129,
           "title": "Tired of switching between C# for the back end and JS for the front end?",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8j6C-3FooN8",
           "publishedOn": "2026-04-21T12:05:23.000Z",
-          "wordCount": 2138,
+          "wordCount": 2127,
           "title": "In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
           "publishedOn": "2026-04-20T12:17:24.000Z",
-          "wordCount": 2115,
+          "wordCount": 2500,
           "title": "Here's a little Monday Motivation for you.",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2107,
+          "wordCount": 2126,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2137,
+          "wordCount": 2106,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2129,
+          "wordCount": 2109,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-04-17T10:01:30.000Z",
           "wordCount": null,
           "title": "How to friction-max your learning with software engineer Jessica Rose [Podcast #216]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-S4uCYU47LA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
-          "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2072,
-          "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         }
       ]
