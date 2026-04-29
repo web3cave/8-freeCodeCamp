@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T08:12:55.418Z</id>
+    <id>urn:2026-04-29T08:05:44.616Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T08:12:55.418Z</updated>
+    <updated>2026-04-29T08:05:44.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IT Fundamentals Course – Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, Linux]]></title>
+        <id>https://www.youtube.com/watch?v=4m9j6hlbf4g</id>
+        <link href="https://www.youtube.com/watch?v=4m9j6hlbf4g"/>
+        <updated>2026-04-28T14:38:54.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.]]></title>
+        <id>https://www.youtube.com/shorts/oHAiHuEVo8A</id>
+        <link href="https://www.youtube.com/shorts/oHAiHuEVo8A"/>
+        <updated>2026-04-28T12:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.]]></title>
         <id>https://www.youtube.com/shorts/38-3cShsQBc</id>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/shorts/F-d5DyFo3Cg</id>
         <link href="https://www.youtube.com/shorts/F-d5DyFo3Cg"/>
         <updated>2026-04-19T12:43:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software itself has no value. It's the solutions that are valuable, and that will sell.]]></title>
-        <id>https://www.youtube.com/shorts/04LPpj7lQlA</id>
-        <link href="https://www.youtube.com/shorts/04LPpj7lQlA"/>
-        <updated>2026-04-18T12:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you're job hunting, build software that removes friction from your own work]]></title>
-        <id>https://www.youtube.com/shorts/xGW-g1KIU9M</id>
-        <link href="https://www.youtube.com/shorts/xGW-g1KIU9M"/>
-        <updated>2026-04-17T12:18:39.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
