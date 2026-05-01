@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T08:09:39.300Z</id>
+    <id>urn:2026-05-01T08:04:43.530Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T08:09:39.300Z</updated>
+    <updated>2026-05-01T08:04:43.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Agentic AI and how does it work? Ania explains here.]]></title>
+        <id>https://www.youtube.com/shorts/Ox-uvxRQXf4</id>
+        <link href="https://www.youtube.com/shorts/Ox-uvxRQXf4"/>
+        <updated>2026-04-30T11:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you suddenly lost all your programming knowledge, what should you focus on learning today?]]></title>
         <id>https://www.youtube.com/shorts/yG-bGpD38Rw</id>
@@ -136,15 +146,6 @@
         <link href="https://www.youtube.com/shorts/8j6C-3FooN8"/>
         <updated>2026-04-21T12:05:23.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Your Life in 4 hours – Agent and Automation Zapier Course]]></title>
-        <id>https://www.youtube.com/watch?v=-leIp449qXA</id>
-        <link href="https://www.youtube.com/watch?v=-leIp449qXA"/>
-        <updated>2026-04-21T10:00:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

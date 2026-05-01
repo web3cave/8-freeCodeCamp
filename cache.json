@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
+          "publishedOn": "2026-04-30T11:52:14.000Z",
+          "wordCount": 2136,
+          "title": "What is Agentic AI and how does it work? Ania explains here.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "publishedOn": "2026-04-29T12:29:23.000Z",
-          "wordCount": 2141,
+          "wordCount": 2173,
           "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oHAiHuEVo8A",
           "publishedOn": "2026-04-28T12:05:25.000Z",
-          "wordCount": 2717,
+          "wordCount": 2221,
           "title": "Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/38-3cShsQBc",
           "publishedOn": "2026-04-27T12:17:33.000Z",
-          "wordCount": 2190,
+          "wordCount": 2310,
           "title": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/udA06kmorT0",
           "publishedOn": "2026-04-25T12:32:23.000Z",
-          "wordCount": 2100,
+          "wordCount": 2106,
           "title": "Test-driven development is helpful, but it misses the mark in certain key areas",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SuJOQ_WeGEA",
           "publishedOn": "2026-04-24T12:18:31.000Z",
-          "wordCount": 2079,
+          "wordCount": 2167,
           "title": "How does an API work? Ania explains it simply here.",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8wGw-7yHPl0",
           "publishedOn": "2026-04-23T11:52:23.000Z",
-          "wordCount": 2144,
+          "wordCount": 2215,
           "title": "If you're a junior developer, Swyx explains how you need to step up",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "publishedOn": "2026-04-22T12:29:27.000Z",
-          "wordCount": 2197,
+          "wordCount": 2101,
           "title": "Tired of switching between C# for the back end and JS for the front end?",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8j6C-3FooN8",
           "publishedOn": "2026-04-21T12:05:23.000Z",
-          "wordCount": 2138,
+          "wordCount": 2237,
           "title": "In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-leIp449qXA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-leIp449qXA",
-          "publishedOn": "2026-04-21T10:00:01.000Z",
-          "wordCount": null,
-          "title": "Automate Your Life in 4 hours – Agent and Automation Zapier Course",
           "imageUrl": null
         }
       ]
