@@ -6,12 +6,32 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/4nQt1FHaoqg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4nQt1FHaoqg",
+          "publishedOn": "2026-05-01T12:18:21.000Z",
+          "wordCount": 2182,
+          "title": "Getting code to do what you want it to do is only a small fraction of the job",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GmtOxMl39Tc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GmtOxMl39Tc",
+          "publishedOn": "2026-05-01T10:00:33.000Z",
+          "wordCount": null,
+          "title": "Stanford's youngest instructor on InfoSec, AI, catching cheaters - Rachel Fernandez [Podcast #217]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "publishedOn": "2026-04-30T11:52:14.000Z",
-          "wordCount": 2136,
+          "wordCount": 2107,
           "title": "What is Agentic AI and how does it work? Ania explains here.",
           "imageUrl": null
         },
@@ -21,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "publishedOn": "2026-04-29T12:29:23.000Z",
-          "wordCount": 2173,
+          "wordCount": 2103,
           "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oHAiHuEVo8A",
           "publishedOn": "2026-04-28T12:05:25.000Z",
-          "wordCount": 2221,
+          "wordCount": 2155,
           "title": "Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.",
           "imageUrl": null
         },
@@ -61,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/38-3cShsQBc",
           "publishedOn": "2026-04-27T12:17:33.000Z",
-          "wordCount": 2310,
+          "wordCount": 2303,
           "title": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OnLdZrMcgGU",
           "publishedOn": "2026-04-26T12:43:12.000Z",
-          "wordCount": 2071,
+          "wordCount": 2042,
           "title": "Ah, the age-old question. Who can relate?",
           "imageUrl": null
         },
@@ -81,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/udA06kmorT0",
           "publishedOn": "2026-04-25T12:32:23.000Z",
-          "wordCount": 2106,
+          "wordCount": 2097,
           "title": "Test-driven development is helpful, but it misses the mark in certain key areas",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SuJOQ_WeGEA",
           "publishedOn": "2026-04-24T12:18:31.000Z",
-          "wordCount": 2167,
+          "wordCount": 2102,
           "title": "How does an API work? Ania explains it simply here.",
           "imageUrl": null
         },
@@ -121,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8wGw-7yHPl0",
           "publishedOn": "2026-04-23T11:52:23.000Z",
-          "wordCount": 2215,
+          "wordCount": 2101,
           "title": "If you're a junior developer, Swyx explains how you need to step up",
           "imageUrl": null
         },
@@ -131,28 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "publishedOn": "2026-04-22T12:29:27.000Z",
-          "wordCount": 2101,
+          "wordCount": 2106,
           "title": "Tired of switching between C# for the back end and JS for the front end?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ozWrlHQGuvI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ozWrlHQGuvI",
-          "publishedOn": "2026-04-22T10:01:31.000Z",
-          "wordCount": null,
-          "title": "3D Web Development with Blender and Three.js – Create a Cozy Café Portfolio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/8j6C-3FooN8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/8j6C-3FooN8",
-          "publishedOn": "2026-04-21T12:05:23.000Z",
-          "wordCount": 2237,
-          "title": "In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.",
           "imageUrl": null
         }
       ]
