@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
+          "publishedOn": "2026-05-06T12:29:26.000Z",
+          "wordCount": 2208,
+          "title": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/9liqUfS69co",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9liqUfS69co",
           "publishedOn": "2026-05-05T12:05:31.000Z",
-          "wordCount": 2117,
+          "wordCount": 2161,
           "title": "Become the best at what you love doing. That'll get employers to notice you.",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r8k4VI8XZ_k",
           "publishedOn": "2026-05-04T12:17:29.000Z",
-          "wordCount": 2202,
+          "wordCount": 2082,
           "title": "YouTube was almost a very different site...",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WKdFAS78sgU",
           "publishedOn": "2026-05-03T12:43:26.000Z",
-          "wordCount": 2441,
+          "wordCount": 2129,
           "title": "Quick tip from Homebrew project leader Mike McQuaid: downtime is important. Simple, right?",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WFxh3ybr-Pc",
           "publishedOn": "2026-05-02T12:32:20.000Z",
-          "wordCount": 2226,
+          "wordCount": 2214,
           "title": "Avoid shortcuts, be honest about where you are, and learn for yourself.",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4nQt1FHaoqg",
           "publishedOn": "2026-05-01T12:18:21.000Z",
-          "wordCount": 2227,
+          "wordCount": 2167,
           "title": "Getting code to do what you want it to do is only a small fraction of the job",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "publishedOn": "2026-04-30T11:52:14.000Z",
-          "wordCount": 2083,
+          "wordCount": 2114,
           "title": "What is Agentic AI and how does it work? Ania explains here.",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "publishedOn": "2026-04-29T12:29:23.000Z",
-          "wordCount": 2140,
+          "wordCount": 2242,
           "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oHAiHuEVo8A",
           "publishedOn": "2026-04-28T12:05:25.000Z",
-          "wordCount": 2146,
+          "wordCount": 2153,
           "title": "Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/38-3cShsQBc",
           "publishedOn": "2026-04-27T12:17:33.000Z",
-          "wordCount": 2130,
+          "wordCount": 2200,
           "title": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OnLdZrMcgGU",
           "publishedOn": "2026-04-26T12:43:12.000Z",
-          "wordCount": 2070,
+          "wordCount": 2042,
           "title": "Ah, the age-old question. Who can relate?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/udA06kmorT0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/udA06kmorT0",
-          "publishedOn": "2026-04-25T12:32:23.000Z",
-          "wordCount": 2117,
-          "title": "Test-driven development is helpful, but it misses the mark in certain key areas",
           "imageUrl": null
         }
       ]
