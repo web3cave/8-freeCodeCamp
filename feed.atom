@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T07:20:29.077Z</id>
+    <id>urn:2026-05-09T07:47:42.492Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-08T07:20:29.077Z</updated>
+    <updated>2026-05-09T07:47:42.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning "just in time" is a lot easier than it used to be. Swyx talks about why.]]></title>
+        <id>https://www.youtube.com/shorts/wDLdDaGR8S4</id>
+        <link href="https://www.youtube.com/shorts/wDLdDaGR8S4"/>
+        <updated>2026-05-08T12:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spatial computing might seem like something from the future, but it's not really...]]></title>
         <id>https://www.youtube.com/shorts/oGO7IKO8HNE</id>
@@ -136,16 +146,6 @@
         <id>https://www.youtube.com/watch?v=4m9j6hlbf4g</id>
         <link href="https://www.youtube.com/watch?v=4m9j6hlbf4g"/>
         <updated>2026-04-28T14:38:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.]]></title>
-        <id>https://www.youtube.com/shorts/oHAiHuEVo8A</id>
-        <link href="https://www.youtube.com/shorts/oHAiHuEVo8A"/>
-        <updated>2026-04-28T12:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
