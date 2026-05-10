@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T07:47:42.492Z</id>
+    <id>urn:2026-05-10T08:00:39.675Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-09T07:47:42.492Z</updated>
+    <updated>2026-05-10T08:00:39.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's first logo was...complicated]]></title>
+        <id>https://www.youtube.com/shorts/UH2XXGPh0N0</id>
+        <link href="https://www.youtube.com/shorts/UH2XXGPh0N0"/>
+        <updated>2026-05-09T12:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning "just in time" is a lot easier than it used to be. Swyx talks about why.]]></title>
         <id>https://www.youtube.com/shorts/wDLdDaGR8S4</id>
@@ -137,15 +147,6 @@
         <id>https://www.youtube.com/watch?v=wApaJjvNZFs</id>
         <link href="https://www.youtube.com/watch?v=wApaJjvNZFs"/>
         <updated>2026-04-29T10:01:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Fundamentals Course – Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, Linux]]></title>
-        <id>https://www.youtube.com/watch?v=4m9j6hlbf4g</id>
-        <link href="https://www.youtube.com/watch?v=4m9j6hlbf4g"/>
-        <updated>2026-04-28T14:38:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
