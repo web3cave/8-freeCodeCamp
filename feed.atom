@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T08:41:27.740Z</id>
+    <id>urn:2026-05-16T07:54:57.994Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-15T08:41:27.740Z</updated>
+    <updated>2026-05-16T07:54:57.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why companies still need real people responsible for critical work]]></title>
+        <id>https://www.youtube.com/shorts/4uNoRLpLud8</id>
+        <link href="https://www.youtube.com/shorts/4uNoRLpLud8"/>
+        <updated>2026-05-15T12:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think in JavaScript – The Hard & Conceptual Parts (Full Course)]]></title>
+        <id>https://www.youtube.com/watch?v=x7u2c0DhWEU</id>
+        <link href="https://www.youtube.com/watch?v=x7u2c0DhWEU"/>
+        <updated>2026-05-15T10:01:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02) - Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=7HKot-brXFE</id>
@@ -127,25 +146,6 @@
         <id>https://www.youtube.com/shorts/9liqUfS69co</id>
         <link href="https://www.youtube.com/shorts/9liqUfS69co"/>
         <updated>2026-05-05T12:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Event Loop & Asynchronous Programming]]></title>
-        <id>https://www.youtube.com/watch?v=jzOy07fw2vY</id>
-        <link href="https://www.youtube.com/watch?v=jzOy07fw2vY"/>
-        <updated>2026-05-05T10:01:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube was almost a very different site...]]></title>
-        <id>https://www.youtube.com/shorts/r8k4VI8XZ_k</id>
-        <link href="https://www.youtube.com/shorts/r8k4VI8XZ_k"/>
-        <updated>2026-05-04T12:17:29.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
