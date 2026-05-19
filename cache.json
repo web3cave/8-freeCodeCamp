@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/g4Jne1qDDhU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/g4Jne1qDDhU",
+          "publishedOn": "2026-05-18T12:17:23.000Z",
+          "wordCount": 2175,
+          "title": "Don't try to learn a new skill in a vacuum - build with a goal in mind",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/8C-lYCzCVX4",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8C-lYCzCVX4",
           "publishedOn": "2026-05-17T12:43:25.000Z",
-          "wordCount": 2160,
+          "wordCount": 2108,
           "title": "Netflix was created because of a late fee - thanks, Blockbuster!",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxaIP40tPCQ",
           "publishedOn": "2026-05-16T12:32:22.000Z",
-          "wordCount": 2146,
+          "wordCount": 2574,
           "title": "Building trust at a new job is key - and so is being someone people actually want to work with",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4uNoRLpLud8",
           "publishedOn": "2026-05-15T12:18:33.000Z",
-          "wordCount": 2104,
+          "wordCount": 2105,
           "title": "Why companies still need real people responsible for critical work",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ETQjANMlkWo",
           "publishedOn": "2026-05-14T11:52:25.000Z",
-          "wordCount": 2092,
+          "wordCount": 2077,
           "title": "Google almost had a very different name (and functionality)...",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/w_nSaJRzLw4",
           "publishedOn": "2026-05-13T12:29:25.000Z",
-          "wordCount": 2223,
+          "wordCount": 2178,
           "title": "Stop choosing between learning coding fundamentals and learning to use AI. Do both.",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SXfDBlyqkNQ",
           "publishedOn": "2026-05-12T12:05:34.000Z",
-          "wordCount": 2070,
+          "wordCount": 2219,
           "title": "Are you familiar with the Zen of Python? Estefania breaks down the principles here.",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/shN9XmVABnY",
           "publishedOn": "2026-05-11T12:17:42.000Z",
-          "wordCount": 2126,
+          "wordCount": 2081,
           "title": "Build something real first, then sell it",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Lkyr4k0qmF4",
           "publishedOn": "2026-05-10T12:43:14.000Z",
-          "wordCount": 2115,
+          "wordCount": 2168,
           "title": "Why big apps choose web over native",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UH2XXGPh0N0",
           "publishedOn": "2026-05-09T12:32:50.000Z",
-          "wordCount": 2060,
+          "wordCount": 2039,
           "title": "Apple's first logo was...complicated",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wDLdDaGR8S4",
           "publishedOn": "2026-05-08T12:18:26.000Z",
-          "wordCount": 2123,
+          "wordCount": 2193,
           "title": "Learning \"just in time\" is a lot easier than it used to be. Swyx talks about why.",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oGO7IKO8HNE",
           "publishedOn": "2026-05-07T11:52:36.000Z",
-          "wordCount": 2136,
+          "wordCount": 2217,
           "title": "Spatial computing might seem like something from the future, but it's not really...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HNVaYYxmwLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HNVaYYxmwLU",
-          "publishedOn": "2026-05-07T10:00:29.000Z",
-          "wordCount": null,
-          "title": "Open Models Coding Essentials – Running LLMs Locally and in the Cloud Course",
           "imageUrl": null
         }
       ]

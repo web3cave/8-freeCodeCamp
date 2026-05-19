@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T09:49:11.795Z</id>
+    <id>urn:2026-05-19T09:31:05.938Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-18T09:49:11.795Z</updated>
+    <updated>2026-05-19T09:31:05.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't try to learn a new skill in a vacuum - build with a goal in mind]]></title>
+        <id>https://www.youtube.com/shorts/g4Jne1qDDhU</id>
+        <link href="https://www.youtube.com/shorts/g4Jne1qDDhU"/>
+        <updated>2026-05-18T12:17:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix was created because of a late fee - thanks, Blockbuster!]]></title>
         <id>https://www.youtube.com/shorts/8C-lYCzCVX4</id>
@@ -138,15 +148,6 @@
         <link href="https://www.youtube.com/shorts/oGO7IKO8HNE"/>
         <updated>2026-05-07T11:52:36.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Models Coding Essentials – Running LLMs Locally and in the Cloud Course]]></title>
-        <id>https://www.youtube.com/watch?v=HNVaYYxmwLU</id>
-        <link href="https://www.youtube.com/watch?v=HNVaYYxmwLU"/>
-        <updated>2026-05-07T10:00:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
