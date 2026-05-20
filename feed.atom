@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T09:31:05.938Z</id>
+    <id>urn:2026-05-20T08:56:40.456Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-19T09:31:05.938Z</updated>
+    <updated>2026-05-20T08:56:40.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Manus AI – Complete Course for Developers]]></title>
+        <id>https://www.youtube.com/watch?v=2-ZqK1GVQ5U</id>
+        <link href="https://www.youtube.com/watch?v=2-ZqK1GVQ5U"/>
+        <updated>2026-05-19T14:12:02.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
+        <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
+        <link href="https://www.youtube.com/shorts/l0fEgTBT50M"/>
+        <updated>2026-05-19T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't try to learn a new skill in a vacuum - build with a goal in mind]]></title>
         <id>https://www.youtube.com/shorts/g4Jne1qDDhU</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/shorts/UH2XXGPh0N0</id>
         <link href="https://www.youtube.com/shorts/UH2XXGPh0N0"/>
         <updated>2026-05-09T12:32:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning "just in time" is a lot easier than it used to be. Swyx talks about why.]]></title>
-        <id>https://www.youtube.com/shorts/wDLdDaGR8S4</id>
-        <link href="https://www.youtube.com/shorts/wDLdDaGR8S4"/>
-        <updated>2026-05-08T12:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial computing might seem like something from the future, but it's not really...]]></title>
-        <id>https://www.youtube.com/shorts/oGO7IKO8HNE</id>
-        <link href="https://www.youtube.com/shorts/oGO7IKO8HNE"/>
-        <updated>2026-05-07T11:52:36.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
