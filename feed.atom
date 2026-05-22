@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-21T09:27:06.605Z</id>
+    <id>urn:2026-05-22T08:52:15.239Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-21T09:27:06.605Z</updated>
+    <updated>2026-05-22T08:52:15.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LaTeX Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=4lKbesI5eLI</id>
+        <link href="https://www.youtube.com/watch?v=4lKbesI5eLI"/>
+        <updated>2026-05-21T13:06:59.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many devs actually use that whole million-token context window...?]]></title>
+        <id>https://www.youtube.com/shorts/pQMvO_ssdcA</id>
+        <link href="https://www.youtube.com/shorts/pQMvO_ssdcA"/>
+        <updated>2026-05-21T11:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why did the dev go broke?]]></title>
         <id>https://www.youtube.com/shorts/1SKV4B_WPkg</id>
@@ -75,7 +94,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Think in JavaScript – The Hard & Conceptual Parts (Full Course)]]></title>
+        <title type="html"><![CDATA[Learn how to THINK in code – The Hard & Conceptual Parts of JavaScript (Full Course)]]></title>
         <id>https://www.youtube.com/watch?v=x7u2c0DhWEU</id>
         <link href="https://www.youtube.com/watch?v=x7u2c0DhWEU"/>
         <updated>2026-05-15T10:01:28.000Z</updated>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/shorts/SXfDBlyqkNQ</id>
         <link href="https://www.youtube.com/shorts/SXfDBlyqkNQ"/>
         <updated>2026-05-12T12:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build something real first, then sell it]]></title>
-        <id>https://www.youtube.com/shorts/shN9XmVABnY</id>
-        <link href="https://www.youtube.com/shorts/shN9XmVABnY"/>
-        <updated>2026-05-11T12:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why big apps choose web over native]]></title>
-        <id>https://www.youtube.com/shorts/Lkyr4k0qmF4</id>
-        <link href="https://www.youtube.com/shorts/Lkyr4k0qmF4"/>
-        <updated>2026-05-10T12:43:14.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
