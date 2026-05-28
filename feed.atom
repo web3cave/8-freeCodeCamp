@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-27T09:34:29.526Z</id>
+    <id>urn:2026-05-28T09:51:28.074Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-27T09:34:29.526Z</updated>
+    <updated>2026-05-28T09:51:28.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's a fun exercize for ChatGPT]]></title>
+        <id>https://www.youtube.com/shorts/z76TrtlL930</id>
+        <link href="https://www.youtube.com/shorts/z76TrtlL930"/>
+        <updated>2026-05-27T12:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get started using Three.js without having to use npm]]></title>
         <id>https://www.youtube.com/shorts/au7zDlkpOAA</id>
@@ -137,16 +147,6 @@
         <id>https://www.youtube.com/shorts/MxaIP40tPCQ</id>
         <link href="https://www.youtube.com/shorts/MxaIP40tPCQ"/>
         <updated>2026-05-16T12:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why companies still need real people responsible for critical work]]></title>
-        <id>https://www.youtube.com/shorts/4uNoRLpLud8</id>
-        <link href="https://www.youtube.com/shorts/4uNoRLpLud8"/>
-        <updated>2026-05-15T12:18:33.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
