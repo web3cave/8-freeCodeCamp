@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-29T09:41:07.571Z</id>
+    <id>urn:2026-05-30T08:20:48.810Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-29T09:41:07.571Z</updated>
+    <updated>2026-05-30T08:20:48.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's a little programming challenge for you: can you figure out the output of this code?]]></title>
+        <id>https://www.youtube.com/shorts/MrlJQXOmTgo</id>
+        <link href="https://www.youtube.com/shorts/MrlJQXOmTgo"/>
+        <updated>2026-05-29T12:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with Python & JavaScript – MERN Stack Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=V1JmI5sUc5E</id>
+        <link href="https://www.youtube.com/watch?v=V1JmI5sUc5E"/>
+        <updated>2026-05-29T10:00:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why in-person conferences still matter these days]]></title>
         <id>https://www.youtube.com/shorts/r-CKT4J14uM</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/watch?v=2-ZqK1GVQ5U</id>
         <link href="https://www.youtube.com/watch?v=2-ZqK1GVQ5U"/>
         <updated>2026-05-19T14:12:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
-        <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
-        <link href="https://www.youtube.com/shorts/l0fEgTBT50M"/>
-        <updated>2026-05-19T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to learn a new skill in a vacuum - build with a goal in mind]]></title>
-        <id>https://www.youtube.com/shorts/g4Jne1qDDhU</id>
-        <link href="https://www.youtube.com/shorts/g4Jne1qDDhU"/>
-        <updated>2026-05-18T12:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
