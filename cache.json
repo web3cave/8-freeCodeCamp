@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/J6t5ev2Z9yk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/J6t5ev2Z9yk",
+          "publishedOn": "2026-05-31T12:43:26.000Z",
+          "wordCount": 2121,
+          "title": "How Jessica \"accidentally\" became a developer while living and working in Japan",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/5Cm0Lr-HPDk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5Cm0Lr-HPDk",
           "publishedOn": "2026-05-30T12:32:19.000Z",
-          "wordCount": 2142,
+          "wordCount": 2202,
           "title": "Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MrlJQXOmTgo",
           "publishedOn": "2026-05-29T12:18:28.000Z",
-          "wordCount": 2506,
+          "wordCount": 2111,
           "title": "Here's a little programming challenge for you: can you figure out the output of this code?",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r-CKT4J14uM",
           "publishedOn": "2026-05-28T11:52:27.000Z",
-          "wordCount": 2067,
+          "wordCount": 2102,
           "title": "Why in-person conferences still matter these days",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z76TrtlL930",
           "publishedOn": "2026-05-27T12:29:41.000Z",
-          "wordCount": 2107,
+          "wordCount": 2103,
           "title": "Here's a fun exercize for ChatGPT",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "publishedOn": "2026-05-26T12:05:30.000Z",
-          "wordCount": 2068,
+          "wordCount": 2349,
           "title": "Get started using Three.js without having to use npm",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
           "publishedOn": "2026-05-25T12:17:24.000Z",
-          "wordCount": 2098,
+          "wordCount": 2095,
           "title": "Is your job costing you your health?",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y-uopI6VtE4",
           "publishedOn": "2026-05-24T12:43:24.000Z",
-          "wordCount": 2086,
+          "wordCount": 2108,
           "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rN4qvA2K8lA",
           "publishedOn": "2026-05-23T12:32:23.000Z",
-          "wordCount": 2099,
+          "wordCount": 2246,
           "title": "In life, things should be important or enjoyable - or ideally both",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
           "publishedOn": "2026-05-22T12:18:22.000Z",
-          "wordCount": 2101,
+          "wordCount": 2098,
           "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
           "imageUrl": null
         },
@@ -141,18 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
           "publishedOn": "2026-05-21T11:52:24.000Z",
-          "wordCount": 2075,
+          "wordCount": 2102,
           "title": "How many devs actually use that whole million-token context window...?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1SKV4B_WPkg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1SKV4B_WPkg",
-          "publishedOn": "2026-05-20T12:30:07.000Z",
-          "wordCount": 2049,
-          "title": "Why did the dev go broke?",
           "imageUrl": null
         }
       ]
