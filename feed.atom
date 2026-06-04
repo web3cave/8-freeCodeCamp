@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-03T10:47:27.537Z</id>
+    <id>urn:2026-06-04T09:46:53.757Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-03T10:47:27.537Z</updated>
+    <updated>2026-06-04T09:46:53.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Docker – Full DevOps Course for Deploying Containerized Apps]]></title>
+        <id>https://www.youtube.com/watch?v=rjjES5IsPdg</id>
+        <link href="https://www.youtube.com/watch?v=rjjES5IsPdg"/>
+        <updated>2026-06-03T13:59:13.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you help a company solve a problem - and will they let you in and learn from you?]]></title>
+        <id>https://www.youtube.com/shorts/jNjaBcxaJ7Y</id>
+        <link href="https://www.youtube.com/shorts/jNjaBcxaJ7Y"/>
+        <updated>2026-06-03T12:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sometimes, the more you learn about something, the more curious you become. Follow that curiosity.]]></title>
         <id>https://www.youtube.com/shorts/-sYDCt_NFIM</id>
@@ -126,26 +145,6 @@
         <id>https://www.youtube.com/shorts/y8aYytIyzqs</id>
         <link href="https://www.youtube.com/shorts/y8aYytIyzqs"/>
         <updated>2026-05-25T12:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the beginning, Amazon sold...1 book. In its first week. What a start.]]></title>
-        <id>https://www.youtube.com/shorts/y-uopI6VtE4</id>
-        <link href="https://www.youtube.com/shorts/y-uopI6VtE4"/>
-        <updated>2026-05-24T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In life, things should be important or enjoyable - or ideally both]]></title>
-        <id>https://www.youtube.com/shorts/rN4qvA2K8lA</id>
-        <link href="https://www.youtube.com/shorts/rN4qvA2K8lA"/>
-        <updated>2026-05-23T12:32:23.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
