@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/FVgbs2wvKmE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FVgbs2wvKmE",
+          "publishedOn": "2026-06-04T11:52:40.000Z",
+          "wordCount": 2227,
+          "title": "The first webcam was invented to watch...coffee?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rjjES5IsPdg",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jNjaBcxaJ7Y",
           "publishedOn": "2026-06-03T12:29:25.000Z",
-          "wordCount": 2153,
+          "wordCount": 2150,
           "title": "Can you help a company solve a problem - and will they let you in and learn from you?",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-sYDCt_NFIM",
           "publishedOn": "2026-06-02T12:05:34.000Z",
-          "wordCount": 2126,
+          "wordCount": 2165,
           "title": "Sometimes, the more you learn about something, the more curious you become. Follow that curiosity.",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nVD3pUEaTjU",
           "publishedOn": "2026-06-01T12:17:29.000Z",
-          "wordCount": 2095,
+          "wordCount": 2083,
           "title": "Did you know...Instagram didn't start off as a photo-sharing app?",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/J6t5ev2Z9yk",
           "publishedOn": "2026-05-31T12:43:26.000Z",
-          "wordCount": 2122,
+          "wordCount": 2039,
           "title": "How Jessica \"accidentally\" became a developer while living and working in Japan",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5Cm0Lr-HPDk",
           "publishedOn": "2026-05-30T12:32:19.000Z",
-          "wordCount": 2221,
+          "wordCount": 2284,
           "title": "Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MrlJQXOmTgo",
           "publishedOn": "2026-05-29T12:18:28.000Z",
-          "wordCount": 2136,
+          "wordCount": 2112,
           "title": "Here's a little programming challenge for you: can you figure out the output of this code?",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r-CKT4J14uM",
           "publishedOn": "2026-05-28T11:52:27.000Z",
-          "wordCount": 2067,
+          "wordCount": 2073,
           "title": "Why in-person conferences still matter these days",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z76TrtlL930",
           "publishedOn": "2026-05-27T12:29:41.000Z",
-          "wordCount": 2273,
+          "wordCount": 2129,
           "title": "Here's a fun exercize for ChatGPT",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "publishedOn": "2026-05-26T12:05:30.000Z",
-          "wordCount": 2226,
+          "wordCount": 2080,
           "title": "Get started using Three.js without having to use npm",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-05-26T10:30:31.000Z",
           "wordCount": null,
           "title": "Production RAG with LangChain & Vector Databases – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/y8aYytIyzqs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
-          "publishedOn": "2026-05-25T12:17:24.000Z",
-          "wordCount": 2114,
-          "title": "Is your job costing you your health?",
           "imageUrl": null
         }
       ]
