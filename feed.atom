@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-08T10:24:17.620Z</id>
+    <id>urn:2026-06-09T09:29:50.865Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-08T10:24:17.620Z</updated>
+    <updated>2026-06-09T09:29:50.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping for Beginners –  Extract Data with an API]]></title>
+        <id>https://www.youtube.com/watch?v=j6hnjNhx_MM</id>
+        <link href="https://www.youtube.com/watch?v=j6hnjNhx_MM"/>
+        <updated>2026-06-08T23:24:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...]]></title>
+        <id>https://www.youtube.com/shorts/JZeJc9Z7dOg</id>
+        <link href="https://www.youtube.com/shorts/JZeJc9Z7dOg"/>
+        <updated>2026-06-08T12:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organizing a huge hackathon like TreeHacks is no small feat...but for Rachel, it was so worth it.]]></title>
         <id>https://www.youtube.com/shorts/5bL1WhHj668</id>
@@ -127,26 +146,6 @@
         <id>https://www.youtube.com/watch?v=mT_Jjn8RJdo</id>
         <link href="https://www.youtube.com/watch?v=mT_Jjn8RJdo"/>
         <updated>2026-05-28T10:00:14.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a fun exercize for ChatGPT]]></title>
-        <id>https://www.youtube.com/shorts/z76TrtlL930</id>
-        <link href="https://www.youtube.com/shorts/z76TrtlL930"/>
-        <updated>2026-05-27T12:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get started using Three.js without having to use npm]]></title>
-        <id>https://www.youtube.com/shorts/au7zDlkpOAA</id>
-        <link href="https://www.youtube.com/shorts/au7zDlkpOAA"/>
-        <updated>2026-05-26T12:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
