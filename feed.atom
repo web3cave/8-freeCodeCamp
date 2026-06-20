@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T10:16:38.488Z</id>
+    <id>urn:2026-06-20T08:45:12.589Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-19T10:16:38.488Z</updated>
+    <updated>2026-06-20T08:45:12.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own OpenClaw Using Vercel, Composio, Supermemory]]></title>
+        <id>https://www.youtube.com/watch?v=hIh2O9OL69o</id>
+        <link href="https://www.youtube.com/watch?v=hIh2O9OL69o"/>
+        <updated>2026-06-19T10:39:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why apps designed by AI look like apps designed by AI - and why skilled designers still matter]]></title>
         <id>https://www.youtube.com/shorts/JoX93gO6eko</id>
@@ -137,15 +146,6 @@
         <link href="https://www.youtube.com/shorts/-sYDCt_NFIM"/>
         <updated>2026-06-02T12:05:34.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own AI Agent – Full Course with OpenAI, Langchain, Render Deployment]]></title>
-        <id>https://www.youtube.com/watch?v=MnG0ugK2JAI</id>
-        <link href="https://www.youtube.com/watch?v=MnG0ugK2JAI"/>
-        <updated>2026-06-02T10:00:09.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
