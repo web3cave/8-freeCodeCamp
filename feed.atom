@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T11:40:58.525Z</id>
+    <id>urn:2026-06-23T09:27:30.114Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-22T11:40:58.525Z</updated>
+    <updated>2026-06-23T09:27:30.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Build Your Own OpenClaw Using Vercel, Composio, Supermemory]]></title>
+        <title type="html"><![CDATA[Build an AI Agent in Telegram with Vercel, Cursor, Composio]]></title>
         <id>https://www.youtube.com/watch?v=hIh2O9OL69o</id>
         <link href="https://www.youtube.com/watch?v=hIh2O9OL69o"/>
         <updated>2026-06-19T10:39:48.000Z</updated>
