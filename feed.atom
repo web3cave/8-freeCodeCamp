@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-23T09:27:30.114Z</id>
+    <id>urn:2026-06-24T08:56:46.895Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-23T09:27:30.114Z</updated>
+    <updated>2026-06-24T08:56:46.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notion Workers – Full Tutorial 2026]]></title>
+        <id>https://www.youtube.com/watch?v=SWGFVNQNLm4</id>
+        <link href="https://www.youtube.com/watch?v=SWGFVNQNLm4"/>
+        <updated>2026-06-23T11:30:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an AI Agent in Telegram with Vercel, Cursor, Composio]]></title>
         <id>https://www.youtube.com/watch?v=hIh2O9OL69o</id>
@@ -135,16 +144,6 @@
         <id>https://www.youtube.com/shorts/jNjaBcxaJ7Y</id>
         <link href="https://www.youtube.com/shorts/jNjaBcxaJ7Y"/>
         <updated>2026-06-03T12:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes, the more you learn about something, the more curious you become. Follow that curiosity.]]></title>
-        <id>https://www.youtube.com/shorts/-sYDCt_NFIM</id>
-        <link href="https://www.youtube.com/shorts/-sYDCt_NFIM"/>
-        <updated>2026-06-02T12:05:34.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
