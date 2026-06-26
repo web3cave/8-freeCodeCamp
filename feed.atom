@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-25T08:51:21.419Z</id>
+    <id>urn:2026-06-26T08:53:59.349Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-25T08:51:21.419Z</updated>
+    <updated>2026-06-26T08:53:59.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling Your AI Models with Micro-DDP – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=7q4D6_3syuE</id>
+        <link href="https://www.youtube.com/watch?v=7q4D6_3syuE"/>
+        <updated>2026-06-25T10:00:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion Workers – Full Tutorial 2026]]></title>
         <id>https://www.youtube.com/watch?v=SWGFVNQNLm4</id>
@@ -135,16 +144,6 @@
         <id>https://www.youtube.com/watch?v=rjjES5IsPdg</id>
         <link href="https://www.youtube.com/watch?v=rjjES5IsPdg"/>
         <updated>2026-06-03T13:59:13.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you help a company solve a problem - and will they let you in and learn from you?]]></title>
-        <id>https://www.youtube.com/shorts/jNjaBcxaJ7Y</id>
-        <link href="https://www.youtube.com/shorts/jNjaBcxaJ7Y"/>
-        <updated>2026-06-03T12:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
