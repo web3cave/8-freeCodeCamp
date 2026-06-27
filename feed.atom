@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-26T08:53:59.349Z</id>
+    <id>urn:2026-06-27T08:28:50.248Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-26T08:53:59.349Z</updated>
+    <updated>2026-06-27T08:28:50.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Hackers Think]]></title>
+        <id>https://www.youtube.com/watch?v=lz9bQm3nZIM</id>
+        <link href="https://www.youtube.com/watch?v=lz9bQm3nZIM"/>
+        <updated>2026-06-26T10:00:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling Your AI Models with Micro-DDP – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=7q4D6_3syuE</id>
@@ -135,15 +144,6 @@
         <link href="https://www.youtube.com/shorts/FVgbs2wvKmE"/>
         <updated>2026-06-04T11:52:40.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Docker – Full DevOps Course for Deploying Containerized Apps]]></title>
-        <id>https://www.youtube.com/watch?v=rjjES5IsPdg</id>
-        <link href="https://www.youtube.com/watch?v=rjjES5IsPdg"/>
-        <updated>2026-06-03T13:59:13.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
