@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T09:34:36.558Z</id>
+    <id>urn:2026-07-02T08:45:22.926Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T09:34:36.558Z</updated>
+    <updated>2026-07-02T08:45:22.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript Dates and Times – Fundamentals to Advanced Techniques]]></title>
+        <id>https://www.youtube.com/watch?v=2WJ-ut_XEYQ</id>
+        <link href="https://www.youtube.com/watch?v=2WJ-ut_XEYQ"/>
+        <updated>2026-07-01T11:19:43.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Command Line Basics for Beginners - Full Course]]></title>
         <id>https://www.youtube.com/watch?v=mABpAI-pCw0</id>
@@ -132,16 +141,6 @@
         <id>https://www.youtube.com/shorts/JZeJc9Z7dOg</id>
         <link href="https://www.youtube.com/shorts/JZeJc9Z7dOg"/>
         <updated>2026-06-08T12:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizing a huge hackathon like TreeHacks is no small feat...but for Rachel, it was so worth it.]]></title>
-        <id>https://www.youtube.com/shorts/5bL1WhHj668</id>
-        <link href="https://www.youtube.com/shorts/5bL1WhHj668"/>
-        <updated>2026-06-06T12:32:22.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
