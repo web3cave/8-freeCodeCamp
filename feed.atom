@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-07T09:29:49.862Z</id>
+    <id>urn:2026-07-08T08:14:12.003Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-07T09:29:49.862Z</updated>
+    <updated>2026-07-08T08:14:12.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agents For Beginners – OpenClaw Case Study]]></title>
+        <id>https://www.youtube.com/watch?v=AZDSpS5v57w</id>
+        <link href="https://www.youtube.com/watch?v=AZDSpS5v57w"/>
+        <updated>2026-07-07T12:13:50.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why problem-solving is key for developers]]></title>
+        <id>https://www.youtube.com/shorts/heht1VB09fI</id>
+        <link href="https://www.youtube.com/shorts/heht1VB09fI"/>
+        <updated>2026-07-07T12:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every Major AWS Outage (And Why They Keep Happening)]]></title>
         <id>https://www.youtube.com/watch?v=6C14E9sQ_-w</id>
@@ -122,25 +141,6 @@
         <link href="https://www.youtube.com/shorts/MrnOWLtCLas"/>
         <updated>2026-06-12T12:18:36.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS logical properties change how you code - and Chris breaks it down here.]]></title>
-        <id>https://www.youtube.com/shorts/kEBXszEhC0U</id>
-        <link href="https://www.youtube.com/shorts/kEBXszEhC0U"/>
-        <updated>2026-06-10T12:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping for Beginners –  Extract Data with an API]]></title>
-        <id>https://www.youtube.com/watch?v=j6hnjNhx_MM</id>
-        <link href="https://www.youtube.com/watch?v=j6hnjNhx_MM"/>
-        <updated>2026-06-08T23:24:07.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
