@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/osOR3nusP2I",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/osOR3nusP2I",
+          "publishedOn": "2026-07-09T11:52:21.000Z",
+          "wordCount": 3258,
+          "title": "Learning how to ask good questions is a key skill you should work on",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aJP1AbZSqz8",
           "author": null,
           "description": "",
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 2070,
+          "wordCount": 2135,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JoX93gO6eko",
           "publishedOn": "2026-06-18T11:52:38.000Z",
-          "wordCount": 3312,
+          "wordCount": 2147,
           "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tHhiB1kA5Zw",
           "publishedOn": "2026-06-16T12:23:43.000Z",
-          "wordCount": 2138,
+          "wordCount": 2156,
           "title": "Learning a new skill is tough. But as Jessica says, the only way to fail is to stop & not come back.",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-06-15T11:47:23.000Z",
           "wordCount": null,
           "title": "Build a Self-Healing CI/CD Pipeline with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/9z_7WC8n5sY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/9z_7WC8n5sY",
-          "publishedOn": "2026-06-14T12:43:23.000Z",
-          "wordCount": 2557,
-          "title": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it?",
           "imageUrl": null
         }
       ]

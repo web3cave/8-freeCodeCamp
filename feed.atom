@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-09T09:26:58.591Z</id>
+    <id>urn:2026-07-10T09:23:13.560Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-09T09:26:58.591Z</updated>
+    <updated>2026-07-10T09:23:13.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning how to ask good questions is a key skill you should work on]]></title>
+        <id>https://www.youtube.com/shorts/osOR3nusP2I</id>
+        <link href="https://www.youtube.com/shorts/osOR3nusP2I"/>
+        <updated>2026-07-09T11:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript in React - Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=aJP1AbZSqz8</id>
@@ -130,16 +140,6 @@
         <id>https://www.youtube.com/watch?v=vj68el9hRvU</id>
         <link href="https://www.youtube.com/watch?v=vj68el9hRvU"/>
         <updated>2026-06-15T11:47:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["I just like computers" - sounds like reason enough to work in tech, doesn't it?]]></title>
-        <id>https://www.youtube.com/shorts/9z_7WC8n5sY</id>
-        <link href="https://www.youtube.com/shorts/9z_7WC8n5sY"/>
-        <updated>2026-06-14T12:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
