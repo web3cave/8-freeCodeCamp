@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-13T08:55:55.366Z</id>
+    <id>urn:2026-07-14T07:51:39.630Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-13T08:55:55.366Z</updated>
+    <updated>2026-07-14T07:51:39.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React Native Full Stack Course – Clerk, Postgres, NativeWind]]></title>
+        <id>https://www.youtube.com/watch?v=4GtVeULrNks</id>
+        <link href="https://www.youtube.com/watch?v=4GtVeULrNks"/>
+        <updated>2026-07-13T11:44:58.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 20 Minute Masterpiece: Dijkstra's Algorithm]]></title>
         <id>https://www.youtube.com/watch?v=n1VUnHD62r0</id>
@@ -130,16 +139,6 @@
         <id>https://www.youtube.com/watch?v=rQxPGqPq8wk</id>
         <link href="https://www.youtube.com/watch?v=rQxPGqPq8wk"/>
         <updated>2026-06-18T10:09:25.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning a new skill is tough. But as Jessica says, the only way to fail is to stop & not come back.]]></title>
-        <id>https://www.youtube.com/shorts/tHhiB1kA5Zw</id>
-        <link href="https://www.youtube.com/shorts/tHhiB1kA5Zw"/>
-        <updated>2026-06-16T12:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
