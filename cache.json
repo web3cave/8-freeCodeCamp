@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oDOw5tB3Udw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oDOw5tB3Udw",
+          "publishedOn": "2026-07-16T11:24:01.000Z",
+          "wordCount": null,
+          "title": "Python for Beginners with Hands-On Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YdhXnB5E-4s",
           "author": null,
           "description": "",
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 2073,
+          "wordCount": 2128,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 2120,
+          "wordCount": 2052,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-06-19T10:39:48.000Z",
           "wordCount": null,
           "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/JoX93gO6eko",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/JoX93gO6eko",
-          "publishedOn": "2026-06-18T11:52:38.000Z",
-          "wordCount": 2092,
-          "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
           "imageUrl": null
         }
       ]
