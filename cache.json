@@ -6,14 +6,24 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+          "publishedOn": "2026-07-20T10:00:18.000Z",
+          "wordCount": null,
+          "title": "Claude Certified Architect - Foundations – Prepare for and pass the exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "description": "You've probably heard the phrase \"fake it 'til you make it\", right? Well, Mark was once asked to teach a college course...that started the next day. He decid...",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 3399,
+          "wordCount": 2432,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
-          "imageUrl": null
+          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBZD_OYb-ahRfiCeFxuaLoVe-PSyg&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=PVAstrvWPkQ",
@@ -68,12 +78,12 @@
         {
           "id": "https://www.youtube.com/shorts/osOR3nusP2I",
           "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "description": "Learning how to ask good questions is a key skill you should work on. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3310,
+          "wordCount": 2345,
           "title": "Learning how to ask good questions is a key skill you should work on",
-          "imageUrl": null
+          "imageUrl": "https://i.ytimg.com/vi/osOR3nusP2I/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC6GHeiYX1ENY0qWTsGanJWs2nM4Q&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=aJP1AbZSqz8",
@@ -98,12 +108,12 @@
         {
           "id": "https://www.youtube.com/shorts/heht1VB09fI",
           "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "description": "It may sound basic, but problem solving is one of the most important skills you can develop - as a dev, and as a human. Mark talks about what that looks like...",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 2075,
+          "wordCount": 2436,
           "title": "Why problem-solving is key for developers",
-          "imageUrl": null
+          "imageUrl": "https://i.ytimg.com/vi/heht1VB09fI/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD_27IRYHdWKFannZlxMugq4nhbIw&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=6C14E9sQ_-w",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-06-26T10:00:07.000Z",
           "wordCount": null,
           "title": "How Hackers Think",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7q4D6_3syuE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7q4D6_3syuE",
-          "publishedOn": "2026-06-25T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Scaling Your AI Models with Micro-DDP – Tutorial",
           "imageUrl": null
         }
       ]
