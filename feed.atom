@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T08:13:48.159Z</id>
+    <id>urn:2026-07-22T08:14:34.724Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-21T08:13:48.159Z</updated>
+    <updated>2026-07-22T08:14:34.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?]]></title>
+        <id>https://www.youtube.com/shorts/_kNabHEZQlo</id>
+        <link href="https://www.youtube.com/shorts/_kNabHEZQlo"/>
+        <updated>2026-07-21T12:05:59.000Z</updated>
+        <summary type="html"><![CDATA[It's 1956. Edsgar Dijkstra takes his girlfriend shopping. And in 20 minutes, he's invented one of the most important algorithms in history. Estefania tells y...]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Certified Architect - Foundations – Prepare for and pass the exam!]]></title>
         <id>https://www.youtube.com/watch?v=reDRM0tqhNs</id>
@@ -130,15 +140,6 @@
         <id>https://www.youtube.com/watch?v=mABpAI-pCw0</id>
         <link href="https://www.youtube.com/watch?v=mABpAI-pCw0"/>
         <updated>2026-06-30T10:00:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hackers Think]]></title>
-        <id>https://www.youtube.com/watch?v=lz9bQm3nZIM</id>
-        <link href="https://www.youtube.com/watch?v=lz9bQm3nZIM"/>
-        <updated>2026-06-26T10:00:07.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
