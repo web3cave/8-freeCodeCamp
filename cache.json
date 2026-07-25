@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bYgphDEWwvs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bYgphDEWwvs",
+          "publishedOn": "2026-07-24T14:05:02.000Z",
+          "wordCount": null,
+          "title": "TypeScript in Express – TypeScript Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yVga-_gMfIM",
           "author": null,
           "description": "",
@@ -21,7 +31,7 @@
           "description": "It's 1956. Edsgar Dijkstra takes his girlfriend shopping. And in 20 minutes, he's invented one of the most important algorithms in history. Estefania tells y...",
           "link": "https://www.youtube.com/shorts/_kNabHEZQlo",
           "publishedOn": "2026-07-21T12:05:59.000Z",
-          "wordCount": 3771,
+          "wordCount": 3371,
           "title": "Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?",
           "imageUrl": "https://i.ytimg.com/vi/_kNabHEZQlo/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCLt92QGFhTwO9ZSzSoxTqk0LeMiA"
         },
@@ -41,9 +51,9 @@
           "description": "You've probably heard the phrase \"fake it 'til you make it\", right? Well, Mark was once asked to teach a college course...that started the next day. He decid...",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 3423,
+          "wordCount": 3832,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
-          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEnCJUDENAFSFqQAgHyq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gBuAIZ&rs=AOn4CLBxYeYDxhUHyumZXvwEIfgmVXQlhA&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEnCJUDENAFSFqQAgHyq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gBuAIY&rs=AOn4CLBMQiPKrJlDmDr9uYLxrhwVGd6ofQ&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=PVAstrvWPkQ",
@@ -101,7 +111,7 @@
           "description": "Learning how to ask good questions is a key skill you should work on. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3504,
+          "wordCount": 4840,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": "https://i.ytimg.com/vi/osOR3nusP2I/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC6GHeiYX1ENY0qWTsGanJWs2nM4Q&usqp=CCk"
         },
@@ -131,7 +141,7 @@
           "description": "It may sound basic, but problem solving is one of the most important skills you can develop - as a dev, and as a human. Mark talks about what that looks like...",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 3503,
+          "wordCount": 3341,
           "title": "Why problem-solving is key for developers",
           "imageUrl": "https://i.ytimg.com/vi/heht1VB09fI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBMY3JXt3D460P1wogX1N4NNNWUvQ&usqp=CCk"
         },
@@ -143,16 +153,6 @@
           "publishedOn": "2026-07-03T15:06:01.000Z",
           "wordCount": null,
           "title": "Every Major AWS Outage (And Why They Keep Happening)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2WJ-ut_XEYQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2WJ-ut_XEYQ",
-          "publishedOn": "2026-07-01T11:19:43.000Z",
-          "wordCount": null,
-          "title": "Mastering JavaScript Dates and Times – Fundamentals to Advanced Techniques",
           "imageUrl": null
         }
       ]
