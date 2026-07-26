@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-25T07:56:12.193Z</id>
+    <id>urn:2026-07-26T08:13:38.928Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-25T07:56:12.193Z</updated>
+    <updated>2026-07-26T08:13:38.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI won't necessarily displace skilled devs - it'll just move their value up the chain]]></title>
+        <id>https://www.youtube.com/shorts/O3foXkb1Zos</id>
+        <link href="https://www.youtube.com/shorts/O3foXkb1Zos"/>
+        <updated>2026-07-25T12:32:34.000Z</updated>
+        <summary type="html"><![CDATA[AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript in Express – TypeScript Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=bYgphDEWwvs</id>
@@ -131,15 +141,6 @@
         <link href="https://www.youtube.com/shorts/heht1VB09fI"/>
         <updated>2026-07-07T12:05:27.000Z</updated>
         <summary type="html"><![CDATA[It may sound basic, but problem solving is one of the most important skills you can develop - as a dev, and as a human. Mark talks about what that looks like...]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Major AWS Outage (And Why They Keep Happening)]]></title>
-        <id>https://www.youtube.com/watch?v=6C14E9sQ_-w</id>
-        <link href="https://www.youtube.com/watch?v=6C14E9sQ_-w"/>
-        <updated>2026-07-03T15:06:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
