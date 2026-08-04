@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T09:31:26.653Z</id>
+    <id>urn:2026-08-04T08:26:17.212Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-03T09:31:26.653Z</updated>
+    <updated>2026-08-04T08:26:17.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Low-Level Graphics in C – Pixel Manipulation and Frame Buffers]]></title>
+        <id>https://www.youtube.com/watch?v=wDWKUvTKCaw</id>
+        <link href="https://www.youtube.com/watch?v=wDWKUvTKCaw"/>
+        <updated>2026-08-03T11:36:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Operator Best Practices – Kubebuilder Deep Dive]]></title>
         <id>https://www.youtube.com/watch?v=hAsz5GAbBQE</id>
@@ -132,15 +141,6 @@
         <id>https://www.youtube.com/watch?v=YdhXnB5E-4s</id>
         <link href="https://www.youtube.com/watch?v=YdhXnB5E-4s"/>
         <updated>2026-07-15T11:17:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Full Stack Course – Clerk, Postgres, NativeWind]]></title>
-        <id>https://www.youtube.com/watch?v=4GtVeULrNks</id>
-        <link href="https://www.youtube.com/watch?v=4GtVeULrNks"/>
-        <updated>2026-07-13T11:44:58.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
