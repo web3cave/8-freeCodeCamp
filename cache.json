@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+          "publishedOn": "2026-08-05T11:00:27.000Z",
+          "wordCount": null,
+          "title": "Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
           "author": null,
           "description": "",
@@ -41,9 +51,9 @@
           "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
           "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
           "publishedOn": "2026-07-30T11:52:26.000Z",
-          "wordCount": 3522,
+          "wordCount": 3294,
           "title": "Project-based learning is a popular way to teach these days",
-          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEnCJUDENAFSFqQAgHyq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gBuAIZ&rs=AOn4CLDReWPgcG3BPbmFRGpZNLQy54jgnA&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
@@ -51,7 +61,7 @@
           "description": "Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the \"T\" stands for in ChatGPT, just FYI. Ania tells you all about it h...",
           "link": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
           "publishedOn": "2026-07-28T12:05:32.000Z",
-          "wordCount": 3618,
+          "wordCount": 3559,
           "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
           "imageUrl": "https://i.ytimg.com/vi/lFXt6mBEiTQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjmoIsuuMf0V2QZJPdUaT0JmctXQ&usqp=CCk"
         },
@@ -71,7 +81,7 @@
           "description": "AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/O3foXkb1Zos",
           "publishedOn": "2026-07-25T12:32:34.000Z",
-          "wordCount": 3645,
+          "wordCount": 3632,
           "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
           "imageUrl": "https://i.ytimg.com/vi/O3foXkb1Zos/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBz1XStIjR48KWLO6jgsB1uOk-bdw&usqp=CCk"
         },
@@ -101,7 +111,7 @@
           "description": "It's 1956. Edsgar Dijkstra takes his girlfriend shopping. And in 20 minutes, he's invented one of the most important algorithms in history. Estefania tells y...",
           "link": "https://www.youtube.com/shorts/_kNabHEZQlo",
           "publishedOn": "2026-07-21T12:05:59.000Z",
-          "wordCount": 3564,
+          "wordCount": 3520,
           "title": "Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?",
           "imageUrl": "https://i.ytimg.com/vi/_kNabHEZQlo/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCLt92QGFhTwO9ZSzSoxTqk0LeMiA"
         },
@@ -121,9 +131,9 @@
           "description": "You've probably heard the phrase \"fake it 'til you make it\", right? Well, Mark was once asked to teach a college course...that started the next day. He decid...",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 3570,
+          "wordCount": 3555,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
-          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDKzuUQ83NouskBSHVfUjuWQcb4Pg&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBZD_OYb-ahRfiCeFxuaLoVe-PSyg&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=PVAstrvWPkQ",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-07-16T11:24:01.000Z",
           "wordCount": null,
           "title": "Python for Beginners with Hands-On Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YdhXnB5E-4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YdhXnB5E-4s",
-          "publishedOn": "2026-07-15T11:17:50.000Z",
-          "wordCount": null,
-          "title": "Intro to Shaders – JavaScript & p5.js Course for Beginners",
           "imageUrl": null
         }
       ]
