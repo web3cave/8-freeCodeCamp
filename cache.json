@@ -101,9 +101,9 @@
           "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
           "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
           "publishedOn": "2026-07-30T11:52:26.000Z",
-          "wordCount": 4135,
+          "wordCount": 3707,
           "title": "Project-based learning is a popular way to teach these days",
-          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBSbgWdobtuR4zZM75qZaT9DEwspg&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
@@ -111,7 +111,7 @@
           "description": "Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the \"T\" stands for in ChatGPT, just FYI. Ania tells you all about it h...",
           "link": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
           "publishedOn": "2026-07-28T12:05:32.000Z",
-          "wordCount": 3912,
+          "wordCount": 3468,
           "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
           "imageUrl": "https://i.ytimg.com/vi/lFXt6mBEiTQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjmoIsuuMf0V2QZJPdUaT0JmctXQ&usqp=CCk"
         },
@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "3D Printing & Additive Manufacturing – Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O3foXkb1Zos",
-          "author": null,
-          "description": "AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
-          "link": "https://www.youtube.com/shorts/O3foXkb1Zos",
-          "publishedOn": "2026-07-25T12:32:34.000Z",
-          "wordCount": 3320,
-          "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
-          "imageUrl": "https://i.ytimg.com/vi/O3foXkb1Zos/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBz1XStIjR48KWLO6jgsB1uOk-bdw&usqp=CCk"
         }
       ]
     }
