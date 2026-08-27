@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+          "publishedOn": "2026-08-26T15:08:03.000Z",
+          "wordCount": null,
+          "title": "Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g3X8JauSWTM",
           "author": null,
           "description": "",
@@ -111,29 +121,9 @@
           "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
           "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
           "publishedOn": "2026-07-30T11:52:26.000Z",
-          "wordCount": 3316,
+          "wordCount": 3477,
           "title": "Project-based learning is a popular way to teach these days",
           "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
-          "author": null,
-          "description": "Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the \"T\" stands for in ChatGPT, just FYI. Ania tells you all about it h...",
-          "link": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
-          "publishedOn": "2026-07-28T12:05:32.000Z",
-          "wordCount": 3413,
-          "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
-          "imageUrl": "https://i.ytimg.com/vi/lFXt6mBEiTQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjmoIsuuMf0V2QZJPdUaT0JmctXQ&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XMnRj4ooYz8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XMnRj4ooYz8",
-          "publishedOn": "2026-07-28T10:00:06.000Z",
-          "wordCount": null,
-          "title": "3D Printing & Additive Manufacturing – Full Course",
-          "imageUrl": null
         }
       ]
     }
