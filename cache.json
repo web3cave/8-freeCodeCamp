@@ -104,26 +104,6 @@
           "wordCount": null,
           "title": "Kubernetes Operator Best Practices – Kubebuilder Deep Dive",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
-          "publishedOn": "2026-07-30T14:04:08.000Z",
-          "wordCount": null,
-          "title": "Agentic AI – Complete Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/YHQWuLG78Hw",
-          "author": null,
-          "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
-          "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
-          "publishedOn": "2026-07-30T11:52:26.000Z",
-          "wordCount": 3448,
-          "title": "Project-based learning is a popular way to teach these days",
-          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-28T18:00:01.049Z</id>
+    <id>urn:2026-08-29T12:05:56.485Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-28T18:00:01.049Z</updated>
+    <updated>2026-08-29T12:05:56.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,25 +91,6 @@
         <id>https://www.youtube.com/watch?v=hAsz5GAbBQE</id>
         <link href="https://www.youtube.com/watch?v=hAsz5GAbBQE"/>
         <updated>2026-07-31T15:59:06.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI – Complete Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=Zy7EXDONlTY</id>
-        <link href="https://www.youtube.com/watch?v=Zy7EXDONlTY"/>
-        <updated>2026-07-30T14:04:08.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project-based learning is a popular way to teach these days]]></title>
-        <id>https://www.youtube.com/shorts/YHQWuLG78Hw</id>
-        <link href="https://www.youtube.com/shorts/YHQWuLG78Hw"/>
-        <updated>2026-07-30T11:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
