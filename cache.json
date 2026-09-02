@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+          "publishedOn": "2026-09-01T14:57:53.000Z",
+          "wordCount": null,
+          "title": "Excel Formulas & Functions – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
           "author": null,
           "description": "",
@@ -83,16 +93,6 @@
           "publishedOn": "2026-08-05T11:00:27.000Z",
           "wordCount": null,
           "title": "Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
-          "publishedOn": "2026-08-03T11:36:12.000Z",
-          "wordCount": null,
-          "title": "Low-Level Graphics in C – Pixel Manipulation and Frame Buffers",
           "imageUrl": null
         }
       ]
