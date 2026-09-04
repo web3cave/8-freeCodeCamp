@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
+          "publishedOn": "2026-09-03T13:38:43.000Z",
+          "wordCount": null,
+          "title": "Inside the AI Hardware Engine – Full Semiconductor Supply Chain Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
           "author": null,
           "description": "",
@@ -83,16 +93,6 @@
           "publishedOn": "2026-08-11T10:15:25.000Z",
           "wordCount": null,
           "title": "Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
-          "publishedOn": "2026-08-05T11:00:27.000Z",
-          "wordCount": null,
-          "title": "Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup",
           "imageUrl": null
         }
       ]
