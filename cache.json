@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kLZgQWjnUz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kLZgQWjnUz0",
+          "publishedOn": "2026-09-09T13:46:04.000Z",
+          "wordCount": null,
+          "title": "Learn Python – Interactive Course 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "author": null,
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3480,
+          "wordCount": 3451,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-08-14T10:00:24.000Z",
           "wordCount": null,
           "title": "System Design for AI Agents – Building a Multi-Agent PR Reviewer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
-          "publishedOn": "2026-08-11T10:15:25.000Z",
-          "wordCount": null,
-          "title": "Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation",
           "imageUrl": null
         }
       ]
