@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-15T10:49:59.862Z</id>
+    <id>urn:2026-09-16T10:39:06.283Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-15T10:49:59.862Z</updated>
+    <updated>2026-09-16T10:39:06.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=wY5pQOTsGaA</id>
+        <link href="https://www.youtube.com/watch?v=wY5pQOTsGaA"/>
+        <updated>2026-09-15T12:41:24.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Codex Crash Course – Build & Deploy Apps with Autonomous AI]]></title>
         <id>https://www.youtube.com/watch?v=o3CX_Y59_74</id>
