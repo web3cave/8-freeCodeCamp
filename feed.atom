@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-17T10:47:51.827Z</id>
+    <id>urn:2026-09-18T10:23:41.852Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-17T10:47:51.827Z</updated>
+    <updated>2026-09-18T10:23:41.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
+        <id>https://www.youtube.com/watch?v=BMYvfVk8Ar0</id>
+        <link href="https://www.youtube.com/watch?v=BMYvfVk8Ar0"/>
+        <updated>2026-09-17T13:32:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=wY5pQOTsGaA</id>
@@ -92,15 +101,6 @@
         <id>https://www.youtube.com/watch?v=RpLnQnurpLY</id>
         <link href="https://www.youtube.com/watch?v=RpLnQnurpLY"/>
         <updated>2026-08-20T10:14:35.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Reinforcement Learning Library in C from Scratch (Full Course)]]></title>
-        <id>https://www.youtube.com/watch?v=R5fPn6W8m6k</id>
-        <link href="https://www.youtube.com/watch?v=R5fPn6W8m6k"/>
-        <updated>2026-08-19T10:00:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
