@@ -51,9 +51,9 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3661,
+          "wordCount": 3444,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
-          "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLAGvyz-MaNRtCnHj-D7_tJuBnzD_g"
+          "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
         {
           "id": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
@@ -93,16 +93,6 @@
           "publishedOn": "2026-08-25T12:14:06.000Z",
           "wordCount": null,
           "title": "Stop Building AI Slop – Build High-End Web Apps with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jIo2ccqPnLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jIo2ccqPnLQ",
-          "publishedOn": "2026-08-21T11:00:31.000Z",
-          "wordCount": null,
-          "title": "The Paper That Created Modern AI",
           "imageUrl": null
         }
       ]
