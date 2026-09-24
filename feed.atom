@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-23T10:35:50.674Z</id>
+    <id>urn:2026-09-24T10:55:22.561Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-23T10:35:50.674Z</updated>
+    <updated>2026-09-24T10:55:22.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TimescaleDB Course – PostgreSQL for Time-Series Data]]></title>
+        <id>https://www.youtube.com/watch?v=gYTA8nQN030</id>
+        <link href="https://www.youtube.com/watch?v=gYTA8nQN030"/>
+        <updated>2026-09-23T10:30:04.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Certified Developer Foundations (CCDV-F) Certification Course]]></title>
         <id>https://www.youtube.com/watch?v=C_1QKZAcJjk</id>
@@ -83,15 +92,6 @@
         <id>https://www.youtube.com/watch?v=b-P5ZQ1NxxE</id>
         <link href="https://www.youtube.com/watch?v=b-P5ZQ1NxxE"/>
         <updated>2026-08-26T15:08:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building AI Slop – Build High-End Web Apps with AI]]></title>
-        <id>https://www.youtube.com/watch?v=g3X8JauSWTM</id>
-        <link href="https://www.youtube.com/watch?v=g3X8JauSWTM"/>
-        <updated>2026-08-25T12:14:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

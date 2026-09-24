@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gYTA8nQN030",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gYTA8nQN030",
+          "publishedOn": "2026-09-23T10:30:04.000Z",
+          "wordCount": null,
+          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
           "author": null,
           "description": "",
@@ -61,7 +71,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3586,
+          "wordCount": 3848,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-08-26T15:08:03.000Z",
           "wordCount": null,
           "title": "Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g3X8JauSWTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g3X8JauSWTM",
-          "publishedOn": "2026-08-25T12:14:06.000Z",
-          "wordCount": null,
-          "title": "Stop Building AI Slop – Build High-End Web Apps with AI",
           "imageUrl": null
         }
       ]
