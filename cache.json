@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FVN0t1vb7k8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FVN0t1vb7k8",
+          "publishedOn": "2026-09-24T14:28:39.000Z",
+          "wordCount": null,
+          "title": "Inside a Hong Kong Hackathon [Full Documentary]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gYTA8nQN030",
           "author": null,
           "description": "",
@@ -71,7 +81,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3848,
+          "wordCount": 3578,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-09-01T14:57:53.000Z",
           "wordCount": null,
           "title": "Excel Formulas & Functions – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
-          "publishedOn": "2026-08-26T15:08:03.000Z",
-          "wordCount": null,
-          "title": "Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps",
           "imageUrl": null
         }
       ]
