@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T11:42:58.282Z</id>
+    <id>urn:2026-10-03T10:56:17.876Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T11:42:58.282Z</updated>
+    <updated>2026-10-03T10:56:17.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kotlin Course For Beginners – Full Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=nqK3oJ682mQ</id>
+        <link href="https://www.youtube.com/watch?v=nqK3oJ682mQ"/>
+        <updated>2026-10-02T13:05:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build your own Mobile App with Codex GPT-6 Astra - Full iOS and Android Course]]></title>
         <id>https://www.youtube.com/watch?v=bGALxRWI10A</id>
@@ -92,15 +101,6 @@
         <link href="https://www.youtube.com/shorts/yWp_p6YYzt8"/>
         <updated>2026-09-04T14:13:27.000Z</updated>
         <summary type="html"><![CDATA[Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the AI Hardware Engine – Full Semiconductor Supply Chain Course]]></title>
-        <id>https://www.youtube.com/watch?v=FGT7LZbZe-g</id>
-        <link href="https://www.youtube.com/watch?v=FGT7LZbZe-g"/>
-        <updated>2026-09-03T13:38:43.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
