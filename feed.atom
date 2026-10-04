@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-03T10:56:17.876Z</id>
+    <id>urn:2026-10-04T11:38:31.597Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-03T10:56:17.876Z</updated>
+    <updated>2026-10-04T11:38:31.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,16 +91,6 @@
         <id>https://www.youtube.com/watch?v=kLZgQWjnUz0</id>
         <link href="https://www.youtube.com/watch?v=kLZgQWjnUz0"/>
         <updated>2026-09-09T13:46:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Web Scraper Gets Blocked (And How to Fix It)]]></title>
-        <id>https://www.youtube.com/shorts/yWp_p6YYzt8</id>
-        <link href="https://www.youtube.com/shorts/yWp_p6YYzt8"/>
-        <updated>2026-09-04T14:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
