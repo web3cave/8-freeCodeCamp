@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-gfgQfw2g_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-gfgQfw2g_E",
+          "publishedOn": "2026-10-06T16:55:56.000Z",
+          "wordCount": null,
+          "title": "Build & Train a GLM-5.3-Flash Model From Scratch with Python",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nqK3oJ682mQ",
           "author": null,
           "description": "",
