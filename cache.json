@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
+          "publishedOn": "2026-10-08T11:00:27.000Z",
+          "wordCount": null,
+          "title": "TanStack Router Course – Loaders, Auth & Type-Safe Routes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-gfgQfw2g_E",
           "author": null,
           "description": "",
