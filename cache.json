@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QKNsHZatiWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QKNsHZatiWU",
+          "publishedOn": "2026-10-16T11:53:48.000Z",
+          "wordCount": null,
+          "title": "Inside an AI Factory – Power, Cooling, and GPUs Explained",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=soTfFFIQQ8U",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2026-09-21T12:12:42.000Z",
           "wordCount": null,
           "title": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
-          "publishedOn": "2026-09-17T13:32:11.000Z",
-          "wordCount": null,
-          "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
           "imageUrl": null
         }
       ]
