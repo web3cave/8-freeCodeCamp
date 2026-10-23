@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gYXLRMycVMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gYXLRMycVMk",
+          "publishedOn": "2026-10-22T12:08:35.000Z",
+          "wordCount": null,
+          "title": "MCP Security Fundamentals Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2026-09-24T14:28:39.000Z",
           "wordCount": null,
           "title": "Inside a Hong Kong Hackathon [Full Documentary]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gYTA8nQN030",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gYTA8nQN030",
-          "publishedOn": "2026-09-23T10:30:04.000Z",
-          "wordCount": null,
-          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
           "imageUrl": null
         }
       ]
