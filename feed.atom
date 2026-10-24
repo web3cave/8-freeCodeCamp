@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-23T10:50:59.773Z</id>
+    <id>urn:2026-10-24T10:05:25.675Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-23T10:50:59.773Z</updated>
+    <updated>2026-10-24T10:05:25.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Argon API Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=JGly6PSK5iw</id>
+        <link href="https://www.youtube.com/watch?v=JGly6PSK5iw"/>
+        <updated>2026-10-23T14:10:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCP Security Fundamentals Course]]></title>
         <id>https://www.youtube.com/watch?v=gYXLRMycVMk</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=zH2Mg782XhA</id>
         <link href="https://www.youtube.com/watch?v=zH2Mg782XhA"/>
         <updated>2026-09-29T13:47:29.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside a Hong Kong Hackathon [Full Documentary]]]></title>
-        <id>https://www.youtube.com/watch?v=FVN0t1vb7k8</id>
-        <link href="https://www.youtube.com/watch?v=FVN0t1vb7k8"/>
-        <updated>2026-09-24T14:28:39.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

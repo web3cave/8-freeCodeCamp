@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "publishedOn": "2026-10-23T14:10:25.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon API Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gYXLRMycVMk",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2026-09-29T13:47:29.000Z",
           "wordCount": null,
           "title": "Python Algorithmic Trading Course – Massive, SnapTrade & Alpaca Integrations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FVN0t1vb7k8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FVN0t1vb7k8",
-          "publishedOn": "2026-09-24T14:28:39.000Z",
-          "wordCount": null,
-          "title": "Inside a Hong Kong Hackathon [Full Documentary]",
           "imageUrl": null
         }
       ]
