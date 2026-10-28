@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T11:24:16.794Z</id>
+    <id>urn:2026-10-28T11:56:56.917Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-27T11:24:16.794Z</updated>
+    <updated>2026-10-28T11:56:56.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jev Course – Prefill-Only Inference & Decision Models from Scratch]]></title>
+        <id>https://www.youtube.com/watch?v=aZglGvBPQGs</id>
+        <link href="https://www.youtube.com/watch?v=aZglGvBPQGs"/>
+        <updated>2026-10-27T13:05:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 4 Argon API Crash Course]]></title>
         <id>https://www.youtube.com/watch?v=JGly6PSK5iw</id>

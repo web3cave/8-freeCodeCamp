@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aZglGvBPQGs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aZglGvBPQGs",
+          "publishedOn": "2026-10-27T13:05:25.000Z",
+          "wordCount": null,
+          "title": "Jev Course – Prefill-Only Inference & Decision Models from Scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JGly6PSK5iw",
           "author": null,
           "description": "",
