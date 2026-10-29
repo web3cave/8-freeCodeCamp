@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "publishedOn": "2026-10-28T16:45:00.000Z",
+          "wordCount": null,
+          "title": "How Ethical Hackers Actually Break Into Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aZglGvBPQGs",
           "author": null,
           "description": "",
@@ -113,16 +123,6 @@
           "publishedOn": "2026-10-01T14:24:44.000Z",
           "wordCount": null,
           "title": "Build your own Mobile App with Codex GPT-6 Astra - Full iOS and Android Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zH2Mg782XhA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zH2Mg782XhA",
-          "publishedOn": "2026-09-29T13:47:29.000Z",
-          "wordCount": null,
-          "title": "Python Algorithmic Trading Course – Massive, SnapTrade & Alpaca Integrations",
           "imageUrl": null
         }
       ]
