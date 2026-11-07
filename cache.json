@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eHHxRJulX74",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eHHxRJulX74",
+          "publishedOn": "2026-11-06T15:22:02.000Z",
+          "wordCount": null,
+          "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
           "author": null,
           "description": "",
@@ -93,16 +103,6 @@
           "publishedOn": "2026-10-09T17:00:19.000Z",
           "wordCount": null,
           "title": "n8n Full Course – Architect Scalable AI Automations from Scratch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
-          "publishedOn": "2026-10-08T11:00:27.000Z",
-          "wordCount": null,
-          "title": "TanStack Router Course – Loaders, Auth & Type-Safe Routes",
           "imageUrl": null
         }
       ]
