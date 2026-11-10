@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+          "publishedOn": "2026-11-10T12:00:39.000Z",
+          "wordCount": null,
+          "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eHHxRJulX74",
           "author": null,
           "description": "",
