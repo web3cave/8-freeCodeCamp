@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "PostgreSQL Hybrid Search Course – Keyword (BM25) + Vector Retrieval",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QKNsHZatiWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QKNsHZatiWU",
-          "publishedOn": "2026-10-16T11:53:48.000Z",
-          "wordCount": null,
-          "title": "Inside an AI Factory – Power, Cooling, and GPUs Explained",
-          "imageUrl": null
         }
       ]
     }

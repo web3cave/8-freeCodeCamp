@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-14T12:49:47.709Z</id>
+    <id>urn:2026-11-15T13:16:34.068Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-14T12:49:47.709Z</updated>
+    <updated>2026-11-15T13:16:34.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=kT7nXO32L-Q</id>
         <link href="https://www.youtube.com/watch?v=kT7nXO32L-Q"/>
         <updated>2026-10-21T10:30:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside an AI Factory – Power, Cooling, and GPUs Explained]]></title>
-        <id>https://www.youtube.com/watch?v=QKNsHZatiWU</id>
-        <link href="https://www.youtube.com/watch?v=QKNsHZatiWU"/>
-        <updated>2026-10-16T11:53:48.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
