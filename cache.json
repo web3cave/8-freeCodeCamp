@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+          "publishedOn": "2026-11-18T12:37:46.000Z",
+          "wordCount": null,
+          "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
           "author": null,
           "description": "",
