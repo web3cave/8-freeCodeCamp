@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "MCP Security Fundamentals Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
-          "publishedOn": "2026-10-21T10:30:36.000Z",
-          "wordCount": null,
-          "title": "PostgreSQL Hybrid Search Course – Keyword (BM25) + Vector Retrieval",
-          "imageUrl": null
         }
       ]
     }
